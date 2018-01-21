@@ -49,7 +49,7 @@
   * [Fixed Wing Aircraft](operating_vehicles/README.md#fixed-wing-aircraft)
 * [Commander](commander/README.md)
   * [Leading the Troops](commander/README.md#leading-the-troops)
-  * [UAV](commander/commander/README.md#uav)
+  * [UAV](commander/README.md#uav)
 
 
 
