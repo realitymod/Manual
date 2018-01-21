@@ -1,0 +1,3 @@
+## _Vehicle Warfare (VW)_ {#vehicle-warfare-vw}
+
+Many heavy vehicles battle for control of the map in this game mode. Players are limited to spawning with crewman kits. Only officer and pilot kits can be requested. Tickets are only influenced by how many CPs a team controls. Vehicles that are already destroyed respawn after 5 minutes. It takes at least 6 players (inside vehicles) to take control of a CP. Capturing works much faster than in AAS.
