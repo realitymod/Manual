@@ -195,7 +195,7 @@ Once mortars are needed you can use the mortar’s calculator \(press **3** to s
 >
 > T_he mortar calculator interface_
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges-csb}
+## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
 
 Conventional forces can deploy these bridges using their logistics trucks. They can be used to create new crossings or to span the gaps in damaged bridges. The deployment process for CSBs is very simple:
 
@@ -230,8 +230,6 @@ It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and t
 4. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
 
 ![](/assets/grid.png)
-
-
 
 ## _Basic Vehicle Information_ {#basic-vehicle-information}
 
@@ -290,8 +288,6 @@ There are many vehicle types in PR:BF2 used as classification. This isn’t alwa
 All friendly vehicles are marked on the map with unique icons for easy identification.
 
 ![](/assets/vehicleicons.png)
-
-
 
 * If a team vehicle asset is destroyed it incurs a ticket penalty:
   * Jeep or truck: **2 tickets**
