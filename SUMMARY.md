@@ -43,13 +43,13 @@
   * [Construction Work](the_squad_leader/README.md#construction-work)
   * [Deployable Structures](the_squad_leader/README.md#deployable-structures)
 * [Operating Vehicles](operating_vehicles/README.md)
-  * [General Vehicle Information](operating_vehicles/general_vehicle_information.md)
-  * [Armored Vehicles](operating_vehicles/armored_vehicles.md)
-  * [Helicopters](operating_vehicles/helicopters.md)
-  * [Fixed Wing Aircraft](operating_vehicles/fixed_wing_aircraft.md)
+  * [General Vehicle Information](operating_vehicles/README.md#general-vehicle-information)
+  * [Armored Vehicles](operating_vehicles/README.md#armored-vehicles)
+  * [Helicopters](operating_vehicles/README.md#helicopters)
+  * [Fixed Wing Aircraft](operating_vehicles/README.md#fixed-wing-aircraft)
 * [Commander](commander/README.md)
-  * [Leading the Troops](commander/leading_the_troops.md)
-  * [UAV](commander/uav.md)
+  * [Leading the Troops](commander/README.md#leading-the-troops)
+  * [UAV](commander/commander/README.md#uav)
 
 
 
