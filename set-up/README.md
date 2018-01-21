@@ -1,6 +1,6 @@
 # Set-Up
 
-## _System Requirements_
+## _System Requirements_ {#systemreq}
 
 * **Operating System:** Windows XP, 7 or 8
 * **Processor:** 2.4 Ghz Dual-Core minimum. 3.2 Ghz Recommended
@@ -109,8 +109,6 @@ Here are a couple of forum links from realitymod.com to use for various common r
 * [PR:BF2 Support](http://www.realitymod.com/forum/f27-pr-bf2-support) forums for all your problems regarding running and installing the game and errors you are getting.
 * [General Technical Support](http://www.realitymod.com/forum/f360-general-technical-support) for all your technical questions.
 * [PR In-Game Tactics and Strategies](http://www.realitymod.com/forum/f137-pr-game-tactics-strategies) will help you further then this manual to master all elements of PR:BF2 with community written guides and tutorials.
-
-
 
 ## _Default Game Controls_ {#default-game-controls}
 

@@ -2,6 +2,13 @@
 
 * [Introduction](README.md)
 * [Set-Up](set-up/README.md)
+  * [System Requirements](set-up/README.md#system-req)
+  * [Game Installation](set-up/README.md#game-installation)
+  * [The PR Launcher](set-up/README.md#the-pr-launcher)
+  * [In-Game Menu Navigation](set-up/README.md#in-game-menu-navigation)
+  * [PR Mumble](set-up/README.md#pr-mumble)
+  * [Troubleshooting](set-up/README.md#troubleshooting)
+  * [Default Game Controls](set-up/README.md#default-game-controls)
 * [Game Modes](game_modes/README.md)
   * [Advance and Secure \(AAS\)](game_modes/advance_and_secure_aas.md)
   * [Vehicle Warfare \(VW\)](game_modes/vehicle_warfare_vw.md)
@@ -43,4 +50,6 @@
 * [Commander](commander/README.md)
   * [Leading the Troops](commander/leading_the_troops.md)
   * [UAV](commander/uav.md)
+
+
 
