@@ -34,11 +34,11 @@ Many heavy vehicles battle for control of the map in this game mode. Players are
 
 This game mode operates on smaller scale map versions of the Advance and Secure game mode, intended for around 12-16 players. It is perfect for clan matches and small infantry engagements. Skirmish has the same rules as AAS but with smaller combat zones, usually no vehicles or deployable assets as well as fewer tickets. If a team loses a CP to the enemy they will be penalized by 10 tickets.
 
-## _Command & Control \(CNC\)_ {#command-control}
+## _Command & Control \(CNC\)_ {#command-and-control}
 
 This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [_\(see deployables Section\)_](../the_squad_leader/deployable_structures.md) somewhere on the map. The objective is to defend the team's FOB while trying to find and destroy the enemy FOB. When a team loses their FOB they will suffer a huge ticket penalty and continue to lose tickets until they build a new one. The FOB must be placed at least 200m from the map's borders. Building your team’s FOB closer to the map's center increases the ticket loss that the enemy will suffer while their FOB is down. Both teams can build more defenses in a bigger radius near their FOB than in other game modes.
 
-## _Co-Operative \(COOP\)_ {#co-operative-coop}
+## _Co-Operative \(COOP\)_ {#co-operative}
 
 In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
 
