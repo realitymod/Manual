@@ -1,3 +1,0 @@
-## _Skirmish_ {#skirmish}
-
-This game mode operates on smaller scale map versions of the Advance and Secure game mode, intended for around 12-16 players. It is perfect for clan matches and small infantry engagements. Skirmish has the same rules as AAS but with smaller combat zones, usually no vehicles or deployable assets as well as fewer tickets. If a team loses a CP to the enemy they will be penalized by 10 tickets.

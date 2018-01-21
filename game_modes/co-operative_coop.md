@@ -1,3 +1,0 @@
-## _Co-Operative (COOP)_ {#co-operative-coop}
-
-In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
