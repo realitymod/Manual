@@ -13,7 +13,7 @@
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
 
-## _Game Installation                                                                         _![](/assets/import.png) {#game-installation}
+## _Game Installation                                                                         _ {#game-installation}
 
 With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 v1.3 and beyond works as a standalone game. If you have a version of PR:BF2 installed you will need to uninstall this before you install PR:BF2 v1.5. **There is no patch available from and older version to v1.3**!
 
@@ -43,7 +43,7 @@ After installation a shortcut for Project Reality:BF2 v1.5 will be provided on t
 
 If you are new to BF2:PR and have never made a profile before, just click ‘Create New Account’ and fill in the required details and pick a sensible, easy to pronounce username. To play on PR multiplayer servers you need to create an online profile. You can alternatively create an offline profile if you choose to.
 
-![](/assets/launcher_1.png)                                    ![](/assets/launcher_2.png)
+![](/assets/launcher_1.png)                                    
 
 After creating a profile and logging in, you are presented with the main menu of the PR launcher. All options are displayed on the right.
 
@@ -64,7 +64,7 @@ After creating a profile and logging in, you are presented with the main menu of
 * **Options:** Here you can configure the audio options as well as the keyboard layout. Video options have to be changed in the PR Launcher.
 * **Exit:** Use this button to exit the game and return to Windows.
 
-## _PR Mumble                                                                               _![](/assets/mumble.png) {#pr-mumble}
+## _PR Mumble                                                                               _ {#pr-mumble}
 
 In game, Mumble is the program which we use to communicate to each other in PR:BF2, which replaces BF2 vanilla’s Voice-Over-IP \(VOIP\) system. The main unique feature of PR Mumble is that its primary method of communication is transmitted within 3D space, which is directional and proximity based. This is called Local. What this means is that all players on your team can talk to each other if they are nearby, and you can hear in what direction they are speaking from, similarly you can judge how far away they are, just like in real life.
 
@@ -84,11 +84,11 @@ It’s recommended that you also check the main settings panel directly within t
 
 PR Mumble also integrates with BF2’s HUD display. During the game you will see the names of players talking, each colour depicting over which channel they are transmitting, which is displayed in the lower left hand corner of your screen. In the lower right hand corner mumble also indicates over what channel you are transmitting with a different colour depending on the channel you are using. It also shows whether your microphone or speakers are muted, and if there’s linking issues with the mumble client.
 
-![](/assets/mumble_1.png)                                         ![](/assets/mumble_2.png)
+![](/assets/mumble_1.png)                                   
 
-```
-                                                                                                      Transmitting Mic \| Muted Speakers \| Muted \| Disconnected
-```
+![](/assets/mumble_2.png)
+
+Transmitting Mic / Muted Speakers / Muted / Disconnected
 
 ## _Troubleshooting_ {#troubleshooting}
 
