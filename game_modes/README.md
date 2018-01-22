@@ -38,7 +38,7 @@ This game mode operates on smaller scale map versions of the Advance and Secure 
 
 ## _Command & Control \(CNC\)_ {#command-and-control}
 
-This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [(see Deployable Structures)](the_squad_leader/README.md#deployable-structures)
+This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [(see Deployable Structures)](../the_squad_leader/README.md#deployable-structures)
  somewhere on the map. The objective is to defend the team's FOB while trying to find and destroy the enemy FOB. When a team loses their FOB they will suffer a huge ticket penalty and continue to lose tickets until they build a new one. The FOB must be placed at least 200m from the map's borders. Building your team’s FOB closer to the map's center increases the ticket loss that the enemy will suffer while their FOB is down. Both teams can build more defenses in a bigger radius near their FOB than in other game modes.
 
 ## _Co-Operative \(COOP\)_ {#co-operative}
