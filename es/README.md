@@ -1,10 +1,18 @@
 # ![](/assets/PR_v1_Logo.png)
 
-# **Project Reality: BF2 Manual - Spanish Translation**
+# **Project Reality: BF2 Manual - Spanish Translation - Updated for v1.5**
 
 > Project Reality: BF2 ha estado en desarrollo por más de 10 años con la participación de muchas personas. Extensas modificaciones y mejoras se hicieron durante ese tiempo. Después de miles de cambios es muy difícil reconocer que PR sea un mod de Battlefield 2. Esperamos que este manual te proporcione un buen comienzo en el mundo tan cambiante de PR: BF2. Si tienes algún comentario o alguna pregunta en relación a este manual no dudes en contactarte con nosotros en los foros. Este manual ha sido actualizado a la versión 1.5
 >
 > _El equipo de PR_
+
+# ![](/assets/flag.png)
+http://www.realitymod.com/manual/pr_manual_es.pdf
+v1.3 Community Translation by Pirutoko,|DFM|Straiker, |DFM|Kevo, [CR-C]Gustax, [CR-C]BlackGus & [MBS]Pedroo14.
+
+Do you want to help convert this PDF manual to the new online format and update it for the latest version? 
+
+Go to http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/75501-official-pr-manual-call-translators.html.
 
 **Introduction**
 
