@@ -28,7 +28,13 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 
 ## _The GTL Designator \(GTLD\)_ {#gtld}
 
-The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\)** which can be used to observe and to acquire and designate enemy units for attack strikes by allied air units. When using the GTLD, right click to increase your zoom level, then left click to paint a laser target marker. The marker will lock to the target area for 24 seconds, and it has the ability to lock moving targets such as vehicles. You will only be able to lock moving targets once they are stationary. If you lase a target area, the previous lase will disappear. While observing with the GTLD goggles you can access the main radio menu to set map markers, request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request. You need to specify the distance to the target using the same method as described for spotting enemies. Unconventional factions can use the green binoculars to spot enemies and request mortar attacks.
+The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\). ** This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles. 
+
+With the GTLD equipped, you can right-click to increase the zoom level and left-click to toggle the on/off state. While on, the GTLD will emite a laze, represented with a small green square and the distance to it, that you must keep on your target untill the bomb/missile hits it, unlike previous versions where the laze would "stick" to the target even without line of sight.
+
+> Due to engine limitations, there may be situations where the laze representation won't appear on top of the target. This won't have any effect in-game, you can reliable keep the center of the sight on target untill the
+
+Additionally, while observing with the GTLD you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map. \(You need to specify the distance to the target using the same method as described for spotting enemies.\)
 
 ## _Rally Points_ {#rally-points}
 
@@ -190,8 +196,4 @@ Here is a list of the deployable structures and the requirements for building th
 * Both mortar positions must be placed within 50m of each other.
 
 ![](/assets/mortarss.png)
-
-
-
-
 
