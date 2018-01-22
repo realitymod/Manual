@@ -1,4 +1,4 @@
-# ![](/assets/PR_v1_Logo.png)
+# ![](../assets/PR_v1_Logo.png)
 
 # **Project Reality: BF2 Manual - Spanish Translation**
 

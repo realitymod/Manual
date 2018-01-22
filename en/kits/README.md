@@ -14,47 +14,47 @@ There are many different kits in PR:BF2. You can pick up any friendly kit that y
 
 **Spawn-able Unlimited kits:**
 
-* ![](/assets/rifleman.png)The **Rifleman / Militant Warrior / Insurgent** is the standard infantry soldier of each faction. He is typically equipped with an assault rifle, grenades and smoke, depending on the faction an ammo bag.
-* ![](/assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../kits/README.md#the-civilian)
+* ![](../assets/rifleman.png)The **Rifleman / Militant Warrior / Insurgent** is the standard infantry soldier of each faction. He is typically equipped with an assault rifle, grenades and smoke, depending on the faction an ammo bag.
+* ![](../assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../kits/README.md#the-civilian)
 
-* ![](/assets/sapper.png)**The insurgent Sapper** sets grenade traps and places IEDs. He is vital when preparing an ambush.
+* ![](../assets/sapper.png)**The insurgent Sapper** sets grenade traps and places IEDs. He is vital when preparing an ambush.
 
 **Spawn-able Special kits:**
 
-* ![](/assets/officer.png)**The Officer / Cell Leader** kit can only be obtained by the squad leader. He is responsible for commanding his squad, communicating with the remaining team and deploying forward outposts. Detailed use of this kit is covered in the Squad Leader section.
-* ![](/assets/medic.png)**The Combat Medic/Corpsman** is responsible for keeping his squad alive, which is one of the most important roles on the battlefield.
+* ![](../assets/officer.png)**The Officer / Cell Leader** kit can only be obtained by the squad leader. He is responsible for commanding his squad, communicating with the remaining team and deploying forward outposts. Detailed use of this kit is covered in the Squad Leader section.
+* ![](../assets/medic.png)**The Combat Medic/Corpsman** is responsible for keeping his squad alive, which is one of the most important roles on the battlefield.
 
 **Spawn-able Infantry:**
 
-* ![](/assets/breacher.png)**The Rifleman Breacher / Scout** is usually the forward point man for the squad. The kit is equipped with a grappling hook to enable his squad to traverse high obstacles, a shotgun with buckshot which can be used to breach locked doors and arrest combatants. The kit is also equipped with small C4 charges to destroy various objectives within a game.
-* ![](/assets/ar.png)**The Automatic Rifleman \(AR\)** soldier provides suppressive fire for the squad and is ideal for compromising the enemy's ability to move and return fire effectively.
-* ![](/assets/at.png)**The Rifleman Anti-Tank \(AT\)** is a highly portable armor deterrent that has the capability of neutralizing enemy unarmored and lightly armored vehicle.
-* ![](/assets/grenadier.png)**The Grenadier** uses an underbarrel grenade launcher to engage groups of hostiles or unarmored vehicles at range or inside buildings in hard to reach areas.
+* ![](../assets/breacher.png)**The Rifleman Breacher / Scout** is usually the forward point man for the squad. The kit is equipped with a grappling hook to enable his squad to traverse high obstacles, a shotgun with buckshot which can be used to breach locked doors and arrest combatants. The kit is also equipped with small C4 charges to destroy various objectives within a game.
+* ![](../assets/ar.png)**The Automatic Rifleman \(AR\)** soldier provides suppressive fire for the squad and is ideal for compromising the enemy's ability to move and return fire effectively.
+* ![](../assets/at.png)**The Rifleman Anti-Tank \(AT\)** is a highly portable armor deterrent that has the capability of neutralizing enemy unarmored and lightly armored vehicle.
+* ![](../assets/grenadier.png)**The Grenadier** uses an underbarrel grenade launcher to engage groups of hostiles or unarmored vehicles at range or inside buildings in hard to reach areas.
 
 **Request-able Unlimited:**
 
-* ![](/assets/crewman.png)**The Crewman** is the only kit that has the ability to operate armored vehicles. Equipped with a compact weapon for self-defense.
-* ![](/assets/pilot.png)**The Pilot** is the only class that can operate helicopters and fixed wing aircraft. This kit is equipped with a sidearm for defense and a parachute for emergencies.
-* ![](/assets/unarmed.png)**The Unarmed kit** can be used as an intermediary when swapping kits with another squad member. If an Insurgent or Hamas player uses the unarmed kit he will be treated as a civilian after he has dropped the kit and waited a few minutes. [(see The Civilian)](../kits/README.md#the-civilian)
+* ![](../assets/crewman.png)**The Crewman** is the only kit that has the ability to operate armored vehicles. Equipped with a compact weapon for self-defense.
+* ![](../assets/pilot.png)**The Pilot** is the only class that can operate helicopters and fixed wing aircraft. This kit is equipped with a sidearm for defense and a parachute for emergencies.
+* ![](../assets/unarmed.png)**The Unarmed kit** can be used as an intermediary when swapping kits with another squad member. If an Insurgent or Hamas player uses the unarmed kit he will be treated as a civilian after he has dropped the kit and waited a few minutes. [(see The Civilian)](../kits/README.md#the-civilian)
 
 
 
 **Request-able Special kits:**
 
-* ![](/assets/hay.png)**The Anti-Tank \(HAT\)** soldier is a highly effective threat against all forms of armor and can destroy vehicles with extreme prejudice at long ranges.
-* ![](/assets/sniper.png)**The Sniper** provides intelligence whilst on reconnaissance to keep the team well informed of enemy movements and is also able to engage high-value targets from long distances.
+* ![](../assets/hay.png)**The Anti-Tank \(HAT\)** soldier is a highly effective threat against all forms of armor and can destroy vehicles with extreme prejudice at long ranges.
+* ![](../assets/sniper.png)**The Sniper** provides intelligence whilst on reconnaissance to keep the team well informed of enemy movements and is also able to engage high-value targets from long distances.
 
-* ![](/assets/spotter.png)**The Spotter** is dedicated observational role and a key assistant of a sniper. He can place and acquire laser designations and provide the team with intelligence from the battlefield. He also carries a grappling hook to position himself in unreachable areas with the high visual advantage.
+* ![](../assets/spotter.png)**The Spotter** is dedicated observational role and a key assistant of a sniper. He can place and acquire laser designations and provide the team with intelligence from the battlefield. He also carries a grappling hook to position himself in unreachable areas with the high visual advantage.
 
-* ![](/assets/aa.png)**The Anti-Aircraft \(AA\) soldier** is able to engage and deter enemy aircraft.
+* ![](../assets/aa.png)**The Anti-Aircraft \(AA\) soldier** is able to engage and deter enemy aircraft.
 
-* ![](/assets/combat engineer.png)**The Combat Engineer** is able to lay minefields, demolish enemy assets and disable explosive devices and repair light vehicles.
+* ![](../assets/combat engineer.png)**The Combat Engineer** is able to lay minefields, demolish enemy assets and disable explosive devices and repair light vehicles.
 
 **Request-able Infantry:**
 
-* ![](/assets/ap.png)**The Rifleman Anti-Personnel \(AP\)** is equipped with a remote detonated antipersonnel mine that can be used to set ambushes or used defensively.
-* ![](/assets/marskman.png)**The Designated Marksman \(DMR\)** provides paced precision fire for his squad and can engage targets beyond the rifleman's effective range.
-* ![](/assets/mlg.png)**The Machine Gunner \(MMG\)** provides heavy suppressive fire whilst deployed. He can pin down an entire squad and is lethal at range.
+* ![](../assets/ap.png)**The Rifleman Anti-Personnel \(AP\)** is equipped with a remote detonated antipersonnel mine that can be used to set ambushes or used defensively.
+* ![](../assets/marskman.png)**The Designated Marksman \(DMR\)** provides paced precision fire for his squad and can engage targets beyond the rifleman's effective range.
+* ![](../assets/mlg.png)**The Machine Gunner \(MMG\)** provides heavy suppressive fire whilst deployed. He can pin down an entire squad and is lethal at range.
 
 **Pick-up \(insurgents\):**
 
@@ -66,7 +66,7 @@ When playing on the Iraqi insurgent or Hamas faction, players can choose to play
 
 The opposing force can **arrest civilians** as well as other insurgents with the restrainer or the Shotgun with a buckshot round. Civilians that decide to commit suicide are counted as an arrested and subsequently reward the coalition team with **Intelligence Points**, after which it can take about 60-75 seconds to respawn.
 
-> ![](/assets/civiii.png)
+> ![](../assets/civiii.png)
 >
 > A civilian
 

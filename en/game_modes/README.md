@@ -21,10 +21,10 @@ If the attacking team doesn't have a 2 to 1 ratio to the defending team on the f
 
 The map-markers for AAS are:
 
-* ![](/assets/defend.png) Defend Marker 
-* ![](/assets/defend bleed.png) Defend Marker \(with ticket bleed\) 
-* ![](/assets/attack_bleed.png) Attack Marker
-* ![](/assets/attack.png)Attack Marker \(with ticket bleed\)
+* ![](../assets/defend.png) Defend Marker 
+* ![](../assets/defend bleed.png) Defend Marker \(with ticket bleed\) 
+* ![](../assets/attack_bleed.png) Attack Marker
+* ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
 
 Vehicle Warfare, Skirmish & COOP use similar map markers for attack and defend.
 
@@ -49,7 +49,7 @@ In this mode it is possible for one or more human players to march into battle a
 
 This mode is very unique in comparison to others within PR. The objective of the coalition force is to find and destroy five insurgent weapons caches hidden throughout the map before running out of tickets. The coalition forces lose tickets for every player death or asset destroyed, while the insurgency team only loses tickets when a weapons cache is destroyed.
 
-> ![](/assets/weaponcache.png)
+> ![](../assets/weaponcache.png)
 >
 > A weapon cache
 
@@ -68,11 +68,11 @@ Jets, tanks and helicopters can't gain IP through these methods. The approximate
 
 The map markers for insurgency are:
 
-* ![](/assets/cache.png)  **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
+* ![](../assets/cache.png)  **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
 
-* ![](/assets/unknown weapon cache.png)  **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces.
+* ![](../assets/unknown weapon cache.png)  **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces.
 
-* ![](/assets/unknown cache.png)  **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence. The cache will not be physically spawned yet until it is revealed to the coalition forces.
+* ![](../assets/unknown cache.png)  **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence. The cache will not be physically spawned yet until it is revealed to the coalition forces.
 
 The caches can be destroyed by small or large packs of C4. Other weaponry will only do no or light damage to a cache.
 
