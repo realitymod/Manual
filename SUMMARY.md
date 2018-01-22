@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Set-Up](set-up/README.md)
-  * [System Requirements](set-up/README.md#system-req)
+  * [System Requirements](set-up/README.md#systemreq)
   * [Game Installation](set-up/README.md#game-installation)
   * [The PR Launcher](set-up/README.md#the-pr-launcher)
   * [In-Game Menu Navigation](set-up/README.md#in-game-menu-navigation)
@@ -18,7 +18,7 @@
   * [Insurgency](game_modes/README.md#insurgency)
 * [The Basics](the_basics/README.md)
   * [Kit selection & spawning](the_basics/README.md#kit-selection-and-spawning)
-  * [In-game interface changes](the_basics/README.md#hud)
+  * [In-game interface](the_basics/README.md#hud)
   * [Health Management](the_basics/README.md#health-management)
   * [Ammunition](the_basics/README.md#ammunition)
   * [Logistics](the_basics/README.md#logistics)

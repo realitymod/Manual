@@ -2,13 +2,13 @@
 
 ## _System Requirements_ {#systemreq}
 
-* **Operating System:** Windows XP, 7 or 8
+* **Operating System:** Windows XP, 7, 8 or 10
 * **Processor:** 2.4 Ghz Dual-Core minimum. 3.2 Ghz Recommended
 * **Memory:** 3 GB RAM. 4 GB recommended
-* **Hard Disk:** 8 GB free Hard Drive Space
+* **Hard Disk:** 10 GB free Hard Drive Space
 * **Graphics Adapter:** Graphics Card with 128 MB RAM. 512 MB recommended.
 * **Sound:** DirectX 9 compatible sound device. Dedicated sound card with EAX support recommended for best experience.
-* **Internet:** 128 kbps or faster connection required for online play
+* **Internet:** 256 kbps or faster connection required for online play
 * **Software:** .NET Framework 4
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
@@ -24,10 +24,7 @@ You have to download the full PR:BF2 installer from our website. There won’t b
 The installer download uses the [Torrent Protocol](http://en.wikipedia.org/wiki/Torrent_file) which can be used with free software such as [qBittorrent](http://www.qbittorrent.org/). The download comes in the form of an “[ISO](http://en.wikipedia.org/wiki/ISO_image)”-file. To install it depends on your operation system:
 
 * Windows 8 and beyond feature mounting as part of the Operating System. Right click the ISO and select **Mount** or double click the ISO. This will start the installer.
-* If you are on windows 7 or below you have a few options:
-  1. Burn it to a DVD.
-  2. Mount the ISO file using free software such as [Virtual CloneDrive](http://www.slysoft.com/en/virtual-clonedrive.html).
-  3. Extract the ISO file using free software such as [7-Zip](http://www.7-zip.org/) or [WinRar](http://www.rarlab.com/).
+* If you are on windows 7 or below your best option is to Extract the ISO file using free software such as [7-Zip](http://www.7-zip.org/) or [WinRar](http://www.rarlab.com/).
 
 A few more points:
 

@@ -11,26 +11,28 @@ Most importantly you should **join a squad**. Some servers even enforce it up by
 
 In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. _\(To learn more about rally points see_ [_the Rally Point section_](../the_squad_leader/rally_points.md)_\)_
+* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. _\(To learn more about rally points see_ [_the Rally Point section_](the_squad_leader/README.md#rally-points)_\)_
 
 > ![](/assets/rally.png)
 >
-> a Rallypoint
+> A rallypoint.
 
 * **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
 * **The commander rally point**. This RP can only be placed by the commander, provided multiple squad’s leaders are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. If 2 enemies get close to them \(within 50m\), spawning is disabled for 90 seconds. On the map it will show as a spawn point with a green triangle. [_\(see deployables Section\)_](../the_squad_leader/deployable_structures.md)_._
-* In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close.
+* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [_\(see deployables Section for more information.\)_](the_squad_leader/README.md#deployable-stuctures)_._
+* In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
 
 > ![](/assets/fob.png)![](/assets/hideout.png)![](/assets/cache-weapon.png)
 >
-> FOB, Hideout & weapon cache
+> FOB, Hideout & weapon cache.
 
 * **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
 
 > ![](/assets/acv.png)
 >
 > Armored Command Vehicle \(ACV\) found in mainbases only.
+
+* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and don't forget to **press 9 to deploy the parachute**!
 
 ## _In-game interface \(HUD\)_ {#hud}
 
@@ -66,16 +68,17 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 > ![](/assets/assets.png)
 >
-> Current map asset info overlay
+> Current map asset info overlay.
 
 * **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
 * **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
 
 > ![](/assets/suppresion.png)
 >
-> normal view of the game \(left\) and suppresion effect in action \(right\)
+> normal view of the game \(left\) and suppresion effect in action \(right\).
 
 * When a player is **dead,** he will not be not revivable and black screen with the words dead will be displayed instead of seeing their surroundings.
+* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. To have an indication of this inaccuracy there is a **deviation indicator **right above the compass. The wider this indicator is, the more deviation you have. 
 * **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted.
 * Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
 
@@ -87,7 +90,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 > ![](/assets/commorose.png)
 >
-> Commo-rose when pressing Q
+> Commo-rose when pressing Q.
 
 ##  {#health-management}
 
@@ -107,7 +110,7 @@ If you are unable to be healed in time, you will become unconscious and the scre
 
 > ![](/assets/fielddressing.png)![](/assets/kit.png)![](/assets/epipen.png)
 >
-> Field dressing, first aid kit & epipen
+> Field dressing, first aid kit & epipen.
 
 **Death**
 
@@ -147,7 +150,7 @@ If you run low on ammunition, you can resupply from the following locations:
 
 > ![](/assets/ammobag.png)![](/assets/supplycrate.png)![](/assets/inscrate.png)![](/assets/cacahe.png)![](/assets/depott.png)
 >
-> Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot
+> Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
 ## _Logistics_ {#logistics}
 
@@ -169,7 +172,7 @@ Logistic trucks also have the ability to drop a repair station. They are necessa
 
 > ![](/assets/reapir.png)
 >
-> Repair drop
+> Repair drop.
 
 ## _Score_ {#score}
 
@@ -193,7 +196,7 @@ Once mortars are needed you can use the mortar’s calculator \(press **3** to s
 
 > ![](/assets/mortars.png)
 >
-> T_he mortar calculator interface_
+> T_he mortar calculator interface._
 
 ## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
 
@@ -210,7 +213,7 @@ Deploying a CSB uses all supplies on the truck. The truck needs to be fully load
 
 > ![](/assets/csb.png)
 >
-> CSB from truck being deployed
+> CSB from truck being deployed.
 
 ## _Battlefield Navigation_ {#battlefield-navigation}
 

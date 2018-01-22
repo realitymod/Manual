@@ -44,7 +44,7 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 > _Kits: Machine Gunner_
 
-![C:\Users\Wouter\Desktop\10.png](../assets/cuserswouterdesktop10.png)**Fragmentation grenades** have a large blast radius but they are not accurate when thrown whilst moving or jumping and their range is relatively short. It takes about 5 seconds until they detonate. The RKG-3 grenade explodes on impact and is designed to be used against vehicles. The stone only causes minor injuries when striking a player but several hits can still be lethal. To warn your allies before throwing a grenade you can use the main radio key \(default: Q\) while holding the grenade to shout out a warning, or alternatively use mumble.
+![C:\Users\Wouter\Desktop\10.png](../assets/cuserswouterdesktop10.png)**Fragmentation grenades** have a large blast radius but they are not accurate when thrown whilst moving or jumping and their range is relatively short. It takes about 5 seconds until they detonate. Some grenades like the RGO and RKG grenades explode on impact. The RKG is also an example of a grenade meant for usage against vehicles. The stone only causes minor injuries when striking a player but several hits can still be lethal. To warn your allies before throwing a grenade you can use the main radio key \(default: Q\) while holding the grenade to shout out a warning, or alternatively use mumble. 
 
 > _Kits: Grenades: most Infantry kits, especially Officers and Riflemen_ \| _stone: civilian and several insurgents_
 
@@ -60,7 +60,7 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 > _Kits: Conventional forces Anti Tank_
 
-![C:\Users\Wouter\Desktop\14.png](../assets/cuserswouterdesktop14.png)**Surface-to-air missiles \(SAM\)** are used to take down enemy aircraft. To achieve this you need to visually acquire the target by tracking it through the air. Once tracking is established you will hear a low tone, after a few seconds when lock is achieved you will hear a secondary high tone, at this point you can fire. Countermeasures such as flares will prevent you from effectively destroying your target, so your angle of attack in relation to the vehicle’s travelling direction is paramount to achieve a hit. Enemy pilots will receive a warning sound a few seconds after they have been locked-on by a SAM giving them time to maneuver away from the threat.
+![C:\Users\Wouter\Desktop\14.png](../assets/cuserswouterdesktop14.png)**Surface-to-air missiles \(SAM\)** are used to take down enemy aircraft. To achieve this you need to visually acquire the target by tracking it through the air. Once tracking is established you will hear a low tone, after a few seconds when lock is achieved you will hear a secondary high tone, at this point you can fire. Countermeasures such as flares will prevent you from effectively destroying your target, so your angle of attack in relation to the vehicle’s travelling direction is paramount to achieve a hit. Enemy pilots will receive a warning sound a few seconds after they have been locked-on by a SAM giving them time to maneuver away from the threat. Some older factions like the Falklands factions with the Blowpipe will not have locking AA weapons and will need to be manually guided.
 
 > _Kits: Anti Aircraft_
 
@@ -115,6 +115,4 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 **Back up iron sights \(BUIS\)** are designed to provide the operator with an alternative method to acquisition a target depending on situation. Provided the weapon has BUIS equipped, a player will able to switch between backup sights and optics using **the pre-existing Cycle Camera key \(C**\). The player can toggle between the sight modes which is indicated by the BUIS letter in the lower right hand corner. S for scope, B for BUIS. The BUIS mode can be toggled at any time whether you are aiming down the sight or not, but you must re-aim to change between the modes.
 
 ![](/assets/buis.png)
-
-
 
