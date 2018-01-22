@@ -1,4 +1,4 @@
 # Languages
 
 * [English](en/)
-* [Dutch](nl/)
+* [Spanish](es/)
