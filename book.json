@@ -9,6 +9,6 @@
 	},
 	
 	"styles": {
-    "website": "./styles/website.scss"
+    "website": "./styles/website.css"
 	}
 }
