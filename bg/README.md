@@ -10,8 +10,10 @@ Project Reality: BF2 се разработва от безброй разраб�
 
 # ![](/assets/flag.png)
 http://www.realitymod.com/manual/pr_manual_bg.pdf
-v1.3 Community Translation by Y =BG=BladeNakamura
+v1.3 Community Translation by Y =BG=BladeNakamura.
+
 Do you want to help convert this PDF manual to the new online format and update it for the latest version? 
+
 Go to http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/75501-official-pr-manual-call-translators.html.
 
 **Въведение**

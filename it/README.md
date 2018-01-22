@@ -10,10 +10,10 @@ Modifiche estese e migliorie sono state fatte in questo periodo. Dopo migliaia d
 
 # ![](/assets/flag.png)
 http://www.realitymod.com/manual/pr_manual_it.pdf
-v1.3 Community Translation by =ITW= CLAN: PHEELZ, Butcher, Bro 
-and the PR.IT[EI] cLAN:  Aragon89, gorenor, spad85, st3rm4n, marvsavage1
+v1.3 Community Translation by =ITW= CLAN: PHEELZ, Butcher, Bro and the PR.IT[EI] cLAN:  Aragon89, gorenor, spad85, st3rm4n, marvsavage1.
 
 Do you want to help convert this PDF manual to the new online format and update it for the latest version? 
+
 Go to http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/75501-official-pr-manual-call-translators.html.
 
 **Introduction**

@@ -9,7 +9,9 @@
 # ![](/assets/flag.png)
 http://www.realitymod.com/manual/pr_manual_es.pdf
 v1.3 Community Translation by Pirutoko,|DFM|Straiker, |DFM|Kevo, [CR-C]Gustax, [CR-C]BlackGus & [MBS]Pedroo14.
+
 Do you want to help convert this PDF manual to the new online format and update it for the latest version? 
+
 Go to http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/75501-official-pr-manual-call-translators.html.
 
 **Introduction**
