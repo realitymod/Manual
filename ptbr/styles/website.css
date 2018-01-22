@@ -31,3 +31,7 @@ h1, h2, h3, h4 {
 .markdown-section table tr, .markdown-section table tr:nth-child(2n) {
     background-color: #313D4F;
 }
+
+markdown-section blockquote{
+	border-color: #858585;
+  } 
