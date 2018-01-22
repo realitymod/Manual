@@ -1,5 +1,5 @@
 {
-	"plugins": [ "theme-gestalt", "-theme-default", "styles-sass-fix" ]
+	"plugins": [ "theme-gestalt", "-theme-default", "styles-sass-fix" ],
     "links": {
         "sidebar": {
             "Visit us": "https://www.realitymod.com"
@@ -7,13 +7,13 @@
     },
     "pluginsConfig": {
 		"theme-gestalt": {
-			"logo": "/assets/lPR_v1_Logo.png",			// path to the logo file to use in the sidebar
-			"favicon": "/assets/favicon.png",			// path to your favicon
-			"baseUrl": null,							// sets the base url in the HTML head
-			"excludeDefaultStyles": true,				// excludes the pre-compiled theme css in favor of your custom css
-			"doNotHideChildrenChapters" : false			// in summary, disables hiding of child chapters for inactive chapter
+			"logo": "/assets/PR_v1_Logo.png",
+			"favicon": "/assets/favicon.png",
+			"baseUrl": null,
+			"excludeDefaultStyles": true,
+			"doNotHideChildrenChapters" : false
 		}
-	}
+	},
 	
 	"styles": {
     "website": "./styles/website.scss"
