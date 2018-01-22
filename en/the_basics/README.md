@@ -14,7 +14,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 * **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [(see Deployable Structures)](../the_squad_leader/README.md#rally-points)
 
 
-> ![](../assets/rally.png)
+> ![](/assets/rally.png)
 >
 > A rallypoint.
 
@@ -24,13 +24,13 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 * In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
 
-> ![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
+> ![](/assets/fob.png)![](/assets/hideout.png)![](/assets/cache-weapon.png)
 >
 > FOB, Hideout & weapon cache.
 
 * **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
 
-> ![](../assets/acv.png)
+> ![](/assets/acv.png)
 >
 > Armored Command Vehicle \(ACV\) found in mainbases only.
 
@@ -56,7 +56,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 * **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
 
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
+* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](/assets/ammo.png)
 
 * **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
 
@@ -68,14 +68,14 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 * Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the spawn times of friendly vehicles.
 
-> ![](../assets/assets.png)
+> ![](/assets/assets.png)
 >
 > Current map asset info overlay.
 
 * **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
 * **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
 
-> ![](../assets/suppresion.png)
+> ![](/assets/suppresion.png)
 >
 > normal view of the game \(left\) and suppresion effect in action \(right\).
 
@@ -90,7 +90,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 * Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
 
-> ![](../assets/commorose.png)
+> ![](/assets/commorose.png)
 >
 > Commo-rose when pressing Q.
 
@@ -110,7 +110,7 @@ Since most kits only have one or two field dressings, a better way to regain hea
 
 If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but unlike in BF2, will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck \(inside a wall, tree, etc.\) or is on uneven ground \(hillside\) it can help to **resuscitate** the body first. This will move the ragdoll body and it might become un-stuck.
 
-> ![](../assets/fielddressing.png)![](../assets/kit.png)![](../assets/epipen.png)
+> ![](/assets/fielddressing.png)![](/assets/kit.png)![](/assets/epipen.png)
 >
 > Field dressing, first aid kit & epipen.
 
@@ -150,7 +150,7 @@ If you run low on ammunition, you can resupply from the following locations:
 * It is not possible to get supplies from **enemy supply crates**.
 * New ammo bags can be collected from supply crates if you have used your ammunition in the field.
 
-> ![](../assets/ammobag.png)![](../assets/supplycrate.png)![](../assets/inscrate.png)![](../assets/cacahe.png)![](../assets/depott.png)
+> ![](/assets/ammobag.png)![](/assets/supplycrate.png)![](/assets/inscrate.png)![](/assets/cacahe.png)![](/assets/depott.png)
 >
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
@@ -163,7 +163,7 @@ There are many forms of logistics in PR:BF2. Supply crates, repair drop, ammunit
 
 There are two types of supply crates in PR:BF2. The ownership of the crate is depicted by the flag display on top of the crate. The Light Supply Crate can be transported by the Light Lift classification of Helicopters such as the Huey, Lynx and Zhi-9B. The Heavy Supply Crate which contains twice the ammunition of the Light Supply Crate can be transported by Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90, and by Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22. Medium Lift Helicopters can hold 1 Heavy Supply Crate whilst its heavier brothers can carry 2 Heavy Supply Crates. A logistics truck holds 2 large supply crates while a transport truck holds 1 light supply crate.
 
-> ![](../assets/largecrate.png)![](../assets/smallcrate.png)
+> ![](/assets/largecrate.png)![](/assets/smallcrate.png)
 >
 > _Here you can see the heavy supply crate on the left and the light version on the right._
 
@@ -173,7 +173,7 @@ When building deployables \(see the Squad Leader section\) a Light Supply Crate 
 
 Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
 
-> ![](../assets/reapir.png)
+> ![](/assets/reapir.png)
 >
 > Repair drop.
 
@@ -197,7 +197,7 @@ A fixed mortar position that can provide indirect fire support over long distanc
 
 Once mortars are needed you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure you SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. There are both Air-Burst and Impact rounds available that share ammunition.
 
-> ![](../assets/mortars.png)
+> ![](/assets/mortars.png)
 >
 > T_he mortar calculator interface._
 
@@ -214,7 +214,7 @@ The CSB can only be used at predetermined positions. These are indicated by smal
 
 Deploying a CSB uses all supplies on the truck. The truck needs to be fully loaded for the bridge to deploy. \(Both supply crates must still be on the truck\). The CSB is very narrow, so drive carefully when crossing the bridge.
 
-> ![](../assets/csb.png)
+> ![](/assets/csb.png)
 >
 > CSB from truck being deployed.
 
@@ -223,19 +223,19 @@ Deploying a CSB uses all supplies on the truck. The truck needs to be fully load
 It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and team coordination also requires players to communicate locations in a clear and concise manner. PR:BF2 offers 4 tools to aid players with this.
 
 1. Squad leaders can use their **squad order marker** to communicate locations to their squad and the commander. The direction to the marker is indicated by a chevron above the compass. If you are within 75m of the marker you'll also see a 3D icon which shows the location in front of you. The marker will also be visible on the map.
-   * ![](../assets/target.png)**Target **
-   * ![](../assets/build.png)**Build **
-   * ![](../assets/observe.png)**Observe**
-   * ![](../assets/defendmarker.png)**Defend**
-   * ![](../assets/demolish.png)**Demolish **
-   * ![](../assets/move.png)**Move**
+   * ![](/assets/target.png)**Target **
+   * ![](/assets/build.png)**Build **
+   * ![](/assets/observe.png)**Observe**
+   * ![](/assets/defendmarker.png)**Defend**
+   * ![](/assets/demolish.png)**Demolish **
+   * ![](/assets/move.png)**Move**
 2. A **precision degree compass** to the bottom central area of your screen. The compass can be used to give exact bearings of nearby spotted enemies. **The 8 Cardinal Directions** are clearly indicated along with the degree bearing labels which incrementally increase every 15° with major divisions every 5°. If you just want to communicate a general direction it is best practice to say the cardinal direction, followed by the degree and in some situations the distance if appropriate. For example _**“Enemy spotted NE 75° degrees 200 meters out”**_**.**
    * If the target is visually in line with a numbered bearing on your compass when you are facing that direction, you simply communicate that number.
-   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png)
+   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](/assets/compass.png)
 3. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
 4. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
 
-![](../assets/grid.png)
+![](/assets/grid.png)
 
 ## _Basic Vehicle Information_ {#basic-vehicle-information}
 
@@ -245,55 +245,55 @@ There are many vehicle types in PR:BF2 used as classification. This isn’t alwa
 
 * **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
 
-![](../assets/jeep.png)
+![](/assets/jeep.png)
 
 * **Civilian vehicles:** PR:BF2’s insurgent forces have access to a range of civilian cars and technicals mounted with machine guns, rocket-pods and SPG-9 recoilless rifles. They also have a flatbed with a mounted AA-gun, bomb trucks and bomb cars in their arsenal. 
 
-![](../assets/civiliancars.png)
+![](/assets/civiliancars.png)
 
 * **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges \(more on this later\).
 
-![](../assets/truck.png)
+![](/assets/truck.png)
 
 * **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicles types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
 
-![](../assets/apc.png)
+![](/assets/apc.png)
 
 * **Infantry Fighting Vehicle \(IFV\):** Better armed and stronger than most APCs with often capabilities to defeat heavy armored targets using AT-Missiles. Are not always capable of transporting infantry. Under this category often also fall the recon-vehicles.
 
-![](../assets/ifv.png)
+![](/assets/ifv.png)
 
 * **Anti-Tank Missile Mounted Vehicle \(ATM\):** The name speaks for itself. These are vehicles armed with AT-missiles to destroy other armored vehicles. Cannot transport infantry.
 
-![](../assets/atm.png)
+![](/assets/atm.png)
 
 * **Tank:** Our heaviest of armored vehicles. They come equipped with AP, HE and COAX weaponry.
 
-![](../assets/tank.png)
+![](/assets/tank.png)
 
 * **Anti-Air Vehicle:** These are usually light armored vehicles with only the ability to take out enemy aircraft and helicopters. They can use missiles or/and heavy guns.
 
-![](../assets/aavehicles.png)
+![](/assets/aavehicles.png)
 
 * **Boat:** PR:BF2 has a variety of boats both armed and un-armed.
 
-![](../assets/boats.png)
+![](/assets/boats.png)
 
 * **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use.They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on Supply Crates to read on which variant has which crates available to it.
 
-![](../assets/transheli.png)
+![](/assets/transheli.png)
 
 * **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Recon helicopters with the ability to laze targets and use their thermal cameras also fall under this category in PR:BF2. They are not always armed.
 
-![](../assets/attackhelis.png)
+![](/assets/attackhelis.png)
 
 * **Jets:** PR:BF2 has a wide variety of jets. There are light and heavy attack jets, fighter jets, bombers and fighter-bombers.
 
-![](../assets/jets.png)
+![](/assets/jets.png)
 
 All friendly vehicles are marked on the map with unique icons for easy identification.
 
-![](../assets/vehicleicons.png)
+![](/assets/vehicleicons.png)
 
 * If a team vehicle asset is destroyed it incurs a ticket penalty:
   * Jeep or truck: **2 tickets**
@@ -316,7 +316,7 @@ All friendly vehicles are marked on the map with unique icons for easy identific
 * Players can **request kits** from a APC’s/IFV’s entry position.
 * Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
 
-> ![](../assets/entrypoints.png)
+> ![](/assets/entrypoints.png)
 >
 > _Vehicle entry points can differ per vehicle. Look for hatches._
 

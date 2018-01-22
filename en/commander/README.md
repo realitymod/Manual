@@ -18,22 +18,22 @@ To keep the team cohesive it is the commander’s sole focus to **deliver orders
   * **Request Mortars:** Request the mortar crew to bring mortar fire to this position.
   * **Target laze:** This spawns a lazer object on the position it was placed. This can be used by CAS to attack certain locations.
 
-> ![](../assets/commands.png)
+> ![](/assets/commands.png)
 >
 > Possible commands, squad orders and icons commander can use.
 
 * **Squad Orders**
   * Same markers are available to Squad Leaders. When you select a squad in the left menu you can order them. If they accept \(**PAGE UP**\) it will replace thats squad’s marker.** **
 
-![](../assets/build.png)**Build **
+![](/assets/build.png)**Build **
 
-![](../assets/observe.png)**Observe**
+![](/assets/observe.png)**Observe**
 
-![](../assets/defendmarker.png)**Defend **
+![](/assets/defendmarker.png)**Defend **
 
-![](../assets/demolish.png)**Demolish **
+![](/assets/demolish.png)**Demolish **
 
-![](../assets/move.png)**Move**
+![](/assets/move.png)**Move**
 
 * **Infantry \| Vehicles \| Emplacements \| Misc.**
   * Various markers that can be placed to mark enemy infantry, assets and deployed assets.
@@ -52,7 +52,7 @@ The Commander of conventional forces and the militia are able to control an **Un
 
 The UAV is launched by placing the UAV marker on the command map. This can be done by pressing the UAV icon on the top left of the commander screen or by right clicking on the map and placing the UAV icon. Then to operate it you have to enter the ACV vehicle at the main-base of your team.
 
-> ![](../assets/acvv.png)
+> ![](/assets/acvv.png)
 >
 > Armored Command Vehicle.
 
@@ -68,7 +68,7 @@ The UAV takes 45 seconds to start/land.
 
 The UAV can be relocated instantly by assigning it a new position on the map. The UAV only operates on 2km and 4km maps due to it being too powerful for small maps.
 
-> ![](../assets/uav.png)
+> ![](/assets/uav.png)
 >
 > _The commander’s UAV Camera._
 

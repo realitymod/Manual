@@ -40,7 +40,7 @@ After installation a shortcut for Project Reality:BF2 v1.5 will be provided on t
 
 If you are new to BF2:PR and have never made a profile before, just click ‘Create New Account’ and fill in the required details and pick a sensible, easy to pronounce username. To play on PR multiplayer servers you need to create an online profile. You can alternatively create an offline profile if you choose to.
 
-![](../assets/launcher_1.png)                                    
+![](/assets/launcher_1.png)                                    
 
 After creating a profile and logging in, you are presented with the main menu of the PR launcher. All options are displayed on the right.
 
@@ -77,13 +77,13 @@ PR Mumble comes installed together with PR:BF2. It runs alongside the game insta
 
 It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this, locate the PR Dogtags in the system tray next to the Windows system clock \(PR has to be running\), click on the icon to open the mumble interface then locate settings at the top. After that the settings panel will appear and you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
 
-![](../assets/mumblelogo.png)
+![](/assets/mumblelogo.png)
 
 PR Mumble also integrates with BF2’s HUD display. During the game you will see the names of players talking, each colour depicting over which channel they are transmitting, which is displayed in the lower left hand corner of your screen. In the lower right hand corner mumble also indicates over what channel you are transmitting with a different colour depending on the channel you are using. It also shows whether your microphone or speakers are muted, and if there’s linking issues with the mumble client.
 
-![](../assets/mumble_1.png)                                   
+![](/assets/mumble_1.png)                                   
 
-![](../assets/mumble_2.png)
+![](/assets/mumble_2.png)
 
 Transmitting Mic / Muted Speakers / Muted / Disconnected
 
@@ -169,5 +169,5 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Mumble Keys**
 
-![](../assets/mumblekeys.png)
+![](/assets/mumblekeys.png)
 
