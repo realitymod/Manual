@@ -137,39 +137,51 @@ A temporary spawn time penalty which only affects the next time you die \(buildi
 
 To select a spawn point, bring up the spawn map and select an applicable location. Once you’re happy with that spawn location, you must click on the **Done** button in the lower right corner of the map screen to re-spawn into the game. Just waiting for the timer to expire or hitting the &lt;enter&gt; key will not automatically respawn you. If you see a very large number on the timer, such as 5999, then you haven’t clicked Done.
 
-## _Ammunition_ {#ammunition}
+## _Logistics_ {#logistics}
 
-If you run low on ammunition, you can resupply from the following locations:
+Whether your running low on ammunition and need to rearm, want a new kit or simply want to build deployables, logistics keep your team alive. 
 
-* The rifleman, militant, warrior and some insurgent kits come with **ammunition bags** that must be thrown on the ground \(left click\) for other soldiers or themselves. These contain a very small amount of ammo \(a couple grenades and ammo clips\) so they should be conserved for desperate situations. These bags can also be used to resupply your medic’s supplies or deployable weapon emplacements by throwing the bag next to the weapon \(i.e. TOW or AA\). Once the bag is used up it will disappear.
-* Light transport vehicles and APCs / IFVs can drop one or more **large ammunition crates.** Ammo boxes are deployed by the driver by right clicking. Vehicles can reload their ammunition boxes at a supply depot.
-* Logistics trucks and helicopters can drop **supply crates.** They either drop a Light or Heavy supply crate which has an appropriate amount of ammunition. New supply crates can be loaded at the supply depot \(for vehicles\) or helipad \(for helicopters\). See more on supply crates on the next page.
-* Insurgency maps contain **weapons caches** which provide an unlimited amount of ammunition to the insurgents.
-* You can also resupply directly from the **vehicle depot** by standing within a few meters of it. It provides an unlimited supply of ammunition to the team and can also rearm vehicles. It will also heal wounded infantry.
-* Resupplying is **not instant** but takes about 10-30 seconds.
-* It is not possible to get supplies from **enemy supply crates**.
-* New ammo bags can be collected from supply crates if you have used your ammunition in the field.
+### _Ammunition_ {#ammunition}
+To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
+* **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables (tow, aa, mortars) to rearm them. 
+* **Ammo boxes** - Dropped by light transported vehicles, APCs and IFVs.
+* **Light/Heavy supply crates** - More information in the [next section](the_basics/README.md#crates)
+* **Weapons caches** - Available only for insurgents
+* **Vehicle depot** - Present in all main bases, it also heals you
 
 > ![](/assets/ammobag.png)![](/assets/supplycrate.png)![](/assets/inscrate.png)![](/assets/cacahe.png)![](/assets/depott.png)
 >
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
-## _Logistics_ {#logistics}
+Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear.
+>It is even possible ammo sources deplete before you're completly rearmed.
 
-There are many forms of logistics in PR:BF2. Supply crates, repair drop, ammunition, deployable structures, etc. Here we discuss only supply crates and repair drop. To learn more about deployable emplacements that can be built see the [Deployable Structures chapter](../the_squad_leader/README.md#deployable-structures).
+Another thing to take notice is that resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the ammount of ammo you need to ressuply. Additionally if you're not rearming, confirm that the Light/Heavy supply crates is indeed yours, rearming from  **enemy supply crates** is not possible.
 
+### _Supply Crates_ {#crates}
 
-**Supply Crates**
-
-There are two types of supply crates in PR:BF2. The ownership of the crate is depicted by the flag display on top of the crate. The Light Supply Crate can be transported by the Light Lift classification of Helicopters such as the Huey, Lynx and Zhi-9B. The Heavy Supply Crate which contains twice the ammunition of the Light Supply Crate can be transported by Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90, and by Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22. Medium Lift Helicopters can hold 1 Heavy Supply Crate whilst its heavier brothers can carry 2 Heavy Supply Crates. A logistics truck holds 2 large supply crates while a transport truck holds 1 light supply crate.
+There are two types of supply crates in PR:BF2 - Light Supply Crate and Heave Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter](the_squad_leader/README.md#deployable-structures).
 
 > ![](/assets/largecrate.png)![](/assets/smallcrate.png)
 >
 > _Here you can see the heavy supply crate on the left and the light version on the right._
 
-When building deployables \(see the Squad Leader section\) a Light Supply Crate is the equivalent of half of the Heavy Supply Crate. This means you will need 2 light supply crates or one heavy supply crate to build a FOB and 4 light supply crates or 2 heavy supply crates for the addition of deployable emplacements. The heavy and light supply crates can also be combined to build a deployable defense. The system will allow you to have a mix of different crates, such as two Light Supply Crates and one Heavy Supply crate to meet the same requirement as two Heavy Supply Crates, or four Light Supply crates.
+Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 200 points, with light crates having 1500 (7x kits) and heavy ones 3000 (14x kits). 
+> Requesting kits from a crate that does not have enought points will still grant you the kit but the crate will be destroyed in the process.
 
-**Repair Drop**
+Light Supply Crate can be transported by:
+- Light Helicopters such as the Huey, Lynx and Zhi-9B (One Crate)
+- Armored jeeps such as the Hummvee (One Crate)
+- Transport trucks (One Crate)
+
+While, Heavy Supply Crate can be transported by:
+- Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90 (One Crate)
+- Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22 (Two Crates)
+- Logistic trucks: (Two Crates)
+
+The ownership of the crate is depicted by the flag display on top of the crate.
+
+### Repair Drop
 
 Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
 
