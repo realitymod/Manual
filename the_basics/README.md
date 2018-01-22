@@ -11,7 +11,8 @@ Most importantly you should **join a squad**. Some servers even enforce it up by
 
 In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. _\(To learn more about rally points see_ [_the Rally Point section_](the_squad_leader/README.md#rally-points)_\)_
+* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [(see Deployable Structures)](../the_squad_leader/README.md#rally-points)
+
 
 > ![](/assets/rally.png)
 >
@@ -19,7 +20,8 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 * **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
 * **The commander rally point**. This RP can only be placed by the commander, provided multiple squad’s leaders are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [_\(see deployables Section for more information.\)_](the_squad_leader/README.md#deployable-stuctures)_._
+* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [(see Deployable Structures)](../the_squad_leader/README.md#deployable-structures)
+
 * In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
 
 > ![](/assets/fob.png)![](/assets/hideout.png)![](/assets/cache-weapon.png)
@@ -154,7 +156,8 @@ If you run low on ammunition, you can resupply from the following locations:
 
 ## _Logistics_ {#logistics}
 
-There are many forms of logistics in PR:BF2. Supply crates, repair drop, ammunition, deployable structures, etc. Here we discuss only supply crates and repair drop. To learn more about deployable emplacements that can be built see the [Squad Leader Chapter](../the_squad_leader/construction_work.md).
+There are many forms of logistics in PR:BF2. Supply crates, repair drop, ammunition, deployable structures, etc. Here we discuss only supply crates and repair drop. To learn more about deployable emplacements that can be built see the [Deployable Structures chapter](../the_squad_leader/README.md#deployable-structures).
+
 
 **Supply Crates**
 
