@@ -1,18 +1,11 @@
 {
-	"plugins": [ "theme-gestalt", "-theme-default", "styles-sass-fix" ],
+	"plugins": [],
     "links": {
         "sidebar": {
             "Visit us": "https://www.realitymod.com"
         }
     },
     "pluginsConfig": {
-		"theme-gestalt": {
-			"logo": "/assets/PR_v1_Logo.png",
-			"favicon": "/assets/favicon.png",
-			"baseUrl": null,
-			"excludeDefaultStyles": true,
-			"doNotHideChildrenChapters" : false
-		}
 	},
 	
 	"styles": {
