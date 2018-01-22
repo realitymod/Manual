@@ -1,12 +1,12 @@
-body {
-    background-color: rgb(64,64,64);
-	color: rgb(217,217,217);
-}
-
 h1 {
     color: rgb(98,160,216);
 }
 
 h2 {
     color: rgb(217,217,217);
+}
+
+.book .book-body .page-wrapper .page-inner section.normal code {
+    background-color: #404040;
+	color: #d9d9d9;
 }
