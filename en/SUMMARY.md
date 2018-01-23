@@ -32,7 +32,6 @@
   * [Back Up Iron Sights](weapons_&_equipment/README.md#buis)
 * [Kits](kits/README.md)
   * [Kit Selection](kits/README.md#kit-selection)
-  * [The Civilian](kits/README.md#the-civilian)
   * [Kit Request Procedure](kits/README.md#kit-request-procedure)
 * [The Squad Leader](the_squad_leader/README.md)
   * [Guiding Squad](the_squad_leader/README.md#guiding-squad)
@@ -50,6 +49,6 @@
 * [Commander](commander/README.md)
   * [Leading the Troops](commander/README.md#leading-the-troops)
   * [UAV](commander/README.md#uav)
-
+* [The Civilian](the_civilian/civilian.md)
 
 
