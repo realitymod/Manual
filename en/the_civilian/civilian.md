@@ -32,9 +32,8 @@ A civilian is considered inside the ROE and therefor can be killed if any of the
 * Used a vehicle...
 * Used a shovel or epipen...
 * Resuscitate someone...
-...less than 2m priour to the engagement.
 
-Or he must have an armed insurgent next to him, within 5m horizontally or 1.5m vertically.
+...less than 2m priour to the engagement. Or he must have an armed insurgent next to him, within 5m horizontally or 1.5m vertically.
 
 ### Becoming a civilian
 
