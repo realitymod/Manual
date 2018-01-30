@@ -10,3 +10,4 @@
 * [Hungarian](hu/)
 * [Italian](it/)
 * [Brazilian Portuguese](ptbr/)
+* [German](de/)
