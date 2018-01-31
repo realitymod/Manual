@@ -1,5 +1,5 @@
 {
-	"plugins": ["language-picker"],
+	"plugins": ["language-picker", "youtube"],
     "links": {
         "sidebar": {
             "Visit us": "http://www.realitymod.com"
@@ -9,6 +9,6 @@
 	},
 	
 	"styles": {
-    "website": "./styles/website.css"
+        "website": "./styles/website.css"
 	}
 }

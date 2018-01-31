@@ -24,7 +24,10 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 
 > ![](/assets/spotting.png)
 >
-> Spotting range in the radio
+
+{% youtube %}
+https://www.youtube.com/watch?v=XNDb2yMuoho
+{% endyoutube %}
 
 ## _The GTL Designator \(GTLD\)_ {#gtld}
 
@@ -35,6 +38,11 @@ With the GTLD equipped, you can right-click to increase the zoom level and left-
 > Due to engine limitations, there may be situations where the laze representation won't appear on top of the target. This won't have any effect in-game, you can reliable keep the center of the sight on target untill the
 
 Additionally, while observing with the GTLD you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map. \(You need to specify the distance to the target using the same method as described for spotting enemies.\)
+
+{% youtube %}
+https://www.youtube.com/watch?v=d7pntNDjSvM
+{% endyoutube %}
+
 
 ## _Rally Points_ {#rally-points}
 

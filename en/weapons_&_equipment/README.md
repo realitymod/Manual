@@ -116,3 +116,7 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 ![](/assets/buis.png)
 
+{% youtube %}
+https://www.youtube.com/watch?v=cLfdH1EHWPA
+{% endyoutube %}
+
