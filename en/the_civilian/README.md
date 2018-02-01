@@ -37,7 +37,7 @@ A civilian is considered inside the ROE and therefor can be killed if any of the
 
 ### Becoming a civilian
 
-For you to become a civilian you must first either spawn has a non-armed soldier or to simply [drop your kit](/kits/README.md#unarmed-kit). Secondly, has mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit.
+For you to become a civilian you must first either spawn as a non-armed soldier or to simply drop your kit (Press T and then G). Secondly, has mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit.
 
 ### Civilian vehicles
 

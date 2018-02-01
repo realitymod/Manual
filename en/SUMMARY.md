@@ -50,6 +50,6 @@
 * [Commander](commander/README.md)
   * [Leading the Troops](commander/README.md#leading-the-troops)
   * [UAV](commander/README.md#uav)
-* [The Civilian](the_civilian/civilian.md)
+* [The Civilian](the_civilian/README.md)
 
 

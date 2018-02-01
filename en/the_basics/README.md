@@ -14,7 +14,7 @@ Most importantly you should **join a squad**. Some servers even enforce it up by
 
 In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [(see Deployable Structures)](../the_squad_leader/README.md#rally-points)
+* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [(see Deployable Structures)](../the_squad_leader/README.md#deployable-structures)
 
 
 > ![](/assets/rally.png)
@@ -150,7 +150,10 @@ Whether your running low on ammunition and need to rearm, want a new kit or simp
 To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
 * **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables (tow, aa, mortars) to rearm them. 
 * **Ammo boxes** - Dropped by light transported vehicles, APCs and IFVs.
-* **Light/Heavy supply crates** - More information in the [next section](the_basics/README.md#crates)
+* **Light/Heavy supply crates** - More information in the [next section](../the_basics/README.md#crates)
+
+
+
 * **Weapons caches** - Available only for insurgents
 * **Vehicle depot** - Present in all main bases, it also heals you
 
@@ -165,7 +168,10 @@ Another thing to take notice is that resupplying is **not instant** but takes a 
 
 ### _Supply Crates_ {#crates}
 
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heave Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter](the_squad_leader/README.md#deployable-structures).
+There are two types of supply crates in PR:BF2 - Light Supply Crate and Heave Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.)](../the_squad_leader/README.md#deployable-structures)
+
+
+
 
 > ![](/assets/largecrate.png)![](/assets/smallcrate.png)
 >

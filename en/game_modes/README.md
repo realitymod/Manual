@@ -53,7 +53,7 @@ This mode is very unique in comparison to others within PR. The objective of the
 >
 > A weapon cache
 
-The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [(see The Civilian)](../kits/README.md#the-civilian)
+The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [(see The Civilian)](../the_civilian/README.md)
 . To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
 
 To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.

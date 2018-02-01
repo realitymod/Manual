@@ -15,7 +15,7 @@ There are many different kits in PR:BF2. You can pick up any friendly kit that y
 **Spawn-able Unlimited kits:**
 
 * ![](/assets/rifleman.png)The **Rifleman / Militant Warrior / Insurgent** is the standard infantry soldier of each faction. He is typically equipped with an assault rifle, grenades and smoke, depending on the faction an ammo bag.
-* ![](/assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../kits/README.md#the-civilian)
+* ![](/assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../the_civilian/README.md)
 
 * ![](/assets/sapper.png)**The insurgent Sapper** sets grenade traps and places IEDs. He is vital when preparing an ambush.
 
