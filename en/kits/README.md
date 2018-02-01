@@ -35,7 +35,7 @@ There are many different kits in PR:BF2. You can pick up any friendly kit that y
 
 * ![](/assets/crewman.png)**The Crewman** is the only kit that has the ability to operate armored vehicles. Equipped with a compact weapon for self-defense.
 * ![](/assets/pilot.png)**The Pilot** is the only class that can operate helicopters and fixed wing aircraft. This kit is equipped with a sidearm for defense and a parachute for emergencies.
-* ![](/assets/unarmed.png)**The Unarmed kit** can be used as an intermediary when swapping kits with another squad member. If an Insurgent or Hamas player uses the unarmed kit he will be treated as a civilian after he has dropped the kit and waited a few minutes. [(see The Civilian)](../kits/README.md#the-civilian)
+* ![](/assets/unarmed.png)**The Unarmed kit** can be used as an intermediary when swapping kits with another squad member. If an Insurgent or Hamas player uses the unarmed kit he will be treated as a civilian after he has dropped the kit and waited a few minutes. [(see The Civilian)](../the_civilian/README.md)
 
 
 
