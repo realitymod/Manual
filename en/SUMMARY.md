@@ -30,6 +30,7 @@
 * [Weapons & Equipment](weapons_&_equipment/README.md)
   * [General Weapons & Equipment ](weapons_&_equipment/README.md#general-weapons-equipment)
   * [Back Up Iron Sights](weapons_&_equipment/README.md#buis)
+  * [Altering Sighting Range](weapons_&_equipment/README.md#altering-sighting-range)
 * [Kits](kits/README.md)
   * [Kit Selection](kits/README.md#kit-selection)
   * [Kit Request Procedure](kits/README.md#kit-request-procedure)

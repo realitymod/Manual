@@ -12,7 +12,7 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 > _Kits: All kits that do not use another primary weapon or are unarmed_
 
-![C:\Users\Wouter\Desktop\2.png](/assets/cuserswouterdesktop2.png)**Underbarrel grenade launchers \(UGL\)** are attached to the underside of assault rifles and are used against groups of enemies or individuals that can't be hit by direct fire. They are also effective against unarmored vehicles and can be used effectively at ranges well beyond 200m. The grenades need to travel 28m before they arm or they will not detonate. UGLs can also fire smoke grenades that are used to obscure the enemy's view. The launcher range can be set by using a ladder sight attached to the weapon. While aiming down this sight, the main radio menu \(default: Q\) can be used to set the range to target distance. When engaging targets higher or lower than the predefined distances, it is important to compensate for this. On night maps the grenadier will also have access to flare rounds.
+![C:\Users\Wouter\Desktop\2.png](/assets/cuserswouterdesktop2.png)**Underbarrel grenade launchers \(UGL\)** are attached to the underside of assault rifles and are used against groups of enemies or individuals that can't be hit by direct fire. They are also effective against unarmored vehicles and can be used effectively at ranges well beyond 200m. The grenades need to travel 28m before they arm or they will not detonate. UGLs can also fire smoke grenades that are used to obscure the enemy's view. The launcher range can be set by using a ladder sight attached to the weapon. While aiming down this sight, the main radio menu \(default: Q\) can be used to set the range to target distance [(see Altering Sighting Range)](../weapons_&_equipment/README.md#altering-sighting-range). When engaging targets higher or lower than the predefined distances, it is important to compensate for this. On night maps the grenadier will also have access to flare rounds.
 
 > _Kits: Grenadier_
 
@@ -52,7 +52,7 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 > _Kits: Armed Melee: all except for Pilot, Civilian and Unarmed \| Unarmed Melee: Pilot and Unarmed_
 
-![C:\Users\Wouter\Desktop\12.png](/assets/cuserswouterdesktop12.png)**Light anti-tank launchers \(LAT\)** are used against unarmored and lightly armored targets. They are not effective against medium or heavy armor. The operator needs to prepare the launcher by standing still to settle the aim which takes about 4 seconds before you reach optimal firing accuracy. Depending on which particular launcher you are using, is dependent on how they operate. Some launchers are ranged to the reticule, others are adjustable, but generally they are accurate to about 500m. Effectively hitting a target at range requires skill and timing to be successful. A launcher’s range can be set by using an adjustable range sight mounted on the weapon, while aiming down this sight. To perform this operation, hold down the main radio commo-rose \(default: Q\) and select the range to your target. When engaging targets between the set ranges, you can manually compensate the angle of attack by either elevating your aim or de-elevating to maintain an effective hit on target.
+![C:\Users\Wouter\Desktop\12.png](/assets/cuserswouterdesktop12.png)**Light anti-tank launchers \(LAT\)** are used against unarmored and lightly armored targets. They are not effective against medium or heavy armor. The operator needs to prepare the launcher by standing still to settle the aim which takes about 4 seconds before you reach optimal firing accuracy. Depending on which particular launcher you are using, is dependent on how they operate. Some launchers are ranged to the reticule, others are adjustable, but generally they are accurate to about 500m. Effectively hitting a target at range requires skill and timing to be successful. A launcher’s range can be set by using an adjustable range sight mounted on the weapon, while aiming down this sight. To perform this operation, hold down the main radio commo-rose \(default: Q\) and select the range to your target. [(see Altering Sighting Range)](../weapons_&_equipment/README.md#altering-sighting-range) When engaging targets between the set ranges, you can manually compensate the angle of attack by either elevating your aim or de-elevating to maintain an effective hit on target.
 
 > _Kits: Rifleman AT, Militia / Taliban / Hamas Anti Tank_
 
@@ -116,7 +116,15 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 ![](/assets/buis.png)
 
+
+
+## Altering Sighting Range {#altering-sighting-range}
+
 {% youtube %}
 https://www.youtube.com/watch?v=cLfdH1EHWPA
 {% endyoutube %}
+
+
+
+
 

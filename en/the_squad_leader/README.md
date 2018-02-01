@@ -56,7 +56,6 @@ The following conditions must be met for the RP to be placed successfully:
 
 The rally point automatically disappears after 60 seconds unless:
 
-* It is within 2x large map grid squares of a friendly captured flag
 * It is within 2x large map grid squares of a friendly FOB
 * It is within 2x large map grid squares of a friendly APC or IFV. Only those of which you can request kits.
 

@@ -7,7 +7,10 @@ Most importantly you should **join a squad**. Some servers even enforce it up by
 * When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
 * After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
 * Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(like BF2\), a supply crate [_\(see Logistics section\)_](logistics.md) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+* Kits can be requested from the main spawn menu \(like BF2\), a supply crate [(see Logistics)](../the_basics/README.md#logistics)
+
+
+ or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
 
 In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
 
@@ -173,7 +176,6 @@ Just like rearming, requesting kits from crates will deplete the supply crates. 
 
 Light Supply Crate can be transported by:
 - Light Helicopters such as the Huey, Lynx and Zhi-9B (One Crate)
-- Armored jeeps such as the Hummvee (One Crate)
 - Transport trucks (One Crate)
 
 While, Heavy Supply Crate can be transported by:
