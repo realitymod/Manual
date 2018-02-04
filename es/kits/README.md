@@ -28,11 +28,11 @@ Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y
 
 A continuación pasamos a hacer una breve descripción de cada uno de ellos.
 
-* ![](/assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, correspondiente al soldado de infantería estándard. Normalmente viene equipado con un fusil de asalto, herramienta de atrincheramiento, granadas de fragmentación y de humo, y, dependiendo de la facción, bolsas de munición.
+* ![](/assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, correspondiente al soldado de infantería estándard. Normalmente viene equipado con un fusil de asalto, granadas de fragmentación y de humo, y, dependiendo de la facción, bolsas de munición.
 
 * ![](/assets/officer.png)**Oficial / Líder de Célula**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto del equipo y de construir emplazamientos estratégicos. En la sección **Jefe de Escuadra** de este manual se cubre en detalle este rol.
 
-* ![](/assets/medic.png)**Médico de Combate / Sanitario**. Limitado a 2 por escuadra. Es el soldado responsable de mantener a la escuadra operativa, y por tanto, uno de los roles más importantes en el campo de batalla. Además de un fusil de asalto, viene equipado con granadas de humo, vendas y un kit de primeros auxilios.
+* ![](/assets/medic.png)**Médico de Combate / Sanitario**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica  a la escuadra, y por tanto, uno de los roles más importantes en el campo de batalla. Además de un fusil de asalto, viene equipado con granadas de humo, vendas y un kit de primeros auxilios.
 
 * ![](/assets/ar.png)**Apoyo\(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática, el Apoyo, o AR, es el soldado capaz de proveer fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su capacidad de fuego efectivo.
 
@@ -46,11 +46,29 @@ A continuación pasamos a hacer una breve descripción de cada uno de ellos.
 
 ## _Kits Especiales_ {#kits-especiales}
 
-Además de los Kits Estándards, existe una amplia selección de **Kits Especiales** que cumplen funciones especialidas y que están altamente limitados a un número reducido de ellos en todo el equipo.
+Además de los Kits Estándards, en PR existe una amplia selección de **Kits Especiales** los cuales cumplen roles altamente especializados, tales como el Zapador, el Tirador Designado (o Marksman) o el Fusilero Anti-Aéreo. No es posible spawnearse directamente con estos kits especializados, sino que sólo pueden conseguirse desde cajas de suministros o vehículos. Estos kits están además sujetos a un número máximo de ellos por equipo.
+
+Debido a su naturaleza altamente restringida, se desaconseja **encarecidamente** que jugadores nuevos los usen ya que se corre el riesgo de desaprovecharlos y dejar al equipo sin posibilidad de usar estos efectivos tan cruciales.
+
+En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes **Kits Especiales**:
+
+| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
+| --- | --- | --- | --- | --- | --- |
+| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
+| **Ametrallador Pesado** | 1 | 2 | 3 | 3 | 4 |
+| **Tirador Designado** | 1 | 2 | 3 | 3 | 4 |
+| **Fusilero Anti-Personas** | 1 | 2 | 3 | 3 | 4 |
+| **Oteador** | 0 | 1 | 1 | 2 | 2 |
+| **Zapador** | 0 | 1 | 1 | 2 | 2 |
+| **Anti-Aéreo** | 0 | 1 | 1 | 2 | 2 |
+| **Francotirador** | 0 | 1 | 1 | 2 | 2 |
+| **Anti-Tanque Pesado** | 0 | 1 | 1 | 1 | 1 |
+| **Civil** | 1 | 3 | 9 | 12 | 16 |
+
 
 A continuación haremos una breve descripción de cada uno de ellos.
 
-* ![](/assets/mlg.png)**The Machine Gunner \(MMG\)** provides heavy suppressive fire whilst deployed. He can pin down an entire squad and is lethal at range.
+* ![](/assets/mlg.png)**The Machine Gunner \(MMG\)**.  provides heavy suppressive fire whilst deployed. He can pin down an entire squad and is lethal at range.
 
 
 * ![](/assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../the_civilian/README.md)
@@ -145,14 +163,6 @@ It will again show you with a message when you are not fulfilling the requiremen
 
 Infantry and special kits are drawn from a pool. The number of available kits depends on the amount of players currently on your team. The spawn-able and vehicle kits are not limited in number. If the kit is not in the following table it means it uses the default requirements for infantry and specialized kits.
 
-| Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
-| --- | --- | --- | --- | --- | --- |
-| **Infantry Default** | 1 | 2 | 3 | 3 | 4 |
-| **Special Default** | 0 | 1 | 1 | 2 | 2 |
-| **HAT** | 0 | 1 | 1 | 1 | 1 |
-| **Sniper** | 0 | 1 | 1 | 2 | 2 |
-| **Rifleman AT** | 1 | 2 | 4 | 5 | 8 |
-| **Civilian** | 1 | 3 | 9 | 12 | 16 |
 
 When an infantry kit has been dropped and is not picked up within 5 minutes it disappears from the world and returns to the pool. Specialist kits take 10 minutes to return to the pool. It will show you an orange message if the kit in unavailable:
 
