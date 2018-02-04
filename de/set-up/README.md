@@ -13,7 +13,7 @@
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
 
-## _Spiel Installation                                                                         _ {#spiel-installation}
+## _Spiel Installation-                                                              {#spiel-installation}
 
 Mit PR: BF2 ist es nicht mehr erforderlich, dass Battlefield 2 ** installiert ist. PR: BF2 v1.3 und höher funktioniert als eigenständiges Spiel. Wenn Sie eine Version von PR: BF2 installiert haben, müssen Sie diese deinstallieren, bevor Sie PR: BF2 v1.5 installieren. ** Es gibt keinen Patch von und ältere Version zu v1.3 **!
 
@@ -34,7 +34,7 @@ Noch ein paar Punkte:
 * PR: BF2 v1.3 und darüber hinaus enthält PR Mumble in seiner Installation. Es besteht also keine Notwendigkeit, dies separat herunterzuladen.
 * Wenn Sie Torrents nicht verwenden möchten, finden Sie in unseren Foren Spiegel für direkte HTTP-Downloads.
 
-## _Der PR-Launcher_ {# der-pr-launcher}
+## _Der PR-Launcher_ {#der-pr-launcher}
 
 Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.5 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu öffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrüßt, hier können Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wählen Sie das gewünschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support für BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service für PR: BF2. Alle Ihre alten BF2-Konten \ (vor PR: BF2 v1.2 \) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation für BF2.
 
@@ -53,7 +53,7 @@ Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptm
 
 > _Das Hauptmenü des Launchers enthält auch einen Nachrichten-Ticker, der unten in blau hervorgehoben ist, mit Ankündigungen zu bevorstehenden Ereignissen, Entwicklungsfortschritten und Entwickler-Blogs der PR: BF2-Community.
 
-## _Spielmenü Navigation_ {# In-Game-Menu-Navigation}
+## _Spielmenü Navigation_ {#spielmenü-navigation}
 
 * ** Kooperativ: ** Erlaubt Ihnen, PR: BF2 mit computergesteuerten KI-Soldaten in den Teams zu spielen. Dieser Modus ist sehr nützlich, um die Spielmechanik und -ausrüstung kennenzulernen, bevor Sie an Online-Kämpfen teilnehmen.
 * ** Bereitstellung: ** Der Hauptmodus in Project Reality. Hier finden Sie intensive Kämpfe mit bis zu 100 menschlichen Spielern.
@@ -61,7 +61,7 @@ Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptm
 * ** Optionen: ** Hier können Sie die Audiooptionen sowie das Tastaturlayout konfigurieren. Video-Optionen müssen im PR Launcher geändert werden.
 * ** Beenden: ** Verwenden Sie diese Schaltfläche, um das Spiel zu beenden und zu Windows zurückzukehren.
 
-## _PR Mumble _ {# pr-mumble}
+## _PR Mumble _ {#pr-mumble}
 
 Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System (VOIP) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primäre Kommunikationsmethode im 3D-Raum übertragen wird, der direktional und näherungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen können, wenn sie in der Nähe sind, und du kannst hören, in welche Richtung Du sprichst. Ähnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
 
@@ -107,7 +107,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründen
 * [Allgemeiner technischer Support] (http://www.realitymod.com/forum/f360-general-technical-support) für alle Ihre technischen Fragen.
 * [PR In-Game Taktiken und Strategien] (http://www.realitymod.com/forum/f137-pr-game-tactics-strategies) wird dir weiter helfen als dieses Handbuch, um alle Elemente von PR zu meistern: BF2 mit der Community schriftliche Anleitungen und Tutorials.
 
-## _Default Game Controls_ {# default-game-controls}
+## _Default Game Controls_ {#default-game-controls}
 
 ** Allgemeine Kontrollen **
 

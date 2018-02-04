@@ -1,8 +1,8 @@
-# ** Waffen & Ausrüstung ** {# Waffenausrüstung}
+# ** Waffen & Ausrüstung ** {#Waffenausrüstungen}
 
  
 
-## _Generell Waffen & Ausrüstung _ {# Generell-Waffen-Ausrüstung}
+## _Generell Waffen & Ausrüstung_ {#Generelle-Waffen-Ausrüstung}
 
  
 
@@ -222,7 +222,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-## _Back Up Iron Sehenswürdigkeiten \ (BUIS \) _ {#buis}
+## _Kimme & Korn / Nahbereichsvisier_ \ (BUIS \) _ {#buis}
 
  
 

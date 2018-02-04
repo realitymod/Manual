@@ -26,7 +26,7 @@ Die Kartenmarker für AAS sind:
 
 Vehicle Warfare, Skirmish & COOP verwenden ähnliche Kartenmarker für Angriff und Verteidigung.
 
-## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
+## _Fahrzeug Gefechte \(VW\) _ {#fahrzeug-gefechte}
 
 Viele schwere Fahrzeuge kämpfen in diesem Spielmodus um die Kontrolle der Karte. Spieler können nur mit Crewman-Kits spawnen. Nur Offiziere und Pilot-Kits können angefordert werden. Tickets werden nur von der Anzahl der CPs beeinflusst, die ein Team kontrolliert. Fahrzeuge, die bereits zerstört sind, erscheinen nach 5 Minuten respawnen. Es dauert mindestens 6 Spieler \ (in Fahrzeugen \), um die Kontrolle über einen CP zu übernehmen. Capturing funktioniert viel schneller als in AAS.
 

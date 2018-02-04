@@ -1,8 +1,8 @@
-# ** Der Truppführer ** {# der Truppführer}
+# ** Der Truppführer ** {#der-Truppführer}
 
  
 
-## _Truppführung_ {# Truppführung}
+## _Truppführung_ {#Truppführung}
 
  
 
@@ -28,7 +28,7 @@ Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren (** PAGE 
 
  
 
-## _Feindsichtung_ {# sichtung-Feinde}
+## _Feindsichtung_ {#sichtung-Feinde}
 
  
 
@@ -54,7 +54,7 @@ Der ** Squad Leader ** in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in 
 
  
 
-## _Das GTL Designator \ (GTLD \) _ {#gtld}
+## _Der GTL Designator \ (GTLD \) _ {#gtld}
 
  
 
@@ -74,7 +74,7 @@ Während du mit der GTLD beobachtest, kannst du außerdem auf das Radio-Hauptmenü 
 
  
 
-## _Rally Punkte_ {# Rallyepunkte}
+## _Rally Punkte_ {#Rallyepunkte}
 
  
 
@@ -114,7 +114,7 @@ Ein Sammelpunkt wird alle 1 Minute wieder aufgeladen. Es sei denn, es wurde über
 
  
 
-## _Unterstützungsanfrage _ {# Anfrage-Unterstützung}
+## _Unterstützungsanfrage _ {#Anfrage-Unterstützung}
 
  
 
@@ -130,7 +130,7 @@ Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von ander
 
  
 
-## _Bauarbeit_ {# Bauarbeit}
+## _Bauarbeit_ {#Bauarbeiten}
 
  
 
@@ -194,7 +194,7 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen ne
 
  
 
-## _Aufbaubare Strukturen_ {# aufbaubare-strukturen}
+## _Aufbaubare Strukturen_ {#aufbaubare-strukturen}
 
  
 

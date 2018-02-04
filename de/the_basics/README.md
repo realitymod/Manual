@@ -1,4 +1,4 @@
-# ** Die Grundlagen ** {# die-grundlagen}
+# ** Die Grundlagen ** {#die-grundlagen}
 
  
 
@@ -6,7 +6,7 @@ Am wichtigsten ist, dass du ** einem Squad ** beitreten solltest. Einige Server 
 
  
 
-## _Kit Auswahl & spawning_ {# kit-auswahl-und-spawning}
+## _Kit Auswahl & spawning_ {#kit-auswahl-und-spawning}
 
  
 
@@ -194,7 +194,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-## _Gesundheitsmanagement_ {# Gesundheitsmanagement}
+## _Gesundheitsmanagement_ {#Gesundheitsmanagement}
 
  
 
@@ -276,7 +276,7 @@ Um einen Spawn-Punkt auszuwählen, rufen Sie die Spawn-Map auf und wählen Sie ein
 
  
 
-## _Logistics_ {#Logistik}
+## _Logistik_ {#Logistik}
 
  
 
@@ -284,7 +284,7 @@ Egal, ob Sie nur wenig Munition haben und sich neu bewaffnen müssen, ein neues K
 
  
 
-### _Ammunition_ {#munition}
+### _Munition_ {#munition}
 
 Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nähern, die Ihre Waffen automatisch wieder füllt. Diese Quellen sind:
 
@@ -380,7 +380,7 @@ Logistik-LKWs haben auch die Möglichkeit, eine Reparaturstation abzusetzen. Sie 
 
  
 
-score=Ergebnis
+## ­_score_ {#Punkten}
 
  
 
@@ -430,7 +430,7 @@ Sobald Mörser benötigt werden, können Sie den Mörserrechner verwenden (drücken S
 
  
 
-## _Ponton Brücken \ (CSB \) _ {# ponton brücken}
+## _Ponton Brücken \ (CSB \)_ {#ponton-brücken}
 
  
 
@@ -466,7 +466,7 @@ In einigen Fällen müssen mehrere CSBs die gesamte Entfernung überspannen. In sol
 
  
 
-## _Schlachtfeld Navigation_ {# Schlachtfeld-Navigation}
+## _Schlachtfeld Navigation_ {#Schlachtfeld-Navigation}
 
  
 
@@ -504,7 +504,7 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. Di
 
  
 
-## _Basisfahrzeuginformationen_ {# Basisfahrzeuginformationen}
+## _Basis Fahrzeuginformationen_ {#Basis-Fahrzeuginformationen}
 
  
 

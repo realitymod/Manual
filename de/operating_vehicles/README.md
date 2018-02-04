@@ -1,6 +1,6 @@
-# ** Betriebsfahrzeuge ** {# Betriebsfahrzeuge}
+# ** Fahrzeug Betrieb ** {#Farzeuge-betreiben}
 
-## _Allgemeine Fahrzeuginformationen_ {# allgemeine Fahrzeuginformationen}
+## _Allgemeine Fahrzeuginformationen_ {#allgemeine-Fahrzeuginformationen}
 
 Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps (außer leichten gepanzerten Fahrzeugen) können von jedem Soldaten bedient werden. Gepanzerte Fahrzeuge, Hubschrauber und Flugzeuge benötigen spezielle Fahrzeugkits für den Betrieb. Spieler, die das richtige Kit nicht benutzen, können das Fahrzeug nicht steuern oder die Waffen benutzen. Sie können keine gegnerischen Fahrzeuge betreten oder benutzen. Für Bodenfahrzeuge benötigen Sie dann ein ** Crewman ** -Kit. Für Flugzeuge und Helikopter ist es das ** Pilot ** -Kit. Diese sind entweder vom Fahrzeug oder von einer Lieferkiste anzufordern.
 * Externe Ansichten für Fahrzeuge wurden entfernt. Aber für bestimmte Fahrzeuge gibt es spezielle Kameras, wie LKWs hinter sich sehen können (** C ** \).
@@ -15,7 +15,7 @@ Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps (außer leichten gep
 * Das Wechseln von Fahrzeugwaffen \ (Munitionstyp \) verursacht normalerweise eine Verzögerung bevor du schießen kannst.
 * Sie können ** Linke STRG + Mausbewegung ** verwenden, um sich in den meisten Fahrzeuge wie Helikopter, Jets, Jeeps, Boote und Lastwagen unzusehen. APCs und IFVs verfügen nicht über diese Funktion, da sie dedizierte Kameras verwenden.
 
-## _Gepanzerte Fahrzeuge_ {# gepanzerte Fahrzeuge}
+## _Gepanzerte Fahrzeuge_ {#gepanzerte-Fahrzeuge}
 
 * Panzer und IFVs haben separate Fahrer- und Schützenplätze. Um die Position des Schützen zu nutzen, muss ein Fahrer oder ein Schütze anwesend sein. Nach dem Wechsel zum Kanoniersitz musst du 30 Sekunden warten, bevor du die Kanone zielen kannst.
 * Der Fahrer und der Schütze in einem Fahrzeug müssen in der gleichen Gruppe sein.
@@ -44,7 +44,7 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen 
 >
 > Fahrzeug entfaltet Rauch
 
-## _Helicopters_ {#Helicopter}
+## _Helicopter_ {#Helicopter}
 
 * Hubschrauber haben eine ** Aufwärmzeit ** von etwa 30 Sekunden. Wenn während des Hochdrehens der Rotorblätter zu viel Schub erzeugt wird, verliert der Pilot die Kontrolle und stürzt ab. Um den Helikopter starten zu können, müssen Sie mindestens 30 Sekunden lang im Leerlauf stehen, bevor Sie versuchen, abzuheben.
 * Hubschrauberpiloten können während des Fluges in andere Richtungen schauen, indem sie die Tasten 6, 7, 8 und 9 drücken, die Sie einem Joystick POV HAT Switch zuordnen können. Um wieder nach vorne zu schauen, drücke 1 oder wähle eine andere Waffe, die dein Flugzeug hat.
@@ -70,7 +70,7 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen 
 
 * ** Gegenfeuerraketen ** sind begrenzt und müssen bei Erschöpfung wieder aktiviert werden. Jedes Mal, wenn Sie flare \ (** X ** \) einsetzen, wird ein Flare ausgelöst. Sie können die Bereitstellung für mehrere festlegen.
 
-## _Starrflügler_ {# Starrflügler}
+## _Starrflügler_ {#Starrflügler}
 
 * Flugzeuge haben eine ** Aufwärmzeit ** von 30 Sekunden, bevor sie vom Boden abheben können.
 * Jet-Piloten können während des Fluges in andere Richtungen schauen, indem sie die Tasten 7, 8 und 9 drücken, die Sie einem Joystick POV HAT Switch zuordnen können. Um wieder nach vorne zu schauen, drücke 1 oder wähle eine andere Waffe, die dein Flugzeug hat.

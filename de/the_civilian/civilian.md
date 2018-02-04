@@ -1,4 +1,4 @@
-# _Zivilisten_
+# ** _Zivilisten_ **{#zivilisten}
 
 Wenn sie die irakische Aufständischen oder die Hamas-Fraktion spielen, können die Spieler wählen, ob sie als Zivilist spielen möchten. Die Hauptaufgabe dieser Rolle besteht darin, Informationen über die Streitkräfte der Koalition zu sammeln und die aufständischen Zellenführer zu intervenieren. Dieses Kit ist nicht mit Waffen ausgestattet, sondern verfügt über eine große Auswahl an Ausrüstung und Werkzeugen. Zivilisten können mit ihren Mobiltelefonen feindliche Truppen für ihr Team aufspüren, indem sie einen Marker auf die Karte setzen.
 
