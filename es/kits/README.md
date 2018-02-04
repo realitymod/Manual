@@ -28,7 +28,7 @@ Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y
 
 A continuación pasamos a hacer una breve descripción de cada uno de ellos.
 
-* ![](/assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, paquete de municiones y granadas de fragmentación y humo.
+* ![](assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, paquete de municiones y granadas de fragmentación y humo.
 
 * ![](/assets/officer.png)**Oficial / Líder de Célula**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto de oficiales del equipo y de construir emplazamientos estratégicos. En la sección **Jefe de Escuadra** de este manual se cubre en más detalle este vital rol.
 
@@ -41,8 +41,6 @@ A continuación pasamos a hacer una breve descripción de cada uno de ellos.
 * ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra y a **8 por equipo**. Es un fusilero equipado con un fusil de asalto y un arma anti-vehículos. Su rol es actuar como elemento ultra móvil con capacidad de neutralizar vehículos ligeros de reducido blindaje. **No** es efectivo contra blindados pesados.
 
 * ![](/assets/grenadier.png)**Granadero**. Limitado a 1 por escuadra y a **4 por equipo**. Normalmente equipado con un lanzagranadas acoplado a su fusil de asalto. Su función principal es hostigar concentraciones de enemigos o vehículos ligeros no blindados. Especialmente últil para enfrentamientos a grandes distancias o para atosigar enemigos en el interior de edificios.
-
-#Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, #esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o vendas, etc), pero pasado ese tiempo, si no #sueltas el kit enemigo, pasarás a estar muerto.
 
 ## _Kits Especiales_ {#kits-especiales}
 
@@ -102,33 +100,16 @@ Finalmente, existen 2 kits especiales más que se pueden solicitar sin restricci
 
 ## _Cómo Solicitar Kits_ {#kit-request-procedure}
 
-To request a standard, infantry or limited kit you need to meet the four requirements:
+Una vez spawneado, se puede solicitar un kit nuevo (tanto Estándard como Especial) desde una caja de suministros o de un blindado aliado. Normalmente, para solicitar un kit, se han de cumplir estos 4 requisitos:
 
-* You must be at the correct **location**
-* **You must be in a squad** with enough players to request that class of kit, without it being taken already
-* The requested kit must be **available** in the kit pool
-* You must be **granted permission** by your Squad Leader to request the kit
+* Debes haber recibido **permiso del Jefe de Escuadra** - no cambies de kit sin permiso
+* **Debes estar en una escuadra** con un número suficiente de personas
+* Debes estar en el **lugar correcto** - junto a suministros o vehículo aliado
+* El kit solicitado todavía **no ha alcanzado el límite máximo** por escuadra o equipo
 
-**Location requirement:**
+**Secuencia para Solicitar un Kit**
 
-Depending on the kit type you want to request you need to be at one of the following locations:
-
-**All request-able kits:**
-
-* At the supply depot \(or command post\)
-* At the team's supply crate or weapons cache
-* At the rear of a friendly APC or IFV
-
-**Vehicle kits:**
-
-* At a vehicle that needs the requested kit to be operated \(Armor, Helicopter, Aircraft\)
-
-**The unarmed kit:** {#unarmed-kit}
-
-* Request-able anywhere
-* You can't request kits while you are in a vehicle. You also can not request the unarmed kit for 15 seconds after exiting a vehicle.
-
-To request a limited kit at the specified locations, you have to hold down the **secondary radio key \(T\)** and then select **REQUEST / DROP KIT**. This opens a sub-menu with a list of kits to choose from. If your request was granted, the new kit can be found directly at your feet, and it will tell you with an orange message:
+Para solicitar un kit, mantén presionada la **tecla de raio secundaria /(T/)**, lo cual hará aparecer un menú *Comm Rose*. Mueve el ratón para elegir la opción central (**"SOLICITAR / SOLTAR KIT"**) y haz **click-izquierdo**. Esot habrá un sub-menú con una lista de todos los kits disponibles en la facción. Mueve el ratón para destacar la opción deseado y vuelve a hacer click-izquiero. Si tu petición es aceptada, el kit aparecerá a tus pies y podrás **recogerlo con la tecla G**.
 
 > **“Your kit has been ALLOCATED and is at your feet”**
 
@@ -141,6 +122,11 @@ You need to press the **pickup key \(G\)** to take it. If your request was denie
 To obtain the unarmed kit you simply need to hold down the secondary radio key, press the right mouse button to select the drop kit option.
 
 When requesting kits from a crate or vehicle, whilst in the sub-menu you are able to right click to request the alternate kit for that class of weapon, for which there are many variants. Alternatively in the spawn menu there are also the STD and ALT buttons to switch.
+
+
+* You can't request kits while you are in a vehicle. You also can not request the unarmed kit for 15 seconds after exiting a vehicle.
+#Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, #esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o vendas, etc), pero pasado ese tiempo, si no #sueltas el kit enemigo, pasarás a estar muerto.
+
 
 **Squad requirement:**
 
