@@ -16,94 +16,91 @@ A continuación, veremos una lista más detallada de los kits disponibles.
 
 Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándards que existen, información sobre cuántos kits de este tipo puede tener una misma escuadra, así como el tamaño mínimo de la misma para poder solicitarlos.
 
-| Kit | Límitación | Tamaño Mínimo |
+| Kit | Límitación | Tamaño Mínimo | 
 | --- | --- | --- |
 | **Oficial** | 1/Escuadra | 2 |
 | **Fusilero** | Sin Límite | 1 |
 | **Médico de Combate** | 2/Escuadra | 2 |
 | **Fusilero de Apoyo** | 1/Escuadra | 3 |
 | **Fusilero Breacher** | 1/Escuadra | 3 |
-| **Fusilero Granadero** | 1/Escuadra | 6 |
+| **Fusilero Granadero** | 1/Escuadra | 6 | 
 | **Fusilero Anti-Tanque** | 1/Escuadra | 6 |
 
 A continuación pasamos a hacer una breve descripción de cada uno de ellos.
 
-* ![](/assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, correspondiente al soldado de infantería estándard. Normalmente viene equipado con un fusil de asalto, granadas de fragmentación y de humo, y, dependiendo de la facción, bolsas de munición.
+* ![](/assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, paquete de municiones y granadas de fragmentación y humo.
 
-* ![](/assets/officer.png)**Oficial / Líder de Célula**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto del equipo y de construir emplazamientos estratégicos. En la sección **Jefe de Escuadra** de este manual se cubre en detalle este rol.
+* ![](/assets/officer.png)**Oficial / Líder de Célula**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto de oficiales del equipo y de construir emplazamientos estratégicos. En la sección **Jefe de Escuadra** de este manual se cubre en más detalle este vital rol.
 
-* ![](/assets/medic.png)**Médico de Combate / Sanitario**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica  a la escuadra, y por tanto, uno de los roles más importantes en el campo de batalla. Además de un fusil de asalto, viene equipado con granadas de humo, vendas y un kit de primeros auxilios.
+* ![](/assets/medic.png)**Médico de Combate / Sanitario**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica  a la escuadra, y por tanto, uno de los roles más importantes. Además de un fusil de asalto, viene equipado con varias granadas de humo, vendas y un kit de primeros auxilios.
 
-* ![](/assets/ar.png)**Apoyo\(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática, el Apoyo, o AR, es el soldado capaz de proveer fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su capacidad de fuego efectivo.
+* ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el Apoyo (o AR), es el soldado capaz de proveer fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su habilidad de fuego efectivo.
 
-* ![](/assets/breacher.png)**Breacher / Explorador**. Limitado a 1 por escuadra. Actúa normalmente como punta de lanza y especialista en demoliciones. Este kit viene equipado con una cuerda con garfio para escalar y saltar muros, una recortada para reventar puertas y cerraduras y explosivos (C4) para encargarse de las demoliciones.
+* ![](/assets/breacher.png)**Breacher / Explorador**. Limitado a 1 por escuadra. Actúa normalmente como punta de lanza y especialista en demoliciones. Este kit viene equipado con una cuerda con garfio para escalar y saltar muros, una recortada para reventar puertas y cerraduras y cargas de explosivos (C4) para encargarse de las demoliciones.
 
-* ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra. Es un fusilero equipado con un fusil de asalto y un arma anti-vehículos. Su rol es actuar como elemento de alta movilidad con capacidad de neutralizar vehículos ligeros de reducido blindaje. **No** es efectivo contra blindados pesados.
+* ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra y a **8 por equipo**. Es un fusilero equipado con un fusil de asalto y un arma anti-vehículos. Su rol es actuar como elemento ultra móvil con capacidad de neutralizar vehículos ligeros de reducido blindaje. **No** es efectivo contra blindados pesados.
 
-* ![](/assets/grenadier.png)**Granadero**. Limitado a 1 por escuadra. Normalmente equipado con un lanzagranadas acoplado a un fusil de asalto. Su función principal es hostigar concentraciones de enemigos o vehículos ligeros no blindados. Especialmente últil para enfrentamientos a grandes distancias o para atosigar enemigos en el interior de edificios.
+* ![](/assets/grenadier.png)**Granadero**. Limitado a 1 por escuadra y a **4 por equipo**. Normalmente equipado con un lanzagranadas acoplado a su fusil de asalto. Su función principal es hostigar concentraciones de enemigos o vehículos ligeros no blindados. Especialmente últil para enfrentamientos a grandes distancias o para atosigar enemigos en el interior de edificios.
 
 #Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, #esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o vendas, etc), pero pasado ese tiempo, si no #sueltas el kit enemigo, pasarás a estar muerto.
 
 ## _Kits Especiales_ {#kits-especiales}
 
-Además de los Kits Estándards, en PR existe una amplia selección de **Kits Especiales** los cuales cumplen roles altamente especializados, tales como el Zapador, el Tirador Designado (o Marksman) o el Fusilero Anti-Aéreo. No es posible spawnearse directamente con estos kits especializados, sino que sólo pueden conseguirse desde cajas de suministros o vehículos. Estos kits están además sujetos a un número máximo de ellos por equipo.
-
-Debido a su naturaleza altamente restringida, se desaconseja **encarecidamente** que jugadores nuevos los usen ya que se corre el riesgo de desaprovecharlos y dejar al equipo sin posibilidad de usar estos efectivos tan cruciales.
+Además de los Kits Estándards, en PR existe una amplia selección de **Kits Especiales** los cuales cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo. No es posible spawnearse directamente con estos kits especializados, sino que para conseguirlos se habrán de solicitar desde cajas de suministros o vehículos. Cada uno de estos kits están además limitados a un cierto número de ellos por equipo.
 
 En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes **Kits Especiales**:
 
 | Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
 | --- | --- | --- | --- | --- | --- |
-| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
 | **Ametrallador Pesado** | 1 | 2 | 3 | 3 | 4 |
 | **Tirador Designado** | 1 | 2 | 3 | 3 | 4 |
 | **Fusilero Anti-Personas** | 1 | 2 | 3 | 3 | 4 |
-| **Oteador** | 0 | 1 | 1 | 2 | 2 |
+| **Observador** | 0 | 1 | 1 | 2 | 2 |
 | **Zapador** | 0 | 1 | 1 | 2 | 2 |
-| **Anti-Aéreo** | 0 | 1 | 1 | 2 | 2 |
+| **Fusilero Anti-Aéreo** | 0 | 1 | 1 | 2 | 2 |
 | **Francotirador** | 0 | 1 | 1 | 2 | 2 |
 | **Anti-Tanque Pesado** | 0 | 1 | 1 | 1 | 1 |
 | **Civil** | 1 | 3 | 9 | 12 | 16 |
 
+Así mismo, además de las limitaciones por escuadra, estos 2 **Kits Estándards** también están restringidos por equipo:
 
-A continuación haremos una breve descripción de cada uno de ellos.
+| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
+| --- | --- | --- | --- | --- | --- |
+| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
+| **Granadero** | 1 | 2 | 3 | 3 | 4 |
 
-* ![](/assets/mlg.png)**The Machine Gunner \(MMG\)**.  provides heavy suppressive fire whilst deployed. He can pin down an entire squad and is lethal at range.
+Debido a la naturaleza altamente restringida de estos kits, se desaconseja **encarecidamente** que jugadores nuevos los usen, ya que se corre el riesgo de desaprovecharlos, perderlos y dejar al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos efectivos tan cruciales.
+
+A continuación hacemos una breve descripción de los **Kits Especiales**.
+
+* ![](/assets/mlg.png)**Ametrallador Pesado \(MG\)**. Capaz de proveer gran potencia de fuego y supresión. Es una versión más pesada y engorrosa que el Ametrallador Ligero (o AR), pero es capaz de mantener una escuadra entera suprimida y es letal en las distancias largas.
+
+* ![](/assets/marskman.png)**Tirador Designado \(Marksman\)**. Capaz de efectuar fuego de precisión y baja cadencia para atacar objetivos más allá del rango efectivo del fusilero.
+
+* ![](/assets/ap.png)**Fusilero Anti-Personas \(AP\)**. Equipado con minas antipersonales con detonadores a distancia, ideales para efectuar emboscadas o para ser usadas de forma defensiva.
+
+* ![](/assets/spotter.png)**Observador**. Equipado con binoculares y con una cuerda y garfio, es capaz de posicionarse estratégicamente y recabar información sobre posiciones enemigas. Es además capaz de designar objetivos por láser para los ataques aéreos. Su rol es típicamente de apoyo a francotiradores, efectivos aéreos y blindados.
+
+* ![](/assets/combat engineer.png)**Zapador**. Especialista en explosivos y demoliciones. Equipado con minas anti-carro, es la persona designada para establecer campos de minas y bloquear así carreteras y puentes. Trae además explosivos varios para demoliciones y es capaz tanto de reparar vehículos ligeros dañados como de desactivar minas enemigas.
+
+* ![](/assets/aa.png)**Fusilero Anti-Aéreo \(AA\)**. Viene equipado con una sistema de armas Anti-Aéreo capaz de repeler e incluso abatir efectivos aéreos enemigos. Su alta limitación lo hace un activo extraordinariamente crucial. ¡No desperdiciar!
+
+* ![](/assets/sniper.png)**Francotirador**. Su función principal es pasar desapercibido y recabar información de alto valor estratégico, tal como la posición de bases enemigas o blindados. También es capaz de atacar objetivos de alto valor desde largas distancias. El típico jugador novato se definirá como tal al eligir este kit. No seas uno de ellos.
+
+* ![](/assets/hay.png)**Anti-Tanque Pesado \(HAT\)**. Especialista en el combate contra blindados y muy capaz en las largas distancias. Es una amenza real y efectiva contra cualquier tipo de blindado, incluyendo tanques. La alta limitación de este kit y la volatil naturaleza de la lucha anti-tanque hacen de este kit una clase totalmente crítica. Perder este kit puede cambiar la balanza de un enfrentamiento. Se desaconseja enfáticamente su uso por jugadores sin experiencia.
+
+* ![](/assets/civiicon.png)**Civil**. Es una clase especial de las facciones insurgentes iraquíes y de Hamas. Se consigue automáticamente tras 2 minutos de haber soltado el kit de combatiente. Su rol principal es asistir a la insurgencia como observador. Al ser una clase no militar desarmada, existen varias reglas especiales sobre ellos que se detallan en el capítulo correspondiente [(ver Civiles)](../the_civilian/README.md)
+
+## _Otros Kits_ {#kits-other}
+
+Finalmente, existen 2 kits especiales más que se pueden solicitar sin restricciones. Éstos son el kit de Piloto (Aire) y el de Tripulante (Blindados). Como **Kits Especiales** que son, no es posible spawnearse con ellos, sino que se han de solicitar desde cajas de suministros o desde el vehículo correspondiente.
+
+* ![](/assets/pilot.png)**Piloto**. Única clase capaz de operar helicópteros y aeronaves de ala fija. Viene equipada con un arma corta, paracaídas y una señal de humo de emergencias.
+
+* ![](/assets/crewman.png)**Tripulante**. El único kit capaz de operar blindados. Viene equipado con una arma corta para defensa personal, así como con binoculares para escrutar el campo de batalla.
 
 
-* ![](/assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../the_civilian/README.md)
-
-* ![](/assets/sapper.png)**The insurgent Sapper** sets grenade traps and places IEDs. He is vital when preparing an ambush.
-
-
-**Request-able Unlimited:**
-
-* ![](/assets/crewman.png)**The Crewman** is the only kit that has the ability to operate armored vehicles. Equipped with a compact weapon for self-defense.
-* ![](/assets/pilot.png)**The Pilot** is the only class that can operate helicopters and fixed wing aircraft. This kit is equipped with a sidearm for defense and a parachute for emergencies.
-* ![](/assets/unarmed.png)**The Unarmed kit** can be used as an intermediary when swapping kits with another squad member. If an Insurgent or Hamas player uses the unarmed kit he will be treated as a civilian after he has dropped the kit and waited a few minutes. [(see The Civilian)](../the_civilian/README.md)
-
-**Request-able Special kits:**
-
-* ![](/assets/hay.png)**The Anti-Tank \(HAT\)** soldier is a highly effective threat against all forms of armor and can destroy vehicles with extreme prejudice at long ranges.
-* ![](/assets/sniper.png)**The Sniper** provides intelligence whilst on reconnaissance to keep the team well informed of enemy movements and is also able to engage high-value targets from long distances.
-
-* ![](/assets/spotter.png)**The Spotter** is dedicated observational role and a key assistant of a sniper. He can place and acquire laser designations and provide the team with intelligence from the battlefield. He also carries a grappling hook to position himself in unreachable areas with the high visual advantage.
-
-* ![](/assets/aa.png)**The Anti-Aircraft \(AA\) soldier** is able to engage and deter enemy aircraft.
-
-* ![](/assets/combat engineer.png)**The Combat Engineer** is able to lay minefields, demolish enemy assets and disable explosive devices and repair light vehicles.
-
-**Request-able Infantry:**
-
-* ![](/assets/ap.png)**The Rifleman Anti-Personnel \(AP\)** is equipped with a remote detonated antipersonnel mine that can be used to set ambushes or used defensively.
-* ![](/assets/marskman.png)**The Designated Marksman \(DMR\)** provides paced precision fire for his squad and can engage targets beyond the rifleman's effective range.
-
-
-**Pick-up \(insurgents\):**
-
-* Various kits with different weapon types are available as pick up kits for the insurgent factions. These vary in almost all off the above mentioned classes.
-
-## _Kit Request Procedure_ {#kit-request-procedure}
+## _Cómo Solicitar Kits_ {#kit-request-procedure}
 
 To request a standard, infantry or limited kit you need to meet the four requirements:
 
