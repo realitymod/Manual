@@ -1,0 +1,37 @@
+h1, h2, h3, h4 {
+    color: rgb(98,160,216);
+}
+
+
+.book-body, .book-summary{
+	background-color: #404040;
+}
+
+.book-summary ul.summary li a, .book-summary ul.summary li span{
+	color: rgb(98,160,216);
+}
+
+.book-summary ul.summary li.active>a {
+	background-color: rgb(98,160,216);
+	color: #404040;
+	text-decoration: none;
+	display: block;
+}
+
+.book-body .markdown-section{
+	color: white;
+}
+
+
+.markdown-section table td, .markdown-section table th {
+    padding: 6px 13px;
+    border: 1px solid #5B9BD4;
+}
+
+.markdown-section table tr, .markdown-section table tr:nth-child(2n) {
+    background-color: #313D4F;
+}
+
+markdown-section blockquote{
+	border-color: #858585;
+  } 
