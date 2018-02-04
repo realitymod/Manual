@@ -4,23 +4,35 @@ Los kits en Project Reality definen tu clase, equipamiento y rol en el equipo. P
 
 Según la forma de obtenerlos, los kits en Project Reality pueden clasificarse en 3 categorías: 
 
-* Kits de Escuadra, pueden seleccionarse directamente desde la pantalla de spawn
-* Kits de Especialista, sólo pueden ser obtenidos desde vehículos o cajas de suministros (no disponible para insurgentes)
-* Kits Especiales de Insurgentes, sólo disponible en alijos de armas (cachés) de facciones no-convencionales e insurgentes
+* **Kits Estándard**, los cuales pueden seleccionarse directamente desde la pantalla de spawn
+* **Kits Especiales**, obstenibles sólamente desde vehículos o cajas de suministros (no disponible para insurgentes)
+* **Kits Especiales de Insurgentes**, sólo disponible en alijos de armas (cachés) de facciones no-convencionales, e insurgentes
 
-Excepto los kits de **Fusilero / Insurgente / Guerrero Militante** (los cuales son los kits del soldado de infantería básico), todos los demás kits tienen restricciones respecto al número de ellos que puede tener una escuadra o el equipo en su conjunto. Debido a estas restricciones, y para evitar perjudicar a la escuadra/equipo, es recomendable empezar a jugar con estos kits básicos.
+Excepto el kit estándard de **Fusilero / Insurgente / Guerrero Militante** (kit de infantería básico), todos los demás kits tienen restricciones respecto al número de ellos que puede tener una misma escuadra o el equipo en su totalidad. Debido a estas restricciones, y para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con estos kits básicos.
 
-A continuación, veremos una lista más detallada de los kits disponibles. Empezaremos viendo los **Kits de Escuadra**, disponibles desde la pantalla de spawn, así como información sobre su limitación por escuadra y el tamaño mínimo de la misma para poder solicitarlo.
+A continuación, veremos una lista más detallada de los kits disponibles.
+
+# **Kits Estándards** {#kits}
+
+Los **Kits Estándards** son los kits disponibles desde la pantalla de spawn y los kits que normalmente componen una escuadra de infantería. En la siguiente tabla se pueden ver un resumen de los kits Estándards que existen, información sobre cuántos kits de este tipo puede tener una misma escuadra y así como el tamaño mínimo de la misma para poder solicitarlos.
 
 | Kit | Límitación | Tamaño Mínimo |
 | --- | --- | --- |
-| **Oficial / Líder** | 1 | 2 |
+| **Oficial / Líder** | 1/Escuadra | 2 |
 | **Fusilero** | Sin Límite | 1 |
-| **Médico** | 2 | 2 |
-| **Ametrallador** | 1 | 3 |
-| **Breacher** | 1 | 3 |
-| **Granadero** | 1 | 6 |
-| **Anti-Tanque** | 1 | 6 |
+| **Médico** | 2/Escuadra | 2 |
+| **Ametrallador** | 1/Escuadra | 3 |
+| **Breacher** | 1/Escuadra | 3 |
+| **Granadero** | 1/Escuadra | 6 |
+| **Anti-Tanque** | 1/Escuadra | 6 |
+
+A continuación pasamos a hacer una breve descripción de cada uno de ellos.
+
+* ![](/assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**, kit ilimitado, correspondiente al soldado de infantería estándard. Normalmente viene equipado con un fusil de asalto, herramienta de atrincheramiento, granadas de fragmentación y de humo, y, dependiendo de la facción, bolsas de munición.
+
+* ![](/assets/officer.png)**Oficial / Líder**. Restingido a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto del equipo y de construir emplazamientos estratégicos. En la sección **Jefe de Escuadra** de este manual se cubre en detalle este rol.
+
+* ![](/assets/medic.png)**The Combat Medic/Corpsman** is responsible for keeping his squad alive, which is one of the most important roles on the battlefield.
 
 #Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, #esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o vendas, etc), pero pasado ese tiempo, si no #sueltas el kit enemigo, pasarás a estar muerto.
 
@@ -32,15 +44,15 @@ A continuación, veremos una lista más detallada de los kits disponibles. Empez
 
 **Spawn-able Unlimited kits:**
 
-* ![](/assets/rifleman.png)The **Rifleman / Militant Warrior / Insurgent** is the standard infantry soldier of each faction. He is typically equipped with an assault rifle, grenades and smoke, depending on the faction an ammo bag.
+
 * ![](/assets/civiicon.png)**The Civilian** is an unarmed insurgent who can assist his team with spotting enemies. Since he is a civilian there are several special rules about him, which are described in detail later in this chapter. This kit is only available to Hamas and Iraqi Insurgents. [(see The Civilian)](../the_civilian/README.md)
 
 * ![](/assets/sapper.png)**The insurgent Sapper** sets grenade traps and places IEDs. He is vital when preparing an ambush.
 
 **Spawn-able Special kits:**
 
-* ![](/assets/officer.png)**The Officer / Cell Leader** kit can only be obtained by the squad leader. He is responsible for commanding his squad, communicating with the remaining team and deploying forward outposts. Detailed use of this kit is covered in the Squad Leader section.
-* ![](/assets/medic.png)**The Combat Medic/Corpsman** is responsible for keeping his squad alive, which is one of the most important roles on the battlefield.
+
+
 
 **Spawn-able Infantry:**
 
