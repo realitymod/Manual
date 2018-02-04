@@ -54,7 +54,7 @@ En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes *
 | --- | --- | --- | --- | --- | --- |
 | **Ametrallador Pesado** | 1 | 2 | 3 | 3 | 4 |
 | **Tirador Designado** | 1 | 2 | 3 | 3 | 4 |
-| **Fusilero Anti-Persona** | 1 | 2 | 3 | 3 | 4 |
+| **Experto Anti-Persona** | 1 | 2 | 3 | 3 | 4 |
 | **Observador** | 0 | 1 | 1 | 2 | 2 |
 | **Zapador** | 0 | 1 | 1 | 2 | 2 |
 | **Fusilero Anti-Aéreo** | 0 | 1 | 1 | 2 | 2 |
@@ -77,7 +77,7 @@ A continuación hacemos una breve descripción de los **Kits Especiales**.
 
 * ![](/assets/marskman.png)**Tirador Designado \(Marksman\)**. Capaz de efectuar fuego de precisión y baja cadencia para atacar objetivos más allá del rango efectivo del fusilero.
 
-* ![](/assets/ap.png)**Fusilero Anti-Persona \(AP\)**. Equipado con minas antipersonales con detonadores a distancia, ideales para efectuar emboscadas o para ser usadas de forma defensiva.
+* ![](/assets/ap.png)**Experto Anti-Persona \(AP\)**. Equipado con minas antipersonales con detonadores a distancia, ideales para efectuar emboscadas o para ser usadas de forma defensiva.
 
 * ![](/assets/spotter.png)**Observador**. Equipado con binoculares y con una cuerda y garfio, es capaz de posicionarse estratégicamente y recabar información sobre posiciones enemigas. Es además capaz de designar objetivos por láser para los ataques aéreos. Su rol es típicamente de apoyo a francotiradores, efectivos aéreos y blindados.
 
