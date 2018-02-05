@@ -1,20 +1,18 @@
-# **Kits** {#kits}
+# **Los Kits** {#kits}
 
-Los kits en Project Reality definen tu clase, equipamiento y rol en el equipo. PR ofrece una gran variedad de kits entre los que elegir, aunque algunos de ellos están limitados a un cierto número de ellos por escuadra, o en todo el equipo.
+Los kits en Project Reality definen tu clase, tu equipamiento y tu rol en el equipo. PR ofrece una gran variedad de kits entre los que elegir. De forma general, se puede decir que hay 3 tipos de kits en Project Reality:
 
-Según la forma de obtenerlos, los kits en Project Reality pueden clasificarse en 3 categorías: 
+* **Kits Estándards**, los cuales pueden seleccionarse directamente desde la pantalla de spawn
+* **Kits Especiales**, obtenibles sólamente desde vehículos o cajas de suministros (no disponible para insurgentes)
+* **Kits Especiales de Insurgentes**, sólo disponible en alijos de armas (cachés) de facciones insurgentes o no-convencionales
 
-* **Kits Estándard**, los cuales pueden seleccionarse directamente desde la pantalla de spawn
-* **Kits Especiales**, obstenibles sólamente desde vehículos o cajas de suministros (no disponible para insurgentes)
-* **Kits Especiales de Insurgentes**, sólo disponible en alijos de armas (cachés) de facciones no-convencionales, e insurgentes
+El kit más genérico es el de **Fusilero (o Insurgente)**, del cual puede haber tantos como se quiera en la escuadra/equipo. Por otro lado, todos los demás kits vienen con clases especializadas asociadas y tienen restricciones respecto al número de ellos que se pueden tener en una misma escuadra o en el equipo en su totalidad. Debido a estas restricciones, para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con un kit de **Fusilero** básico.
 
-Excepto el kit estándard de **Fusilero / Insurgente / Guerrero Militante** (kit de infantería básico), todos los demás kits tienen restricciones respecto al número de ellos que puede tener una misma escuadra o el equipo en su totalidad. Debido a estas restricciones, y para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con estos kits básicos.
-
-A continuación, veremos una lista más detallada de los kits disponibles.
+A continuación revisaremos los diferentes kits, sus roles y restricciones.
 
 # **Kits Estándards** {#kits}
 
-Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándards que existen, información sobre cuántos kits de este tipo puede tener una misma escuadra, así como el tamaño mínimo de la misma para poder solicitarlos.
+Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándards que existen, así como información sobre cuántos kits de este tipo puede tener una misma escuadra y el tamaño mínimo de la misma para poder solicitarlos.
 
 | Kit | Límitación | Tamaño Mínimo | 
 | --- | --- | --- |
@@ -26,13 +24,33 @@ Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y
 | **Fusilero Granadero** | 1/Escuadra | 6 | 
 | **Fusilero Anti-Tanque** | 1/Escuadra | 6 |
 
-A continuación pasamos a hacer una breve descripción de cada uno de ellos.
+Es decir, que una escuadra típica de infantería de 8 miembros tendrá:
 
-* ![](assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, paquete de municiones y granadas de fragmentación y humo.
+| 1 Oficial |
+| 2 Médicos |
+| 1 Fusilero |
+| 1 Apoyo |
+| 1 Breacher |
+| 1 Granadero |
+| 1 Anti-Tanque |
 
-* ![](/assets/officer.png)**Oficial / Líder de Célula**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto de oficiales del equipo y de construir emplazamientos estratégicos. En la sección **Jefe de Escuadra** de este manual se cubre en más detalle este vital rol.
+Mientras que una escuadra con 5 miembros, no podrá tener ni Granadero ni Anti-Tanque, al no tener el mínimo necesario de 6 miembros.
 
-* ![](/assets/medic.png)**Médico de Combate / Sanitario**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica  a la escuadra, y por tanto, uno de los roles más importantes. Además de un fusil de asalto, viene equipado con varias granadas de humo, vendas y un kit de primeros auxilios.
+
+Así mismo, además de las limitaciones por escuadra, los kits de **Fusilero Granadero y Fusilero Anti-Tanque** están restringidos a un número máximo por equipo:
+
+| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
+| --- | --- | --- | --- | --- | --- |
+| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
+| **Granadero** | 1 | 2 | 3 | 3 | 4 |
+
+A continuación pasamos a hacer una breve descripción de cada uno de los Kits Estándard.
+
+* ![](assets/rifleman.png)**Fusilero / Insurgente / Guerrero Militante**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, munición extra, granadas de fragmentación y humo.
+
+* ![](/assets/officer.png)**Oficial / Líder de Célula**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de fusilero, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto de oficiales del equipo, de construir emplazamientos estratégicos y de pedir misiones de apoyo (artillería, morteros, blindados, aéreo). En la sección **Jefe de Escuadra** de este manual se cubre en más detalle este vital rol.
+
+* ![](/assets/medic.png)**Médico de Combate / Sanitario**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica  a la escuadra, y por tanto, uno de los roles más importantes. Además de un fusil de asalto, viene equipado con varias granadas de humo, un kit de primeros auxilios y varios rollos de vendas
 
 * ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el Apoyo (o AR), es el soldado capaz de proveer fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su habilidad de fuego efectivo.
 
@@ -44,7 +62,7 @@ A continuación pasamos a hacer una breve descripción de cada uno de ellos.
 
 ## _Kits Especiales_ {#kits-especiales}
 
-Además de los Kits Estándards, en PR existe una amplia selección de **Kits Especiales** los cuales cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo. No es posible spawnearse directamente con estos kits especializados, sino que para conseguirlos se habrán de solicitar desde cajas de suministros o vehículos. Cada uno de estos kits están además limitados a un cierto número de ellos por equipo.
+Además de los Kits Estándards, en PR existe una amplia selección de **Kits Especiales** los cuales cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Observador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo, entre otros. No es posible spawnearse directamente con estos kits especializados, sino que para conseguirlos se habrán de solicitar desde cajas de suministros o vehículos. Cada uno de estos kits están además limitados a un cierto número de ellos por equipo.
 
 En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes **Kits Especiales**:
 
@@ -60,32 +78,25 @@ En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes *
 | **Anti-Tanque Pesado** | 0 | 1 | 1 | 1 | 1 |
 | **Civil** | 1 | 3 | 9 | 12 | 16 |
 
-Así mismo, además de las limitaciones por escuadra, estos 2 **Kits Estándards** también están restringidos por equipo:
-
-| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
-| --- | --- | --- | --- | --- | --- |
-| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
-| **Granadero** | 1 | 2 | 3 | 3 | 4 |
-
-Debido a la naturaleza altamente restringida de estos kits, se desaconseja **encarecidamente** que jugadores nuevos los usen, ya que se corre el riesgo de desaprovecharlos, perderlos y dejar al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos efectivos tan cruciales.
+Debido a la naturaleza altamente restringida de estos kits, se desaconseja **encarecidamente** que jugadores sin mucha experiencia los usen, ya que se corre el riesgo de desaprovecharlos, perderlos y poner al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos kits vitales.
 
 A continuación hacemos una breve descripción de los **Kits Especiales**.
 
-* ![](/assets/mlg.png)**Ametrallador Pesado \(MG\)**. Capaz de proveer gran potencia de fuego y supresión. Es una versión más pesada y engorrosa que el Ametrallador Ligero (o AR), pero es capaz de mantener una escuadra entera suprimida y es letal en las distancias largas.
+* ![](/assets/mlg.png)**Ametrallador Pesado \(MG\)**. Es una versión más pesada y engorrosa que el Ametrallador Ligero (o AR), pero gracias a su potencia de fuego superior, es capaz de mantener una escuadra entera suprimida, siendo además letal en las distancias largas.
 
-* ![](/assets/marskman.png)**Tirador Designado \(Marksman\)**. Capaz de efectuar fuego de precisión y baja cadencia para atacar objetivos más allá del rango efectivo del fusilero.
+* ![](/assets/marskman.png)**Tirador Designado \(Marksman\)**. Capaz de efectuar fuego de baja cadencia pero de gran precisión, el Marksman destaca atacando objetivos enemigos más allá del rango efectivo del fusilero.
 
-* ![](/assets/ap.png)**Anti-Personas \(AP\)**. Fusilero equipado con minas antipersonales con detonadores a distancia, ideales para efectuar emboscadas o para ser usadas de forma defensiva.
+* ![](/assets/ap.png)**Anti-Personas \(AP\)**. Fusilero equipado con varias minas antipersonales programadas con detonadores a distancia. El Fusilero AP destaca preparando emboscadas de detonaciones secuenciadas, o usando sus explosivos anti-persona de forma defensiva.
 
-* ![](/assets/spotter.png)**Observador**. Equipado con binoculares y con una cuerda y garfio, es capaz de posicionarse estratégicamente y recabar información sobre posiciones enemigas. Es además capaz de designar objetivos por láser para los ataques aéreos. Su rol es típicamente de apoyo a francotiradores, efectivos aéreos y blindados.
+* ![](/assets/spotter.png)**Observador**. Equipado con cuerda y garfio y binoculares, es capaz de posicionarse estratégicamente y recabar información sobre posiciones enemigas. Es además capaz de designar objetivos por láser para los ataques aéreos. Su rol es típicamente de apoyo a francotiradores, a efectivos aéreos o equipos de blindados.
 
-* ![](/assets/combat_engineer.png)**Zapador**. Especialista en explosivos y demoliciones. Equipado con minas anti-carro, es la persona designada para establecer campos de minas y bloquear así carreteras y puentes. Trae además explosivos varios para demoliciones y es capaz tanto de reparar vehículos ligeros dañados como de desactivar minas enemigas.
+* ![](/assets/combat_engineer.png)**Zapador**. Ingeniero de combate especialista en explosivos y demoliciones. Equipado con minas anti-carro, es la persona designada para establecer campos de minas y bloquear así carreteras y puentes. Trae además explosivos varios para demoliciones y es capaz tanto de reparar vehículos ligeros dañados como de desactivar minas enemigas.
 
-* ![](/assets/aa.png)**Fusilero Anti-Aéreo \(AA\)**. Viene equipado con una sistema de armas Anti-Aéreo capaz de repeler e incluso abatir efectivos aéreos enemigos. Su alta limitación lo hace un activo extraordinariamente crucial. ¡No desperdiciar!
+* ![](/assets/aa.png)**Fusilero Anti-Aéreo \(AA\)**. Viene equipado con una sistema Anti-Aéreo portátil, capacitándolo para repeler efectivos aéreos enemigos. Su alta limitación (2 por equipo) lo hace un activo extraordinariamente crucial. ¡No desperdiciar!
 
 * ![](/assets/sniper.png)**Francotirador**. Su función principal es pasar desapercibido y recabar información de alto valor estratégico, tal como la posición de bases enemigas o blindados. También es capaz de atacar objetivos de alto valor desde largas distancias. El típico jugador novato se definirá como tal al eligir este kit. No seas uno de ellos.
 
-* ![](/assets/hay.png)**Anti-Tanque Pesado \(HAT\)**. Especialista en el combate contra blindados y muy capaz en las largas distancias. Es una amenza real y efectiva contra cualquier tipo de blindado, incluyendo tanques. La alta limitación de este kit y la volatil naturaleza de la lucha anti-tanque hacen de este kit una clase totalmente crítica. Perder este kit puede cambiar la balanza de un enfrentamiento. Se desaconseja enfáticamente su uso por jugadores sin experiencia.
+* ![](/assets/hay.png)**Anti-Tanque Pesado \(HAT\)**. Especialista en el combate contra blindados y muy capaz en las largas distancias. Es una amenza real y efectiva contra cualquier tipo de blindado, incluyendo tanques. La alta limitación de este kit (1 por equipo) y la volátil naturaleza de la lucha anti-tanque hacen de este kit una clase totalmente crítica. Perder este kit puede cambiar la balanza de un enfrentamiento. Se desaconseja enfáticamente su uso por jugadores sin la experiencia necesaria.
 
 * ![](/assets/civiicon.png)**Civil**. Es una clase especial de las facciones insurgentes iraquíes y de Hamas. Se consigue automáticamente tras 2 minutos de haber soltado el kit de combatiente. Su rol principal es asistir a la insurgencia como observador. Al ser una clase no militar desarmada, existen varias reglas especiales sobre ellos que se detallan en el capítulo correspondiente [(ver Civiles)](../the_civilian/README.md)
 
@@ -102,18 +113,26 @@ Finalmente, existen 2 kits especiales más que se pueden solicitar sin restricci
 
 Una vez spawneado, se puede solicitar un kit nuevo (tanto Estándard como Especial) desde una caja de suministros o de un blindado aliado. Normalmente, para solicitar un kit, se han de cumplir estos 4 requisitos:
 
-* Debes haber recibido **permiso del Jefe de Escuadra** - no cambies de kit sin permiso
-* **Debes estar en una escuadra** con un número suficiente de personas
+* Debes haber recibido **permiso del Jefe de Escuadra** - él es el que decide qué kit cogerá cada soldado bajo su mando
+* **Debes estar en una escuadra** con el número adecuado de personas
 * Debes estar en el **lugar correcto** - junto a suministros o vehículo aliado
-* El kit solicitado todavía **no ha alcanzado el límite máximo** por escuadra o equipo
+* El kit solicitado **está disponible** - no se ha alcanzado todavía el límite máximo de ese kit por escuadra/equipo
 
-**Secuencia para Solicitar un Kit**
+**Cómo Solicitar un Kit**
 
-Para solicitar un kit, mantén presionada la **tecla de raio secundaria /(T/)**, lo cual hará aparecer un menú *Comm Rose*. Mueve el ratón para elegir la opción central (**"SOLICITAR / SOLTAR KIT"**) y haz **click-izquierdo**. Esot habrá un sub-menú con una lista de todos los kits disponibles en la facción. Mueve el ratón para destacar la opción deseado y vuelve a hacer click-izquiero. Si tu petición es aceptada, el kit aparecerá a tus pies y podrás **recogerlo con la tecla G**.
+Para solicitar un kit, cumple las 4 condiciones de arriba y sigue los siguientes pasos: 
 
-> **“Your kit has been ALLOCATED and is at your feet”**
+1. Mantén presionada la **tecla de raio secundaria /(T/)** (lo cual hará aparecer un menú *Comm Rose*), 
+2. Con la T todavía pulsada, selecciona la opción central del menú (**"SOLICITAR / SOLTAR KIT"**) y haz **click-izquierdo** en ella. Esto abrirá un listado con todos los kits en él. 
+3. Mueve el ratón para destacar la opción deseada y haz **click-izquiero** sobre ella. 
 
-You need to press the **pickup key \(G\)** to take it. If your request was denied, you will see a player specific orange message explaining why you didn’t receive the kit:
+Si tu petición es aceptada, el kit aparecerá a tus pies y en pantalla verás un texto amarillo diciendo: **“Your kit has been ALLOCATED and is at your feet”**,  recógelo **pulsando la tecla G**.
+
+**Secuencia 
+
+
+
+Si por el contrario tu solicitud no es aceptada, aparecerá en pantalla un texto amarillo explicando el motivo:
 
 > **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**
 >
@@ -130,19 +149,9 @@ When requesting kits from a crate or vehicle, whilst in the sub-menu you are abl
 
 **Squad requirement:**
 
-Infantry and specialized kits have a minimum number of players in the squad as requirement before being able to select it. Use the table below to find the default values for infantry and specialized kits as well as a few exceptions to this rule. **All infantry and special kits can only be requested once in a squad except for the medic, sniper and civilian of which you can have up to 2 in each squad.**
-
-| Kit | Minimum | Kit | Minimum |
-| --- | --- | --- | --- |
-| **Infantry Default** | 4 | **Machine Gunner** | 6 |
-| **Special Default** | 3 | **Officer** | 2 |
-| **Grenadier** | 6 | **Medic** | 2 |
-
 It will again show you with a message when you are not fulfilling the requirement:
 
 > **“Unavailable due to squad limitations”**
-
-**Availability requirement:**
 
 Infantry and special kits are drawn from a pool. The number of available kits depends on the amount of players currently on your team. The spawn-able and vehicle kits are not limited in number. If the kit is not in the following table it means it uses the default requirements for infantry and specialized kits.
 
@@ -150,8 +159,6 @@ Infantry and special kits are drawn from a pool. The number of available kits de
 When an infantry kit has been dropped and is not picked up within 5 minutes it disappears from the world and returns to the pool. Specialist kits take 10 minutes to return to the pool. It will show you an orange message if the kit in unavailable:
 
 > **“All of these kits have been issued”**
-
-**Allowance requirement:**
 
 Insurgents can't request kits. The commander of a team may only request the officer kit. Certain actions temporarily prevent you from requesting kits:
 
