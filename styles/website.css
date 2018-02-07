@@ -24,10 +24,17 @@ h1, h2, h3, h4 {
 
 .book-langs-index{
 	background-color: rgb(64, 64, 64);
-	background: rgb(117, 117, 117);
 	color: #62a0d8;
 }
 
+.book-langs-index .inner{
+	background-color: rgb(117, 117, 117);
+	color: #404040;
+}
+
+.book-langs-index .inner .languages{
+	border-top: 1px solid #b7b7b7;
+}
 
 .markdown-section table td, .markdown-section table th {
     padding: 6px 13px;
