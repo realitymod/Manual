@@ -6,8 +6,7 @@
 > _Das PR-Team_
 
 # ![](/assets/flag.png)
-http://www.realitymod.com/manual/pr_manual_de.pdf
-v1.5 Translation by Rotblut.
+**v1.5 Translation by Rotblut**
 
 **Einführung**
 
