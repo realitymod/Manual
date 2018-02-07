@@ -30,12 +30,12 @@
 * [Waffen & Ausrüstung](weapons_&_equipment/README.md#Waffenausrüstungen)
   * [Generell Waffen & Ausrüstung](weapons_&_equipment/README.md#Generelle-Waffen-Ausrüstung)
   * [Kimme & Korn / Nahbereichsvisier](weapons_&_equipment/README.md#buis)
-*[Zielbereich einstellen] (waffen_&_ausrüstungen/README.md#zielbereich-einstellen)
+  * [Zielbereich Einstellen](weapons_&_equipment/README.md#zielbereich-einstellen)
 * [Ausrüstung](kits/README.md#kits)
   * [Ausrüstungs Auswahl](kits/README.md#kit-auswahl)
   * [Kit Anfrage Prozedur](kits/README.md#kit-anfrage-prozedur)
 * [The Squad Leader](the_squad_leader/README.md#der-Truppführer)
-  * [Truppführung](the_squad_leader/README.md#Truppführung
+  * [Truppführung](the_squad_leader/README.md#Truppführung)
   * [Feindsichtung](the_squad_leader/README.md#sichtung-Feinde})
   * [Der GTL Designator](the_squad_leader/README.md#gtld)
   * [Rally Punkte](the_squad_leader/README.md#Rallyepunkte)
@@ -50,6 +50,6 @@
 * [Commander](commander/README.md#commander)
   * [Führen der Truppen](commander/README.md#führen-der-truppen)
   * [UAV](commander/README.md#uav)
-* [Zivilisten](the_civilian/zivilisten/civilian.md)
+* [Zivilisten](the_civilian/README.md)
 
 

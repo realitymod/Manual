@@ -225,7 +225,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabwei
 
 ** Nahbereichsvisier \ (BUIS \) ** wurde entwickelt, um dem Bediener eine alternative Methode zur Erfassung eines Ziels in Abhängigkeit von der Situation zu bieten. Sofern die Waffe über BUIS verfügt, kann ein Spieler mit dem bereits vorhandenen wechsel Kamera-Taste \ (C ** \) zwischen dem Zielfernrohr und dem Visier wechseln. Der Spieler kann zwischen den Sichtmodi umschalten, was durch den BUIS-Buchstaben in der unteren rechten Ecke angezeigt wird. S für Ziehlfernrohr, B für Visier. Der BUIS-Modus kann jederzeit umgeschaltet werden, egal ob Sie auf das Ziel zielen oder nicht, aber Sie müssen erneut zielen, um zwischen den Modi zu wechseln.
 
-! [] (/assets/buis.png)
+![](../assets/buis.png)
 
 ## -Zielbereich einstellen {#zielbereich-einstellen}
 
