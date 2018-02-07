@@ -41,7 +41,7 @@ Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica d
 | 1x | Granadero |
 | 1x | Anti-Tanque |
 
-**Descripción de los Kits Estándard**
+**DESCRIPCIÓN DE LOS KITS ESTÁNDARD**
 
 * ![](assets/rifleman.png)**Fusilero**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, granadas de fragmentación y humo. Al no tener una función especializada en la escuadra, el fusilero es ideal para posiciones y maniobras agresivas. Es además el único kit que puede suministrar munición al resto de compañeros.
 
@@ -77,7 +77,7 @@ En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes *
 
 Debido a la naturaleza altamente restringida de estos kits, se desaconseja **encarecidamente** que jugadores sin mucha experiencia los usen, ya que se corre el riesgo de desaprovecharlos, perderlos y poner al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos kits vitales.
 
-**Descripción de los Kits Especiales**.
+**DESCRIPCIÓN DE LOS KITS ESPECIALES**.
 
 * ![](/assets/mlg.png)**Ametrallador Pesado \(MG\)**. Es una versión más pesada y engorrosa del Ametrallador Ligero (o AR), aunque gracias a su potencia de fuego superior, es capaz de mantener una escuadra entera suprimida, siendo además letal en las distancias largas.
 
@@ -107,7 +107,7 @@ Finalmente, está el kit de **Piloto** (Aire) y el de **Tripulante** (Blindados)
 
 ## _Solicitando Kits en el Campo de Batalla_ {#kit-request-procedure}
 
-**Condiciones**
+**CONDICIONES**
 
 Una vez spawneado, es posible solicitar un kit nuevo (tanto Estándard como Especial) desde una caja de suministros o de un blindado aliado. Normalmente, para solicitar un kit, se han de cumplir estos 4 requisitos generales:
 
@@ -137,34 +137,34 @@ Cada kit existe además en dos variantes diferentes: la versión estándard y la
 
 Para solicitar la versión alternativa, simplemente repite la misma secuencia arriba descrita pero en el paso 4 haz **click-*derecho***.
 
-**Mensajes de Kit Denegado**
+**MENSAJES DE KIT DENEGADO**
 
 Si tu solicitud no es aceptada, aparecerá en pantalla un texto amarillo explicando el motivo. Aquí se reproducen los mensajes más frecuentes y su explicación:
 
-> **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**
-> **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
+**“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**
+**“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
 No estás en el sitio adecuado: junto a una caja de suministros o vehículo aliado.
 
-> **“Unavailable due to squad limitations”**
+**“Unavailable due to squad limitations”**
 Ya se alcanzó el máximo número de kits de ese tipo en la escuadra. Nótese que basta tener a alguien con un Kit Estándard **seleccionado** en el menú de espawm para que ello cuente como usado en la escuadra.
 
-> **"All of these kits have been issued”**
+**"All of these kits have been issued”**
 El equipo ya ha obtenido el número máximo permitido de este Kit Especial. Los kits en el suelo cuentan para este límite. Un kit en el suelo desaparecerá tras unos 5-10 minutos.
 
-> **“Unavailable for your forces”**
+**“Unavailable for your forces”**
 Esta facción no usa ese kit.
 
-> **“You can't get another limited kit so soon after your last”**
+**“You can't get another limited kit so soon after your last”**
 Si te espawneas o solicitas un kit limitado (es decir, cualquiera menos el fusilero, piloto o tripulante), deberás esperar unos minutos antes de poder solicitar otro.
 
-> **“You are new to this squad, request again in a minute”**
+**“You are new to this squad, request again in a minute”**
 Normalmente hay que esperar unos 2 minutos tras unirse a una escuadra para poder solicitar un kit.
 
-**Cómo Soltar un Kit**
+**CÓMO SOLTAR UN KIT**
 
 Hay situaciones en las que querrás soltar tu kit. Por ejemplo, para que alguien recoja tu Kit de Médico y te cure, o simplemente para dejarle tu kit a alguien más diestro. Un kit en el suelo desaparecerá tras unos 5-10 minutos y volverá entonces a estar disponible para el equipo/escuadra.
 
-Secuencia:
+**Secuencia**:
 
 1. Mantén presionada la **tecla de Radio Secundaria /(T/)** (lo cual hará aparecer un menú *Comm Rose*), 
 2. Con la T todavía pulsada, selecciona la opción central del menú (**"SOLICITAR / SOLTAR KIT"**) y haz **click-derecho** sobre ella.
