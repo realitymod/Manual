@@ -1,9 +1,9 @@
 # ![](/assets/PR_v1_Logo.png)
 
-# **Project Reality: BF2 Manual - Finnish Translation - Updated for v1.5**
+# **Project Reality: BF2 Manual - Finnish Translation - Updated for v1.3**
 
 > Project Reality: BF2:sta on kehitelty lukuisten tekijöiden toimesta yli 10 vuoden ajan. Suuria muutoksia ja parannuksia on tehty tänä aikana. Tuhansien muutoksien jälkeen PR:ää on hankala tunnistaa Battlefield 2:n modiksi. Toivomme että tämä manuaali auttaa sinua alkuun PR:BF2:n haastavan maailman parissa. Mikäli sinulla on palautetta tai kysymyksiä manuaaliin liittyen, ota meihin yhteyttä foorumilla. 
-Tämä manuaali on päivitetty versiota v1.5 varten.
+Tämä manuaali on päivitetty versiota v1.3 varten.
 
 >
 > _PR-tiimi_

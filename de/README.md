@@ -1,12 +1,13 @@
 # ![](/assets/PR_v1_Logo.png)
 
 # **Project Reality: BF2 Manual - Updated for v1.5**
-
 > Project Reality: BF2 wurde von unzähligen Entwicklern über einen Zeitraum von mehr als 10 Jahren entwickelt. Während dieser Zeit wurden umfangreiche Änderungen und Verbesserungen vorgenommen. Nach Tausenden von Änderungen wird es immer schwieriger zu erkennen, dass PR eine Battlefield 2-Modifikation ist. Wir hoffen, dass Ihnen dieses Handbuch einen guten Einstieg in die herausfordernde Welt der PR:BF2 bietet. Wenn Sie Feedback oder unbeantwortete Fragen zu diesem Dokument haben, können Sie uns gerne in den Foren kontaktieren. ** Dieses Handbuch wurde für Version 1.5 von PR:BF2 aktualisiert.**
 >
 > _Das PR-Team_
 
-
+# ![](/assets/flag.png)
+http://www.realitymod.com/manual/pr_manual_de.pdf
+v1.5 Translation by Rotblut.
 
 **Einführung**
 
