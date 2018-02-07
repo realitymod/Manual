@@ -36,7 +36,7 @@
   * [Kit Anfrage Prozedur](kits/README.md#kit-anfrage-prozedur)
 * [The Squad Leader](the_squad_leader/README.md#der-Truppführer)
   * [Truppführung](the_squad_leader/README.md#Truppfuhrung)
-  * [Feindsichtung](the_squad_leader/README.md#sichtung-Feinde})
+  * [Feindsichtung](the_squad_leader/README.md#Feindsichtung})
   * [Der GTL Designator](the_squad_leader/README.md#gtld)
   * [Rally Punkte](the_squad_leader/README.md#Rallyepunkte)
   * [Unterstützungsanfrage ](the_squad_leader/README.md#Anfrage-Unterstützung)

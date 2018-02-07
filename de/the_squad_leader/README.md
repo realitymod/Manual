@@ -28,7 +28,7 @@ Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren (** PAGE 
 
  
 
-## _Feindsichtung_ {#sichtung-Feinde}
+## _Feindsichtung_ {#Feindsichtung}
 
  
 
