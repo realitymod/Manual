@@ -26,7 +26,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 2.png] (/ assets / cuserswouterdesktop2.png) ** Unterlauf Granatwerfer \ (UGL \) ** sind an der Unterseite von Sturmgewehren befestigt und werden gegen Gruppen von Feinden oder Individuen eingesetzt das kann nicht durch direktes Feuer getroffen werden. Sie sind auch gegen ungepanzerte Fahrzeuge wirksam und können effektiv bei Reichweiten weit über 200 m eingesetzt werden. Die Granaten müssen 28 m zurücklegen, bevor sie sich scharf stellen oder sie explodieren nicht. UGLs können auch Rauchgranaten abfeuern, die dazu dienen, die Sicht des Gegners zu verschleiern. Der Werfer-Bereich kann durch Verwendung eines Leitervisiers an der Waffe eingestellt werden. Während Sie auf dieses Ziel zielen, können Sie mit dem Radiomenü \ (Standard: Q \) den Entfernungsabstand einstellen. Wenn Ziele höher oder niedriger als die vordefinierten Entfernungen erfasst werden, ist es wichtig, dies zu kompensieren. Auf Nachtkarten hat der Grenadier auch Zugang zu Leuchtkugeln.
+! [C: \ Users \ Wouter \ Desktop \ 2.png] (/ assets / cuserswouterdesktop2.png) ** Unterlauf Granatwerfer \ (UGL \) ** sind an der Unterseite von Sturmgewehren befestigt und werden gegen Gruppen von Feinden oder Individuen eingesetzt das kann nicht durch direktes Feuer getroffen werden. Sie sind auch gegen ungepanzerte Fahrzeuge wirksam und können effektiv bei Reichweiten weit über 200 m eingesetzt werden. Die Granaten müssen 28 m zurücklegen, bevor sie sich scharf stellen oder sie explodieren nicht. UGLs können auch Rauchgranaten abfeuern, die dazu dienen, die Sicht des Gegners zu verschleiern. Der Werfer-Bereich kann durch Verwendung eines Leitervisiers an der Waffe eingestellt werden. Während Sie auf dieses Ziel zielen, können Sie mit dem Radiomenü \ (Standard: Q \) den Entfernungsabstand einstellen.[(siehe Feuerbereich einstellen)](../weapons_&_equipment/README.md#feuerbereich-einstellen) Wenn Ziele höher oder niedriger als die vordefinierten Entfernungen erfasst werden, ist es wichtig, dies zu kompensieren. Auf Nachtkarten hat der Grenadier auch Zugang zu Leuchtkugeln.
 
  
 
@@ -106,7 +106,8 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 12.png] (/ assets / cuserswouterdesktop12.png) ** Leichte Panzerabwehrraketen \ (LAT \) ** werden gegen ungepanzerte und leicht gepanzerte Ziele eingesetzt. Sie sind nicht wirksam gegen mittlere oder schwere Rüstung. Der Bediener muss den Werfer vorbereiten, indem er stillsteht, um das Ziel zu erreichen, was ungefähr 4 Sekunden dauert, bevor Sie eine optimale Schussgenauigkeit erreichen. Abhängig davon, welcher spezielle Werfer verwendet wird, hängt davon ab, wie sie funktionieren. Einige Trägerraketen sind zum Retikulum angeordnet, andere sind einstellbar, aber im Allgemeinen sind sie bis zu 500 m genau. Um ein Ziel effektiv auf Distanz zu treffen, müssen Geschicklichkeit und Timing erfolgreich sein. Die Reichweite eines Werfers kann eingestellt werden, indem ein an der Waffe angebrachter Visier mit einstellbarer Reichweite verwendet wird, während dieser Zielpunkt nach unten gerichtet wird. Um diesen Vorgang auszuführen, halten Sie die Kommunikations-Rose (Standard: Q \) gedrückt und wählen Sie den Bereich für Ihr Ziel aus. Wenn Sie Ziele zwischen den festgelegten Bereichen angreifen, können Sie den Angriffswinkel manuell kompensieren, indem Sie entweder Ihr Ziel erhöhen oder absenken, um einen effektiven Treffer am Ziel zu erzielen.
+! [C: \ Benutzer \ Wouter \ Desktop \ 12.png] (/ assets / cuserswouterdesktop12.png) ** Leichte Panzerabwehrraketen \ (LAT \) ** werden gegen ungepanzerte und leicht gepanzerte Ziele eingesetzt. Sie sind nicht wirksam gegen mittlere oder schwere Rüstung. Der Bediener muss den Werfer vorbereiten, indem er stillsteht, um das Ziel zu erreichen, was ungefähr 4 Sekunden dauert, bevor Sie eine optimale Schussgenauigkeit erreichen. Abhängig davon, welcher spezielle Werfer verwendet wird, hängt davon ab, wie sie funktionieren. Einige Trägerraketen sind zum Retikulum angeordnet, andere sind einstellbar, aber im Allgemeinen sind sie bis zu 500 m genau. Um ein Ziel effektiv auf Distanz zu treffen, müssen Geschicklichkeit und Timing erfolgreich sein. Die Reichweite eines Werfers kann eingestellt werden, indem ein an der Waffe angebrachter Visier mit einstellbarer Reichweite verwendet wird, während dieser Zielpunkt nach unten gerichtet wird. Um diesen Vorgang auszuführen, halten Sie die Kommunikations-Rose (Standard: Q \) gedrückt und wählen Sie den Bereich für Ihr Ziel aus.[(siehe Feuerbereich einstellen)]
+(../weapons_&_equipment/README.md#feuerbereich-einstellen)  Wenn Sie Ziele zwischen den festgelegten Bereichen angreifen, können Sie den Angriffswinkel manuell kompensieren, indem Sie entweder Ihr Ziel erhöhen oder absenken, um einen effektiven Treffer am Ziel zu erzielen.
 
  
 
@@ -215,22 +216,25 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
  
 
 ** Fallschirme ** werden von Piloten und Fallschirmjägern benutzt. Sie werden entfaltet, indem man hektisch den 9er-Schlüssel hämmert. Fallschirme müssen ausreichend lange geöffnet werden, bevor sie den Boden erreichen, um Verletzungen oder einen leichten Todesfall zu vermeiden. Nachdem dein Squad Leader auf einer Karte, die die Paradops unterstützt, den Boden erreicht hat, erscheint neben ihm eine spezielle Vorratskiste. Mit dieser Kiste können nur Kits angefordert werden.
-
  
 
 > _Kits: Pilot, ein beliebiges Spawn-Kit, das von einem Team mit einem Paradop-Spawnpunkt verwendet wird_
 
- 
 
 ## _Kimme & Korn / Nahbereichsvisier_ \ (BUIS \) _ {#buis}
 
- 
 
 ** Nahbereichsvisier \ (BUIS \) ** wurde entwickelt, um dem Bediener eine alternative Methode zur Erfassung eines Ziels in Abhängigkeit von der Situation zu bieten. Sofern die Waffe über BUIS verfügt, kann ein Spieler mit dem bereits vorhandenen wechsel Kamera-Taste \ (C ** \) zwischen dem Zielfernrohr und dem Visier wechseln. Der Spieler kann zwischen den Sichtmodi umschalten, was durch den BUIS-Buchstaben in der unteren rechten Ecke angezeigt wird. S für Ziehlfernrohr, B für Visier. Der BUIS-Modus kann jederzeit umgeschaltet werden, egal ob Sie auf das Ziel zielen oder nicht, aber Sie müssen erneut zielen, um zwischen den Modi zu wechseln.
 
- 
-
 ! [] (/assets/buis.png)
+
+### -Zielbereich einstellen {#zielbereich-einstellen}
+
+{% youtube %}
+
+https://www.youtube.com/watch?v=cLfdH1EHWPA
+
+{% endyoutube %}
 
  
 

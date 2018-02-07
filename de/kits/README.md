@@ -42,7 +42,7 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche 
 
 *! [] (/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
 
-*! [] (/assets/unarmed.png)**Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)] (../ kits / README.md # der Zivilist)
+*! [] (/assets/unarmed.png)**Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)] (../der Zivilist/README.md)
 
  
 

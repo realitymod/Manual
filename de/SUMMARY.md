@@ -30,6 +30,7 @@
 * [Waffen & Ausrüstung](weapons_&_equipment/README.md#Waffenausrüstungen)
   * [Generell Waffen & Ausrüstung](weapons_&_equipment/README.md#Generelle-Waffen-Ausrüstung)
   * [Kimme & Korn / Nahbereichsvisier](weapons_&_equipment/README.md#buis)
+*[Zielbereich einstellen] (waffen_&_ausrüstungen/README.md#zielbereich-einstellen)
 * [Ausrüstung](kits/README.md#kits)
   * [Ausrüstungs Auswahl](kits/README.md#kit-auswahl)
   * [Kit Anfrage Prozedur](kits/README.md#kit-anfrage-prozedur)
@@ -49,6 +50,6 @@
 * [Commander](commander/README.md#commander)
   * [Führen der Truppen](commander/README.md#führen-der-truppen)
   * [UAV](commander/README.md#uav)
-* [Zivilisten](the_civilian/civilian.md#zivilisten)
+* [Zivilisten](the_civilian/zivilisten/civilian.md)
 
 
