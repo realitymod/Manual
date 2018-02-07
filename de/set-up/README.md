@@ -15,110 +15,110 @@
 
 ## _Spiel Installation-                                                              {#spiel-installation}
 
-Mit PR: BF2 ist es nicht mehr erforderlich, dass Battlefield 2 ** installiert ist. PR: BF2 v1.3 und höher funktioniert als eigenständiges Spiel. Wenn Sie eine Version von PR: BF2 installiert haben, müssen Sie diese deinstallieren, bevor Sie PR: BF2 v1.5 installieren. ** Es gibt keinen Patch von und ältere Version zu v1.3 **!
+Mit PR: BF2 ist es nicht mehr erforderlich, dass Battlefield 2 ** installiert ist. PR: BF2 v1.3 und hÃ¶her funktioniert als eigenstÃ¤ndiges Spiel. Wenn Sie eine Version von PR: BF2 installiert haben, mÃ¼ssen Sie diese deinstallieren, bevor Sie PR: BF2 v1.5 installieren. ** Es gibt keinen Patch von und Ã¤ltere Version zu v1.3 **!
 
-Sie müssen den vollständigen PR: BF2 Installer von unserer Website herunterladen. Battlefield 2 muss nicht installiert sein.
+Sie mÃ¼ssen den vollstÃ¤ndigen PR: BF2 Installer von unserer Website herunterladen. Battlefield 2 muss nicht installiert sein.
 
 [** Download Vollversion: BF2 v1.5 Installer **] (http://www.realitymod.com/downloads)
 
-Der Installer-Download verwendet das [Torrent Protocol] (http://en.wikipedia.org/wiki/Torrent_file), das mit freier Software wie [qBittorrent] (http://www.qbittorrent.org/) verwendet werden kann. Der Download erfolgt in Form einer "[ISO] (http://en.wikipedia.org/wiki/ISO_image)" - Datei. Die Installation hängt von Ihrem Betriebssystem ab:
+Der Installer-Download verwendet das [Torrent Protocol] (http://en.wikipedia.org/wiki/Torrent_file), das mit freier Software wie [qBittorrent] (http://www.qbittorrent.org/) verwendet werden kann. Der Download erfolgt in Form einer "[ISO] (http://en.wikipedia.org/wiki/ISO_image)" - Datei. Die Installation hÃ¤ngt von Ihrem Betriebssystem ab:
 
-* Windows 8 und darüber hinaus Feature-Mounting als Teil des Betriebssystems. Rechtsklicken Sie auf das ISO und wählen Sie ** Mount ** oder doppelklicken Sie auf das ISO. Dies startet das Installationsprogramm.
+* Windows 8 und darÃ¼ber hinaus Feature-Mounting als Teil des Betriebssystems. Rechtsklicken Sie auf das ISO und wÃ¤hlen Sie ** Mount ** oder doppelklicken Sie auf das ISO. Dies startet das Installationsprogramm.
 * Wenn Sie auf Windows 7 oder niedriger sind, besteht Ihre beste Option darin, die ISO-Datei mit kostenloser Software wie [7-Zip] (http://www.7-zip.org/) oder [WinRar] zu extrahieren (http: / /www.rarlab.com/).
 
 Noch ein paar Punkte:
 
-* Mit der neuen Standalone-Version ist es auch nicht mehr erforderlich, sie im Battlefield 2-Ordner zu installieren. Fühlen Sie sich frei, PR: BF2 in einem Laufwerk und Ordner Ihrer Wahl zu installieren.
-* Wenn Sie BF2 installiert haben, können Sie es weiterhin spielen und andere BF2-Modifikationen abspielen. PR: BF2 stört sie nicht.
-* PR: BF2 verfügt über ** einen automatischen Updater. ** Sobald Sie also PR: BF2 installiert haben, können Sie den Updater verwenden, um Ihr Spiel automatisch auf neuere Versionen zu aktualisieren, wenn diese veröffentlicht werden.
-* PR: BF2 v1.3 und darüber hinaus enthält PR Mumble in seiner Installation. Es besteht also keine Notwendigkeit, dies separat herunterzuladen.
-* Wenn Sie Torrents nicht verwenden möchten, finden Sie in unseren Foren Spiegel für direkte HTTP-Downloads.
+* Mit der neuen Standalone-Version ist es auch nicht mehr erforderlich, sie im Battlefield 2-Ordner zu installieren. FÃ¼hlen Sie sich frei, PR: BF2 in einem Laufwerk und Ordner Ihrer Wahl zu installieren.
+* Wenn Sie BF2 installiert haben, kÃ¶nnen Sie es weiterhin spielen und andere BF2-Modifikationen abspielen. PR: BF2 stÃ¶rt sie nicht.
+* PR: BF2 verfÃ¼gt Ã¼ber ** einen automatischen Updater. ** Sobald Sie also PR: BF2 installiert haben, kÃ¶nnen Sie den Updater verwenden, um Ihr Spiel automatisch auf neuere Versionen zu aktualisieren, wenn diese verÃ¶ffentlicht werden.
+* PR: BF2 v1.3 und darÃ¼ber hinaus enthÃ¤lt PR Mumble in seiner Installation. Es besteht also keine Notwendigkeit, dies separat herunterzuladen.
+* Wenn Sie Torrents nicht verwenden mÃ¶chten, finden Sie in unseren Foren Spiegel fÃ¼r direkte HTTP-Downloads.
 
 ## _Der PR-Launcher_ {#der-pr-launcher}
 
-Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.5 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu öffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrüßt, hier können Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wählen Sie das gewünschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support für BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service für PR: BF2. Alle Ihre alten BF2-Konten \ (vor PR: BF2 v1.2 \) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation für BF2.
+Nach der Installation wird eine VerknÃ¼pfung fÃ¼r Project Reality: BF2 v1.5 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu Ã¶ffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrÃ¼ÃŸt, hier kÃ¶nnen Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wÃ¤hlen Sie das gewÃ¼nschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support fÃ¼r BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service fÃ¼r PR: BF2. Alle Ihre alten BF2-Konten \ (vor PR: BF2 v1.2 \) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation fÃ¼r BF2.
 
-Wenn Sie neu bei BF2: PR sind und noch nie ein Profil erstellt haben, klicken Sie einfach auf "Create New Account" und geben Sie die erforderlichen Details ein und wählen Sie einen sinnvollen, leicht auszusprechenden Benutzernamen. Um auf PR-Multiplayer-Servern spielen zu können, müssen Sie ein Online-Profil erstellen. Sie können alternativ ein Offline-Profil erstellen, wenn Sie dies wünschen.
+Wenn Sie neu bei BF2: PR sind und noch nie ein Profil erstellt haben, klicken Sie einfach auf "Create New Account" und geben Sie die erforderlichen Details ein und wÃ¤hlen Sie einen sinnvollen, leicht auszusprechenden Benutzernamen. Um auf PR-Multiplayer-Servern spielen zu kÃ¶nnen, mÃ¼ssen Sie ein Online-Profil erstellen. Sie kÃ¶nnen alternativ ein Offline-Profil erstellen, wenn Sie dies wÃ¼nschen.
 
 ![](/assets/launcher_1.png)                                    
 
-Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptmenü des PR-Launcher angezeigt. Alle Optionen werden auf der rechten Seite angezeigt.
+Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das HauptmenÃ¼ des PR-Launcher angezeigt. Alle Optionen werden auf der rechten Seite angezeigt.
 
-* ** Spielen: ** Damit wird das Spiel gestartet. Wenn Sie auf den Abwärtspfeil nach rechts klicken, können Sie nach Updates suchen oder ein anderes Profil auswählen. Wenn es ein Update gibt, wird es automatisch angezeigt, wenn Sie die Wiedergabetaste drücken. Dieses Update wird dann automatisch heruntergeladen und installiert. Der Fortschritt der Aktualisierung und Installation wird während des Betriebs angezeigt.
-* ** Optionen: ** In diesem Menü können Sie Ihre Video-, Grafik- und Audioeinstellungen bearbeiten. Es sind auch einige andere Optionen sowie die Konfiguration von PR Mumble Keys verfügbar.
-* ** Support: ** Dies ist praktisch, wenn Probleme auftreten. Es bietet viele Utilities wie das Löschen von zwischengespeicherten Ordnern oder die detaillierte Anzeige Ihrer Computerspezifikationen. Dies ist praktisch, wenn Sie unser Support-Team kontaktieren.
+* ** Spielen: ** Damit wird das Spiel gestartet. Wenn Sie auf den AbwÃ¤rtspfeil nach rechts klicken, kÃ¶nnen Sie nach Updates suchen oder ein anderes Profil auswÃ¤hlen. Wenn es ein Update gibt, wird es automatisch angezeigt, wenn Sie die Wiedergabetaste drÃ¼cken. Dieses Update wird dann automatisch heruntergeladen und installiert. Der Fortschritt der Aktualisierung und Installation wird wÃ¤hrend des Betriebs angezeigt.
+* ** Optionen: ** In diesem MenÃ¼ kÃ¶nnen Sie Ihre Video-, Grafik- und Audioeinstellungen bearbeiten. Es sind auch einige andere Optionen sowie die Konfiguration von PR Mumble Keys verfÃ¼gbar.
+* ** Support: ** Dies ist praktisch, wenn Probleme auftreten. Es bietet viele Utilities wie das LÃ¶schen von zwischengespeicherten Ordnern oder die detaillierte Anzeige Ihrer Computerspezifikationen. Dies ist praktisch, wenn Sie unser Support-Team kontaktieren.
 * ** Credits: ** Hier kannst du das gesamte PR: BF2-Team sehen, das viele Jahre an diesem Mod gearbeitet hat.
 * ** Spenden: ** Ein direkter Link zu unserer Online-Spendenseite.
-* ** Beenden: ** Verwenden Sie diese Schaltfläche, um den PR Launcher zu schließen und zu Windows zurückzukehren
+* ** Beenden: ** Verwenden Sie diese SchaltflÃ¤che, um den PR Launcher zu schlieÃŸen und zu Windows zurÃ¼ckzukehren
 
-> _Das Hauptmenü des Launchers enthält auch einen Nachrichten-Ticker, der unten in blau hervorgehoben ist, mit Ankündigungen zu bevorstehenden Ereignissen, Entwicklungsfortschritten und Entwickler-Blogs der PR: BF2-Community.
+> _Das HauptmenÃ¼ des Launchers enthÃ¤lt auch einen Nachrichten-Ticker, der unten in blau hervorgehoben ist, mit AnkÃ¼ndigungen zu bevorstehenden Ereignissen, Entwicklungsfortschritten und Entwickler-Blogs der PR: BF2-Community.
 
-## _Spielmenü Navigation_ {#spielmenü-navigation}
+## _SpielmenÃ¼ Navigation_ {#spielmenÃ¼-navigation}
 
-* ** Kooperativ: ** Erlaubt Ihnen, PR: BF2 mit computergesteuerten KI-Soldaten in den Teams zu spielen. Dieser Modus ist sehr nützlich, um die Spielmechanik und -ausrüstung kennenzulernen, bevor Sie an Online-Kämpfen teilnehmen.
-* ** Bereitstellung: ** Der Hauptmodus in Project Reality. Hier finden Sie intensive Kämpfe mit bis zu 100 menschlichen Spielern.
-* ** Kaserne: ** Dieses Menü gibt dir Zugang zu Replays mit Battlerecorder.
-* ** Optionen: ** Hier können Sie die Audiooptionen sowie das Tastaturlayout konfigurieren. Video-Optionen müssen im PR Launcher geändert werden.
-* ** Beenden: ** Verwenden Sie diese Schaltfläche, um das Spiel zu beenden und zu Windows zurückzukehren.
+* ** Kooperativ: ** Erlaubt Ihnen, PR: BF2 mit computergesteuerten KI-Soldaten in den Teams zu spielen. Dieser Modus ist sehr nÃ¼tzlich, um die Spielmechanik und -ausrÃ¼stung kennenzulernen, bevor Sie an Online-KÃ¤mpfen teilnehmen.
+* ** Bereitstellung: ** Der Hauptmodus in Project Reality. Hier finden Sie intensive KÃ¤mpfe mit bis zu 100 menschlichen Spielern.
+* ** Kaserne: ** Dieses MenÃ¼ gibt dir Zugang zu Replays mit Battlerecorder.
+* ** Optionen: ** Hier kÃ¶nnen Sie die Audiooptionen sowie das Tastaturlayout konfigurieren. Video-Optionen mÃ¼ssen im PR Launcher geÃ¤ndert werden.
+* ** Beenden: ** Verwenden Sie diese SchaltflÃ¤che, um das Spiel zu beenden und zu Windows zurÃ¼ckzukehren.
 
 ## _PR Mumble _ {#pr-mumble}
 
-Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System (VOIP) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primäre Kommunikationsmethode im 3D-Raum übertragen wird, der direktional und näherungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen können, wenn sie in der Nähe sind, und du kannst hören, in welche Richtung Du sprichst. Ähnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
+Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System (VOIP) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primÃ¤re Kommunikationsmethode im 3D-Raum Ã¼bertragen wird, der direktional und nÃ¤herungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen kÃ¶nnen, wenn sie in der NÃ¤he sind, und du kannst hÃ¶ren, in welche Richtung Du sprichst. Ã„hnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
 
-Nachdem du einem Trupp beigetreten bist, erhältst du Zugriff auf das Radio-Netz dieser Gruppe, das es dir ermöglicht, an andere Spieler in deinem Trupp zu senden, egal wo du dich auf der Karte befindest. Squad-Führer haben auch Zugang zu einem zusätzlichen Radio-Netz, das ihnen erlaubt, direkt mit dem Kommandanten, global zu allen anderen Gruppenführern und direkt zu einem einzelnen Gruppenführer zu kommunizieren. Wenn Sie ein Radio-Netz verwenden, wird beim Aktivieren und Deaktivieren des Radios ein Übertragungshinweis zu hören sein (der in den Audiooptionen des Startprogramms aktiviert werden kann). Die Standardschlüssel für die Übertragung über Mumble lauten wie folgt:
+Nachdem du einem Trupp beigetreten bist, erhÃ¤ltst du Zugriff auf das Radio-Netz dieser Gruppe, das es dir ermÃ¶glicht, an andere Spieler in deinem Trupp zu senden, egal wo du dich auf der Karte befindest. Squad-FÃ¼hrer haben auch Zugang zu einem zusÃ¤tzlichen Radio-Netz, das ihnen erlaubt, direkt mit dem Kommandanten, global zu allen anderen GruppenfÃ¼hrern und direkt zu einem einzelnen GruppenfÃ¼hrer zu kommunizieren. Wenn Sie ein Radio-Netz verwenden, wird beim Aktivieren und Deaktivieren des Radios ein Ãœbertragungshinweis zu hÃ¶ren sein (der in den Audiooptionen des Startprogramms aktiviert werden kann). Die StandardschlÃ¼ssel fÃ¼r die Ãœbertragung Ã¼ber Mumble lauten wie folgt:
 
 * ** Lokale Sprache \ (H \): ** Du sprichst mit Spielern im 3D-Radius um Sie herum.
 * Squad Radio \ (Num 0 \): ** Du sprichst mit deinem Squad, egal wo du bist.
-* Squad Leader zu allen anderen Squad Leaders Radio \ (\ * \): ** Du sprichst gleichzeitig mit allen Squad Leaders. Dieses Funknetz steht dem Kommandanten auch zur Verfügung, um mit der gleichen Abkürzung zu arbeiten.
-* ** Squad Leader zu einem bestimmten Squad Leader Radio \ (Num 1Num 9 \): ** Du sprichst mit einem bestimmten Squad Leader in deinem Team. Diese Kanäle im Netz stehen dem Kommandanten auch zur Verfügung, um sie mit der gleichen Abkürzung zu verwenden.
+* Squad Leader zu allen anderen Squad Leaders Radio \ (\ * \): ** Du sprichst gleichzeitig mit allen Squad Leaders. Dieses Funknetz steht dem Kommandanten auch zur VerfÃ¼gung, um mit der gleichen AbkÃ¼rzung zu arbeiten.
+* ** Squad Leader zu einem bestimmten Squad Leader Radio \ (Num 1Num 9 \): ** Du sprichst mit einem bestimmten Squad Leader in deinem Team. Diese KanÃ¤le im Netz stehen dem Kommandanten auch zur VerfÃ¼gung, um sie mit der gleichen AbkÃ¼rzung zu verwenden.
 * Squad leader zu Commander Radio \ (/ \): ** Du sprichst privat mit dem Kommandanten.
 
-PR Mumble wird zusammen mit PR: BF2 installiert. Es läuft neben der Installation des Spiels und erledigt automatisch alle clientseitigen Aufgaben, wie das Starten und Verbinden mit dem richtigen Mumble-Server. Die Spieler haben die Möglichkeit, ihre Kommunikationseinstellungen genau wie die vorherige Version zu ihrer Zufriedenheit zu konfigurieren. Dazu gehören Eingabe- und Ausgabegeräte, Volumes und die Tastaturkürzel. Die beiden wichtigsten Tasten sind die Voreinstellung: Lokaler Kanal \ (H \) und Squad Radio  \ (0 auf dem Numpad \) Die wichtigsten Tastaturkürzel können im PR Launcher auch über das Optionsmenü unter der Registerkarte PR Mumble bearbeitet werden.
+PR Mumble wird zusammen mit PR: BF2 installiert. Es lÃ¤uft neben der Installation des Spiels und erledigt automatisch alle clientseitigen Aufgaben, wie das Starten und Verbinden mit dem richtigen Mumble-Server. Die Spieler haben die MÃ¶glichkeit, ihre Kommunikationseinstellungen genau wie die vorherige Version zu ihrer Zufriedenheit zu konfigurieren. Dazu gehÃ¶ren Eingabe- und AusgabegerÃ¤te, Volumes und die TastaturkÃ¼rzel. Die beiden wichtigsten Tasten sind die Voreinstellung: Lokaler Kanal \ (H \) und Squad Radio  \ (0 auf dem Numpad \) Die wichtigsten TastaturkÃ¼rzel kÃ¶nnen im PR Launcher auch Ã¼ber das OptionsmenÃ¼ unter der Registerkarte PR Mumble bearbeitet werden.
 
-Es wird empfohlen, dass Sie das Haupteinstellungen-Bedienfeld direkt in der Mumble-Anwendung überprüfen, um sicherzustellen, dass alles korrekt eingerichtet ist. Suche dazu das PR-Symbol in der Taskleiste neben der Windows-Systemuhr \ (PR muss laufen), klicke auf auf das Symbol, um die Mumble-Oberfläche zu öffnen, und suche die Einstellungen oben. Danach erscheint das Einstellungsfenster und Du kannst Ihre Ein- und Ausgabegeräte konfigurieren und ändern
+Es wird empfohlen, dass Sie das Haupteinstellungen-Bedienfeld direkt in der Mumble-Anwendung Ã¼berprÃ¼fen, um sicherzustellen, dass alles korrekt eingerichtet ist. Suche dazu das PR-Symbol in der Taskleiste neben der Windows-Systemuhr \ (PR muss laufen), klicke auf auf das Symbol, um die Mumble-OberflÃ¤che zu Ã¶ffnen, und suche die Einstellungen oben. Danach erscheint das Einstellungsfenster und Du kannst Ihre Ein- und AusgabegerÃ¤te konfigurieren und Ã¤ndern
 
 ![](/assets/mumblelogo.png)
 
-PR Mumble integriert sich auch in das HUD-Display von BF2. Während des Spiels sehen Sie die Namen der sprechenden Spieler, wobei jede Farbe darstellt, welchen Kanal sie übertragen, der in der unteren linken Ecke des Bildschirms angezeigt wird. In der unteren rechten Ecke zeigt mumble auch an, welchen Kanal Sie mit einer anderen Farbe senden, je nachdem, welchen Kanal Sie verwenden. Es zeigt auch an, ob Ihr Mikrofon oder Ihre Lautsprecher stummgeschaltet sind und ob es Probleme mit dem Mumble-Client gibt.
+PR Mumble integriert sich auch in das HUD-Display von BF2. WÃ¤hrend des Spiels sehen Sie die Namen der sprechenden Spieler, wobei jede Farbe darstellt, welchen Kanal sie Ã¼bertragen, der in der unteren linken Ecke des Bildschirms angezeigt wird. In der unteren rechten Ecke zeigt mumble auch an, welchen Kanal Sie mit einer anderen Farbe senden, je nachdem, welchen Kanal Sie verwenden. Es zeigt auch an, ob Ihr Mikrofon oder Ihre Lautsprecher stummgeschaltet sind und ob es Probleme mit dem Mumble-Client gibt.
 
 ! [] (/ assets / mumble_1.png)
 
 ! [] (/ assets / mumble_2.png)
 
-Übertragendes Mikrofon / Stummgeschaltete Lautsprecher / Stummgeschaltet / Getrennt
+Ãœbertragendes Mikrofon / Stummgeschaltete Lautsprecher / Stummgeschaltet / Getrennt
 
 ## _Troubleshooting_ {#Troubleshooting}
 
-* PR: BF2 hat eine eigene Dateiprüfung, bevor Sie das Spiel starten. Sie können mit geänderten Dateien nicht online spielen. Sie können sie weiterhin offline verwenden.
+* PR: BF2 hat eine eigene DateiprÃ¼fung, bevor Sie das Spiel starten. Sie kÃ¶nnen mit geÃ¤nderten Dateien nicht online spielen. Sie kÃ¶nnen sie weiterhin offline verwenden.
 * PR: BF2 muss mit dem PR Launcher gestartet werden. Das Starten von BF2.EXE oder PRBF2.EXE wird nicht funktionieren.
-* Zusätzlich zum integrierten Server-Browser können Sie mit dem webbasierten [PRSpy] (http://realitymodfiles.com/geze/prspy/) PR: BF2-Server durchsuchen und beitreten. PRSpy verfügt auch über eine Freundesliste, die das Finden von Freunden erleichtert.
+* ZusÃ¤tzlich zum integrierten Server-Browser kÃ¶nnen Sie mit dem webbasierten [PRSpy] (http://realitymodfiles.com/geze/prspy/) PR: BF2-Server durchsuchen und beitreten. PRSpy verfÃ¼gt auch Ã¼ber eine Freundesliste, die das Finden von Freunden erleichtert.
 
 Direkter Link zu PRSpy: [http://www.realitymod.com/prspy/](http://www.realitymod.com/prspy/)
 
-* Es gibt auch eine Android-App mit dem gleichen Namen. Diese App ermöglicht es Ihnen, Serverinformationen, aktuelle Karten, Online-Player und eine Kartengalerie mit detaillierten Beschreibungen der Assets in jedem Layout zu sehen. Außerdem können Sie Benachrichtigungen aktivieren, die Sie informieren, wenn ein Server Ihre Lieblingskarte oder Ihren Lieblingsmodus spielt. Sie finden es [hier.] (Https://play.google.com/store/apps/details?id=pt.uturista.prspy&hl=de)
-* Wenn der Server, dem Sie beitreten möchten, voll ist, können Sie Auto Deploy verwenden. Wählen Sie den Server, klicken Sie auf "Server Info" und dann "AUTO DEPLOY". Ein Dialogfeld wird geöffnet, in dem die verbleibenden Schritte erläutert werden. Dann lehnen Sie sich einfach zurück und warten Sie darauf, verbunden zu werden, sobald sich ein Schlitz öffnet.
-* Das Support-Menü im PR Launcher kann sehr nützlich sein. Es kann alle Systeminformationen Ihres Computers sammeln, damit Sie sie kopieren und in unsere Support-Foren einfügen können, wenn Sie Hilfe benötigen. Es kann Ihnen auch Ihren CD-Key Hash liefern.
+* Es gibt auch eine Android-App mit dem gleichen Namen. Diese App ermÃ¶glicht es Ihnen, Serverinformationen, aktuelle Karten, Online-Player und eine Kartengalerie mit detaillierten Beschreibungen der Assets in jedem Layout zu sehen. AuÃŸerdem kÃ¶nnen Sie Benachrichtigungen aktivieren, die Sie informieren, wenn ein Server Ihre Lieblingskarte oder Ihren Lieblingsmodus spielt. Sie finden es [hier.] (Https://play.google.com/store/apps/details?id=pt.uturista.prspy&hl=de)
+* Wenn der Server, dem Sie beitreten mÃ¶chten, voll ist, kÃ¶nnen Sie Auto Deploy verwenden. WÃ¤hlen Sie den Server, klicken Sie auf "Server Info" und dann "AUTO DEPLOY". Ein Dialogfeld wird geÃ¶ffnet, in dem die verbleibenden Schritte erlÃ¤utert werden. Dann lehnen Sie sich einfach zurÃ¼ck und warten Sie darauf, verbunden zu werden, sobald sich ein Schlitz Ã¶ffnet.
+* Das Support-MenÃ¼ im PR Launcher kann sehr nÃ¼tzlich sein. Es kann alle Systeminformationen Ihres Computers sammeln, damit Sie sie kopieren und in unsere Support-Foren einfÃ¼gen kÃ¶nnen, wenn Sie Hilfe benÃ¶tigen. Es kann Ihnen auch Ihren CD-Key Hash liefern.
 
-Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründen verwendet werden können:
+Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen GrÃ¼nden verwendet werden kÃ¶nnen:
 
 * [PR: BF2 Bugs] (http://www.realitymod.com/forum/f26-pr-bf2-bugs) Unterforum, um Fehler zu melden.
 * [PR: BF2 Feedback] (http://www.realitymod.com/forum/f252-pr-bf2-feedback) Unterforum, um Ihr Feedback zu PR: BF2 zu schreiben.
-* [PR: BF2 Support] (http://www.realitymod.com/forum/f27-pr-bf2-support) Foren für alle Ihre Probleme in Bezug auf das Ausführen und Installieren des Spiels und Fehler, die Sie bekommen.
-* [Allgemeiner technischer Support] (http://www.realitymod.com/forum/f360-general-technical-support) für alle Ihre technischen Fragen.
+* [PR: BF2 Support] (http://www.realitymod.com/forum/f27-pr-bf2-support) Foren fÃ¼r alle Ihre Probleme in Bezug auf das AusfÃ¼hren und Installieren des Spiels und Fehler, die Sie bekommen.
+* [Allgemeiner technischer Support] (http://www.realitymod.com/forum/f360-general-technical-support) fÃ¼r alle Ihre technischen Fragen.
 * [PR In-Game Taktiken und Strategien] (http://www.realitymod.com/forum/f137-pr-game-tactics-strategies) wird dir weiter helfen als dieses Handbuch, um alle Elemente von PR zu meistern: BF2 mit der Community schriftliche Anleitungen und Tutorials.
 
 ## _Default Game Controls_ {#default-game-controls}
 
 ** Allgemeine Kontrollen **
 
-| Feststelltaste / Home | Kit-Auswahl, Squad-Auswahl und Map-Menüs |
+| Feststelltaste / Home | Kit-Auswahl, Squad-Auswahl und Map-MenÃ¼s |
 | --- | --- |
 | ** Tab ** | Anzeigetafel anzeigen |
 | ** Bildschirm drucken ** | Nimm Screenshot |
-| ** M ** | Kartenüberlagerung ein- / ausblenden |
+| ** M ** | KartenÃ¼berlagerung ein- / ausblenden |
 | ** N ** | Zoomstufe der Minikarte | wechseln
 | ** Q ** | Hauptradio-Rose anzeigen |
-| ** T ** | Anzeige sekundäre Radio-Rose |
+| ** T ** | Anzeige sekundÃ¤re Radio-Rose |
 | ** Linke Alt ** | 3D-Markierungen ein- / ausblenden (nur innerhalb von 50m sichtbar) |
 | ** C ** | BUIS umschalten / Kamera wechseln |
 | ** Ende / Grab ** | Konsole |
@@ -131,7 +131,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründen
 | ** Rechte Maustaste ** | Alt Feuer oder umschalten Ansicht |
 | ** R ** | Neu laden |
 | ** F ** | Waffenwechsel |
-| ** 1-9 ** | Wähle Waffe |
+| ** 1-9 ** | WÃ¤hle Waffe |
 
 **Bewegung**
 
@@ -147,18 +147,18 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründen
 
 | ** F1-F8 ** | Fahrzeugposition wechseln |
 | --- | --- |
-| ** X ** | Vergrößerungsfaktor vergrößern / flackern |
+| ** X ** | VergrÃ¶ÃŸerungsfaktor vergrÃ¶ÃŸern / flackern |
 | ** 6-9 ** | Kamerapositionen \ (Nur Hubschrauber und Flugzeuge \) |
 | ** R ** | Neu laden |
 | ** F ** | Waffenwechsel |
-| ** 1-9 ** | Wähle Waffe |
+| ** 1-9 ** | WÃ¤hle Waffe |
 
 **Kommunikation**
 
-| ** J ** | Chat für alle Spieler |
+| ** J ** | Chat fÃ¼r alle Spieler |
 | --- | --- |
-| ** K ** | Chatte nur für dein Team |
-| ** L ** | Chatte nur für deinen Squad |
+| ** K ** | Chatte nur fÃ¼r dein Team |
+| ** L ** | Chatte nur fÃ¼r deinen Squad |
 | ** Seite nach oben ** | Anfrage annehmen |
 | ** Seite nach unten ** | Anfrage ablehnen |
 | ** H ** | PR Mumble Proximity Lokaler Kanal |

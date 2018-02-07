@@ -1,12 +1,12 @@
-# ** Der Truppführer ** {#der-Truppführer}
+# ** Der TruppfÃ¼hrer ** {#der-TruppfÃ¼hrer}
 
  
 
-## _Truppführung_ {#Truppführung}
+## _TruppfÃ¼hrung_ {#TruppfÃ¼hrung}
 
  
 
-Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marker auf die Karte setzen, damit seine Squad-Mitglieder ihm folgen können. Sie werden einen Marker auf ihrem Kompass finden, um zu folgen, sowie ein Symbol auf der Karte. Der Squad Leader sollte diese so oft wie möglich benutzen und kann damit auch die Entfernung zu einem Ziel leicht erreichen. Er kann dies von der Minikarte aus tun, indem er mit der rechten Maustaste darauf klickt und den Marker platziert oder indem du die ** sekundäre Radiotaste \ (T \) ** drückst und auf das Ziel zeigst und einen der Knöpfe benutzt, um den Marker zu platzieren.
+Wie im Abschnitt "Schlachtfeld-Navigation" erklÃ¤rt, kann der Squad-Leader Marker auf die Karte setzen, damit seine Squad-Mitglieder ihm folgen kÃ¶nnen. Sie werden einen Marker auf ihrem Kompass finden, um zu folgen, sowie ein Symbol auf der Karte. Der Squad Leader sollte diese so oft wie mÃ¶glich benutzen und kann damit auch die Entfernung zu einem Ziel leicht erreichen. Er kann dies von der Minikarte aus tun, indem er mit der rechten Maustaste darauf klickt und den Marker platziert oder indem du die ** sekundÃ¤re Radiotaste \ (T \) ** drÃ¼ckst und auf das Ziel zeigst und einen der KnÃ¶pfe benutzt, um den Marker zu platzieren.
 
  
 
@@ -18,7 +18,7 @@ Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marker
 
 *! [] (../ assets / defensivmarker.png) ** Verteidigen **
 
-*! [] (../ assets / demolish.png) ** Zerstören **
+*! [] (../ assets / demolish.png) ** ZerstÃ¶ren **
 
 *! [] (../ assets / move.png) ** Bewegen **
 
@@ -32,17 +32,17 @@ Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren (** PAGE 
 
  
 
-Der ** Squad Leader ** in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in der Lage, gegnerische Einheiten auf der Karte zu markieren und Kontaktberichte an den Kommandanten des Teams mit der Fähigkeit zu senden, ein Ziel auf der Karte des Teams zu markieren. Gehen Sie folgendermaßen vor um diese Funktionen auszuführen:
+Der ** Squad Leader ** in PR: BF2 hat viele funktionelle FÃ¤higkeiten. Er ist in der Lage, gegnerische Einheiten auf der Karte zu markieren und Kontaktberichte an den Kommandanten des Teams mit der FÃ¤higkeit zu senden, ein Ziel auf der Karte des Teams zu markieren. Gehen Sie folgendermaÃŸen vor um diese Funktionen auszufÃ¼hren:
 
  
 
-1 Legen Sie eine Zielpositionsreihenfolge mit der Kommode fest, um eine ungefähre Entfernung zum Kontakt zu erhalten. (Öffnen Sie die Karte, um den Zielbereich unter der Karte zu sehen).
+1 Legen Sie eine Zielpositionsreihenfolge mit der Kommode fest, um eine ungefÃ¤hre Entfernung zum Kontakt zu erhalten. (Ã–ffnen Sie die Karte, um den Zielbereich unter der Karte zu sehen).
 
-2 Wähle das Radio aus deinem Inventar und verwende ** den alternativen Feuerschlüssel \ (RMB \) **, um es zu aktivieren.
+2 WÃ¤hle das Radio aus deinem Inventar und verwende ** den alternativen FeuerschlÃ¼ssel \ (RMB \) **, um es zu aktivieren.
 
-3. Halten Sie nun ** die Hauptradio-Taste \ (Q \) ** gedrückt und wählen Sie die Schaltfläche ** KONTAKTABSTAND EINSTELLEN ** und wählen Sie dann die Entfernung des Ziels aus der Liste.
+3. Halten Sie nun ** die Hauptradio-Taste \ (Q \) ** gedrÃ¼ckt und wÃ¤hlen Sie die SchaltflÃ¤che ** KONTAKTABSTAND EINSTELLEN ** und wÃ¤hlen Sie dann die Entfernung des Ziels aus der Liste.
 
-4 Öffnen Sie das Hauptmenü des Funkgeräts erneut und wählen Sie den Typ des Zielkontakts aus, der auf der Karte markiert werden soll. Jeder Spieler kann bis zu 3 Marker platzieren, die 5 Minuten lang bleiben.
+4 Ã–ffnen Sie das HauptmenÃ¼ des FunkgerÃ¤ts erneut und wÃ¤hlen Sie den Typ des Zielkontakts aus, der auf der Karte markiert werden soll. Jeder Spieler kann bis zu 3 Marker platzieren, die 5 Minuten lang bleiben.
 
  
 
@@ -58,19 +58,19 @@ Der ** Squad Leader ** in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in 
 
  
 
-Das Squad Leader-Kit und das Spotter-Set, die von konventionellen Streitkräften verwendet werden, sind mit ** GTLD \ (Ground Target Laser Designator \) ausgestattet. ** Dieses Gerät hat einen besseren Zoom als das normale Fernglas, enthält einen Entfernungsmesser und erlaubt es Ihnen, feindliche Ziele zu markieren, die durch Bomben oder Raketen von befreundeten \ (und feindlichen \) Lufteinheiten getroffen werden können.
+Das Squad Leader-Kit und das Spotter-Set, die von konventionellen StreitkrÃ¤ften verwendet werden, sind mit ** GTLD \ (Ground Target Laser Designator \) ausgestattet. ** Dieses GerÃ¤t hat einen besseren Zoom als das normale Fernglas, enthÃ¤lt einen Entfernungsmesser und erlaubt es Ihnen, feindliche Ziele zu markieren, die durch Bomben oder Raketen von befreundeten \ (und feindlichen \) Lufteinheiten getroffen werden kÃ¶nnen.
 
  
 
-Wenn der GTLD ausgestattet ist, können Sie mit der rechten Maustaste klicken, um die Zoomstufe zu erhöhen, und mit der linken Maustaste klicken, um den Ein- / Ausschaltzustand zu ändern. Während des markierens wird die GTLD ein Laserpunkt, dargestellt mit einem kleinen grünen Quadrat und der Entfernung zu ihr, die Sie auf Ihrem Ziel halten müssen, bis die Bombe / Rakete trifft, im Gegensatz zu früheren Versionen, wo der Laserpunkt am Ziel "kleben" blib auch ohne Sichtverbindung.
+Wenn der GTLD ausgestattet ist, kÃ¶nnen Sie mit der rechten Maustaste klicken, um die Zoomstufe zu erhÃ¶hen, und mit der linken Maustaste klicken, um den Ein- / Ausschaltzustand zu Ã¤ndern. WÃ¤hrend des markierens wird die GTLD ein Laserpunkt, dargestellt mit einem kleinen grÃ¼nen Quadrat und der Entfernung zu ihr, die Sie auf Ihrem Ziel halten mÃ¼ssen, bis die Bombe / Rakete trifft, im Gegensatz zu frÃ¼heren Versionen, wo der Laserpunkt am Ziel "kleben" blib auch ohne Sichtverbindung.
 
  
 
-> Aufgrund von Motoreinschränkungen kann es Situationen geben, in denen die Laserdarstellung nicht auf dem Ziel angezeigt wird. Dies hat keine Auswirkungen im Spiel, du kannst zuverlässig das Zentrum der Sicht auf das Ziel halten, bis die Arbeit getan ist.
+> Aufgrund von MotoreinschrÃ¤nkungen kann es Situationen geben, in denen die Laserdarstellung nicht auf dem Ziel angezeigt wird. Dies hat keine Auswirkungen im Spiel, du kannst zuverlÃ¤ssig das Zentrum der Sicht auf das Ziel halten, bis die Arbeit getan ist.
 
  
 
-Während du mit der GTLD beobachtest, kannst du außerdem auf das Radio-Hauptmenü \ (Q \) zugreifen, um Luftunterstützung anzufordern (CAS \) oder Mörserfeuermissionen aufzurufen. Dadurch wird automatisch eine Textnachricht an Ihr Team gesendet, in der die Anfrage detailliert beschrieben wird, und ein Zielmarker zur Karte hinzugefügt. \ (Du musst die Entfernung zum Ziel mit der gleichen Methode wie für das Auffinden von Feinden angeben.\)
+WÃ¤hrend du mit der GTLD beobachtest, kannst du auÃŸerdem auf das Radio-HauptmenÃ¼ \ (Q \) zugreifen, um LuftunterstÃ¼tzung anzufordern (CAS \) oder MÃ¶rserfeuermissionen aufzurufen. Dadurch wird automatisch eine Textnachricht an Ihr Team gesendet, in der die Anfrage detailliert beschrieben wird, und ein Zielmarker zur Karte hinzugefÃ¼gt. \ (Du musst die Entfernung zum Ziel mit der gleichen Methode wie fÃ¼r das Auffinden von Feinden angeben.\)
 
  
 
@@ -78,43 +78,43 @@ Während du mit der GTLD beobachtest, kannst du außerdem auf das Radio-Hauptmenü 
 
  
 
-Ein Squad Leader kann ** Rally Points \ (RP \) ** festlegen. Dies ermöglicht gefallenen Gruppenmitgliedern, sich in einem sicheren Bereich mit dem Rest ihres Trupps neu zu gruppieren. Um eine RP zu platzieren, drücken Sie ** die sekundäre Radiotaste \ (T \) ** und wählen ** Setze RALLY POINT **.
+Ein Squad Leader kann ** Rally Points \ (RP \) ** festlegen. Dies ermÃ¶glicht gefallenen Gruppenmitgliedern, sich in einem sicheren Bereich mit dem Rest ihres Trupps neu zu gruppieren. Um eine RP zu platzieren, drÃ¼cken Sie ** die sekundÃ¤re Radiotaste \ (T \) ** und wÃ¤hlen ** Setze RALLY POINT **.
 
  
 
-Die folgenden Bedingungen müssen erfüllt sein, damit das RP erfolgreich platziert werden kann:
+Die folgenden Bedingungen mÃ¼ssen erfÃ¼llt sein, damit das RP erfolgreich platziert werden kann:
 
  
 
-* Sie sind der Anführer Ihrer Truppe und sind mit dem Offizierskit ausgestattet.
+* Sie sind der AnfÃ¼hrer Ihrer Truppe und sind mit dem Offizierskit ausgestattet.
 
-* Sie müssen 2 Squad-Mitglieder in Ihrer Nähe haben.
+* Sie mÃ¼ssen 2 Squad-Mitglieder in Ihrer NÃ¤he haben.
 
 * Feind ist weiter als 50 m entfernt auf 1x1km Karten oder 125m oder 2x2km und 4x4km Karten.
 
  
 
-Der Sammelpunkt verschwindet automatisch nach 60 Sekunden, außer:
+Der Sammelpunkt verschwindet automatisch nach 60 Sekunden, auÃŸer:
 
-* Es befindet sich innerhalb von 2x großen Kartenrasterfeldern eines befreundeten FOB
+* Es befindet sich innerhalb von 2x groÃŸen Kartenrasterfeldern eines befreundeten FOB
 
-* Es ist innerhalb von 2x großen Kartenrasterfeldern eines freundlichen APC oder IFV. Nur diejenigen, von denen Sie Kits anfordern können.
-
- 
-
-Ein Feind, der innerhalb von 50m auf 1x1km Karten oder 125m oder 2x2km und 4x4km Karten vom Sammelpunkt kommt, wird dies deaktivieren. Auf größeren Karten sind es 600m.
+* Es ist innerhalb von 2x groÃŸen Kartenrasterfeldern eines freundlichen APC oder IFV. Nur diejenigen, von denen Sie Kits anfordern kÃ¶nnen.
 
  
 
-Ein Sammelpunkt wird alle 1 Minute wieder aufgeladen. Es sei denn, es wurde überrannt. In diesem Fall müssen Sie 5 Minuten warten.
+Ein Feind, der innerhalb von 50m auf 1x1km Karten oder 125m oder 2x2km und 4x4km Karten vom Sammelpunkt kommt, wird dies deaktivieren. Auf grÃ¶ÃŸeren Karten sind es 600m.
 
  
 
-## _Unterstützungsanfrage _ {#Anfrage-Unterstützung}
+Ein Sammelpunkt wird alle 1 Minute wieder aufgeladen. Es sei denn, es wurde Ã¼berrannt. In diesem Fall mÃ¼ssen Sie 5 Minuten warten.
 
  
 
-Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von anderen Trupps anzufordern. Dazu muss er sein Radio aktivieren und dann ** den sekundären Radiotaste \ (T \) drücken.** Dadurch wird das Menü zum Anfordern von Support und zum Bereitstellen von Team-Assets geöffnet. Die unteren fünf Befehle beginnend mit ** "Brauche ..." ** werden einen Kartenmarker an Ihrer Position platzieren. Sie senden auch eine Funknachricht an Ihr Team, um sie auf Ihre Anfrage aufmerksam zu machen. Die ** "Brauche AREA ATTACK" ** -Anforderung verhält sich ein wenig anders als der Rest. Auf einigen Karten können konventionelle Streitkräfte mit diesem Befehl ein ** Artilleriefeuer ** anfordern. Wenn Ihre Anfrage vom Kommandeur des Teams genehmigt wurde, wird der Angriff nach etwa einer Minute erfolgen. Nach dem Laden einer neuen Karte oder dem Ausführen eines Gebietsangriffs dauert es 30 Minuten, bis es wieder verfügbar ist. Ähnlich unkonventionelle Fraktionen haben auf den meisten Karten alle 20 Minuten Zugriff auf Artilleriefeuer.
+## _UnterstÃ¼tzungsanfrage _ {#Anfrage-UnterstÃ¼tzung}
+
+ 
+
+Der GruppenfÃ¼hrer kann sein FunkgerÃ¤t auch verwenden, um UnterstÃ¼tzung von anderen Trupps anzufordern. Dazu muss er sein Radio aktivieren und dann ** den sekundÃ¤ren Radiotaste \ (T \) drÃ¼cken.** Dadurch wird das MenÃ¼ zum Anfordern von Support und zum Bereitstellen von Team-Assets geÃ¶ffnet. Die unteren fÃ¼nf Befehle beginnend mit ** "Brauche ..." ** werden einen Kartenmarker an Ihrer Position platzieren. Sie senden auch eine Funknachricht an Ihr Team, um sie auf Ihre Anfrage aufmerksam zu machen. Die ** "Brauche AREA ATTACK" ** -Anforderung verhÃ¤lt sich ein wenig anders als der Rest. Auf einigen Karten kÃ¶nnen konventionelle StreitkrÃ¤fte mit diesem Befehl ein ** Artilleriefeuer ** anfordern. Wenn Ihre Anfrage vom Kommandeur des Teams genehmigt wurde, wird der Angriff nach etwa einer Minute erfolgen. Nach dem Laden einer neuen Karte oder dem AusfÃ¼hren eines Gebietsangriffs dauert es 30 Minuten, bis es wieder verfÃ¼gbar ist. Ã„hnlich unkonventionelle Fraktionen haben auf den meisten Karten alle 20 Minuten Zugriff auf Artilleriefeuer.
 
  
 
@@ -122,7 +122,7 @@ Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von ander
 
 >
 
-> Unterstützung über Radio anfordern
+> UnterstÃ¼tzung Ã¼ber Radio anfordern
 
  
 
@@ -130,7 +130,7 @@ Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von ander
 
  
 
-Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den der Commander des Teams ebenfalls besitzt. Bei der Aufstellung und dem Bau einer Feld Operations Basis \ (FOB \) benötigt ein Squad Leader einen Officerkit und eine schwere Vorratskiste in einem Umkreis von 50 Metern um seine Umgebung. 2 leichte Vorratskisten bieten die gleichen Fähigkeiten wie 1 schwere Vorratskiste, um das gleiche Ziel zu erreichen. Aufständische, Taliban und die Hamas können nur Verstecke, Mörser und Panzerabwehrstellungen für ihr Team einsetzen, die keine Vorräte für den Bau dieser Strukturen benötigen. Um diese Funktion auszuführen, ist entweder ein Zellführer oder ein Kollaborationskit erforderlich.
+Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den der Commander des Teams ebenfalls besitzt. Bei der Aufstellung und dem Bau einer Feld Operations Basis \ (FOB \) benÃ¶tigt ein Squad Leader einen Officerkit und eine schwere Vorratskiste in einem Umkreis von 50 Metern um seine Umgebung. 2 leichte Vorratskisten bieten die gleichen FÃ¤higkeiten wie 1 schwere Vorratskiste, um das gleiche Ziel zu erreichen. AufstÃ¤ndische, Taliban und die Hamas kÃ¶nnen nur Verstecke, MÃ¶rser und Panzerabwehrstellungen fÃ¼r ihr Team einsetzen, die keine VorrÃ¤te fÃ¼r den Bau dieser Strukturen benÃ¶tigen. Um diese Funktion auszufÃ¼hren, ist entweder ein ZellfÃ¼hrer oder ein Kollaborationskit erforderlich.
 
  
 
@@ -138,23 +138,23 @@ Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den d
 
 >
 
-> Bau von Stellungen über Funk
+> Bau von Stellungen Ã¼ber Funk
 
  
 
-Gehen Sie folgendermaßen vor, um eine Struktur bereitzustellen:
+Gehen Sie folgendermaÃŸen vor, um eine Struktur bereitzustellen:
 
  
 
-1 Wählen und aktivieren Sie das Radio / Handy.
+1 WÃ¤hlen und aktivieren Sie das Radio / Handy.
 
 2 Schauen Sie in die Richtung, in die die Struktur positioniert werden soll. Es wird 10m vor dir platziert.
 
-3. Sobald Sie es bereitstellen, drücken Sie die ** sekundäre Radiomenü-Taste \ (T \).**
+3. Sobald Sie es bereitstellen, drÃ¼cken Sie die ** sekundÃ¤re RadiomenÃ¼-Taste \ (T \).**
 
-4 Klicken Sie mit der linken Maustaste auf ** Bauen / Zerstören. **
+4 Klicken Sie mit der linken Maustaste auf ** Bauen / ZerstÃ¶ren. **
 
-5 Wählen Sie die Struktur, die Sie erstellen möchten, aus der Liste aus.
+5 WÃ¤hlen Sie die Struktur, die Sie erstellen mÃ¶chten, aus der Liste aus.
 
  
 
@@ -162,23 +162,23 @@ Gehen Sie folgendermaßen vor, um eine Struktur bereitzustellen:
 
 >
 
-> Schaufel zum Aufbau von Stellungen benötigt.
+> Schaufel zum Aufbau von Stellungen benÃ¶tigt.
 
  
 
-Spieler, die gerade dort stehen, wo der entfaltbare Spieler platziert wird, werden sterben. Stellen Sie also sicher, dass Ihr Squad weiß, wo Sie bauen wollen. Soldaten müssen ** das Verschanzungswerkzeug ** verwenden, um Stellungen aufzubauen. Der Bau ist abgeschlossen, sobald das Graben aufhört.
+Spieler, die gerade dort stehen, wo der entfaltbare Spieler platziert wird, werden sterben. Stellen Sie also sicher, dass Ihr Squad weiÃŸ, wo Sie bauen wollen. Soldaten mÃ¼ssen ** das Verschanzungswerkzeug ** verwenden, um Stellungen aufzubauen. Der Bau ist abgeschlossen, sobald das Graben aufhÃ¶rt.
 
  
 
-Platzieren Sie die Deployables auf freiem Gelände ohne Hindernisse, um unerwünschte Effekte und unerwünschte Platzierungspositionen zu vermeiden. Das bereitstellbare Objekt wird nur angezeigt, wenn sich der Aufstellungsort nicht zu weit über oder unter Ihrer Position befindet.
+Platzieren Sie die Deployables auf freiem GelÃ¤nde ohne Hindernisse, um unerwÃ¼nschte Effekte und unerwÃ¼nschte Platzierungspositionen zu vermeiden. Das bereitstellbare Objekt wird nur angezeigt, wenn sich der Aufstellungsort nicht zu weit Ã¼ber oder unter Ihrer Position befindet.
 
  
 
-Um eine gebaute Struktur zu demontieren, müssen die Mitglieder der Gruppe die Werkzeuge der Verschanzungswerkzeuge verwenden, um eine Position zu zerstören. Anschließend kann der Squad Leader mit der rechten Maustaste auf das Menü ** DEPLOY / REMOVE ASSET ** klicken und auf das Objekt zeigen, das nicht mehr als 5 m entfernt ist. um es vollständig zu entfernen.
+Um eine gebaute Struktur zu demontieren, mÃ¼ssen die Mitglieder der Gruppe die Werkzeuge der Verschanzungswerkzeuge verwenden, um eine Position zu zerstÃ¶ren. AnschlieÃŸend kann der Squad Leader mit der rechten Maustaste auf das MenÃ¼ ** DEPLOY / REMOVE ASSET ** klicken und auf das Objekt zeigen, das nicht mehr als 5 m entfernt ist. um es vollstÃ¤ndig zu entfernen.
 
  
 
-Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen neben ihnen aufgerüstet werden. Mehrere Taschen werden benötigt, um eine Einlagerung vollständig neu zu machen.
+Deployable Emplacements Waffen kÃ¶nnen durch Fallenlassen von Munitionstaschen neben ihnen aufgerÃ¼stet werden. Mehrere Taschen werden benÃ¶tigt, um eine Einlagerung vollstÃ¤ndig neu zu machen.
 
  
 
@@ -186,7 +186,7 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen ne
 
 >
 
-> Baue und baue Beispiele für ein Fuchsloch.
+> Baue und baue Beispiele fÃ¼r ein Fuchsloch.
 
  
 
@@ -194,15 +194,15 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen ne
 
  
 
-Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für deren Erstellung. Aufbaubare Strukturen können entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstört werden. Deployables können auch vollständig zerstört werden, indem die Basis weiterhin beschädigt wird. Feld-Außenposten und Verstecke können ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstört werden. Truppführer können unausgebaute bereitstellbare Aufstellungen mit dem Funkgerät in ähnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus für das Verschanzungswerkzeug hat auch die Fähigkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgeführten Anforderungen und Einschränkungen ist, dass alle Werte über die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden (mit Ausnahme der Anzahl der Mörser \). Beachten Sie auch, dass 2 große Vorratskisten auch durch 4 kleine Vorratskisten oder 1 große und 2 kleine Kisten ersetzt werden können. (Um mehr über Logistik zu erfahren siehe _ [_Logistics_] (../ the_basics/README.md/logistik)
+Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen fÃ¼r deren Erstellung. Aufbaubare Strukturen kÃ¶nnen entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstÃ¶rt werden. Deployables kÃ¶nnen auch vollstÃ¤ndig zerstÃ¶rt werden, indem die Basis weiterhin beschÃ¤digt wird. Feld-AuÃŸenposten und Verstecke kÃ¶nnen ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstÃ¶rt werden. TruppfÃ¼hrer kÃ¶nnen unausgebaute bereitstellbare Aufstellungen mit dem FunkgerÃ¤t in Ã¤hnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus fÃ¼r das Verschanzungswerkzeug hat auch die FÃ¤higkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgefÃ¼hrten Anforderungen und EinschrÃ¤nkungen ist, dass alle Werte Ã¼ber die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden (mit Ausnahme der Anzahl der MÃ¶rser \). Beachten Sie auch, dass 2 groÃŸe Vorratskisten auch durch 4 kleine Vorratskisten oder 1 groÃŸe und 2 kleine Kisten ersetzt werden kÃ¶nnen. (Um mehr Ã¼ber Logistik zu erfahren siehe _ [_Logistics_] (../ the_basics/README.md/logistik)
 
  
 
-** Feld Operations Basis \ (FOB \): ** Die Feld Operations Basis, auch bekannt als Forward Outpost, dient als defensive Spawn-Position für das Team. Es kommt 90 Sekunden nach dem Aufbau online. Es wird für 30 Sekunden unspähbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. Anforderungen und Einschränkungen:
+** Feld Operations Basis \ (FOB \): ** Die Feld Operations Basis, auch bekannt als Forward Outpost, dient als defensive Spawn-Position fÃ¼r das Team. Es kommt 90 Sekunden nach dem Aufbau online. Es wird fÃ¼r 30 Sekunden unspÃ¤hbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. Anforderungen und EinschrÃ¤nkungen:
 
  
 
-* Muss innerhalb von 50m von einer freundlichen großen Vorratskiste gebaut werden.
+* Muss innerhalb von 50m von einer freundlichen groÃŸen Vorratskiste gebaut werden.
 
 * Das Team kann insgesamt 6 Forward Outposts gleichzeitig haben.
 
@@ -216,11 +216,11 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Versteck: ** Aufständische benutzen Verstecke als Spawn-Ort. Wenn 2 oder mehr Feinde in der Nähe sind (innerhalb von 50m), ist das spawnen bis 90 Sekunden nach dem Verlassen oder Sterben deaktiviert. Anforderungen und Einschränkungen:
+** Versteck: ** AufstÃ¤ndische benutzen Verstecke als Spawn-Ort. Wenn 2 oder mehr Feinde in der NÃ¤he sind (innerhalb von 50m), ist das spawnen bis 90 Sekunden nach dem Verlassen oder Sterben deaktiviert. Anforderungen und EinschrÃ¤nkungen:
 
  
 
-* Weiter als 200m vom nächsten Versteck und dem aufständischen Hauptquartier.
+* Weiter als 200m vom nÃ¤chsten Versteck und dem aufstÃ¤ndischen Hauptquartier.
 
 * Das Team kann bis zu 6 Verstecke gleichzeitig haben.
 
@@ -232,13 +232,13 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Schwerer MG: ** Ein festes schweres Maschinengewehr. Anforderungen und Einschränkungen:
+** Schwerer MG: ** Ein festes schweres Maschinengewehr. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m sein.
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m sein.
 
 * Nur 2 MG pro FOB und innerhalb von 200m Radius.
 
@@ -250,13 +250,13 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Anti-Tank: ** Ein fester Panzerabwehrraketenwerfer. Diese Waffe verfügt über eine Wärmebildkamera und 1 feste Vergrößerungsstufe. Nachladen dauert 20s. Anforderungen und Einschränkungen:
+** Anti-Tank: ** Ein fester Panzerabwehrraketenwerfer. Diese Waffe verfÃ¼gt Ã¼ber eine WÃ¤rmebildkamera und 1 feste VergrÃ¶ÃŸerungsstufe. Nachladen dauert 20s. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m sein.
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m sein.
 
 * Keine andere Panzerabwehranlage darf sich innerhalb von 200m Entfernung und auf diesem FOB befinden.
 
@@ -268,13 +268,13 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Anti-Tank \ (unkonventionelle Kräfte \): ** Der SPG9 AT-Launcher hat nur einen engen Traversenbereich. Er kann zwei Arten von Munition abschießen und benötigt 15 Sekunden zum Nachladen. Anforderungen und Einschränkungen:
+** Anti-Tank \ (unkonventionelle KrÃ¤fte \): ** Der SPG9 AT-Launcher hat nur einen engen Traversenbereich. Er kann zwei Arten von Munition abschieÃŸen und benÃ¶tigt 15 Sekunden zum Nachladen. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m liegen (nur für die Miliz und die syrischen Rebellen).
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m liegen (nur fÃ¼r die Miliz und die syrischen Rebellen).
 
 * Keine andere Panzerabwehranlage darf sich innerhalb von 200m Entfernung und auf diesem FOB befinden.
 
@@ -288,19 +288,19 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Anti-Air: ** Ein fester Boden-Luft-Raketenwerfer. Anforderungen und Einschränkungen:
+** Anti-Air: ** Ein fester Boden-Luft-Raketenwerfer. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m sein.
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m sein.
 
 * Keine andere Anti-Luft-Stellung darf sich innerhalb von 200m Entfernung und auf diesem FOB befinden.
 
 * Das Team kann bis zu 6 Anti-Luft-Stellungen haben.
 
-* Unerfreuliche Kräfte erhalten ein DShK-Maschinengewehr auf einem Stativ als Anti-Air-Position.
+* Unerfreuliche KrÃ¤fte erhalten ein DShK-Maschinengewehr auf einem Stativ als Anti-Air-Position.
 
  
 
@@ -308,17 +308,17 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Schützenloch: ** Ein mit Sandsack befestigtes Schützenloch bietet Deckung gegen Handfeuerwaffen und Artillerieangriffe. Anforderungen und Einschränkungen:
+** SchÃ¼tzenloch: ** Ein mit Sandsack befestigtes SchÃ¼tzenloch bietet Deckung gegen Handfeuerwaffen und Artillerieangriffe. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m sein.
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m sein.
 
-* Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere Schützenlöcher, Sandsäcke oder Stacheldrahtstücke.
+* Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere SchÃ¼tzenlÃ¶cher, SandsÃ¤cke oder StacheldrahtstÃ¼cke.
 
-* Das Team kann insgesamt bis zu 60 Schützenlöcher, Sandsackwände und Stacheldrahtstücke haben.
+* Das Team kann insgesamt bis zu 60 SchÃ¼tzenlÃ¶cher, SandsackwÃ¤nde und StacheldrahtstÃ¼cke haben.
 
  
 
@@ -326,17 +326,17 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Sandsack-Wand: ** Eine Sandsack-Wand ist eine kleine 5m lange Wand aus Sandsäcken zum Verstecken und als Abdeckung gegen Handfeuerwaffen. Anforderungen und Einschränkungen:
+** Sandsack-Wand: ** Eine Sandsack-Wand ist eine kleine 5m lange Wand aus SandsÃ¤cken zum Verstecken und als Abdeckung gegen Handfeuerwaffen. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m sein.
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m sein.
 
-* Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere Schützenlöcher, Sandsäcke oder Stacheldrahtstücke.
+* Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere SchÃ¼tzenlÃ¶cher, SandsÃ¤cke oder StacheldrahtstÃ¼cke.
 
-* Das Team kann insgesamt bis zu 60 Schützenlöcher, Sandsackwände und Stacheldrahtstücke haben.
+* Das Team kann insgesamt bis zu 60 SchÃ¼tzenlÃ¶cher, SandsackwÃ¤nde und StacheldrahtstÃ¼cke haben.
 
  
 
@@ -344,29 +344,29 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Stacheldraht: ** Ein 10m breiter Straßenblock aus Stacheldraht und Panzersperren. Anforderungen und Einschränkungen:
+** Stacheldraht: ** Ein 10m breiter StraÃŸenblock aus Stacheldraht und Panzersperren. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m sein.
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m sein.
 
-* Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere Schützenlöcher, Sandsäcke oder Stacheldrahtstücke.
+* Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere SchÃ¼tzenlÃ¶cher, SandsÃ¤cke oder StacheldrahtstÃ¼cke.
 
-* Das Team kann insgesamt bis zu 60 Schützenlöcher, Sandsackwände und Stacheldrahtstücke haben.
+* Das Team kann insgesamt bis zu 60 SchÃ¼tzenlÃ¶cher, SandsackwÃ¤nde und StacheldrahtstÃ¼cke haben.
 
  
 
-** Straßensperre \ (unkonventionelle Kräfte \): ** A 5m oder 10m \ (rechts oder links klick \) breiten Straßensperre Müll. Anforderungen und Einschränkungen:
+** StraÃŸensperre \ (unkonventionelle KrÃ¤fte \): ** A 5m oder 10m \ (rechts oder links klick \) breiten StraÃŸensperre MÃ¼ll. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss 200m vom CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* Maximal 9 weitere Straßensperren, Stacheldrahtstücke, Schützenlöcher und Sandsäcke können innerhalb von 200m erreicht werden.
+* Maximal 9 weitere StraÃŸensperren, StacheldrahtstÃ¼cke, SchÃ¼tzenlÃ¶cher und SandsÃ¤cke kÃ¶nnen innerhalb von 200m erreicht werden.
 
-* Das Team kann insgesamt bis zu 100 Straßensperren haben.
+* Das Team kann insgesamt bis zu 100 StraÃŸensperren haben.
 
  
 
@@ -374,17 +374,17 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für d
 
  
 
-** Mörser: ** Eine feste Mörserposition, die eine indirekte Feuerunterstützung über große Entfernungen bieten kann. Alle Fraktionen können hochexplosive Munition abfeuern. Konventionelle Streitkräfte und die Miliz können auch Luftstoß- und Rauchgranaten einsetzen. Mörser können nicht auf Karten kleiner als 2km gebaut werden. Anforderungen und Einschränkungen:
+** MÃ¶rser: ** Eine feste MÃ¶rserposition, die eine indirekte FeuerunterstÃ¼tzung Ã¼ber groÃŸe Entfernungen bieten kann. Alle Fraktionen kÃ¶nnen hochexplosive Munition abfeuern. Konventionelle StreitkrÃ¤fte und die Miliz kÃ¶nnen auch LuftstoÃŸ- und Rauchgranaten einsetzen. MÃ¶rser kÃ¶nnen nicht auf Karten kleiner als 2km gebaut werden. Anforderungen und EinschrÃ¤nkungen:
 
  
 
 * Muss innerhalb von 200m von einem FOB / Versteck und mindestens 200m von der CO-Post des Teams und 50m vom Fahrzeugdepot entfernt sein.
 
-* 2 große Vorratskisten müssen innerhalb von 200m \ (nur für konventionelle Truppen, Milizen und syrische Rebellen \ benötigt werden).
+* 2 groÃŸe Vorratskisten mÃ¼ssen innerhalb von 200m \ (nur fÃ¼r konventionelle Truppen, Milizen und syrische Rebellen \ benÃ¶tigt werden).
 
-* Die Mannschaft kann bis zu 2 Mörserpositionen gleichzeitig haben.
+* Die Mannschaft kann bis zu 2 MÃ¶rserpositionen gleichzeitig haben.
 
-* Beide Mörserpositionen müssen innerhalb von 50 m zueinander stehen.
+* Beide MÃ¶rserpositionen mÃ¼ssen innerhalb von 50 m zueinander stehen.
 
  
 

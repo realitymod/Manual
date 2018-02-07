@@ -1,13 +1,14 @@
 # Languages
 
 * [English](en/)
+* [Brazilian Portuguese](ptbr/)
 * [Bulgarian](bg/)
 * [Chinese](cn/)
-* [Spanish](es/)
 * [Finnish](fi/)
 * [French](fr/)
+* [German](de/)
 * [Hebrew](he/)
 * [Hungarian](hu/)
 * [Italian](it/)
-* [Brazilian Portuguese](ptbr/)
-* [German](de/)
+* [Spanish](es/)
+

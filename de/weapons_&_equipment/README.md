@@ -1,32 +1,32 @@
-# ** Waffen & Ausrüstung ** {#Waffenausrüstungen}
+# ** Waffen & AusrÃ¼stung ** {#WaffenausrÃ¼stungen}
 
  
 
-## _Generell Waffen & Ausrüstung_ {#Generelle-Waffen-Ausrüstung}
+## _Generell Waffen & AusrÃ¼stung_ {#Generelle-Waffen-AusrÃ¼stung}
 
  
 
-Waffen brauchen nach längerer Bewegung manchmal einen Moment, um Präzision zu erreichen und zielgenau zu feuern. Engagements auf kurzen Distanzen sind von bewegungsbasierten Abweichungen nicht betroffen. Dies ermöglicht es Spielern, kleine Positionskorrekturen durchzuführen, ohne Waffenungenauigkeit zu erleiden. Hinlegen verringert die Genauigkeit des Spielers für einige Momente, bietet aber die höchste Genauigkeit für Fernziele, sobald das Ziel des Spielers wiederhergestellt ist.
+Waffen brauchen nach lÃ¤ngerer Bewegung manchmal einen Moment, um PrÃ¤zision zu erreichen und zielgenau zu feuern. Engagements auf kurzen Distanzen sind von bewegungsbasierten Abweichungen nicht betroffen. Dies ermÃ¶glicht es Spielern, kleine Positionskorrekturen durchzufÃ¼hren, ohne Waffenungenauigkeit zu erleiden. Hinlegen verringert die Genauigkeit des Spielers fÃ¼r einige Momente, bietet aber die hÃ¶chste Genauigkeit fÃ¼r Fernziele, sobald das Ziel des Spielers wiederhergestellt ist.
 
  
 
-Die meisten Waffen sind standardmäßig auf den halbautomatischen Betrieb eingestellt.
+Die meisten Waffen sind standardmÃ¤ÃŸig auf den halbautomatischen Betrieb eingestellt.
 
  
 
-Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweichung wird nicht durch eine Optik oder ein Visier beeinflusst. Waffen werden in PR: BF2 klassifiziert, oft verbunden mit den Kits, die sie benutzen:
+Waffen mÃ¼ssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweichung wird nicht durch eine Optik oder ein Visier beeinflusst. Waffen werden in PR: BF2 klassifiziert, oft verbunden mit den Kits, die sie benutzen:
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 1.png] (../ assets / cuserswouterdesktop1.png) ** Sturmgewehre ** sind in der Regel in verschiedenen Varianten mit unterschiedlichen Visierungen erhältlich. Das Einvisieren mit vergrößerter Optik hat einen Genauigkeitsvorteil, wird jedoch durch eine stark reduzierte periphere Sicht im Vergleich zu Reflexvisier oder Visier verhindert.
+! [C: \ Benutzer \ Wouter \ Desktop \ 1.png] (../ assets / cuserswouterdesktop1.png) ** Sturmgewehre ** sind in der Regel in verschiedenen Varianten mit unterschiedlichen Visierungen erhÃ¤ltlich. Das Einvisieren mit vergrÃ¶ÃŸerter Optik hat einen Genauigkeitsvorteil, wird jedoch durch eine stark reduzierte periphere Sicht im Vergleich zu Reflexvisier oder Visier verhindert.
 
  
 
-> _Kits: Alle Kits, die keine andere Primärwaffe verwenden oder unbewaffnet sind_
+> _Kits: Alle Kits, die keine andere PrimÃ¤rwaffe verwenden oder unbewaffnet sind_
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 2.png] (/ assets / cuserswouterdesktop2.png) ** Unterlauf Granatwerfer \ (UGL \) ** sind an der Unterseite von Sturmgewehren befestigt und werden gegen Gruppen von Feinden oder Individuen eingesetzt das kann nicht durch direktes Feuer getroffen werden. Sie sind auch gegen ungepanzerte Fahrzeuge wirksam und können effektiv bei Reichweiten weit über 200 m eingesetzt werden. Die Granaten müssen 28 m zurücklegen, bevor sie sich scharf stellen oder sie explodieren nicht. UGLs können auch Rauchgranaten abfeuern, die dazu dienen, die Sicht des Gegners zu verschleiern. Der Werfer-Bereich kann durch Verwendung eines Leitervisiers an der Waffe eingestellt werden. Während Sie auf dieses Ziel zielen, können Sie mit dem Radiomenü \ (Standard: Q \) den Entfernungsabstand einstellen.[(siehe Feuerbereich einstellen)](../weapons_&_equipment/README.md#feuerbereich-einstellen) Wenn Ziele höher oder niedriger als die vordefinierten Entfernungen erfasst werden, ist es wichtig, dies zu kompensieren. Auf Nachtkarten hat der Grenadier auch Zugang zu Leuchtkugeln.
+! [C: \ Users \ Wouter \ Desktop \ 2.png] (/ assets / cuserswouterdesktop2.png) ** Unterlauf Granatwerfer \ (UGL \) ** sind an der Unterseite von Sturmgewehren befestigt und werden gegen Gruppen von Feinden oder Individuen eingesetzt das kann nicht durch direktes Feuer getroffen werden. Sie sind auch gegen ungepanzerte Fahrzeuge wirksam und kÃ¶nnen effektiv bei Reichweiten weit Ã¼ber 200 m eingesetzt werden. Die Granaten mÃ¼ssen 28 m zurÃ¼cklegen, bevor sie sich scharf stellen oder sie explodieren nicht. UGLs kÃ¶nnen auch Rauchgranaten abfeuern, die dazu dienen, die Sicht des Gegners zu verschleiern. Der Werfer-Bereich kann durch Verwendung eines Leitervisiers an der Waffe eingestellt werden. WÃ¤hrend Sie auf dieses Ziel zielen, kÃ¶nnen Sie mit dem RadiomenÃ¼ \ (Standard: Q \) den Entfernungsabstand einstellen.[(siehe Feuerbereich einstellen)](../weapons_&_equipment/README.md#feuerbereich-einstellen) Wenn Ziele hÃ¶her oder niedriger als die vordefinierten Entfernungen erfasst werden, ist es wichtig, dies zu kompensieren. Auf Nachtkarten hat der Grenadier auch Zugang zu Leuchtkugeln.
 
  
 
@@ -34,7 +34,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 3.png] (/ assets / cuserswouterdesktop3.png) ** Faustfeuerwaffen ** werden traditionell von Squadführern konventioneller Streitkräfte als Backup und Zeichen der Autorität benutzt. Scharfschützen sind auch mit einem Faustfeuerwaffe zur Selbstverteidigung beim Umsetzen ausgestattet. Einige Aufständische, die keine Primärwaffe haben, benutzen stattdessen eine Faustfeuerwaffe.
+! [C: \ Users \ Wouter \ Desktop \ 3.png] (/ assets / cuserswouterdesktop3.png) ** Faustfeuerwaffen ** werden traditionell von SquadfÃ¼hrern konventioneller StreitkrÃ¤fte als Backup und Zeichen der AutoritÃ¤t benutzt. ScharfschÃ¼tzen sind auch mit einem Faustfeuerwaffe zur Selbstverteidigung beim Umsetzen ausgestattet. Einige AufstÃ¤ndische, die keine PrimÃ¤rwaffe haben, benutzen stattdessen eine Faustfeuerwaffe.
 
  
 
@@ -42,15 +42,15 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 4.png] (/ assets / cuserswouterdesktop4.png) ** Schrotflinten ** sind tödlich, wenn sie in unmittelbarer Nähe benutzt werden. Sie können auch verwendet werden, um verschlossene Türen und Tore zu durchbrechen. Aufständische Zivilisten können mit Schrottschüssen verhaftet werden, die einen Informanten mit Gummigeschossen außer Gefecht setzen. Die britische halbautomatische Schrotflinte, der L128A1, kann auch Sabot Solid Geschosse abfeuern, die auf große Entfernungen effektiv sind. Einige Schrotflinten verwenden durchbrechende Geschosse, die nur dazu verwendet werden können, verschlossene Türen zu durchbrechen.
+! [C: \ Benutzer \ Wouter \ Desktop \ 4.png] (/ assets / cuserswouterdesktop4.png) ** Schrotflinten ** sind tÃ¶dlich, wenn sie in unmittelbarer NÃ¤he benutzt werden. Sie kÃ¶nnen auch verwendet werden, um verschlossene TÃ¼ren und Tore zu durchbrechen. AufstÃ¤ndische Zivilisten kÃ¶nnen mit SchrottschÃ¼ssen verhaftet werden, die einen Informanten mit Gummigeschossen auÃŸer Gefecht setzen. Die britische halbautomatische Schrotflinte, der L128A1, kann auch Sabot Solid Geschosse abfeuern, die auf groÃŸe Entfernungen effektiv sind. Einige Schrotflinten verwenden durchbrechende Geschosse, die nur dazu verwendet werden kÃ¶nnen, verschlossene TÃ¼ren zu durchbrechen.
 
  
 
-> _Kits: Schütze Breacher über konventionelle Streitkräfte. Verschiedene Aufständische / Hamas / Taliban / Milizkits_
+> _Kits: SchÃ¼tze Breacher Ã¼ber konventionelle StreitkrÃ¤fte. Verschiedene AufstÃ¤ndische / Hamas / Taliban / Milizkits_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 5.png] (/ assets / cuserswouterdesktop5.png) ** Ausgewiesene Scharfschützengewehre \ (DMR \) ** werden verwendet, um Ziele von großer Priorität mit Präzision zu entfernen. Sie können eingesetzt werden, um ihre Genauigkeit auf Kosten der Mobilität erheblich zu erhöhen. Die Haltung eines Spielers hat Auswirkungen auf die Genauigkeit der langen Reichweite, während der DMR eingesetzt wird, und seine optimale Schussposition liegt im Liegendanschlag. Wenn Sie auf Ziele treffen, die bis zu 600m entfernt sind, müssen Sie den Schuss kompensieren. Es ist immer noch wichtig, bewegliche Ziele auf Distanz zu kompensieren. Um die Genauigkeit zu maximieren, sollte der Schütze ungefähr eine Sekunde pro abgefeuerte Runde warten.
+! [C: \ Benutzer \ Wouter \ Desktop \ 5.png] (/ assets / cuserswouterdesktop5.png) ** Ausgewiesene ScharfschÃ¼tzengewehre \ (DMR \) ** werden verwendet, um Ziele von groÃŸer PrioritÃ¤t mit PrÃ¤zision zu entfernen. Sie kÃ¶nnen eingesetzt werden, um ihre Genauigkeit auf Kosten der MobilitÃ¤t erheblich zu erhÃ¶hen. Die Haltung eines Spielers hat Auswirkungen auf die Genauigkeit der langen Reichweite, wÃ¤hrend der DMR eingesetzt wird, und seine optimale Schussposition liegt im Liegendanschlag. Wenn Sie auf Ziele treffen, die bis zu 600m entfernt sind, mÃ¼ssen Sie den Schuss kompensieren. Es ist immer noch wichtig, bewegliche Ziele auf Distanz zu kompensieren. Um die Genauigkeit zu maximieren, sollte der SchÃ¼tze ungefÃ¤hr eine Sekunde pro abgefeuerte Runde warten.
 
  
 
@@ -58,7 +58,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 6.png] (/ assets / cuserswouterdesktop6.png) ** Scharfschützengewehre ** werden verwendet, um Ziele von großer Priorität mit Präzision zu entfernen. Ihre Feuerrate ist langsam, da sie mit Repitierung arbeiten. Die Haltung des Spielers beeinflusst die Genauigkeit der Scharfschützengewehre. Die Kompensation der Geschosse wird nur in Bereichen über 600 m benötigt. Die maximale Genauigkeit wird erreicht, indem Sie etwa 8 Sekunden nach der Bewegung und 4 Sekunden nach dem abfeuern warten. Die Taste "Feuermodus wechseln" (Standard 3 \) kann verwendet werden, um Ihre Atmung zu stabilisieren, die etwa 8 Sekunden dauert. Dieser Ton kann Ihnen helfen, die Zeit zu schätzen, die benötigt wird, um die Genauigkeit wiederherzustellen. Wenn Sie den Feuerknopf nach dem Schießen gedrückt halten, können Sie Ihren Schuss verfolgen, bevor Sie das Gewehr abstoßen.
+! [C: \ Benutzer \ Wouter \ Desktop \ 6.png] (/ assets / cuserswouterdesktop6.png) ** ScharfschÃ¼tzengewehre ** werden verwendet, um Ziele von groÃŸer PrioritÃ¤t mit PrÃ¤zision zu entfernen. Ihre Feuerrate ist langsam, da sie mit Repitierung arbeiten. Die Haltung des Spielers beeinflusst die Genauigkeit der ScharfschÃ¼tzengewehre. Die Kompensation der Geschosse wird nur in Bereichen Ã¼ber 600 m benÃ¶tigt. Die maximale Genauigkeit wird erreicht, indem Sie etwa 8 Sekunden nach der Bewegung und 4 Sekunden nach dem abfeuern warten. Die Taste "Feuermodus wechseln" (Standard 3 \) kann verwendet werden, um Ihre Atmung zu stabilisieren, die etwa 8 Sekunden dauert. Dieser Ton kann Ihnen helfen, die Zeit zu schÃ¤tzen, die benÃ¶tigt wird, um die Genauigkeit wiederherzustellen. Wenn Sie den Feuerknopf nach dem SchieÃŸen gedrÃ¼ckt halten, kÃ¶nnen Sie Ihren Schuss verfolgen, bevor Sie das Gewehr abstoÃŸen.
 
  
 
@@ -66,15 +66,15 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 7.png] (/ assets / cuserswouterdesktop7.png) ** Sub-Maschinengewehre \ (SMG \) ** werden in Häuserkampf auf kurze Entfernung verwendet. Ihre Feuerrate ist schnell und sie schießen hauptsächlich Pistolenmunition wie 9-mm-Munition, obwohl es Ausnahmen gibt. Einige Maschinenpistolen fallen unter die Klassifikation der persönlichen Verteidigungswaffe (PDW), die gewöhnlich eine kürzere Lauflänge haben, die ihnen erhöhte Manövrierfähigkeit und Portabilität gibt. Diese Waffen können unterwegs mit wenig bis keiner Bewegungsabweichung verwendet werden, sind aber durch ihre effektive Reichweite eingeschränkt.
+! [C: \ Users \ Wouter \ Desktop \ 7.png] (/ assets / cuserswouterdesktop7.png) ** Sub-Maschinengewehre \ (SMG \) ** werden in HÃ¤userkampf auf kurze Entfernung verwendet. Ihre Feuerrate ist schnell und sie schieÃŸen hauptsÃ¤chlich Pistolenmunition wie 9-mm-Munition, obwohl es Ausnahmen gibt. Einige Maschinenpistolen fallen unter die Klassifikation der persÃ¶nlichen Verteidigungswaffe (PDW), die gewÃ¶hnlich eine kÃ¼rzere LauflÃ¤nge haben, die ihnen erhÃ¶hte ManÃ¶vrierfÃ¤higkeit und PortabilitÃ¤t gibt. Diese Waffen kÃ¶nnen unterwegs mit wenig bis keiner Bewegungsabweichung verwendet werden, sind aber durch ihre effektive Reichweite eingeschrÃ¤nkt.
 
  
 
-> _Kits: Crewman, Schütze AT, Heavy Antitank, Truppführer, Schütze Breacher über unkonventionelle Streitkräfte_
+> _Kits: Crewman, SchÃ¼tze AT, Heavy Antitank, TruppfÃ¼hrer, SchÃ¼tze Breacher Ã¼ber unkonventionelle StreitkrÃ¤fte_
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 8.png] (/ assets / cuserswouterdesktop8.png) ** Leichte Maschinengewehre \ (LMG \) ** werden verwendet, um den Gegner zu unterdrücken und können einen gegnerischen Trupp bei mittlerer Reichweite niederhalten oder in Hinterhalt Situationen vernichten. Sie können eingesetzt werden, um ihre Genauigkeit, Stabilität und Reichweite zu erhöhen. Bei Verwendung des implementierten LMG wird die Genauigkeit erhöht, jedoch nur, wenn die Mobilität minimal ist und sie nicht für den mobilen Einsatz geeignet ist. Die Standposition des Spielers beeinflusst die Genauigkeit seiner langen Reichweite und seine optimale Schussposition liegt im Liegendanschlag. In dieser Position erzielen Sie die höchste Genauigkeit bei großen Entfernungen. Der nicht-entfaltete Modus wird verwendet, wenn ein Spieler mobil ist und bei kürzeren Entfernungen ohne Verzögerung zurückfeuern muss.
+! [C: \ Users \ Wouter \ Desktop \ 8.png] (/ assets / cuserswouterdesktop8.png) ** Leichte Maschinengewehre \ (LMG \) ** werden verwendet, um den Gegner zu unterdrÃ¼cken und kÃ¶nnen einen gegnerischen Trupp bei mittlerer Reichweite niederhalten oder in Hinterhalt Situationen vernichten. Sie kÃ¶nnen eingesetzt werden, um ihre Genauigkeit, StabilitÃ¤t und Reichweite zu erhÃ¶hen. Bei Verwendung des implementierten LMG wird die Genauigkeit erhÃ¶ht, jedoch nur, wenn die MobilitÃ¤t minimal ist und sie nicht fÃ¼r den mobilen Einsatz geeignet ist. Die Standposition des Spielers beeinflusst die Genauigkeit seiner langen Reichweite und seine optimale Schussposition liegt im Liegendanschlag. In dieser Position erzielen Sie die hÃ¶chste Genauigkeit bei groÃŸen Entfernungen. Der nicht-entfaltete Modus wird verwendet, wenn ein Spieler mobil ist und bei kÃ¼rzeren Entfernungen ohne VerzÃ¶gerung zurÃ¼ckfeuern muss.
 
  
 
@@ -82,7 +82,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 9.png] (/ assets / cuserswouterdesktop9.png) ** Mittlere Maschinengewehre \ (MMG \) ** sind eine Mittelklasseversion des Maschinengewehrs. Sie verwenden eine größere 7,62-mm-Kaliber-Runde, die in bestimmten Situationen verheerende Auswirkungen haben kann und hervorragend dazu geeignet ist, Gegner aus großer Entfernung zu unterdrücken. Aufgesetzt benötigen sie 10 Sekunden, bevor sie die optimale  Feuerkraft erreichen.
+! [C: \ Benutzer \ Wouter \ Desktop \ 9.png] (/ assets / cuserswouterdesktop9.png) ** Mittlere Maschinengewehre \ (MMG \) ** sind eine Mittelklasseversion des Maschinengewehrs. Sie verwenden eine grÃ¶ÃŸere 7,62-mm-Kaliber-Runde, die in bestimmten Situationen verheerende Auswirkungen haben kann und hervorragend dazu geeignet ist, Gegner aus groÃŸer Entfernung zu unterdrÃ¼cken. Aufgesetzt benÃ¶tigen sie 10 Sekunden, bevor sie die optimale  Feuerkraft erreichen.
 
  
 
@@ -90,40 +90,40 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 10.png] (/ assets / cuserswouterdesktop10.png) ** Splittergranaten ** haben einen großen Explosionsradius, aber sie sind nicht genau, wenn sie geworfen werden, während sie sich bewegen oder springen, und ihre Reichweite ist relativ kurz. Es dauert ungefähr 5 Sekunden, bis sie detonieren. Einige Granaten wie die RGO und RKG Granaten explodieren beim Aufprall. Die RKG ist auch ein Beispiel für eine Granate, die für den Einsatz gegen Fahrzeuge gedacht ist. Der Stein verursacht nur leichte Verletzungen beim treffen eines Spielers, aber mehrere Treffer können immer noch tödlich sein. Um Ihre Verbündeten zu warnen, bevor Sie eine Granate werfen, können Sie den Hauptradioschlüssel verwenden (Standard: Q \), während Sie die Granate halten, um eine Warnung zu rufen, oder alternativ mumble.
+! [C: \ Benutzer \ Wouter \ Desktop \ 10.png] (/ assets / cuserswouterdesktop10.png) ** Splittergranaten ** haben einen groÃŸen Explosionsradius, aber sie sind nicht genau, wenn sie geworfen werden, wÃ¤hrend sie sich bewegen oder springen, und ihre Reichweite ist relativ kurz. Es dauert ungefÃ¤hr 5 Sekunden, bis sie detonieren. Einige Granaten wie die RGO und RKG Granaten explodieren beim Aufprall. Die RKG ist auch ein Beispiel fÃ¼r eine Granate, die fÃ¼r den Einsatz gegen Fahrzeuge gedacht ist. Der Stein verursacht nur leichte Verletzungen beim treffen eines Spielers, aber mehrere Treffer kÃ¶nnen immer noch tÃ¶dlich sein. Um Ihre VerbÃ¼ndeten zu warnen, bevor Sie eine Granate werfen, kÃ¶nnen Sie den HauptradioschlÃ¼ssel verwenden (Standard: Q \), wÃ¤hrend Sie die Granate halten, um eine Warnung zu rufen, oder alternativ mumble.
 
  
 
-> _Kits: Granaten: die meisten Infanterie-Kits, besonders Offiziere und Schützen `\ | _Steine: Zivilist und einige Aufständische_
+> _Kits: Granaten: die meisten Infanterie-Kits, besonders Offiziere und SchÃ¼tzen `\ | _Steine: Zivilist und einige AufstÃ¤ndische_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 11.png] (/ assets / cuserswouterdesktop11.png) ** Messer & Bajonette ** sind sofort tödlich, wenn sie den Feind treffen. Gegnerische Aufständische, die mit Messer getötet werden, gelten als Festnahme. Unbewaffnete Nahkampfangriffe benötigen ungefähr 5 Treffer, um einen Gegner zu töten.
+! [C: \ Benutzer \ Wouter \ Desktop \ 11.png] (/ assets / cuserswouterdesktop11.png) ** Messer & Bajonette ** sind sofort tÃ¶dlich, wenn sie den Feind treffen. Gegnerische AufstÃ¤ndische, die mit Messer getÃ¶tet werden, gelten als Festnahme. Unbewaffnete Nahkampfangriffe benÃ¶tigen ungefÃ¤hr 5 Treffer, um einen Gegner zu tÃ¶ten.
 
  
 
-> _Kits: Armed Melee: alle außer Pilot, unbewaffneter Zivilist\ | Unbewaffneter Nahkampf: Pilot und unbewaffnet_
+> _Kits: Armed Melee: alle auÃŸer Pilot, unbewaffneter Zivilist\ | Unbewaffneter Nahkampf: Pilot und unbewaffnet_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 12.png] (/ assets / cuserswouterdesktop12.png) ** Leichte Panzerabwehrraketen \ (LAT \) ** werden gegen ungepanzerte und leicht gepanzerte Ziele eingesetzt. Sie sind nicht wirksam gegen mittlere oder schwere Rüstung. Der Bediener muss den Werfer vorbereiten, indem er stillsteht, um das Ziel zu erreichen, was ungefähr 4 Sekunden dauert, bevor Sie eine optimale Schussgenauigkeit erreichen. Abhängig davon, welcher spezielle Werfer verwendet wird, hängt davon ab, wie sie funktionieren. Einige Trägerraketen sind zum Retikulum angeordnet, andere sind einstellbar, aber im Allgemeinen sind sie bis zu 500 m genau. Um ein Ziel effektiv auf Distanz zu treffen, müssen Geschicklichkeit und Timing erfolgreich sein. Die Reichweite eines Werfers kann eingestellt werden, indem ein an der Waffe angebrachter Visier mit einstellbarer Reichweite verwendet wird, während dieser Zielpunkt nach unten gerichtet wird. Um diesen Vorgang auszuführen, halten Sie die Kommunikations-Rose (Standard: Q \) gedrückt und wählen Sie den Bereich für Ihr Ziel aus.[(siehe Feuerbereich einstellen)]
-(../weapons_&_equipment/README.md#feuerbereich-einstellen)  Wenn Sie Ziele zwischen den festgelegten Bereichen angreifen, können Sie den Angriffswinkel manuell kompensieren, indem Sie entweder Ihr Ziel erhöhen oder absenken, um einen effektiven Treffer am Ziel zu erzielen.
+! [C: \ Benutzer \ Wouter \ Desktop \ 12.png] (/ assets / cuserswouterdesktop12.png) ** Leichte Panzerabwehrraketen \ (LAT \) ** werden gegen ungepanzerte und leicht gepanzerte Ziele eingesetzt. Sie sind nicht wirksam gegen mittlere oder schwere RÃ¼stung. Der Bediener muss den Werfer vorbereiten, indem er stillsteht, um das Ziel zu erreichen, was ungefÃ¤hr 4 Sekunden dauert, bevor Sie eine optimale Schussgenauigkeit erreichen. AbhÃ¤ngig davon, welcher spezielle Werfer verwendet wird, hÃ¤ngt davon ab, wie sie funktionieren. Einige TrÃ¤gerraketen sind zum Retikulum angeordnet, andere sind einstellbar, aber im Allgemeinen sind sie bis zu 500 m genau. Um ein Ziel effektiv auf Distanz zu treffen, mÃ¼ssen Geschicklichkeit und Timing erfolgreich sein. Die Reichweite eines Werfers kann eingestellt werden, indem ein an der Waffe angebrachter Visier mit einstellbarer Reichweite verwendet wird, wÃ¤hrend dieser Zielpunkt nach unten gerichtet wird. Um diesen Vorgang auszufÃ¼hren, halten Sie die Kommunikations-Rose (Standard: Q \) gedrÃ¼ckt und wÃ¤hlen Sie den Bereich fÃ¼r Ihr Ziel aus.[(siehe Feuerbereich einstellen)]
+(../weapons_&_equipment/README.md#feuerbereich-einstellen)  Wenn Sie Ziele zwischen den festgelegten Bereichen angreifen, kÃ¶nnen Sie den Angriffswinkel manuell kompensieren, indem Sie entweder Ihr Ziel erhÃ¶hen oder absenken, um einen effektiven Treffer am Ziel zu erzielen.
 
  
 
-> _Kits: Schütze AT, Miliz / Taliban / Hamas Anti Tank_
+> _Kits: SchÃ¼tze AT, Miliz / Taliban / Hamas Anti Tank_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 13.png] (/ assets / cuserswouterdesktop13.png) ** Schwere Panzerabwehrraketen \ (HAT \) ** werden verwendet, um gepanzerte Fahrzeuge anzugreifen. Sie können leichte und mittlere Rüstungen mit einem einzigen Treffer zerstören, während Kampfpanzer \ (MBT \) mehrere Treffer zum Zerstören benötigen. Die Wirksamkeit der schweren AT hängt davon ab, wo Sie die MBT getroffen haben. Die Panzerung eines Panzers ist am Heck des Fahrzeugs und an der Spitze des Turms am schwächsten. Umgekehrt ist die stärkste Seite des Tanks die Front. Um die Waffe für das Abfeuern vorzubereiten, musst du zuerst die Waffe für eine beträchtliche Zeit, etwa 10 Sekunden, absetzen. Um das Ziel effektiv zu verfolgen, muss man sich auf eine lange Distanz befinden, sonst wird die Waffe während der Verfolgung ungenau. Sobald sich die Fadenkreuzmarker in der zentrierten Position befinden, sind Sie bereit zu feuern. Spezielle Trägerraketen sind mit Drahtführung ausgestattet, mit der Sie den Gefechtskopf direkt zum Ziel führen können. Um ein bewegtes Ziel zu verfolgen, halten Sie den primären Feuerknopf gedrückt, bis die Rakete abfeuert und verfolgen Sie das Ziel bis zum Aufprall. Einige HATs sind ungeführt und feuern gerade und einige zeigen keine Strichmarkierungen. Stellen Sie vor dem Abfeuern sicher, dass das Ziel mehr als 30m von Ihnen entfernt ist, da sich der Gefechtskopf sonst nicht scharf stellt und nicht explodiert.
+! [C: \ Benutzer \ Wouter \ Desktop \ 13.png] (/ assets / cuserswouterdesktop13.png) ** Schwere Panzerabwehrraketen \ (HAT \) ** werden verwendet, um gepanzerte Fahrzeuge anzugreifen. Sie kÃ¶nnen leichte und mittlere RÃ¼stungen mit einem einzigen Treffer zerstÃ¶ren, wÃ¤hrend Kampfpanzer \ (MBT \) mehrere Treffer zum ZerstÃ¶ren benÃ¶tigen. Die Wirksamkeit der schweren AT hÃ¤ngt davon ab, wo Sie die MBT getroffen haben. Die Panzerung eines Panzers ist am Heck des Fahrzeugs und an der Spitze des Turms am schwÃ¤chsten. Umgekehrt ist die stÃ¤rkste Seite des Tanks die Front. Um die Waffe fÃ¼r das Abfeuern vorzubereiten, musst du zuerst die Waffe fÃ¼r eine betrÃ¤chtliche Zeit, etwa 10 Sekunden, absetzen. Um das Ziel effektiv zu verfolgen, muss man sich auf eine lange Distanz befinden, sonst wird die Waffe wÃ¤hrend der Verfolgung ungenau. Sobald sich die Fadenkreuzmarker in der zentrierten Position befinden, sind Sie bereit zu feuern. Spezielle TrÃ¤gerraketen sind mit DrahtfÃ¼hrung ausgestattet, mit der Sie den Gefechtskopf direkt zum Ziel fÃ¼hren kÃ¶nnen. Um ein bewegtes Ziel zu verfolgen, halten Sie den primÃ¤ren Feuerknopf gedrÃ¼ckt, bis die Rakete abfeuert und verfolgen Sie das Ziel bis zum Aufprall. Einige HATs sind ungefÃ¼hrt und feuern gerade und einige zeigen keine Strichmarkierungen. Stellen Sie vor dem Abfeuern sicher, dass das Ziel mehr als 30m von Ihnen entfernt ist, da sich der Gefechtskopf sonst nicht scharf stellt und nicht explodiert.
 
  
 
-> _Kits: Konventionelle Kräfte Anti Tank_
+> _Kits: Konventionelle KrÃ¤fte Anti Tank_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 14.png] (/ assets / cuserswouterdesktop14.png) ** Boden-Luft-Raketen \ (SAM \) ** werden verwendet, um feindliche Flugzeuge zu zerstören. Um dies zu erreichen, müssen Sie das Ziel visuell erfassen, indem Sie es durch die Luft verfolgen. Sobald die Verfolgung hergestellt ist, hören Sie einen tiefen Ton, nach ein paar Sekunden, wenn das Ziel angepeilt ist, hören Sie einen sekundären hohen Ton, an diesem Punkt können Sie feuern. Gegenmaßnahmen verhindern, dass du dein Ziel effektiv zerstörst, daher ist dein Angriffswinkel in Bezug auf die Flugrichtung des Flugzeugs entscheidend, um einen Treffer zu erzielen. Feindliche Piloten erhalten ein paar Sekunden, nachdem sie von einem SAM anvisiert wurden, einen Warnton, der ihnen Zeit gibt, sich von der Bedrohung fernzuhalten. Einige ältere Fraktionen wie die Falkland-Fraktionen mit dem Blasrohr haben keine AA-Waffenerfassung und müssen manuell geführt werden.
+! [C: \ Benutzer \ Wouter \ Desktop \ 14.png] (/ assets / cuserswouterdesktop14.png) ** Boden-Luft-Raketen \ (SAM \) ** werden verwendet, um feindliche Flugzeuge zu zerstÃ¶ren. Um dies zu erreichen, mÃ¼ssen Sie das Ziel visuell erfassen, indem Sie es durch die Luft verfolgen. Sobald die Verfolgung hergestellt ist, hÃ¶ren Sie einen tiefen Ton, nach ein paar Sekunden, wenn das Ziel angepeilt ist, hÃ¶ren Sie einen sekundÃ¤ren hohen Ton, an diesem Punkt kÃ¶nnen Sie feuern. GegenmaÃŸnahmen verhindern, dass du dein Ziel effektiv zerstÃ¶rst, daher ist dein Angriffswinkel in Bezug auf die Flugrichtung des Flugzeugs entscheidend, um einen Treffer zu erzielen. Feindliche Piloten erhalten ein paar Sekunden, nachdem sie von einem SAM anvisiert wurden, einen Warnton, der ihnen Zeit gibt, sich von der Bedrohung fernzuhalten. Einige Ã¤ltere Fraktionen wie die Falkland-Fraktionen mit dem Blasrohr haben keine AA-Waffenerfassung und mÃ¼ssen manuell gefÃ¼hrt werden.
 
  
 
@@ -131,23 +131,23 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 15.png] (/ assets / cuserswouterdesktop15.png) ** Fernzünder ** sind Sprengstoffe, die von einem Remote-Gerät ausgelöst werden, das von der Person ausgelöst wird, die den Sprengstoff platziert hat und normalerweise für Hinterhalte und Verteidigung verwendet wird. ** Antipersonenminen ** (Claymores \) benötigen nach dem Einlegen 5 Sekunden, um sich zu aktivieren. Beim Scharfmachen des Zünders wird ein Ton angezeigt, wenn diese Zeit verstrichen ist. Wenn Explosivstoffe vorzeitig ausgelöst werden, explodieren sie überhaupt nicht. IEDs haben diese Sicherheitsvorkehrung nicht. Die meisten Sprengstoffe müssen in Bauchlage aufgestellt werden. Ein Spieler kann bis zu 4 AP-Minen und 5 C4-Packs oder IEDs gleichzeitig platzieren. Einige Soldaten können zwei unabhängige Sprengstoffgruppen platzieren, die einzeln ausgelöst werden können. Diese Sprengstoffe können alle durch den Schraubenschlüssel des Kampftechnikers verbreitet werden. Während der Platzierung kannst du einen Marker auf die Karte setzen, indem du ** Q ** drückst. Sie können insgesamt bis zu 3 Marker platzieren.
+! [C: \ Benutzer \ Wouter \ Desktop \ 15.png] (/ assets / cuserswouterdesktop15.png) ** FernzÃ¼nder ** sind Sprengstoffe, die von einem Remote-GerÃ¤t ausgelÃ¶st werden, das von der Person ausgelÃ¶st wird, die den Sprengstoff platziert hat und normalerweise fÃ¼r Hinterhalte und Verteidigung verwendet wird. ** Antipersonenminen ** (Claymores \) benÃ¶tigen nach dem Einlegen 5 Sekunden, um sich zu aktivieren. Beim Scharfmachen des ZÃ¼nders wird ein Ton angezeigt, wenn diese Zeit verstrichen ist. Wenn Explosivstoffe vorzeitig ausgelÃ¶st werden, explodieren sie Ã¼berhaupt nicht. IEDs haben diese Sicherheitsvorkehrung nicht. Die meisten Sprengstoffe mÃ¼ssen in Bauchlage aufgestellt werden. Ein Spieler kann bis zu 4 AP-Minen und 5 C4-Packs oder IEDs gleichzeitig platzieren. Einige Soldaten kÃ¶nnen zwei unabhÃ¤ngige Sprengstoffgruppen platzieren, die einzeln ausgelÃ¶st werden kÃ¶nnen. Diese Sprengstoffe kÃ¶nnen alle durch den SchraubenschlÃ¼ssel des Kampftechnikers verbreitet werden. WÃ¤hrend der Platzierung kannst du einen Marker auf die Karte setzen, indem du ** Q ** drÃ¼ckst. Sie kÃ¶nnen insgesamt bis zu 3 Marker platzieren.
 
  
 
-> _Kits: AP Mines: Rifleman AP \ | Mine, Mörser, TNT IEDs: Sapper \ | Water Container IED: Sapper und unkonventioneller Ingenieur_
+> _Kits: AP Mines: Rifleman AP \ | Mine, MÃ¶rser, TNT IEDs: Sapper \ | Water Container IED: Sapper und unkonventioneller Ingenieur_
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 16.png] (/ assets / cuserswouterdesktop16.png) ** Zeitzünder ** sind Sprengstoffe auf einer Zeitschaltuhr, die kurz nach ihrer Zündung detonieren und hauptsächlich zum Entfernen stationärer Gegenstände verwendet werden wie feindliche Feuerbasen, Munitionslager und verlassene feindliche Fahrzeuge. Die zwei wichtigsten Arten von zeitgesteuerten Sprengstoffen sind ** die großen und kleinen C4-Ladungen **. Das große C4 ist nur ein bisschen mehr als doppelt so leistungsstark wie die kleine C4 Ladung und nur für das Pionier Kit verfügbar, während die kleine C4 sowohl vom Pionieren als auch von Zugangstechnikern  getragen wird. Sie müssen nur eine Ladung der Großen oder Kleinen C4s auflegen, um eine Feuerbasis zu zerstören, aber eine einzelne Kleine C4 Ladung wird nicht sofort eine Feuerbasis zerstören, stattdessen wird die Feuerbasis ein paar Sekunden nach dem Detonieren der Ladung kollabieren und geben der gegnerische Mannschaft Zeit, um die Firebase zu reparieren. Um das Fundament einer Firebase oder eines anderen einsetzbaren Gegenstands zu zerstören, lege einfach eine weitere kleine C4-Ladung auf das Fundament und es wird es kurz nach dem Detonieren zerstören. Der kleine C4 kann auch verwendet werden, um stationäre Fahrzeuge mit 1x Small C4 herauszunehmen, um leichte gepanzerte Fahrzeuge (Land Rover, zivile Autos, Technik, leicht gepanzerte HMMWVs usw.), 2x kleine C4s herauszunehmen, um gepanzerte Jeeps und Lastwagen auszuschalten(Up-Armored HMMWV, Panther CLV und Support & Logistik Trucks wie die M-35, etc.), 3x Small C4s, um APCs zu zerstören. Diese Ladungen können durch den Schraubenschlüssel des Pioniers  deaktiviert werden.
+! [C: \ Users \ Wouter \ Desktop \ 16.png] (/ assets / cuserswouterdesktop16.png) ** ZeitzÃ¼nder ** sind Sprengstoffe auf einer Zeitschaltuhr, die kurz nach ihrer ZÃ¼ndung detonieren und hauptsÃ¤chlich zum Entfernen stationÃ¤rer GegenstÃ¤nde verwendet werden wie feindliche Feuerbasen, Munitionslager und verlassene feindliche Fahrzeuge. Die zwei wichtigsten Arten von zeitgesteuerten Sprengstoffen sind ** die groÃŸen und kleinen C4-Ladungen **. Das groÃŸe C4 ist nur ein bisschen mehr als doppelt so leistungsstark wie die kleine C4 Ladung und nur fÃ¼r das Pionier Kit verfÃ¼gbar, wÃ¤hrend die kleine C4 sowohl vom Pionieren als auch von Zugangstechnikern  getragen wird. Sie mÃ¼ssen nur eine Ladung der GroÃŸen oder Kleinen C4s auflegen, um eine Feuerbasis zu zerstÃ¶ren, aber eine einzelne Kleine C4 Ladung wird nicht sofort eine Feuerbasis zerstÃ¶ren, stattdessen wird die Feuerbasis ein paar Sekunden nach dem Detonieren der Ladung kollabieren und geben der gegnerische Mannschaft Zeit, um die Firebase zu reparieren. Um das Fundament einer Firebase oder eines anderen einsetzbaren Gegenstands zu zerstÃ¶ren, lege einfach eine weitere kleine C4-Ladung auf das Fundament und es wird es kurz nach dem Detonieren zerstÃ¶ren. Der kleine C4 kann auch verwendet werden, um stationÃ¤re Fahrzeuge mit 1x Small C4 herauszunehmen, um leichte gepanzerte Fahrzeuge (Land Rover, zivile Autos, Technik, leicht gepanzerte HMMWVs usw.), 2x kleine C4s herauszunehmen, um gepanzerte Jeeps und Lastwagen auszuschalten(Up-Armored HMMWV, Panther CLV und Support & Logistik Trucks wie die M-35, etc.), 3x Small C4s, um APCs zu zerstÃ¶ren. Diese Ladungen kÃ¶nnen durch den SchraubenschlÃ¼ssel des Pioniers  deaktiviert werden.
 
  
 
-> _Kits: Small C4: Konventionelle Streitkräfte Pionier & Zugangstechnikern   \ | Große C4: Konventionelle Kräfte Pionier_
+> _Kits: Small C4: Konventionelle StreitkrÃ¤fte Pionier & Zugangstechnikern   \ | GroÃŸe C4: Konventionelle KrÃ¤fte Pionier_
 
  
 
-** Minen ** sind Kontaktgebunden Explosivmittel, zu denen Pioniere Klassen Zugang haben. Diese können überall im Gelände gespielt werden und werden sichtbar herausragen. Während der Platzierung kannst du einen Marker auf die Karte setzen, indem du ** Q ** drückst. Sie können insgesamt bis zu 3 Marker platzieren. Minen können mit dem Schraubenschlüssel eines Pioniers entfernt werden.
+** Minen ** sind Kontaktgebunden Explosivmittel, zu denen Pioniere Klassen Zugang haben. Diese kÃ¶nnen Ã¼berall im GelÃ¤nde gespielt werden und werden sichtbar herausragen. WÃ¤hrend der Platzierung kannst du einen Marker auf die Karte setzen, indem du ** Q ** drÃ¼ckst. Sie kÃ¶nnen insgesamt bis zu 3 Marker platzieren. Minen kÃ¶nnen mit dem SchraubenschlÃ¼ssel eines Pioniers entfernt werden.
 
  
 
@@ -155,51 +155,51 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 18.png] (/ assets / cuserswouterdesktop18.png) ** Feldverbände ** stellen 25% Gesundheit wieder her. Sie werden auf den Boden geworfen, um den Spieler zu heilen, der dem Verband am nächsten steht. Feldverbände werden durch Drücken der Taste 8 oder 9 ausgewählt. ** Der Erste-Hilfe-Kasten ** kann einen Spieler vollständig heilen und wird verwendet, indem der Feuerknopf gedrückt gehalten wird, während auf die Person geheilt wird, die geheilt werden soll. Erste-Hilfe-Sets werden nicht länger fallengelassen und brauchen etwas Zeit, um einen schwer verletzten Spieler vollständig zu heilen. Ein Mediziner kann sich selbst heilen, indem er die bereitgestellten Feldverbände verwendet. Spieler in einem Fahrzeug mit einem Sanitäter werden automatisch im Laufe der Zeit heilen. ** Wiederbelebung ** wird verwendet, um einen verletzten Spieler vor der Verabreichung eines Adrenalins vorzubereiten. ** Der Epipen ** wird dann verwendet, um sie wiederzubeleben. Frisch belebte Soldaten benötigen sofortige medizinische Behandlung, um zu verhindern, dass sie ausbluten.
+! [C: \ Benutzer \ Wouter \ Desktop \ 18.png] (/ assets / cuserswouterdesktop18.png) ** FeldverbÃ¤nde ** stellen 25% Gesundheit wieder her. Sie werden auf den Boden geworfen, um den Spieler zu heilen, der dem Verband am nÃ¤chsten steht. FeldverbÃ¤nde werden durch DrÃ¼cken der Taste 8 oder 9 ausgewÃ¤hlt. ** Der Erste-Hilfe-Kasten ** kann einen Spieler vollstÃ¤ndig heilen und wird verwendet, indem der Feuerknopf gedrÃ¼ckt gehalten wird, wÃ¤hrend auf die Person geheilt wird, die geheilt werden soll. Erste-Hilfe-Sets werden nicht lÃ¤nger fallengelassen und brauchen etwas Zeit, um einen schwer verletzten Spieler vollstÃ¤ndig zu heilen. Ein Mediziner kann sich selbst heilen, indem er die bereitgestellten FeldverbÃ¤nde verwendet. Spieler in einem Fahrzeug mit einem SanitÃ¤ter werden automatisch im Laufe der Zeit heilen. ** Wiederbelebung ** wird verwendet, um einen verletzten Spieler vor der Verabreichung eines Adrenalins vorzubereiten. ** Der Epipen ** wird dann verwendet, um sie wiederzubeleben. Frisch belebte Soldaten benÃ¶tigen sofortige medizinische Behandlung, um zu verhindern, dass sie ausbluten.
 
  
 
-> _Kits: Field Dressing: alle Soldaten \ | Erste-Hilfe-Ausrüstung, Wiederbelebung, Epiphen: Sanitäter / Corpsman / Aufständischer Sani_
+> _Kits: Field Dressing: alle Soldaten \ | Erste-Hilfe-AusrÃ¼stung, Wiederbelebung, Epiphen: SanitÃ¤ter / Corpsman / AufstÃ¤ndischer Sani_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 19.png] (/ assets / cuserswouterdesktop19.png) ** Zusätzliche Munition ** kann verwendet werden, wenn einem Spieler die Patronen ausgehen. Eine einzelne Munitionstasche liefert normalerweise ein paar Magazine und eine oder zwei Granaten. Die Munitionstasche kann auch verwendet werden, um bereitstellbare Waffen wie MGs, Panzerabwehrraketen und Mörserstellungen aufzuladen.
+! [C: \ Benutzer \ Wouter \ Desktop \ 19.png] (/ assets / cuserswouterdesktop19.png) ** ZusÃ¤tzliche Munition ** kann verwendet werden, wenn einem Spieler die Patronen ausgehen. Eine einzelne Munitionstasche liefert normalerweise ein paar Magazine und eine oder zwei Granaten. Die Munitionstasche kann auch verwendet werden, um bereitstellbare Waffen wie MGs, Panzerabwehrraketen und MÃ¶rserstellungen aufzuladen.
 
  
 
-> _Kits: Schütze und verschiedene Schütze-Kits
+> _Kits: SchÃ¼tze und verschiedene SchÃ¼tze-Kits
 
  
 
-! [C: \ Users \ Wouter \ Desktop \ 17.png] (/ assets / cuserswouterdesktop17.png) ** Das Werkzeug "Verschanzung / Spaten" ** wird verwendet, um bereitstellbare Strukturen für das Team zu erstellen. Es kann nicht offensiv verwendet werden. Um eine Struktur zu konstruieren, musst du darauf zeigen und den Feuerknopf gedrückt halten, bis die Grabungsanimation stoppt. Die Option "Alternativ-Kommunikations-Rose" ermöglicht es den Anführern der Truppe, freundliche Schützenlöcher und Stacheldraht-Straßenblockaden abzureißen.
+! [C: \ Users \ Wouter \ Desktop \ 17.png] (/ assets / cuserswouterdesktop17.png) ** Das Werkzeug "Verschanzung / Spaten" ** wird verwendet, um bereitstellbare Strukturen fÃ¼r das Team zu erstellen. Es kann nicht offensiv verwendet werden. Um eine Struktur zu konstruieren, musst du darauf zeigen und den Feuerknopf gedrÃ¼ckt halten, bis die Grabungsanimation stoppt. Die Option "Alternativ-Kommunikations-Rose" ermÃ¶glicht es den AnfÃ¼hrern der Truppe, freundliche SchÃ¼tzenlÃ¶cher und Stacheldraht-StraÃŸenblockaden abzureiÃŸen.
 
  
 
-** Der Schraubenschlüssel / Reparatursatz ** wird zum Entschärfen und Entfernen von Sprengstoffen wie Landminen, Sprengfallen, Leuchtsignale und Granatenfallen verwendet. Es kann auch bestimmte leichte Fahrzeuge reparieren, wenn sie beschädigt sind. Es kann auch verwendet werden, um Stacheldraht zu bauen. Sowohl die Schaufel als auch der Schraubenschlüssel können eine Waffenlager reparieren.
+** Der SchraubenschlÃ¼ssel / Reparatursatz ** wird zum EntschÃ¤rfen und Entfernen von Sprengstoffen wie Landminen, Sprengfallen, Leuchtsignale und Granatenfallen verwendet. Es kann auch bestimmte leichte Fahrzeuge reparieren, wenn sie beschÃ¤digt sind. Es kann auch verwendet werden, um Stacheldraht zu bauen. Sowohl die Schaufel als auch der SchraubenschlÃ¼ssel kÃ¶nnen eine Waffenlager reparieren.
 
  
 
-> _Kits: Das Werkzeug, Verschanzung / Spaten: alle außer Offizier, Sani, Scharfschütze, Pilot, Zellenführer und Hamas Zivilist_
+> _Kits: Das Werkzeug, Verschanzung / Spaten: alle auÃŸer Offizier, Sani, ScharfschÃ¼tze, Pilot, ZellenfÃ¼hrer und Hamas Zivilist_
 
 >
 
-> _Schraubenschlüssel: Konventionelle Streitkräfte Pionier_
+> _SchraubenschlÃ¼ssel: Konventionelle StreitkrÃ¤fte Pionier_
 
 >
 
-00: 00: 37.559 -> 00: 00: 43.289C: \ Benutzer \ Wouter \ Desktop \ 20.png] (/ assets / cuserswouterdesktop20.png) ** Rauchgranaten ** werden verwendet, um Truppenbewegungen zu verbergen oder um befreundeten Flugzeugen zu signalisieren. Smoke-Screen dauert in der Regel etwa 30 Sekunden zum Ergänzen und Ausfüllen. Die Abdeckung hält länger als eine Minute, bevor sie sich auflöst. _Kits: Rauchgranate: die meisten Kits \ | Signal Rauch: Offizier, konventionelle Streitkräfte Schafschütze, Pilot_
+00: 00: 37.559 -> 00: 00: 43.289C: \ Benutzer \ Wouter \ Desktop \ 20.png] (/ assets / cuserswouterdesktop20.png) ** Rauchgranaten ** werden verwendet, um Truppenbewegungen zu verbergen oder um befreundeten Flugzeugen zu signalisieren. Smoke-Screen dauert in der Regel etwa 30 Sekunden zum ErgÃ¤nzen und AusfÃ¼llen. Die Abdeckung hÃ¤lt lÃ¤nger als eine Minute, bevor sie sich auflÃ¶st. _Kits: Rauchgranate: die meisten Kits \ | Signal Rauch: Offizier, konventionelle StreitkrÃ¤fte SchafschÃ¼tze, Pilot_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 21.png] (/ assets / cuserswouterdesktop21.png) ** Ferngläser ** erlauben Soldaten, entfernte Feinde zu erkennen und unbekannte Kontakte zu identifizieren. Offiziere und Zellenführer können auch mit ihren Ferngläsern Mörserangriffe anfordern. ** Der Boden-Laserzielzeichner ** \ (GTLD \) wird verwendet, um Ziele für den Einsatz von befreundeten Flugzeug- und Mörserstandorten zu markieren.
+! [C: \ Benutzer \ Wouter \ Desktop \ 21.png] (/ assets / cuserswouterdesktop21.png) ** FernglÃ¤ser ** erlauben Soldaten, entfernte Feinde zu erkennen und unbekannte Kontakte zu identifizieren. Offiziere und ZellenfÃ¼hrer kÃ¶nnen auch mit ihren FernglÃ¤sern MÃ¶rserangriffe anfordern. ** Der Boden-Laserzielzeichner ** \ (GTLD \) wird verwendet, um Ziele fÃ¼r den Einsatz von befreundeten Flugzeug- und MÃ¶rserstandorten zu markieren.
 
  
 
-> _Kits: Fernglas: Crewman, Schafschütze und die meisten Kits auf unkonventionellen Fraktionen \ | GTLD: Offizier und Spotter für konventionelle Streitkräfte_
+> _Kits: Fernglas: Crewman, SchafschÃ¼tze und die meisten Kits auf unkonventionellen Fraktionen \ | GTLD: Offizier und Spotter fÃ¼r konventionelle StreitkrÃ¤fte_
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 22.png] (/ assets / cuserswouterdesktop22.png) ** Radios und Mobiltelefone ** werden verwendet, um feindliche Kontakte dem Rest des Teams zu melden. Sie können auch von Gruppenleitern verwendet werden, um Unterstützung von anderen Einheiten anzufordern und umsetzbare Strukturen zu platzieren.
+! [C: \ Benutzer \ Wouter \ Desktop \ 22.png] (/ assets / cuserswouterdesktop22.png) ** Radios und Mobiltelefone ** werden verwendet, um feindliche Kontakte dem Rest des Teams zu melden. Sie kÃ¶nnen auch von Gruppenleitern verwendet werden, um UnterstÃ¼tzung von anderen Einheiten anzufordern und umsetzbare Strukturen zu platzieren.
 
  
 
@@ -207,15 +207,15 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 
  
 
-! [C: \ Benutzer \ Wouter \ Desktop \ 23.png] (/ assets / cuserswouterdesktop23.png) ** Der Grappling-Haken ** wird verwendet, um über Mauern, Gebäude oder den Zugriff auf die Spitze von Strukturen zu gelangen, um Squadmitgliedern zu erlauben eine höhere Position einzunehmen. Nachdem der Haken sich erfolgreich an einer Oberfläche befestigt hat, kann jeder Spieler das Seil durch Drücken der "Eingabe" -Taste (Standard: E \) nach oben und nach hinten und zum Herabgleiten des Seils nach oben bewegen. Sie bleiben 3 Minuten in Position und können vom Spieler mit der Taste Aufnehmen \ (Standard: G \) abgerufen werden.
+! [C: \ Benutzer \ Wouter \ Desktop \ 23.png] (/ assets / cuserswouterdesktop23.png) ** Der Grappling-Haken ** wird verwendet, um Ã¼ber Mauern, GebÃ¤ude oder den Zugriff auf die Spitze von Strukturen zu gelangen, um Squadmitgliedern zu erlauben eine hÃ¶here Position einzunehmen. Nachdem der Haken sich erfolgreich an einer OberflÃ¤che befestigt hat, kann jeder Spieler das Seil durch DrÃ¼cken der "Eingabe" -Taste (Standard: E \) nach oben und nach hinten und zum Herabgleiten des Seils nach oben bewegen. Sie bleiben 3 Minuten in Position und kÃ¶nnen vom Spieler mit der Taste Aufnehmen \ (Standard: G \) abgerufen werden.
 
  
 
-> _Kits: Schütze, Pionier, Zivilist und Scout_
+> _Kits: SchÃ¼tze, Pionier, Zivilist und Scout_
 
  
 
-** Fallschirme ** werden von Piloten und Fallschirmjägern benutzt. Sie werden entfaltet, indem man hektisch den 9er-Schlüssel hämmert. Fallschirme müssen ausreichend lange geöffnet werden, bevor sie den Boden erreichen, um Verletzungen oder einen leichten Todesfall zu vermeiden. Nachdem dein Squad Leader auf einer Karte, die die Paradops unterstützt, den Boden erreicht hat, erscheint neben ihm eine spezielle Vorratskiste. Mit dieser Kiste können nur Kits angefordert werden.
+** Fallschirme ** werden von Piloten und FallschirmjÃ¤gern benutzt. Sie werden entfaltet, indem man hektisch den 9er-SchlÃ¼ssel hÃ¤mmert. Fallschirme mÃ¼ssen ausreichend lange geÃ¶ffnet werden, bevor sie den Boden erreichen, um Verletzungen oder einen leichten Todesfall zu vermeiden. Nachdem dein Squad Leader auf einer Karte, die die Paradops unterstÃ¼tzt, den Boden erreicht hat, erscheint neben ihm eine spezielle Vorratskiste. Mit dieser Kiste kÃ¶nnen nur Kits angefordert werden.
  
 
 > _Kits: Pilot, ein beliebiges Spawn-Kit, das von einem Team mit einem Paradop-Spawnpunkt verwendet wird_
@@ -224,7 +224,7 @@ Waffen müssen manuell neu geladen werden (Standard: ** R ** \). Die Waffenabweic
 ## _Kimme & Korn / Nahbereichsvisier_ \ (BUIS \) _ {#buis}
 
 
-** Nahbereichsvisier \ (BUIS \) ** wurde entwickelt, um dem Bediener eine alternative Methode zur Erfassung eines Ziels in Abhängigkeit von der Situation zu bieten. Sofern die Waffe über BUIS verfügt, kann ein Spieler mit dem bereits vorhandenen wechsel Kamera-Taste \ (C ** \) zwischen dem Zielfernrohr und dem Visier wechseln. Der Spieler kann zwischen den Sichtmodi umschalten, was durch den BUIS-Buchstaben in der unteren rechten Ecke angezeigt wird. S für Ziehlfernrohr, B für Visier. Der BUIS-Modus kann jederzeit umgeschaltet werden, egal ob Sie auf das Ziel zielen oder nicht, aber Sie müssen erneut zielen, um zwischen den Modi zu wechseln.
+** Nahbereichsvisier \ (BUIS \) ** wurde entwickelt, um dem Bediener eine alternative Methode zur Erfassung eines Ziels in AbhÃ¤ngigkeit von der Situation zu bieten. Sofern die Waffe Ã¼ber BUIS verfÃ¼gt, kann ein Spieler mit dem bereits vorhandenen wechsel Kamera-Taste \ (C ** \) zwischen dem Zielfernrohr und dem Visier wechseln. Der Spieler kann zwischen den Sichtmodi umschalten, was durch den BUIS-Buchstaben in der unteren rechten Ecke angezeigt wird. S fÃ¼r Ziehlfernrohr, B fÃ¼r Visier. Der BUIS-Modus kann jederzeit umgeschaltet werden, egal ob Sie auf das Ziel zielen oder nicht, aber Sie mÃ¼ssen erneut zielen, um zwischen den Modi zu wechseln.
 
 ! [] (/assets/buis.png)
 
