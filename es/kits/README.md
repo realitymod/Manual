@@ -6,9 +6,7 @@ Los kits en Project Reality definen tu clase, tu equipamiento y tu rol en el equ
 * **Kits Especiales**, obtenibles sólamente desde vehículos o cajas de suministros (no disponible para insurgentes)
 * **Kits Especiales de Insurgentes**, sólo disponible en alijos de armas (cachés) de facciones insurgentes o no-convencionales
 
-El kit más genérico es el de **Fusilero (o Insurgente)**, del cual puede haber tantos como se quiera en la escuadra/equipo. Por otro lado, todos los demás kits vienen con clases especializadas asociadas y tienen restricciones respecto al número de ellos que se pueden tener en una misma escuadra o en el equipo en su totalidad. Debido a estas restricciones, para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con un kit de **Fusilero** básico.
-
-A continuación revisaremos los diferentes kits, sus roles y restricciones.
+El kit más genérico es el de **Fusilero (o Insurgente)**, del cual puede haber tantos como se quiera en la escuadra/equipo. Por otro lado, todos los demás kits vienen con clases especializadas asociadas y tienen restricciones respecto al número de ellos que se pueden tener en una misma escuadra o en el equipo en su totalidad. Debido a estas restricciones, para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con un kit de **Fusilero**.
 
 # **Kits Estándards** {#kits}
 
@@ -24,7 +22,14 @@ Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y
 | **Fusilero Granadero** | 1/Escuadra | 6 | 
 | **Fusilero Anti-Tanque** | 1/Escuadra | 6 |
 
-Es decir, que una escuadra típica de infantería de 8 miembros tendrá:
+Cabe mencionar que, además de las limitaciones por escuadra, los kits de **Fusilero Granadero y Fusilero Anti-Tanque** también están restringidos a un número máximo por equipo dependiendo del número de jugadores en el mismo:
+
+| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
+| --- | --- | --- | --- | --- | --- |
+| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
+| **Granadero** | 1 | 2 | 3 | 3 | 4 |
+
+Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica de infantería de 8 miembros tendrá esta composición:
 
 | # | Kit |
 |---|---|
@@ -36,28 +41,19 @@ Es decir, que una escuadra típica de infantería de 8 miembros tendrá:
 | 1x | Granadero |
 | 1x | Anti-Tanque |
 
-Mientras que una escuadra con 5 miembros, no podrá tener ni Granadero ni Anti-Tanque, al no tener el mínimo necesario de 6 miembros.
+Breve descripción de cada uno de los Kits Estándard:
 
-Así mismo, además de las limitaciones por escuadra, los kits de **Fusilero Granadero y Fusilero Anti-Tanque** están restringidos a un número máximo por equipo:
-
-| Kit | 1-7 Jugadores | 8-15 Jugadores | 16-23 Jugadores | 24-31 Jugadores | 32- 50+ Jugadores |
-| --- | --- | --- | --- | --- | --- |
-| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
-| **Granadero** | 1 | 2 | 3 | 3 | 4 |
-
-A continuación pasamos a hacer una breve descripción de cada uno de los Kits Estándard.
-
-* ![](assets/rifleman.png)**Fusilero**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, munición extra, granadas de fragmentación y humo.
+* ![](assets/rifleman.png)**Fusilero**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, granadas de fragmentación y humo. Al no tener una función especializada en la escuadra, el fusilero es ideal para posiciones y maniobras agresivas. Es además el único kit que puede suministrar munición al resto de compañeros.
 
 * ![](/assets/officer.png)**Oficial**. Limitado a 1 por escuadra y sólo disponible para el jefe de escuadra. Además del equipamiento estándard de combate, este kit viene equipado con una arma corta, una radio de oficial y unos binoculares. Es capaz de comunicarse con el resto de oficiales del equipo, poner marcadores en el mapa, construir emplazamientos estratégicos y pedir misiones de apoyo (artillería, morteros, blindados, ataque aéreo, etc). En la sección **Jefe de Escuadra** de este manual se cubre en más detalle este vital rol.
 
-* ![](/assets/medic.png)**Médico de Combate**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica, y por tanto, uno de los roles más cruciales en el campo de batalla. Además de un fusil de asalto, viene equipado con varias granadas de humo, un kit de primeros auxilios y varios rollos de vendas
+* ![](/assets/medic.png)**Médico de Combate**. Limitado a 2 por escuadra. Es el soldado responsable de proveer asistencia médica en el campo de batalla, y por tanto, uno de los roles que más afecta al rendimiento de la escuadra. Un instinto de supervivencia superior es crítico para este kit. Además de un fusil de asalto, viene equipado con varias granadas de humo, un kit de primeros auxilios y varios rollos de vendas
 
-* ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el Apoyo (o AR), es el soldado capaz de proveer fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su habilidad de fuego efectivo en combate.
+* ![](/assets/ar.png)**Apoyo \(AR\)**. Limitado a 1 por escuadra. Equipado con una ametralladora automática ligera, el Apoyo (o AR), es un fusilero algo menos móvil y versátil (no tiene granadas), pero capaz de una mayor potencia de fuego. Su especialidad es el fuego de supresión, el cual es muy útil para restringir la capacidad de movimiento del enemigo y reducir su habilidad de fuego efectivo en combate.
 
-* ![](/assets/breacher.png)**Breacher**. Limitado a 1 por escuadra. Actúa normalmente como punta de lanza y especialista en asalto de edificios y demoliciones. Su equipamiento incluye fusil de asalto, cuerda con garfio para escalar y saltar obstáculos, una escopeta recortada y varias cargas de explosivos (C4) para las demoliciones.
+* ![](/assets/breacher.png)**Breacher**. Limitado a 1 por escuadra. Actúa normalmente como punta de lanza y especialista en asalto de edificios y en demoliciones. Su equipamiento incluye fusil de asalto, cuerda con garfio para escalar obstáculos, una escopeta recortada y varias cargas de explosivos (C4) para demoliciones.
 
-* ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra y a **8 por equipo**. Es un fusilero equipado con un fusil de asalto y un sistema portátil anti-vehículos. Su rol principal es actuar como elemento ultra-ligero con capacidad de neutralizar vehículos ligeros o de reducido blindaje. **No** es efectivo contra blindados pesados.
+* ![](/assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadra y a **8 por equipo**. Es un fusilero equipado con un fusil de asalto y un sistema portátil anti-vehículos. Su rol principal es actuar como elemento ultra-ligero con capacidad de neutralizar vehículos ligeros o de reducido blindaje. **No es efectivo contra blindados pesados.**
 
 * ![](/assets/grenadier.png)**Granadero**. Limitado a 1 por escuadra y a **4 por equipo**. Normalmente equipado con un lanzagranadas acoplado a su fusil de asalto. Su función principal es hostigar concentraciones de enemigos o vehículos ligeros no blindados. Especialmente últil para enfrentamientos a grandes distancias o para atosigar enemigos en el interior de edificios.
 
