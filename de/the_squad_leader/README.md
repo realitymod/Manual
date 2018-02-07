@@ -46,9 +46,8 @@ Der ** Squad Leader ** in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in
 
  
 
-(../assets/spotting.png)
-
-
+>![](../assets/spotting.png)
+>
 > Reichweite im Radio
 
  
@@ -117,6 +116,7 @@ Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von an
 
  
 >![](../assets/support.png)
+>
 > Unterstützung über Radio anfordern
 
  
@@ -130,6 +130,7 @@ Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den d
  
 
 >![](../assets/buildcomo.png)
+>
 > Bau von Stellungen über Funk
 
  
@@ -151,6 +152,7 @@ Gehen Sie folgendermaßen vor, um eine Struktur bereitzustellen:
  
 
 >![](../assets/shovel.png)
+>
 > Schaufel zum Aufbau von Stellungen benötigt.
 
  
@@ -172,6 +174,7 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen n
  
 
 >![](../assets/deploy.png)
+>
 > Baue und baue Beispiele für ein Fuchsloch.
 
  
@@ -180,7 +183,7 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen n
 
  
 
-Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für deren Erstellung. Aufbaubare Strukturen können entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstört werden. Deployables können auch vollständig zerstört werden, indem die Basis weiterhin beschädigt wird. Feld-Außenposten und Verstecke können ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstört werden. Truppführer können unausgebaute bereitstellbare Aufstellungen mit dem Funkgerät in ähnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus für das Verschanzungswerkzeug hat auch die Fähigkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgeführten Anforderungen und Einschränkungen ist, dass alle Werte über die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden (mit Ausnahme der Anzahl der Mörser \). Beachten Sie auch, dass 2 große Vorratskisten auch durch 4 kleine Vorratskisten oder 1 große und 2 kleine Kisten ersetzt werden können. (Um mehr über Logistik zu erfahren siehe [Logistics](../the_basics/README.md/logistik).
+Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für deren Erstellung. Aufbaubare Strukturen können entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstört werden. Deployables können auch vollständig zerstört werden, indem die Basis weiterhin beschädigt wird. Feld-Außenposten und Verstecke können ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstört werden. Truppführer können unausgebaute bereitstellbare Aufstellungen mit dem Funkgerät in ähnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus für das Verschanzungswerkzeug hat auch die Fähigkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgeführten Anforderungen und Einschränkungen ist, dass alle Werte über die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden (mit Ausnahme der Anzahl der Mörser \). Beachten Sie auch, dass 2 große Vorratskisten auch durch 4 kleine Vorratskisten oder 1 große und 2 kleine Kisten ersetzt werden können. (Um mehr über Logistik zu erfahren siehe [Logistics](../the_basics/README.md#logistik).
 
  
 

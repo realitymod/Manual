@@ -24,6 +24,7 @@ Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps (außer leichten ge
 * Die meisten Tanks und IFVs können zusätzlich zu ihren normalen Ansichten ** eine Optik ** verwenden. Sie können in den thermischen Modus wechseln, indem Sie das sekundäre Radiomenü \ (** T ** \) verwenden und ** "TAG / THERMAL" auswählen. ** Einige erlauben auch, zwischen thermischen Variationen wie WHOT / BHOT zu wechseln.
 
 >![](../assets/thermalz.png)
+
 > Wärmebild
 
 * Gepanzerte Fahrzeuge haben kein Warnsignal, wenn sie von Raketenwerfern angegriffen werden oder wenn Raketen auf sie abgefeuert werden.
@@ -40,6 +41,7 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen
 * Bei bestimmten Fahrzeugen wird der Rauch ** IR-blockiert ** sein, was bedeutet, dass er auch das thermische Sehen blockiert. Für andere \ (ältere Fahrzeuge \) werden Sie in der Lage sein, durch den Rauch auf thermisches Sehen zu sehen.
 
 >![](../assets/vehiclesmoke.png)
+
 > Fahrzeug entfaltet Rauch
 
 ## _Helicopter_ {#helicopter}

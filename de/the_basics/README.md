@@ -30,6 +30,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
  
 
 >![](../assets/rally.png)
+>
 > Ein Rallypunkt.
 
  
@@ -47,6 +48,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
  
 
 >![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
+>
 > FOB, Versteck & Waffen Cache.
 
  
@@ -56,6 +58,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
  
 
 >![](../assets/acv.png)
+>
 > Armored Command Vehicle \ (ACV \) nur in Hauptbasen gefunden.
 
  
@@ -129,6 +132,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
  
 
 >![](../assets/assets.png)
+>
 > Aktuelles Karten-Asset-Info-Overlay.
 
  
@@ -139,7 +143,9 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
->![](../assets/assets/suppresion.png)
+>![](../assets/suppresion.png)
+>
+>
 >normale Ansicht des Spiels \ (links \) und Unterdrückungsseffekt in Aktion \ (rechts \).
 
  
@@ -166,6 +172,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 >![](../assets/commorose.png)
+>
 > Commo-Rose beim Drücken von Q.
 
  
@@ -203,6 +210,7 @@ Wenn du nicht rechtzeitig geheilt werden kannst, wirst du bewusstlos und der Bil
  
 
 >![](../assets/fielddressing.png)![](../assets/kit.png)![](../assets/epipen.png)
+>
 > Feldverband, Erste-Hilfe-Kit & Epipen.
 
  
@@ -280,6 +288,7 @@ Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nä
  
 
 <![](../assets/ammobag.png)![](../assets/supplycrate.png)![](../assets/inscrate.png)![](../assets/cacahe.png)![](../assets/depott.png)
+>
 > Munitionstasche, Munitionskiste der Koalitionskräfte, Munitionskiste der Aufständischenkräfte, Waffencache & Fahrzeugdepot.
 
  
@@ -303,6 +312,7 @@ Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Hea
  
 
 >![](../assets/largecrate.png)![](../assets/smallcrate.png)
+>
 > _Hier sehen Sie die schwere Vorratskiste links und die leichte Version rechts._
 
  
@@ -344,6 +354,7 @@ Logistik-LKWs haben auch die Möglichkeit, eine Reparaturstation abzusetzen. Sie
  
 
 >![](../assets/reapir.png)
+>
 > Reparatur absetzen.
 
  
@@ -391,6 +402,7 @@ Sobald Mörser benötigt werden, können Sie den Mörserrechner verwenden (drüc
  
 
 >![](../assets/mortars.png)
+>
 > Die Mörserrechner-Schnittstelle._
 
  
@@ -424,6 +436,7 @@ In einigen Fällen müssen mehrere CSBs die gesamte Entfernung überspannen. In 
  
 
 >![](../assets/csb.png)
+>
 > CSB vom LKW wird eingesetzt.
 
 {% youtube %}
@@ -441,12 +454,12 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. D
 
 1 Squad Leader können ihren ** Squad Order Marker ** verwenden, um Orte an ihre Squad und den Commander zu kommunizieren. Die Richtung zum Marker wird durch einen Chevron über dem Kompass angezeigt. Wenn Sie sich nicht mehr als 75 Meter von der Markierung entfernt befinden, sehen Sie auch ein 3D-Symbol, das die Position vor Ihnen anzeigt. Der Marker wird auch auf der Karte sichtbar sein.
 
-   *![](../assets/target.png)**Ziel **
-   *![](../assets/build.png)**Bauen **
-   *![](../assets/observe.png)**Beobachten **
-   *![](../assets/defendmarker.png)**Verteidigen **
-   *![](../assets/demolish.png)**Zerstören **
-   *![](../assets/move.png)**Bewegen **
+   * ![](../assets/target.png)**Ziel **
+   * ![](../assets/build.png)**Bauen **
+   * ![](../assets/observe.png)**Beobachten **
+   * ![](../assets/defendmarker.png)**Verteidigen **
+   * ![](../assets/demolish.png)**Zerstören **
+   * ![](../assets/move.png)**Bewegen **
 
 2 Ein ** Präzisionsgradkompass ** zum unteren mittleren Bereich des Bildschirms. Der Kompass kann verwendet werden, um in der Nähe befindliche  Feinde genau zu lokalisieren. ** Die 8 Kardinal Richtungen ** sind deutlich mit den Grad-Label gekennzeichnet, die schrittweise alle 15 ° mit großen Abschnitten alle 5 ° dargestellt sind. Wenn Sie nur eine allgemeine Richtung mitteilen möchten, ist es am besten, die Himmelsrichtung zu sagen, gefolgt vom Grad und in manchen Fällen auch von der Entfernung. Zum Beispiel _ ** "Feind entdeckt NE 75 ° Grad 200 Meter außerhalb" **.**
 

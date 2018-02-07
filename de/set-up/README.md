@@ -40,7 +40,7 @@ Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.5 auf 
 
 Wenn Sie neu bei BF2: PR sind und noch nie ein Profil erstellt haben, klicken Sie einfach auf "Create New Account" und geben Sie die erforderlichen Details ein und wählen Sie einen sinnvollen, leicht auszusprechenden Benutzernamen. Um auf PR-Multiplayer-Servern spielen zu können, müssen Sie ein Online-Profil erstellen. Sie können alternativ ein Offline-Profil erstellen, wenn Sie dies wünschen.
 
-![](/assets/launcher_1.png)                                    
+![](../assets/launcher_1.png)                                    
 
 Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptmenü des PR-Launcher angezeigt. Alle Optionen werden auf der rechten Seite angezeigt.
 
@@ -77,13 +77,13 @@ PR Mumble wird zusammen mit PR: BF2 installiert. Es läuft neben der Installatio
 
 Es wird empfohlen, dass Sie das Haupteinstellungen-Bedienfeld direkt in der Mumble-Anwendung überprüfen, um sicherzustellen, dass alles korrekt eingerichtet ist. Suche dazu das PR-Symbol in der Taskleiste neben der Windows-Systemuhr \ (PR muss laufen), klicke auf auf das Symbol, um die Mumble-Oberfläche zu öffnen, und suche die Einstellungen oben. Danach erscheint das Einstellungsfenster und Du kannst Ihre Ein- und Ausgabegeräte konfigurieren und ändern
 
-![](/assets/mumblelogo.png)
+![](../assets/mumblelogo.png)
 
 PR Mumble integriert sich auch in das HUD-Display von BF2. Während des Spiels sehen Sie die Namen der sprechenden Spieler, wobei jede Farbe darstellt, welchen Kanal sie übertragen, der in der unteren linken Ecke des Bildschirms angezeigt wird. In der unteren rechten Ecke zeigt mumble auch an, welchen Kanal Sie mit einer anderen Farbe senden, je nachdem, welchen Kanal Sie verwenden. Es zeigt auch an, ob Ihr Mikrofon oder Ihre Lautsprecher stummgeschaltet sind und ob es Probleme mit dem Mumble-Client gibt.
 
-! [] (/ assets / mumble_1.png)
+![](../assets/mumble_1.png)
 
-! [] (/ assets / mumble_2.png)
+![](../assets/mumble_2.png)
 
 Übertragendes Mikrofon / Stummgeschaltete Lautsprecher / Stummgeschaltet / Getrennt
 
@@ -116,7 +116,7 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 | ** Tab ** | Anzeigetafel anzeigen |
 | ** Bildschirm drucken ** | Nimm Screenshot |
 | ** M ** | Kartenüberlagerung ein- / ausblenden |
-| ** N ** | Zoomstufe der Minikarte | wechseln
+| ** N ** | Zoomstufe der Minikarte / wechseln |
 | ** Q ** | Hauptradio-Rose anzeigen |
 | ** T ** | Anzeige sekundäre Radio-Rose |
 | ** Linke Alt ** | 3D-Markierungen ein- / ausblenden (nur innerhalb von 50m sichtbar) |

@@ -21,15 +21,15 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
 **Spawn-fähig Special kits:**
 
-*![](/assets/officer.png** Das Ausrüstungsset für Officer / Cell Leader ** kann nur vom Gruppenführer erhalten werden. Er ist verantwortlich für das Kommando seiner Mannschaft, für die Kommunikation mit der restlichen Mannschaft und die Aufstellung von Außenposten. Detaillierte Verwendung dieses Kits ist in der Squad Leader Abschnitt abgedeckt.
-*![](/assets/medic.png)**Der Feldsanitäter ** ist dafür verantwortlich, seine Truppe am Leben zu erhalten, was eine der wichtigsten Rollen auf dem Schlachtfeld ist.
+* ![](/assets/officer.png)** Das Ausrüstungsset für Officer / Cell Leader ** kann nur vom Gruppenführer erhalten werden. Er ist verantwortlich für das Kommando seiner Mannschaft, für die Kommunikation mit der restlichen Mannschaft und die Aufstellung von Außenposten. Detaillierte Verwendung dieses Kits ist in der Squad Leader Abschnitt abgedeckt.
+* ![](/assets/medic.png)**Der Feldsanitäter ** ist dafür verantwortlich, seine Truppe am Leben zu erhalten, was eine der wichtigsten Rollen auf dem Schlachtfeld ist.
 
 **Spawn-fähig Infanterie:**
 
-*![](/assets/breacher.png)**Der Zugangstechniker / Erkunder ** ist normalerweise der erste in vorderste  Linie für das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermöglicht, hohe Hindernisse zu überwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene Türen zu durchbrechen und Kämpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstören.
-*![](/assets/ar.png)**Der Leichte MG Schütze \ (AR \) ** bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
-*![](/assets/at.png)** Der Schütze Anti-Panzer \ (AT \) ** ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
-*![](/assets/grenadier.png)** Der Grenadier ** benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in Gebäuden in schwer erreichbaren Gebieten zu bekämpfen.
+* ![](/assets/breacher.png)**Der Zugangstechniker / Erkunder ** ist normalerweise der erste in vorderste  Linie für das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermöglicht, hohe Hindernisse zu überwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene Türen zu durchbrechen und Kämpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstören.
+* ![](/assets/ar.png)**Der Leichte MG Schütze \ (AR \) ** bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
+* ![](/assets/at.png)** Der Schütze Anti-Panzer \ (AT \) ** ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
+* ![](/assets/grenadier.png)** Der Grenadier ** benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in Gebäuden in schwer erreichbaren Gebieten zu bekämpfen.
 
  
 
@@ -37,19 +37,19 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
  
 
-*![](/assets/crewman.png)** Der Crewman ** ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
-*![](/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
-*![](/assets/unarmed.png)** Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)](../the_civilian/README.md)
+* ![](/assets/crewman.png)** Der Crewman ** ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
+* ![](/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
+* ![](/assets/unarmed.png)** Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)](../the_civilian/README.md)
 
  ** Anfragefähige Spezialkits: **
 
  
 
-*![](/assets/hay.png)** Der Anti-Panzer \ (HAT \) ** Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
-*![](/assets/sniper.png)** Der Sniper ** liefert während der Erkundung Erkenntnis, um das Team über Feindbewegungen auf dem Laufenden zu halten und um auch aus großer Entfernung Ziele von hoher Priorität zu erreichen.
-*![](/assets/spotter.png)**Der Spotter ** ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines Scharfschützen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trägt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
-*![](/assets/aa.png)**Der Anti-Aircraft \ (AA \) Soldat ** kann feindliche Flugzeuge angreifen und abschrecken.
-*![](/assets/combat_engineer.png) ** Der Kampftechniker ** kann Minenfelder legen, feindliche Anlagen abreißen, Sprengsätze abschalten und leichte Fahrzeuge reparieren.
+* ![](/assets/hay.png)** Der Anti-Panzer \ (HAT \) ** Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
+* ![](/assets/sniper.png)** Der Sniper ** liefert während der Erkundung Erkenntnis, um das Team über Feindbewegungen auf dem Laufenden zu halten und um auch aus großer Entfernung Ziele von hoher Priorität zu erreichen.
+* ![](/assets/spotter.png)**Der Spotter ** ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines Scharfschützen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trägt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
+* ![](/assets/aa.png)**Der Anti-Aircraft \ (AA \) Soldat ** kann feindliche Flugzeuge angreifen und abschrecken.
+* ![](/assets/combat_engineer.png) ** Der Kampftechniker ** kann Minenfelder legen, feindliche Anlagen abreißen, Sprengsätze abschalten und leichte Fahrzeuge reparieren.
 
  
 
@@ -57,9 +57,9 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
  
 
-*![](/assets/ap.png)** Der Kampfschütze Anti-Personal \ (AP \) ** ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
-*![](/assets/marskman.png)**Der Designated Marksman \ (DMR \) ** sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
-*![](/assets/mlg.png)** Der Maschinengewehrschütze \ (MMG \) ** bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
+* ![](/assets/ap.png)** Der Kampfschütze Anti-Personal \ (AP \) ** ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
+* ![](/assets/marskman.png)**Der Designated Marksman \ (DMR \) ** sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
+* ![](/assets/mlg.png)** Der Maschinengewehrschütze \ (MMG \) ** bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
 
  
 
