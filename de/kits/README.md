@@ -15,22 +15,21 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 **Spawn-fähig Unlimited kits:**
 
 * ![](/assets/rifleman.png)Der ** Schütze / Militanter Krieger / Aufständischer ** ist der Standard-Infanteriesoldat jeder Fraktion. Er ist typischerweise mit einem Sturmgewehr, Granaten und Rauch ausgerüstet, je nach Fraktion eine Munitionstasche.
-* ![](/assets/civiicon.png)** Der Zivilist ** ist ein unbewaffneter Aufständischer, der seinem Team bei der Entdeckung von Feinden helfen kann. Da er ein Zivilist ist, gibt es einige spezielle Regeln über ihn, die später in diesem Kapitel ausführlich beschrieben werden. Dieses Set ist nur für Hamas und irakische Aufständische verfügbar. [(siehe der Zivilist)](../kits/README.md#der-zivilist)
+* ![](/assets/civiicon.png)** Der Zivilist ** ist ein unbewaffneter Aufständischer, der seinem Team bei der Entdeckung von Feinden helfen kann. Da er ein Zivilist ist, gibt es einige spezielle Regeln über ihn, die später in diesem Kapitel ausführlich beschrieben werden. Dieses Set ist nur für Hamas und irakische Aufständische verfügbar. [(siehe der Zivilist)](../the_civilian/README.md)
 
 * ![](/assets/sapper.png)**Der aufständische Sapper ** setzt Granatenfallen und platziert IEDs. Er ist wichtig, wenn er einen Hinterhalt vorbereitet.
 
 **Spawn-fähig Special kits:**
 
-* ![](/assets/officer.png** Das Ausrüstungsset für Officer / Cell Leader ** kann nur vom Gruppenführer erhalten werden. Er ist verantwortlich für das Kommando seiner Mannschaft, für die Kommunikation mit der restlichen Mannschaft und die Aufstellung von Außenposten. Detaillierte Verwendung dieses Kits ist in der Squad Leader Abschnitt abgedeckt.
-* ![](/assets/medic.png)**Der Feldsanitäter ** ist dafür verantwortlich, seine Truppe am Leben zu erhalten, was eine der wichtigsten Rollen auf dem Schlachtfeld ist.
+*![](/assets/officer.png** Das Ausrüstungsset für Officer / Cell Leader ** kann nur vom Gruppenführer erhalten werden. Er ist verantwortlich für das Kommando seiner Mannschaft, für die Kommunikation mit der restlichen Mannschaft und die Aufstellung von Außenposten. Detaillierte Verwendung dieses Kits ist in der Squad Leader Abschnitt abgedeckt.
+*![](/assets/medic.png)**Der Feldsanitäter ** ist dafür verantwortlich, seine Truppe am Leben zu erhalten, was eine der wichtigsten Rollen auf dem Schlachtfeld ist.
 
 **Spawn-fähig Infanterie:**
 
-* ![](/assets/breacher.png)**Der Zugangstechniker / Erkunder ** ist normalerweise der erste in vorderste  Linie für das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermöglicht, hohe Hindernisse zu überwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene Türen zu durchbrechen und Kämpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstören.
-* ![](/assets/ar.png)**Der Leichte MG Schütze \ (AR \) ** bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
-* ![] (/assets/at.png)** Der Schütze Anti-Panzer \ (AT \) ** ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
-
-* ![] (/assets/grenadier.png)** Der Grenadier ** benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in Gebäuden in schwer erreichbaren Gebieten zu bekämpfen.
+*![](/assets/breacher.png)**Der Zugangstechniker / Erkunder ** ist normalerweise der erste in vorderste  Linie für das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermöglicht, hohe Hindernisse zu überwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene Türen zu durchbrechen und Kämpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstören.
+*![](/assets/ar.png)**Der Leichte MG Schütze \ (AR \) ** bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
+*![](/assets/at.png)** Der Schütze Anti-Panzer \ (AT \) ** ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
+*![](/assets/grenadier.png)** Der Grenadier ** benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in Gebäuden in schwer erreichbaren Gebieten zu bekämpfen.
 
  
 
@@ -38,37 +37,19 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
  
 
-*! [] (/assets/crewman.png)** Der Crewman ** ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
+*![](/assets/crewman.png)** Der Crewman ** ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
+*![](/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
+*![](/assets/unarmed.png)** Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)](../the_civilian/README.md)
 
-*! [] (/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
-
-*! [] (/assets/unarmed.png)**Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)] (../der Zivilist/README.md)
-
- 
+ ** Anfragefähige Spezialkits: **
 
  
 
- 
-
-** Anfragefähige Spezialkits: **
-
- 
-
-*! [] (/assets/hay.png)** Der Anti-Panzer \ (HAT \) ** Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
-
-*! [] (/assets/sniper.png)** Der Sniper ** liefert während der Erkundung Erkenntnis, um das Team über Feindbewegungen auf dem Laufenden zu halten und um auch aus großer Entfernung Ziele von hoher Priorität zu erreichen.
-
- 
-
-*! [] (/assets/spotter.png)**Der Spotter ** ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines Scharfschützen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trägt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
-
- 
-
-*! [] (/assets/aa.png)**Der Anti-Aircraft \ (AA \) Soldat ** kann feindliche Flugzeuge angreifen und abschrecken.
-
- 
-
-*! [] (/ assets / combat engineer.png) ** Der Kampftechniker ** kann Minenfelder legen, feindliche Anlagen abreißen, Sprengsätze abschalten und leichte Fahrzeuge reparieren.
+*![](/assets/hay.png)** Der Anti-Panzer \ (HAT \) ** Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
+*![](/assets/sniper.png)** Der Sniper ** liefert während der Erkundung Erkenntnis, um das Team über Feindbewegungen auf dem Laufenden zu halten und um auch aus großer Entfernung Ziele von hoher Priorität zu erreichen.
+*![](/assets/spotter.png)**Der Spotter ** ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines Scharfschützen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trägt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
+*![](/assets/aa.png)**Der Anti-Aircraft \ (AA \) Soldat ** kann feindliche Flugzeuge angreifen und abschrecken.
+*![](/assets/combat_engineer.png) ** Der Kampftechniker ** kann Minenfelder legen, feindliche Anlagen abreißen, Sprengsätze abschalten und leichte Fahrzeuge reparieren.
 
  
 
@@ -76,11 +57,9 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche
 
  
 
-*! [] (/assets/ap.png)** Der Kampfschütze Anti-Personal \ (AP \) ** ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
-
-*! [] (/assets/marskman.png)**Der Designated Marksman \ (DMR \) ** sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
-
-*! [] (/assets/mlg.png)** Der Maschinengewehrschütze \ (MMG \) ** bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
+*![](/assets/ap.png)** Der Kampfschütze Anti-Personal \ (AP \) ** ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
+*![](/assets/marskman.png)**Der Designated Marksman \ (DMR \) ** sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
+*![](/assets/mlg.png)** Der Maschinengewehrschütze \ (MMG \) ** bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
 
  
 
@@ -162,8 +141,6 @@ Sie müssen die ** Pickup-Taste \ (G \) ** drücken, um es zu nehmen. Wenn deine
 
 > ** "Du musst in der Nähe eines freundlichen SUPPLY CRATE oder APC sein, um dieses Kit anzufordern" **
 
->
-
 > ** Du musst in der Nähe eines freundlichen SUPPLY CRATE oder FAHRZEUGS sein, um dieses Kit anzufordern **
 
  
@@ -182,18 +159,11 @@ Wenn Sie Kits aus einer Kiste oder einem Fahrzeug anfordern, können Sie im Unte
 
 Infanterie- und Spezialkits haben eine Mindestanzahl von Spielern im Kader, bevor sie ausgewählt werden können. Verwenden Sie die folgende Tabelle, um die Standardwerte für Infanterie- und Spezialkits sowie einige Ausnahmen von dieser Regel zu finden. ** Alle Infanterie- und Spezialkits können nur einmal in einem Trupp angefordert werden, außer dem Sanitäter, Scharfschützen und Zivilisten, von denen du bis zu 2 in jedem Trupp haben kannst.**
 
- 
-
 | Kit | Minimum | Kit | Minimum |
-
 | --- | --- | --- | --- |
-
-| ** Infanterie Standard ** | 4 | ** Maschinengewehrschütze ** | 6 |
-
-| ** Sondervorgabe ** | 3 | ** Offizier ** | 2 |
-
-| ** Grenadier ** | 6 | ** Medic ** | 2 |
-
+| **Infanterie Standard** | 4 | **Maschinengewehrschütze** | 6 |
+| **Sondervorgabe** | 3 | **Offizier** | 2 |
+| **Grenadier** | 6 | **Medic** | 2 |
  
 
 Es wird Ihnen erneut eine Nachricht anzeigen, wenn Sie die Anforderung nicht erfüllen:
@@ -210,25 +180,14 @@ Es wird Ihnen erneut eine Nachricht anzeigen, wenn Sie die Anforderung nicht erf
 
 Infanterie und spezielle Kits werden aus einem Pool gezogen. Die Anzahl der verfügbaren Kits hängt von der Anzahl der Spieler in deinem Team ab. Die Spawn-fähigen und Fahrzeug-Kits sind nicht in der Anzahl begrenzt. Wenn das Kit nicht in der folgenden Tabelle aufgeführt ist, bedeutet dies, dass es die Standardanforderungen für Infanterie- und Spezialkits verwendet.
 
- 
-
-| Kit | 1-7 Spieler | 8-15 Spieler | 16-23 Spieler | 24-31 Spieler | 32-50+ Spieler |
-
+| Kit | 1-7 Spieler | 8-15 Spieler | 16-23 Spieler | 24-31 Spieler | 32- 50+ Spieler |
 | --- | --- | --- | --- | --- | --- |
-
-| ** Infanterie Standard ** | 1 | 2 | 3 | 3 | 4 |
-
-| ** Sondervorgabe ** | 0 | 1 | 1 | 2 | 2 |
-
-Hut
-
-Sniper
-
-| ** Schütze AT ** | 1 | 2 | 4 | 5 | 8 |
-
-| ** Zivilist ** | 1 | 3 | 9 | 12 | 16 |
-
- 
+| **Infanterie Standard** | 1 | 2 | 3 | 3 | 4 |
+| **Sondervorgabe** | 0 | 1 | 1 | 2 | 2 |
+| **HUT** | 0 | 1 | 1 | 1 | 1 |
+| **Sniper** | 0 | 1 | 1 | 2 | 2 |
+| **Schütze AT** | 1 | 2 | 4 | 5 | 8 |
+| **Zivilist** | 1 | 3 | 9 | 12 | 16 |
 
 Wenn ein Infanterie-Kit fallen gelassen wurde und nicht innerhalb von 5 Minuten abgeholt wird, verschwindet es aus der Welt und kehrt in den Pool zurück. Spezialkits benötigen 10 Minuten, um zum Pool zurückzukehren. Es wird eine orange Nachricht angezeigt, wenn das Kit nicht verfügbar ist:
 
@@ -264,11 +223,7 @@ Nicht alle Kits sind für alle Fraktionen verfügbar. Wenn du das Kit nicht zur 
 
 > ** "Nicht für Ihre Streitkräfte verfügbar" **
 
->
-
 > ** Nach deinem letzten Besuch bekommst du kein weiteres begrenztes Kit
-
->
 
 > ** Du bist neu in diesem Trupp, fordere es in einer Minute noch einmal an!
 
