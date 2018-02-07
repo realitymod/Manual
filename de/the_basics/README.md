@@ -395,7 +395,7 @@ Sobald Mörser benötigt werden, können Sie den Mörserrechner verwenden (drüc
 
  
 
-## _Ponton Brücken \ (CSB \)_ {#ponton-brücken}
+## _Ponton Brücken (CSB)_ {#ponton-brücken}
 
  
 

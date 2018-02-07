@@ -5,7 +5,7 @@
 Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps (außer leichten gepanzerten Fahrzeugen) können von jedem Soldaten bedient werden. Gepanzerte Fahrzeuge, Hubschrauber und Flugzeuge benötigen spezielle Fahrzeugkits für den Betrieb. Spieler, die das richtige Kit nicht benutzen, können das Fahrzeug nicht steuern oder die Waffen benutzen. Sie können keine gegnerischen Fahrzeuge betreten oder benutzen. Für Bodenfahrzeuge benötigen Sie dann ein ** Crewman ** -Kit. Für Flugzeuge und Helikopter ist es das ** Pilot ** -Kit. Diese sind entweder vom Fahrzeug oder von einer Lieferkiste anzufordern.
 * Externe Ansichten für Fahrzeuge wurden entfernt. Aber für bestimmte Fahrzeuge gibt es spezielle Kameras, wie LKWs hinter sich sehen können (** C ** \).
 * Sie können die Sichtweise ** statischer und fahrzeugmontierter MGs ** durch Drücken der Kamerataste wechseln (** C ** \).
-* Fahrzeugmontierte automatische Waffen haben oft eine ** Überhitzung **. Sieh Dir das Wärme-HUD-Element in der unteren rechten Ecke an. ! [] (/ assets / overheat.png)
+* Fahrzeugmontierte automatische Waffen haben oft eine ** Überhitzung **. Sieh Dir das Wärme-HUD-Element in der unteren rechten Ecke an. ![](../assets/overheat.png)
 * Fahrzeugmontierte MGs verwenden Munitionsgurte. Sie werden automatisch neu geladen, sind jedoch in ihrer Anzahl begrenzt.
 * Fahrzeuge können ** im Versorgungslager ** nachgeliefert und repariert werden. Oder verwenden Sie die Reparaturstation, die ein Logistik-LKW fallen lassen kann. Flugzeuge und Helikopter werden automatisch an ihrem Spawnstandort repariert und neu bewaffnet.
 * Aufständische haben ** Selbstmord-Fahrzeuge ** wie ein orange Müllcontainer-LKW oder kleine zivile Autos, die mit C4 gepackt sind. Sie können diese mit dem alternativen Feuertaste zünden.
@@ -23,8 +23,7 @@ Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps (außer leichten ge
 * Fahrer und Kanoniere können ** ihre Ansicht vergrößern, indem sie die Pop-Rauchtaste \ (** X ** \) drücken. Einige Panzerfahrer müssen zuerst in die Commander-Ansicht wechseln.
 * Die meisten Tanks und IFVs können zusätzlich zu ihren normalen Ansichten ** eine Optik ** verwenden. Sie können in den thermischen Modus wechseln, indem Sie das sekundäre Radiomenü \ (** T ** \) verwenden und ** "TAG / THERMAL" auswählen. ** Einige erlauben auch, zwischen thermischen Variationen wie WHOT / BHOT zu wechseln.
 
->! [] (/ assets / Thermalz.png)
->
+>![](../assets/thermalz.png)
 > Wärmebild
 
 * Gepanzerte Fahrzeuge haben kein Warnsignal, wenn sie von Raketenwerfern angegriffen werden oder wenn Raketen auf sie abgefeuert werden.
@@ -40,11 +39,10 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen
 
 * Bei bestimmten Fahrzeugen wird der Rauch ** IR-blockiert ** sein, was bedeutet, dass er auch das thermische Sehen blockiert. Für andere \ (ältere Fahrzeuge \) werden Sie in der Lage sein, durch den Rauch auf thermisches Sehen zu sehen.
 
->! [] (/ assets / vehiclesmoke.png)
->
+>![](../assets/vehiclesmoke.png)
 > Fahrzeug entfaltet Rauch
 
-## _Helicopter_ {#Helicopter}
+## _Helicopter_ {#helicopter}
 
 * Hubschrauber haben eine ** Aufwärmzeit ** von etwa 30 Sekunden. Wenn während des Hochdrehens der Rotorblätter zu viel Schub erzeugt wird, verliert der Pilot die Kontrolle und stürzt ab. Um den Helikopter starten zu können, müssen Sie mindestens 30 Sekunden lang im Leerlauf stehen, bevor Sie versuchen, abzuheben.
 * Hubschrauberpiloten können während des Fluges in andere Richtungen schauen, indem sie die Tasten 6, 7, 8 und 9 drücken, die Sie einem Joystick POV HAT Switch zuordnen können. Um wieder nach vorne zu schauen, drücke 1 oder wähle eine andere Waffe, die dein Flugzeug hat.
@@ -83,7 +81,7 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen
 
   1. Bodentruppen finden ein geeignetes Ziel für einen Luftangriff.
 
-  2. Die Truppen kontaktieren den Piloten entweder direkt durch Mumble / Text Chat und / oder indem sie einen CAS Marker setzen. ! [] (/ assets / marker.png)
+  2. Die Truppen kontaktieren den Piloten entweder direkt durch Mumble / Text Chat und / oder indem sie einen CAS Marker setzen. ![](../assets/marker.png)
 
   3. Der Pilot informiert die Bodentruppen über den Befehl ** "ON THE WAY" ** von seinem Hauptradio-Menü und / oder durch Mumble / Text-Chat.
 

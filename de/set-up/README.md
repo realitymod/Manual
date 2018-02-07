@@ -13,7 +13,7 @@
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
 
-## _Spiel Installation-                                                              {#spiel-installation}
+## _Spiel Installation_ {#spiel-installation}
 
 Mit PR: BF2 ist es nicht mehr erforderlich, dass Battlefield 2 ** installiert ist. PR: BF2 v1.3 und höher funktioniert als eigenständiges Spiel. Wenn Sie eine Version von PR: BF2 installiert haben, müssen Sie diese deinstallieren, bevor Sie PR: BF2 v1.5 installieren. ** Es gibt keinen Patch von und ältere Version zu v1.3 **!
 
@@ -61,7 +61,7 @@ Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptm
 * ** Optionen: ** Hier können Sie die Audiooptionen sowie das Tastaturlayout konfigurieren. Video-Optionen müssen im PR Launcher geändert werden.
 * ** Beenden: ** Verwenden Sie diese Schaltfläche, um das Spiel zu beenden und zu Windows zurückzukehren.
 
-## _PR Mumble _ {#pr-mumble}
+## _PR Mumble_ {#pr-mumble}
 
 Im Spiel ist Mumble das Programm, mit dem wir uns in PR miteinander kommunizieren: BF2, das das Voice-Over-IP-System (VOIP) von BF2-Vanille ersetzt. Die Haupteigenschaft von PR Mumble ist, dass seine primäre Kommunikationsmethode im 3D-Raum übertragen wird, der direktional und näherungsbasiert ist. Dies nennt man Lokal. Das bedeutet, dass alle Spieler in deinem Team miteinander sprechen können, wenn sie in der Nähe sind, und du kannst hören, in welche Richtung Du sprichst. Ähnlich kannst du beurteilen, wie weit weg sie sind, genau wie im richtigen Leben.
 
@@ -87,7 +87,7 @@ PR Mumble integriert sich auch in das HUD-Display von BF2. Während des Spiels s
 
 Übertragendes Mikrofon / Stummgeschaltete Lautsprecher / Stummgeschaltet / Getrennt
 
-## _Troubleshooting_ {#Troubleshooting}
+## _Troubleshooting_ {#troubleshooting}
 
 * PR: BF2 hat eine eigene Dateiprüfung, bevor Sie das Spiel starten. Sie können mit geänderten Dateien nicht online spielen. Sie können sie weiterhin offline verwenden.
 * PR: BF2 muss mit dem PR Launcher gestartet werden. Das Starten von BF2.EXE oder PRBF2.EXE wird nicht funktionieren.
