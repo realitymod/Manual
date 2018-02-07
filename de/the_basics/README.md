@@ -16,7 +16,7 @@ Am wichtigsten ist, dass du ** einem Squad ** beitreten solltest. Einige Server 
 
 * Kits, die spezialisiert und schwieriger zu bedienen sind, sind in der Regel begrenzt und können nur erreicht werden, wenn bestimmte Bedingungen innerhalb eines Trupps erfüllt werden. Diese reservierten Kits sind für das Team begrenzt und Sie sollten immer nachfragen, bevor Sie eine anfordern.
 
-* Kits können vom Haupt-Spawn-Menü \ (wie BF2 \), einer Lieferkiste [_ \ (siehe Logistik \) _] (../the_basics/README.md#logistik) oder der Rückseite eines APC / IFV angefordert werden. Um die Möglichkeit zu haben, einen Bausatz aus einer Vorratskiste oder einem Fahrzeug anzufordern, müssen Sie Teil eines Trupps sein.
+* Kits können vom Haupt-Spawn-Menü \ (wie BF2 \), einer Lieferkiste [_ \ (siehe Logistik\) _](../the_basics/README.md#logistik) oder der Rückseite eines APC / IFV angefordert werden. Um die Möglichkeit zu haben, einen Bausatz aus einer Vorratskiste oder einem Fahrzeug anzufordern, müssen Sie Teil eines Trupps sein.
 
  
 
@@ -24,7 +24,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-* ** Der Sammelpunkt deines Trupps \ (RP \) ** ist ein grüner Kreis, der einen Spawnpunkt mit der Nummer deines Trupps umgibt. Abhängig von der Position des RP deines Teams in Bezug auf den FOB eines Teams wird seine Langlebigkeit bestimmen. Hinweis: Wenn du am Sammelpunkt eines anderen Squads spawnt, spawnt du automatisch an deinem eigenen Sammelpunkt oder in der Nähe eines FOB. Wenn keine verfügbar sind, werden Sie in die Hauptbasis Ihres Teams versetzt. Wenn der Feind vom Feind überrannt wird, verschwindet seine RP. RPs sind nur für konventionelle Streitkräfte verfügbar. [(siehe Deployable Structures)] (../ the_squad_leader / README.md # Rallyepunkte)
+* ** Der Sammelpunkt deines Trupps \ (RP \) ** ist ein grüner Kreis, der einen Spawnpunkt mit der Nummer deines Trupps umgibt. Abhängig von der Position des RP deines Teams in Bezug auf den FOB eines Teams wird seine Langlebigkeit bestimmen. Hinweis: Wenn du am Sammelpunkt eines anderen Squads spawnt, spawnt du automatisch an deinem eigenen Sammelpunkt oder in der Nähe eines FOB. Wenn keine verfügbar sind, werden Sie in die Hauptbasis Ihres Teams versetzt. Wenn der Feind vom Feind überrannt wird, verschwindet seine RP. RPs sind nur für konventionelle Streitkräfte verfügbar. [(siehe Deployable Structures)](../the_squad_leader/README.md#Rallyepunkte)
 
  
 
@@ -42,7 +42,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
 * ** Der Kommandeur-Sammelpunkt **. Diese RP kann nur vom Kommandanten platziert werden, vorausgesetzt, mehrere Gruppenführer sind in der Nähe des CO. Auf der Karte wird dies ein Sammelpunkt mit einem "C" daneben sein.
 
-* ** Feld Operations Basis \ (FOB \) oder Verstecke ** können vom gesamten Team verwendet werden, um zu spawnen, muss aber konstruiert werden, bevor es einsatzbereit ist. Auf der Karte wird es als Spawnpunkt mit einem grünen Dreieck angezeigt. Es kommt 90 Sekunden nach dem Aufbau online. Es wird für 30 Sekunden unspähbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. [(siehe Aufbaubare Strukture)] (../ the_squad_leader / README.md # deployable-structures)
+* ** Feld Operations Basis \ (FOB \) oder Verstecke ** können vom gesamten Team verwendet werden, um zu spawnen, muss aber konstruiert werden, bevor es einsatzbereit ist. Auf der Karte wird es als Spawnpunkt mit einem grünen Dreieck angezeigt. Es kommt 90 Sekunden nach dem Aufbau online. Es wird für 30 Sekunden unspähbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. [(siehe Aufbaubare Strukture)](../the_squad_leader/README.md#deployable-structures)
 
  
 
@@ -292,7 +292,7 @@ Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nä
 
 * ** Ammo-Boxen ** - abgesetzt von leichten transportierten Fahrzeugen, APCs und IFVs.
 
-* ** Leichte / schwere Vorratskisten ** - Weitere Informationen im [nächsten Abschnitt] (the_basics / README.md # crates)
+* ** Leichte / schwere Vorratskisten ** - Weitere Informationen im [nächsten Abschnitt](the_basics/README.md#crates)
 
 * ** Waffencaches ** - Nur für Aufständische verfügbar
 
@@ -322,7 +322,7 @@ Eine andere Sache zu beachten ist, dass die Nachlieferung ist ** nicht sofort **
 
  
 
-Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Heave Supply Crate. Während beide es erlauben, Spieler zu versorgen und Stellungen zu bauen, entspricht eine leichte Kiste der Hälfte der schweren Vorratskiste, was bedeutet, dass du 2x leichte Vorratskisten brauchst, wo nur 1x schwere Vorratskiste benötigt wird. Weitere Informationen zu Aufbauen von Stellungen finden Sie im Kapitel. [Deployable Structures] (Aufbaubare-Strukturen_squad_leader/README.md)
+Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Heave Supply Crate. Während beide es erlauben, Spieler zu versorgen und Stellungen zu bauen, entspricht eine leichte Kiste der Hälfte der schweren Vorratskiste, was bedeutet, dass du 2x leichte Vorratskisten brauchst, wo nur 1x schwere Vorratskiste benötigt wird. Weitere Informationen zu Aufbauen von Stellungen finden Sie im Kapitel. [Deployable Structures](Aufbaubare-Strukturen_squad_leader/README.md)
 
  
 

@@ -42,7 +42,7 @@
   * [Unterstützungsanfrage ](the_squad_leader/README.md#Anfrage-Unterstützung)
   * [Bauarbeit](the_squad_leader/README.md#Bauarbeiten)
   * [Aufbaubare Strukturen](the_squad_leader/README.md#aufbaubare-strukturen)
-* [Fahrzeug Betrieboperating_vehicles/README.md#Farzeuge-betreiben)
+* [Fahrzeug Betrieboperating vehicles](operating_vehicles/README.md#Farzeuge-betreiben)
   * [Allgemeine Fahrzeuginformationen](operating_vehicles/README.md#allgemeine-Fahrzeuginformationen)
   * [Gepanzerte Fahrzeuge](operating_vehicles/README.md#gepanzerte-Fahrzeuge)
   * [Helicopter](operating_vehicles/README.md#helicopter)
