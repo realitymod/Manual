@@ -2,15 +2,15 @@
 
 Los kits en Project Reality definen tu clase, tu equipamiento y tu rol en el equipo. PR ofrece una gran variedad de kits entre los que elegir. De forma general, se puede decir que hay 3 tipos de kits en Project Reality:
 
-* **Kits Estándards**, los cuales pueden seleccionarse directamente desde la pantalla de spawn
+* **Kits Estándard**, los cuales pueden seleccionarse directamente desde la pantalla de spawn
 * **Kits Especiales**, obtenibles sólamente desde vehículos o cajas de suministros (no disponible para insurgentes)
 * **Kits Especiales de Insurgentes**, sólo disponible en alijos de armas (cachés) de facciones insurgentes o no-convencionales
 
 El kit más genérico es el de **Fusilero (o Insurgente)**, del cual puede haber tantos como se quiera en la escuadra/equipo. Por otro lado, todos los demás kits vienen con clases especializadas asociadas y tienen restricciones respecto al número de ellos que se pueden tener en una misma escuadra o en el equipo en su totalidad. Debido a estas restricciones, para evitar perjudicar a la escuadra/equipo malusando un kit limitado, es recomendable empezar a jugar con un kit de **Fusilero**.
 
-# **Kits Estándards** {#kits}
+# **Kits Estándard** {#kits}
 
-Los **Kits Estándards** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándards que existen, así como información sobre cuántos kits de este tipo puede tener una misma escuadra y el tamaño mínimo de la misma para poder solicitarlos.
+Los **Kits Estándard** son los 7 kits disponibles desde la pantalla de spawn y los kits que típicamente componen una escuadra de infantería. En la siguiente tabla se puede ver un resumen de los kits estándard que existen, así como información sobre cuántos kits de este tipo puede tener una misma escuadra y el tamaño mínimo de la misma para poder solicitarlos.
 
 | Kit | Límitación | Tamaño Mínimo | 
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Teniendo en cuenta estas limitaciones, se puede decir que una escuadra típica d
 | 1x | Granadero |
 | 1x | Anti-Tanque |
 
-Breve descripción de cada uno de los Kits Estándard:
+**Descripción de los Kits Estándard**
 
 * ![](assets/rifleman.png)**Fusilero**. Kit ilimitado, corresponde al soldado de infantería estándard. Típicamente equipado con un fusil de asalto, granadas de fragmentación y humo. Al no tener una función especializada en la escuadra, el fusilero es ideal para posiciones y maniobras agresivas. Es además el único kit que puede suministrar munición al resto de compañeros.
 
@@ -59,7 +59,7 @@ Breve descripción de cada uno de los Kits Estándard:
 
 ## _Kits Especiales_ {#kits-especiales}
 
-Además de los Kits Estándards ya descritos, en PR existe una amplia selección de **Kits Especiales** que cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Observador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo, entre otros. No es posible spawnearse directamente con estos kits especializados, sino que para conseguirlos se habrán de solicitar desde cajas de suministros o vehículos aliados. Además, dependiendo del número de jugadores que haya en el equipo, cada uno de estos kits estará limitado a un cierto número de ellos. 
+Además de los Kits Estándard ya descritos, en PR existe una amplia selección de **Kits Especiales** que cumplen roles altamente especializados. Algunos ejemplos de Kits Especiales son el Anti-Tanque Pesado, el Zapador, el Observador, el Tirador Designado (o Marksman), el Francotirador o el Fusilero Anti-Aéreo, entre otros. No es posible spawnearse directamente con estos kits especializados, sino que para conseguirlos se habrán de solicitar desde cajas de suministros o vehículos aliados. Además, dependiendo del número de jugadores que haya en el equipo, cada uno de estos kits estará limitado a un cierto número de ellos. 
 
 En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes **Kits Especiales**:
 
@@ -77,7 +77,7 @@ En la siguiente tabla, resumimos las limitaciones por equipo de los diferentes *
 
 Debido a la naturaleza altamente restringida de estos kits, se desaconseja **encarecidamente** que jugadores sin mucha experiencia los usen, ya que se corre el riesgo de desaprovecharlos, perderlos y poner al equipo en una notable desventaja al dejarlo sin posibilidad de usar estos kits vitales.
 
-A continuación hacemos una breve descripción de los **Kits Especiales**.
+**Descripción de los Kits Especiales**.
 
 * ![](/assets/mlg.png)**Ametrallador Pesado \(MG\)**. Es una versión más pesada y engorrosa del Ametrallador Ligero (o AR), aunque gracias a su potencia de fuego superior, es capaz de mantener una escuadra entera suprimida, siendo además letal en las distancias largas.
 
@@ -107,70 +107,73 @@ Finalmente, está el kit de **Piloto** (Aire) y el de **Tripulante** (Blindados)
 
 ## _Solicitando Kits en el Campo de Batalla_ {#kit-request-procedure}
 
-Una vez spawneado, se puede solicitar un kit nuevo (tanto Estándard como Especial) desde una caja de suministros o de un blindado aliado. Normalmente, para solicitar un kit, se han de cumplir estos 4 requisitos generales:
+**Condiciones**
+
+Una vez spawneado, es posible solicitar un kit nuevo (tanto Estándard como Especial) desde una caja de suministros o de un blindado aliado. Normalmente, para solicitar un kit, se han de cumplir estos 4 requisitos generales:
 
 * Tener **permiso del Jefe de Escuadra** - él es quien decide qué kit cogerá cada soldado bajo su mando
 * **Estar dentro en una escuadra** con el número adecuado de personas
-* Estar en el **lugar correcto** - junto a suministros o vehículo aliado
-* Que el kit solicitado **esté disponible** - es decir, que todavía no se ha alcanzado el límite máximo de ese kit por escuadra/equipo
+* Estar en el **lugar correcto** - junto a una caja de suministros o vehículo aliado
+* Que el kit solicitado **esté disponible** - es decir, que todavía no se haya alcanzado el límite máximo de ese kit por escuadra/equipo
 
-**Cómo Solicitar un Kit**
+Las siguientes condiciones bloquearán temporalmente tu derecho a solicitar un kit:
 
-Para solicitar un kit, cumple las 4 condiciones arriba descritas y sigue los siguientes pasos: 
+* Spawnearse, o solicitar y ser otorgado, un kit limitado: durante 2 minutos no podrás solicitar uno nuevo.
+* Si cambias de escuadra: +2 minutos al tiempo de espera para poder solicitar un kit.
+* Matar a un aliado (teamkilling) que lleva un kit limitado: +3 minutos bloqeuados.
+* Matar a un civil infringiendo las Reglas de Enfrentamiento (ROE): +10 minutos bloqueado.
+* Si realizas varias solicitudes de kit seguidas: bloqueado +30 segundos.
+
+**Secuencia de teclas**
+
+Para solicitar un kit, sigue los siguientes pasos: 
 
 1. Mantén presionada la **tecla de Radio Secundaria /(T/)** (lo cual hará aparecer un menú *Comm Rose*), 
 2. Con la T todavía pulsada, selecciona la opción central del menú (**"SOLICITAR / SOLTAR KIT"**) y haz **click-izquierdo** sobre ella. Esto abrirá un listado con todos los kits en él.
 3. Mueve el ratón para destacar la opción deseada y haz **click-izquiero** sobre ella. 
 4. Si tu petición es aceptada, en pantalla verás un texto amarillo diciendo: **“Your kit has been ALLOCATED and is at your feet”**, y el kit solicitado aparecerá a tus pies. Recógelo **pulsando la tecla G**.
 
-Cada kit, además, existe en dos variantes diferentes: la versión estándard y la versión alternativa.
-**Secuencia 
+Cada kit existe además en dos variantes diferentes: la versión estándard y la versión alternativa. Normalmente, la versión estándard viene con mira telescópica y la versión alternativa sin ella. Algunos kits, como el Anti-Tanque Ligero (AT), o las clases insurgentes, presentan otras variaciones de armamento en las dos versiones.
 
+Para solicitar la versión alternativa, simplemente repite la misma secuencia arriba descrita pero en el paso 4 haz **click-*derecho***.
 
+**Mensajes de Kit Denegado**
 
-Si por el contrario tu solicitud no es aceptada, aparecerá en pantalla un texto amarillo explicando el motivo:
+Si tu solicitud no es aceptada, aparecerá en pantalla un texto amarillo explicando el motivo. Aquí se reproducen los mensajes más frecuentes y su explicación:
 
 > **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**
->
 > **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
-
-To obtain the unarmed kit you simply need to hold down the secondary radio key, press the right mouse button to select the drop kit option.
-
-When requesting kits from a crate or vehicle, whilst in the sub-menu you are able to right click to request the alternate kit for that class of weapon, for which there are many variants. Alternatively in the spawn menu there are also the STD and ALT buttons to switch.
-
-
-* You can't request kits while you are in a vehicle. You also can not request the unarmed kit for 15 seconds after exiting a vehicle.
-#Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, #esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o vendas, etc), pero pasado ese tiempo, si no #sueltas el kit enemigo, pasarás a estar muerto.
-
-
-**Squad requirement:**
-
-It will again show you with a message when you are not fulfilling the requirement:
+No estás en el sitio adecuado: junto a una caja de suministros o vehículo aliado.
 
 > **“Unavailable due to squad limitations”**
+Ya se alcanzó el máximo número de kits de ese tipo en la escuadra. Nótese que basta tener a alguien con un Kit Estándard **seleccionado** en el menú de espawm para que ello cuente como usado en la escuadra.
 
-Infantry and special kits are drawn from a pool. The number of available kits depends on the amount of players currently on your team. The spawn-able and vehicle kits are not limited in number. If the kit is not in the following table it means it uses the default requirements for infantry and specialized kits.
-
-
-When an infantry kit has been dropped and is not picked up within 5 minutes it disappears from the world and returns to the pool. Specialist kits take 10 minutes to return to the pool. It will show you an orange message if the kit in unavailable:
-
-> **“All of these kits have been issued”**
-
-Insurgents can't request kits. The commander of a team may only request the officer kit. Certain actions temporarily prevent you from requesting kits:
-
-* When you are issued a limited kit you will need to wait 2 minutes before you can request another one.
-* If you change squads, you cannot request a kit for a further 2 minutes.
-* Teamkilling someone who carries a limited kit blocks you for 3 minutes.
-* If you kill a civilian violating the ROE, you will be blocked for 10 minutes.
-* If you spam kit requests, you will be blocked for 30 seconds.
-
-Not all kits are available for all factions. If you don’t have the kit available to you the game will tell you:
+> **"All of these kits have been issued”**
+El equipo ya ha obtenido el número máximo permitido de este Kit Especial. Los kits en el suelo cuentan para este límite. Un kit en el suelo desaparecerá tras unos 5-10 minutos.
 
 > **“Unavailable for your forces”**
->
+Esta facción no usa ese kit.
+
 > **“You can't get another limited kit so soon after your last”**
->
+Si te espawneas o solicitas un kit limitado (es decir, cualquiera menos el fusilero, piloto o tripulante), deberás esperar unos minutos antes de poder solicitar otro.
+
 > **“You are new to this squad, request again in a minute”**
+Normalmente hay que esperar unos 2 minutos tras unirse a una escuadra para poder solicitar un kit.
+
+**Cómo Soltar un Kit**
+
+Hay situaciones en las que querrás soltar tu kit. Por ejemplo, para que alguien recoja tu Kit de Médico y te cure, o simplemente para dejarle tu kit a alguien más diestro. Un kit en el suelo desaparecerá tras unos 5-10 minutos y volverá entonces a estar disponible para el equipo/escuadra.
+
+Secuencia:
+
+1. Mantén presionada la **tecla de Radio Secundaria /(T/)** (lo cual hará aparecer un menú *Comm Rose*), 
+2. Con la T todavía pulsada, selecciona la opción central del menú (**"SOLICITAR / SOLTAR KIT"**) y haz **click-derecho** sobre ella.
+3. Acto seguido, **pulsa la tecla G** y tu kit caerá al suelo.
+
+Es posible cambiar de clase simplemente recogiendo del suelo un kit de tu equipo. Y, aunque también es posible coger y usar un kit enemigo, esta acción está limitada a un máximo de 30 segundos (por ejemplo, para recoger munición o usar sus vendas, etc), pero pasado ese tiempo, si no sueltas el kit del enemigo, pasarás a estar muerto.
+
+
+
 
 
 
