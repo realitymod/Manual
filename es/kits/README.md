@@ -141,23 +141,23 @@ Para solicitar la versión alternativa, simplemente repite la misma secuencia ar
 
 Si tu solicitud no es aceptada, aparecerá en pantalla un texto amarillo explicando el motivo. Aquí se reproducen los mensajes más frecuentes y su explicación:
 
-**“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**
-**“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
+* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**
+* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
 No estás en el sitio adecuado: junto a una caja de suministros o vehículo aliado.
 
-**“Unavailable due to squad limitations”**
+* **“Unavailable due to squad limitations”**
 Ya se alcanzó el máximo número de kits de ese tipo en la escuadra. Nótese que basta tener a alguien con un Kit Estándard **seleccionado** en el menú de espawm para que ello cuente como usado en la escuadra.
 
-**"All of these kits have been issued”**
+* **"All of these kits have been issued”**
 El equipo ya ha obtenido el número máximo permitido de este Kit Especial. Los kits en el suelo cuentan para este límite. Un kit en el suelo desaparecerá tras unos 5-10 minutos.
 
-**“Unavailable for your forces”**
+* **“Unavailable for your forces”**
 Esta facción no usa ese kit.
 
-**“You can't get another limited kit so soon after your last”**
+* **“You can't get another limited kit so soon after your last”**
 Si te espawneas o solicitas un kit limitado (es decir, cualquiera menos el fusilero, piloto o tripulante), deberás esperar unos minutos antes de poder solicitar otro.
 
-**“You are new to this squad, request again in a minute”**
+* **“You are new to this squad, request again in a minute”**
 Normalmente hay que esperar unos 2 minutos tras unirse a una escuadra para poder solicitar un kit.
 
 **CÓMO SOLTAR UN KIT**
