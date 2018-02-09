@@ -2,11 +2,13 @@
 
 ## _Liderando a las Tropas_ {#leading-the-troops}
 
-La función principal del comandante es **coordinar** al equipo y colaborar con los oficiales bajo su mando para que todo el mundo funcione de forma coordinaa como una máquina bien engrasada. Su rol implica hacer un seguimiento de las distintas situaciones y enfrentamientos ocurriendo en el campo de batalla para determinar una estrategia adecuada. También puede aceptar o denegar diferentes solicitudes que pueden hacerle llegar los jefe de escuadra, como colocar marcadores de contacto enemgo en el mapa, o misiones de ataque en área.
+Típicamente, la persona que juega como comandante se quedará en la base principal coordinando al equipo y operando el UAV desde el puesto de comandancia. En casos excepcionales, también puede hacer tareas de logística (construir FOBs, etc). La función principal del comandante es **coordinar** al equipo y colaborar con los oficiales bajo su mando para que todo funcione de forma coordinaa como una máquina bien engrasada. Su rol implica hacer un seguimiento de las distintas situaciones y enfrentamientos que van ocurriendo en el campo de batalla para poder determinar una estrategia adecuada y reaccionar de forma efectiva antes los eventos. 
 
-El Comandante tiene a su disposición la radio de oficiales, la cual le permite comunicarse con todos los jefe de escuadra a la vez, o con alguno en particular. Para ello, pulsará en el teclado numérico el número correspondiente a la escuadra con quien quiere comunicarse (1 - 9), o el asterisco (*) para todos.
+Las tareas usuales del comandante incluyen: manejo del UAV y reconocimiento del campo de batalla desde visión satélite, poner marcadores en el mapa estratégico, o aceptar o denegar peticiones de los jefe de escuadra, tales como misiones de ataque en área.
 
-Así mismo, el Comandante puede **confirmar o denegar una petición de ataque en área**. 
+Para la comunicación, el Comandante tiene a su disposición la radio de oficiales, la cual le permite comunicarse por voz con todos los jefe de escuadra a la vez, o con alguno en particular. Para ello, pulsará en el teclado numérico el número correspondiente a la escuadra con quien quiere comunicarse (1 - 9), o el asterisco (*) para transmitir a todas las escuadras.
+
+Así mismo, el Comandante puede **confirmar o denegar una petición de ataque en área**. Esto es importante porque el comandante no puede ordenar un ataque en área por sí mismo, sino que siempre necesitará que algún oficial lo solicite desde el terreno.
 
 If a Squad Leader calls in a request for artillery, the commander can right click the icon and accept or deny it. After which the order will be confirmed to the team. The area-attack is available every 30 minutes. For insurgents and their similar mortar strike it is usually 20 minutes between possible strikes. To see when artillery/mortars are available again you can look at the top left in the commander window and see the bar with “**AREA ATTACK**” in it.
 
