@@ -1,8 +1,8 @@
 # ![](/assets/PR_v1_Logo.png)
 
-# **Project Reality: BF2 Manual - Spanish Translation - Updated for v1.5**
+# **Project Reality: BF2 Manual - Spanish Translation - Updated for v1.3**
 
-> Project Reality: BF2 est  développé depuis plus de 10 ans par de nombreuses personnes. De multiples modifications et améliorations ont été ajoutées durant tout ce temps. Après tous ces changements, il devient de plus en plus difficile de reconnaitre BF2. Nous espérons que ce manuel vous permettra de partir du bon pied dans le monde exigent de PR:BF2. N’hésitez pas à nous contacter sur le forum, si vous avez des critiques ou des questions à propos de ce document. Ce manuel correspond à la mise à jour 1.5.
+> Project Reality: BF2 est  développé depuis plus de 10 ans par de nombreuses personnes. De multiples modifications et améliorations ont été ajoutées durant tout ce temps. Après tous ces changements, il devient de plus en plus difficile de reconnaitre BF2. Nous espérons que ce manuel vous permettra de partir du bon pied dans le monde exigent de PR:BF2. N’hésitez pas à nous contacter sur le forum, si vous avez des critiques ou des questions à propos de ce document. Ce manuel correspond à la mise à jour v1.3.
 >
 > _L’équipe PR_
 

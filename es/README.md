@@ -2,7 +2,8 @@
 
 # **Project Reality: BF2 Manual - Spanish Translation - Updated for v1.5**
 
-> Innumerables personas han ido desarrollando Project Reality: BF2 a lo largo de más de 10 años. Durante ese tiempo se han hecho innumerables cambios y mejoras, hasta el punto de que hoy en día es difícil reconocer que originalmente era un mod de Battlefield 2. Esperamos que este manual te sirva como guía en el siempre cambiante mundo de PR: BF2. Si tienes algún comentario o alguna pregunta sobre este manual no dudes en ponerte en contacto con nosotros en los foros. Este manual está siendo actualizado a la versión 1.5
+> Innumerables personas han ido desarrollando Project Reality: BF2 a lo largo de más de 10 años. Durante ese tiempo se han hecho innumerables cambios y mejoras, hasta el punto de que hoy en día es difícil reconocer que originalmente fuera un mod de Battlefield 2. Esperamos que este manual te sirva como guía en el siempre cambiante mundo de PR: BF2. Si tienes algún comentario o alguna pregunta sobre este manual, no dudes en ponerte en contacto con nosotros en los foros. Este manual está siendo actualizado a la versión 1.5
+
 >
 > _El Equipo de PR_
 

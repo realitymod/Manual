@@ -1,8 +1,8 @@
 # ![](/assets/PR_v1_Logo.png)
 
-# **Project Reality: BF2 Manual - Chinese Translation - Updated for v1.5**
+# **Project Reality: BF2 Manual - Chinese Translation - Updated for v1.3**
 
-> Project Reality: BF2在过去的十年无数的开发者手下不断更新发展。这段时间中，PR出现了大量的调整与改进，已经很难再被当做BF2的一个模组。我们希望这份手册可以帮助你更好地进入PR:BF2这个充满挑战的世界。如果在阅读这份手册后还有未解决的问题，亦或是对手册有任何评价，欢迎在论坛联系我们。该手册已经更新至1.5版本。
+> Project Reality: BF2在过去的十年无数的开发者手下不断更新发展。这段时间中，PR出现了大量的调整与改进，已经很难再被当做BF2的一个模组。我们希望这份手册可以帮助你更好地进入PR:BF2这个充满挑战的世界。如果在阅读这份手册后还有未解决的问题，亦或是对手册有任何评价，欢迎在论坛联系我们。该手册已经更新至1.3版本。
 >
 > PR制作团队        
 

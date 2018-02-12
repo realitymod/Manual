@@ -1,9 +1,9 @@
 # ![](/assets/PR_v1_Logo.png)
 
-# **Project Reality: BF2 Manual - Italian Translation - Updated for v1.5**
+# **Project Reality: BF2 Manual - Italian Translation - Updated for v1.3**
 
 > Project Reality: BF2 è stato realizzato da un vasto numero di sviluppatori che si sono alternati per più di 10 anni.
-Modifiche estese e migliorie sono state fatte in questo periodo. Dopo migliaia di cambiamenti, è diventato sempre più difficile realizzare che PR è una modifica di Battlefield 2. Ci auguriamo che questo manuale fornisca un buon inizio nel duro mondo di PR: BF2. Se avete domande o feedback riguardanti questo documento non esitate a contattarci sul forum. Questo manuale è stato aggiornato per la versione 1.5.
+Modifiche estese e migliorie sono state fatte in questo periodo. Dopo migliaia di cambiamenti, è diventato sempre più difficile realizzare che PR è una modifica di Battlefield 2. Ci auguriamo che questo manuale fornisca un buon inizio nel duro mondo di PR: BF2. Se avete domande o feedback riguardanti questo documento non esitate a contattarci sul forum. Questo manuale è stato aggiornato per la versione 1.3.
 
 >
 > _Il team di PR_
