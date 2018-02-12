@@ -8,22 +8,22 @@ Tipicamente, la persona que juega como comandante se quedará en el puesto de co
 
 Las tareas usuales del comandante incluyen:
 
-* Comunicarse con los jefes de escuadra
-* Asignar órdenes a las escuadras
-* Reconocer el campo de batalla desde la visión satélite del UAV y recabar información
-* Poner marcadores de contacto enemigo u otras indicaciones en el mapa estratégico
-* Denegar o Autorizar peticiones realizadas por los jefes de escuadra (tales como misiones de artillería, etc)
-* Eliminar FOBs aliados que ya no sean necesarios
+1. Comunicarse con los jefes de escuadra
+2. Asignar órdenes a las escuadras
+3. Reconocer el campo de batalla desde la visión satélite del UAV y recabar información
+4. Poner marcadores de contacto enemigo u otras indicaciones en el mapa estratégico
+5. Denegar o Autorizar peticiones realizadas por los jefes de escuadra (tales como misiones de artillería, etc)
+6. Eliminar FOBs aliados que ya no sean necesarios
 
 > ![](/assets/commands.png)
 >
 > Órdenes y marcadores que puede usar el Comandante.
 
-**Comunicarse con los jefes de escuadra**
+**1. Comunicarse con los jefes de escuadra**
 
 Para la comunicación, el Comandante tiene a su disposición la **radio de oficiales**, la cual le permite comunicarse por voz con los jefe de escuadra. Pulsando cualquier número en el teclado numérico se comunicará con la escuadra correspondiente. Es decir, pulsando Num1 hablará con el Jefe de Escuadra de la Escuadra 1, Num2 para la 2, etc. Pulsando la tecla de asterisco (*) en el teclado numérico, se comunicará con todas las escuadras simultáneamente.
 
-**Asignar órdenes a las escuadras**
+**2. Asignar órdenes a las escuadras**
 
 El Comandante puede asignar a las Escuadras las mismas órdenes que los Jefe de Escuadras pueden dar a sus soldados:
 
@@ -37,7 +37,7 @@ El Comandante puede asignar a las Escuadras las mismas órdenes que los Jefe de 
 
 Para ello, basta con seleccionar una escuadra en el menú de la pantalla de comandancia y asignarles la orden deseada. Una vez dada la orden, el Jefe de Escuadra tiene la opción de aceptar la orden (por defecto, con la **tecla RePág**) sustituyendo cualquier orden previa con la del Comandante, o rechazarla (por defecto, con la **tecla AvPág**). Desde la pantalla de comandancia el Comandante puede ver todas las órdenes actuales de cada Escuadra.
 
-## _El UAV_ {#uav}
+**3. El UAV {#uav}**
 
 Las facciones de fuerzas convencionales y de milicia tienen la posibilidad de usar un **drone de reconocimiento \(Unmanned Air Vehicle, o UAV\)** para observar el campo de batalla. Este drone sólo puede ser controlado y usado por el Comandante.
 
@@ -72,13 +72,13 @@ El consumo de combustible viene resumido en la siguiente tabla:
 
 El UAV no está disponible en mapas pequeños (< 1km) por ser demasiado poderoso.
 
-**Poner marcadores de contacto enemigo u otras indicaciones en el mapa estratégico**
+**4. Poner marcadores de contacto enemigo u otras indicaciones en el mapa estratégico**
 
 Un buen Comandante se asegurará de mantener al equipo al tanto de información importante, por ejemplo, sobre la posición actual de efectivos enemigos. Aunque el Comandante normalmente se queda en la base principal, puede **recabar información sobre el enemigo ya sea utilizando el UAV o pidiendo informes de los Jefe de Escuadra**. 
 
 Para poder pasar esta crucial información a todo el equipo, el Comandante puede poner marcadores en el mapa estratégico haciendo *click-derecho* en él, y luego seleccionando el marcador adecuado. Estos marcadores pueden ser vistos por todo el equipo, por lo que son cruciales para mantener al equipo informado y coordinado.
 
-**Denegar o Autorizar Ataque en Área*
+**5. Denegar o Autorizar Ataque en Área**
 
 Cada 20-30 minutos, la mayoría de las facciones tienen la posibilidad de realizar un ataque en área (artillería, morteros, etc). Para ello, es necesario que un jefe de escuadra lo solicite desde el terreno utilizando la radio y que el Comandante lo **deniegue o autorice**. La comunicación Jefe de Escuadra - Comandante es clave en este proceso.
 
@@ -88,27 +88,20 @@ Para **Denegar o Autorizar** una petición de Ataque en Área solicitada por un 
 
 Para evitar el fuego amigo, no olvides ordenar a tus hombres a que evacuen la zona con antelación. 
 
-**Eliminar FOBs aliados que ya no sean necesarios**
+**6. Eliminar FOBs aliados que ya no sean necesarios**
 
 Como existe un máximo de 5 FOBs por equipo, suele ocurrir que al avanzar o retroceder el frente, algunos FOBs quedan obsoletos. Los Jefes de Escuadra pueden destruir FOBs aliados que ya no sean necesarios desde la misma posición (ver sección correspondiente en el manual). Los Comandantes, por su parte, pueden eliminar FOBs aliados desde el mapa. Es frecuente que un Comandante reciba peticiones de Jefes de Escuadra para eliminar FOBs redundantes.
 
 Para ello, el Comandante simplemente deberá hacer **click-derecho** en el mapa sobre el FOB que desea eliminar y hacer **click-izquierdo** sobre el icono de **Destruir**.
 
-** Motín **
+**Motín**
 
 Si los Jefes de Escuadra consideran que el Comandante no está siendo diligente, tienen la posibilidad de estar un **motín**. Si tiene éxito, el Comandante será retirado de la posición y un nuevo jugador podrá ocupar su puesto.
 
-** Punto de Encuentro (Rally Point) de Comandante **
+**Punto de Encuentro (Rally Point) de Comandante**
 
 De forma similar a los Jefes de Escuadra, el Comandante es capaz de establecer su propia versión de Punto de Encuentro (o Rally Point), el cual puede ser utilizado por todo el equipo para spawnearse en esa posición.
 
 Para ponerlo, el Comandante deberá tener como mínimo a 6 jugadores junto a él (siendo al menos uno de ellos Jefe de Escuadra). Este Rally Point de Comandante es marcado en el mapa por un círculo verde con una letra "C" en él y permanecerá activo mientras el Comandante esté en un radio de 100m de él.
 
 Todas las demás normas aplicables a los Rally Points normales también afectan al Rally Point de Comandante.
-
-
-
-
-
-
-
