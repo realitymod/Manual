@@ -1,80 +1,116 @@
 # **Comandante** {#commander}
 
-## _Liderando a las Tropas_ {#leading-the-troops}
+## _Descripción del Rol de Comandante_ {#leading-the-troops}
 
-Típicamente, la persona que juega como comandante se quedará en la base principal coordinando al equipo y operando el UAV desde el puesto de comandancia. En casos excepcionales, también puede hacer tareas de logística (construir FOBs, etc). La función principal del comandante es **coordinar** al equipo y colaborar con los oficiales bajo su mando para que todo funcione de forma coordinaa como una máquina bien engrasada. Su rol implica hacer un seguimiento de las distintas situaciones y enfrentamientos que van ocurriendo en el campo de batalla para poder determinar una estrategia adecuada y reaccionar de forma efectiva antes los eventos. 
+La función principal del comandante es mantener una **visión global** de lo que va ocurriendo en el campo de batalla y **comunicarse** con los jefe de escuadra para que todas las escuadras actúen **de forma coherente y coordinada**. ¿Ha conseguido el enemigo romper el frente por algún lado mientras el equipo se concentraba en defender un objetivo? Ahí está el comandante para alertar a los jefe de escuadra y coordinar una respuesta adecuada.
 
-Las tareas usuales del comandante incluyen: manejo del UAV y reconocimiento del campo de batalla desde visión satélite, poner marcadores en el mapa estratégico, o aceptar o denegar peticiones de los jefe de escuadra, tales como misiones de ataque en área.
+Tipicamente, la persona que juega como comandante se quedará en el puesto de comandancia de la base principal operando el UAV y coordinando al equipo. En casos excepcionales, también puede hacer tareas de logística (construir FOBs, etc).
 
-Para la comunicación, el Comandante tiene a su disposición la radio de oficiales, la cual le permite comunicarse por voz con todos los jefe de escuadra a la vez, o con alguno en particular. Para ello, pulsará en el teclado numérico el número correspondiente a la escuadra con quien quiere comunicarse (1 - 9), o el asterisco (*) para transmitir a todas las escuadras.
+Las tareas usuales del comandante incluyen:
 
-Así mismo, el Comandante puede **confirmar o denegar una petición de ataque en área**. Esto es importante porque el comandante no puede ordenar un ataque en área por sí mismo, sino que siempre necesitará que algún oficial lo solicite desde el terreno.
-
-If a Squad Leader calls in a request for artillery, the commander can right click the icon and accept or deny it. After which the order will be confirmed to the team. The area-attack is available every 30 minutes. For insurgents and their similar mortar strike it is usually 20 minutes between possible strikes. To see when artillery/mortars are available again you can look at the top left in the commander window and see the bar with “**AREA ATTACK**” in it.
-
-To keep the team cohesive it is the commander’s sole focus to **deliver orders** to each squad. He can alternatively assist team members by keeping them well informed of situations outside their area of operations \(AO\) confirming intelligence on the map using a variety of markers by right clicking the map:
-
-* **Commands**
-  * **Destroy**: Remove friendly FOBs.
-  * **Remove Marker:** Remove unwanted friendly markers from the map.
-  * **UAV:** Deploy reconnaissance drone at the position.
-  * **Waypoint:** Place a waypoint marker. You can place up to 7 of them. Each one is identified with a letter. These do not disappear.
-  * **Request Mortars:** Request the mortar crew to bring mortar fire to this position.
-  * **Target laze:** This spawns a lazer object on the position it was placed. This can be used by CAS to attack certain locations.
+* Comunicarse con los jefes de escuadra
+* Asignar órdenes a las escuadras
+* Reconocer el campo de batalla desde la visión satélite del UAV y recabar información
+* Poner marcadores de contacto enemigo u otras indicaciones en el mapa estratégico
+* Denegar o Autorizar peticiones realizadas por los jefes de escuadra (tales como misiones de artillería, etc)
+* Eliminar FOBs aliados que ya no sean necesarios
 
 > ![](/assets/commands.png)
 >
-> Possible commands, squad orders and icons commander can use.
+> Órdenes y marcadores que puede usar el Comandante.
 
-* **Squad Orders**
-  * Same markers are available to Squad Leaders. When you select a squad in the left menu you can order them. If they accept \(**PAGE UP**\) it will replace thats squad’s marker.** **
+**Comunicarse con los jefes de escuadra**
 
-![](/assets/build.png)**Build **
+Para la comunicación, el Comandante tiene a su disposición la **radio de oficiales**, la cual le permite comunicarse por voz con los jefe de escuadra. Pulsando cualquier número en el teclado numérico se comunicará con la escuadra correspondiente. Es decir, pulsando Num1 hablará con el Jefe de Escuadra de la Escuadra 1, Num2 para la 2, etc. Pulsando la tecla de asterisco (*) en el teclado numérico, se comunicará con todas las escuadras simultáneamente.
 
-![](/assets/observe.png)**Observe**
+**Asignar órdenes a las escuadras**
 
-![](/assets/defendmarker.png)**Defend **
+El Comandante puede asignar a las Escuadras las mismas órdenes que los Jefe de Escuadras pueden dar a sus soldados:
 
-![](/assets/demolish.png)**Demolish **
+![](/assets/build.png)**Construid**
 
-![](/assets/move.png)**Move**
+![](/assets/observe.png)**Observad**
 
-* **Infantry \| Vehicles \| Emplacements \| Misc.**
-  * Various markers that can be placed to mark enemy infantry, assets and deployed assets.
+![](/assets/defendmarker.png)**Defended**
 
-Markers cannot be placed all the time. At the top left there is a bar showing “**MARKER**” how you long it takes until the next marker can be placed.
+![](/assets/demolish.png)**Demoled**
 
-If the Squad Leaders believe the Commander is not efficient in his duties, then they have the option to start a **mutiny**. If it succeeds, a new player can take this position.
+![](/assets/move.png)**Id**
 
-The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him \(one of them must be a squad leader\) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
-
-
+Para ello, basta con seleccionar una escuadra en el menú de la pantalla de comandancia y asignarles la orden deseada. Una vez dada la orden, el Jefe de Escuadra tiene la opción de aceptar la orden (por defecto, con la **tecla RePág**) sustituyendo cualquier orden previa con la del Comandante, o rechazarla (por defecto, con la **tecla AvPág**). Desde la pantalla de comandancia el Comandante puede ver todas las órdenes actuales de cada Escuadra.
 
 ## _El UAV_ {#uav}
 
-The Commander of conventional forces and the militia are able to control an **Unmanned Aerial Vehicle \(UAV\)** from his team's command post or armored command vehicle \(ACV\). The UAV in PR:BF2 does not reveal enemy positions automatically but gives the commander the means to observe the battlefield visually from a bird’s eye point of view. The commander can control the UAV's camera while it cruises at a constant altitude.
+Las facciones de fuerzas convencionales y de milicia tienen la posibilidad de usar un **drone de reconocimiento \(Unmanned Air Vehicle, o UAV\)** para observar el campo de batalla. Este drone sólo puede ser controlado y usado por el Comandante.
 
-The UAV is launched by placing the UAV marker on the command map. This can be done by pressing the UAV icon on the top left of the commander screen or by right clicking on the map and placing the UAV icon. Then to operate it you have to enter the ACV vehicle at the main-base of your team.
+El UAV de por sí no revela las posiciones del enemigo automáticamente, sino que otorga una vista de pájaro sobre el terreno y será el mismo Comandante el que deberá escrutar el campo de batalla y poner marcadores en el mapa manualmente.
+
+El Comandante puede controlar el UAV desde cualquier posición del mapa, aunque sólo podrá acceder a su cámara desde el portátil de comandancia en la base principal, típicamente situado en una tienda de campaña o en un blindado estático. Para acceder a su cámara, el Comandante ha de situarse junto al portátil y pulsar **la tecla E**. 
 
 > ![](/assets/acvv.png)
 >
-> Armored Command Vehicle.
+> Puesto de Comandancia en Blindado
 
-**The UAV won’t be up forever.** The UAV loses 0.2% fuel/sec while travelling, 0.1% fuel/sec while operating and refuels at 0.2%fuel/sec at base. You can monitor the fuel by watching the “FUEL” bar on the top left of the commander screen.
+**Cómo usar el UAV**
 
-The UAV can be sent back to base at any point to **refuel**. Returning to base does not consume any fuel. You can do this by right clicking the UAV icon on the top left side of the commander screen.
+Existen dos formas de ordenar al UAV que vaya a una posición: o bien haciendo **click-derecho** en el mapa y luego seleccionando el icono del UAV, o bien pulsando el botón de UAV, situado en la parte superior izquierda de la pantalla de comandante. El UAV necesita unos 45 segundos para despegar/aterrizar en base y además se desplaza a través del terreno a una velocidad media de 50 m/s.
 
-The time it takes to deploy the UAV depends on the travel distance. It travels at 50 m/s.
-
-The UAV takes 45 seconds to start/land.
-
-**The UAV camera** has three levels of magnification with thermal vision capabilities. The Militia’s UAV only offers two zoom levels with no thermal vision.
-
-The UAV can be relocated instantly by assigning it a new position on the map. The UAV only operates on 2km and 4km maps due to it being too powerful for small maps.
+Una vez en posición, el Comandante podrá **acceder a la cámara del UAV desde el portátil de comandancia** y controlar la dirección a la que apunta mientras el UAV planea sobre la posición designada. La cámara del UAV tiene 3 niveles de magnificación o zoom, además de visión térmica. El UAV de la Milicia, por el contrario, sólo tiene dos niveles de magnificación y carece de visión térmica.
 
 > ![](/assets/uav.png)
 >
-> _The commander’s UAV Camera._
+> _Visión desde la Cámara del UAV_
+
+No obstante, ten en cuenta que **el combustible del UAV es limitado**. La cantidad de combustible restante puede verse en la barra que aparece en la parte superior izquierda de la pantalla de comandante. El UAV puede ser mandado de vuelta a la base para **re-abastecerse**. Para ello, haz **click-derecho** en el icono del UAV en la parte superior izquierda de la pantalla de comandante. El UAV no consume combustible mientras vuelve a base para re-abastecerse. 
+
+El consumo de combustible viene resumido en la siguiente tabla:
+
+|Acción|Combustible|Tiempo Máximo|
+|:---:|:---:|:---:|
+|Ir a Objetivo|-0.2%/seg.|50 segundos|
+|Planear|-0.1%/seg.|100 segundos|
+|Volver a Base| Sin Consumo| - |
+|Abastecerse|+0.2%/seg.|50 segundos|
+
+El UAV no está disponible en mapas pequeños (< 1km) por ser demasiado poderoso.
+
+**Poner marcadores de contacto enemigo u otras indicaciones en el mapa estratégico**
+
+Un buen Comandante se asegurará de mantener al equipo al tanto de información importante, por ejemplo, sobre la posición actual de efectivos enemigos. Aunque el Comandante normalmente se queda en la base principal, puede **recabar información sobre el enemigo ya sea utilizando el UAV o pidiendo informes de los Jefe de Escuadra**. 
+
+Para poder pasar esta crucial información a todo el equipo, el Comandante puede poner marcadores en el mapa estratégico haciendo *click-derecho* en él, y luego seleccionando el marcador adecuado. Estos marcadores pueden ser vistos por todo el equipo, por lo que son cruciales para mantener al equipo informado y coordinado.
+
+**Denegar o Autorizar Ataque en Área*
+
+Cada 20-30 minutos, la mayoría de las facciones tienen la posibilidad de realizar un ataque en área (artillería, morteros, etc). Para ello, es necesario que un jefe de escuadra lo solicite desde el terreno utilizando la radio y que el Comandante lo **deniegue o autorice**. La comunicación Jefe de Escuadra - Comandante es clave en este proceso.
+
+La disponibilidad de este tipo de ataque sólo puede ser comprobada por el Comandante en la parte superior izquierda de la pantalla de comandancia (siendo comandante, **pulsa ENTER**). Es frecuente que en partidas de servidores públicos se juegue sin comandante la mayor parte del tiempo. Sin embargo, es también típico que pasados unos 20-30 minutos, alguien se ponga de Comandante simplemente para aprovechar el ataque en área.
+
+Para **Denegar o Autorizar** una petición de Ataque en Área solicitada por un Jefe de Escuadra (ver sección correspondiente en el manual), el Comandante simplemente hará **click-derecho** sobre la petición en el mapa, y luego elegirá Denegar o Aceptar. Si es Denegado, el Jefe de Escuadra será informado y la petición eliminada del mapa. Si es Aceptada, un marcador de Ataque en Área aparecerá para todo el equipo y tras unos instantes caerá la artillería en la zona designada.
+
+Para evitar el fuego amigo, no olvides ordenar a tus hombres a que evacuen la zona con antelación. 
+
+**Eliminar FOBs aliados que ya no sean necesarios**
+
+Como existe un máximo de 5 FOBs por equipo, suele ocurrir que al avanzar o retroceder el frente, algunos FOBs quedan obsoletos. Los Jefes de Escuadra pueden destruir FOBs aliados que ya no sean necesarios desde la misma posición (ver sección correspondiente en el manual). Los Comandantes, por su parte, pueden eliminar FOBs aliados desde el mapa. Es frecuente que un Comandante reciba peticiones de Jefes de Escuadra para eliminar FOBs redundantes.
+
+Para ello, el Comandante simplemente deberá hacer **click-derecho** en el mapa sobre el FOB que desea eliminar y hacer **click-izquierdo** sobre el icono de **Destruir**.
+
+** Motín **
+
+Si los Jefes de Escuadra consideran que el Comandante no está siendo diligente, tienen la posibilidad de estar un **motín**. Si tiene éxito, el Comandante será retirado de la posición y un nuevo jugador podrá ocupar su puesto.
+
+** Punto de Encuentro (Rally Point) de Comandante **
+
+De forma similar a los Jefes de Escuadra, el Comandante es capaz de establecer su propia versión de Punto de Encuentro (o Rally Point), el cual puede ser utilizado por todo el equipo para spawnearse en esa posición.
+
+Para ponerlo, el Comandante deberá tener como mínimo a 6 jugadores junto a él (siendo al menos uno de ellos Jefe de Escuadra). Este Rally Point de Comandante es marcado en el mapa por un círculo verde con una letra "C" en él y permanecerá activo mientras el Comandante esté en un radio de 100m de él.
+
+Todas las demás normas aplicables a los Rally Points normales también afectan al Rally Point de Comandante.
+
+
+
+
 
 
 
