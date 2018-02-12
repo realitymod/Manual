@@ -27,15 +27,13 @@ Para la comunicación, el Comandante tiene a su disposición la **radio de ofici
 
 El Comandante puede asignar a las Escuadras las mismas órdenes que los Jefe de Escuadras pueden dar a sus soldados:
 
-![](/assets/build.png)**Construid**
-
-![](/assets/observe.png)**Observad**
-
-![](/assets/defendmarker.png)**Defended**
-
-![](/assets/demolish.png)**Demoled**
-
-![](/assets/move.png)**Id**
+|Icono|Orden|
+|:---:|---|
+|![](/assets/build.png)|**Construid**|
+|![](/assets/observe.png)|**Observad**|
+|![](/assets/defendmarker.png)|**Defended**|
+|![](/assets/demolish.png)|**Demoled**|
+|![](/assets/move.png)|**Id**|
 
 Para ello, basta con seleccionar una escuadra en el menú de la pantalla de comandancia y asignarles la orden deseada. Una vez dada la orden, el Jefe de Escuadra tiene la opción de aceptar la orden (por defecto, con la **tecla RePág**) sustituyendo cualquier orden previa con la del Comandante, o rechazarla (por defecto, con la **tecla AvPág**). Desde la pantalla de comandancia el Comandante puede ver todas las órdenes actuales de cada Escuadra.
 
