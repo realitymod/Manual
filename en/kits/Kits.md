@@ -96,7 +96,7 @@ If your request was denied, you will see a player specific orange message explai
 >
 > **“You are new to this squad, request again in a minute”**
 
-To obtain the unarmed kit you simply need to hold down the secondary radio key, press the right mouse button to select the drop kit option.
+To obtain the unarmed kit you simply need to hold down the secondary radio key, press the right mouse button to select the drop kit option. This will drop bellow you an invisible unarmed kit, pick it up pressing **pickup key \(G\)**.
 
 When requesting kits from a crate or vehicle, whilst in the sub-menu you are able to right click to request the alternate kit for that class of weapon, for which there are many variants. Alternatively in the spawn menu there are also the STD and ALT buttons to switch.
 
