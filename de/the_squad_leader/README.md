@@ -2,7 +2,7 @@
 
  
 
-## _Truppführung_ {#Truppführung}
+## _Truppführung_ {#Truppfuhrung}
 
  
 
@@ -10,17 +10,17 @@ Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marke
 
  
 
-*! [] (../ assets / target.png) ** Ziel **
+*![](../assets/target.png) ** Ziel **
 
-*! [] (../ assets / build.png) ** Bauen **
+*![](../assets/build.png) ** Bauen **
 
-*! [] (../ assets / observe.png) ** Beobachten **
+*![](../assets/observe.png) ** Beobachten **
 
-*! [] (../ assets / defensivmarker.png) ** Verteidigen **
+*![](../assets/defensifmarker.png) ** Verteidigen **
 
-*! [] (../ assets / demolish.png) ** Zerstören **
+*![](../assets/demolish.png) ** Zerstören **
 
-*! [] (../ assets / move.png) ** Bewegen **
+*![](../assets/move.png) ** Bewegen **
 
  
 
@@ -28,7 +28,7 @@ Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren (** PAGE 
 
  
 
-## _Feindsichtung_ {#sichtung-Feinde}
+## _Feindsichtung_ {#Feindsichtung}
 
  
 
@@ -46,10 +46,8 @@ Der ** Squad Leader ** in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/spotting.png)
-
+>![](../assets/spotting.png)
 >
-
 > Reichweite im Radio
 
  
@@ -117,11 +115,8 @@ Ein Sammelpunkt wird alle 1 Minute wieder aufgeladen. Es sei denn, es wurde übe
 Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von anderen Trupps anzufordern. Dazu muss er sein Radio aktivieren und dann ** den sekundären Radiotaste \ (T \) drücken.** Dadurch wird das Menü zum Anfordern von Support und zum Bereitstellen von Team-Assets geöffnet. Die unteren fünf Befehle beginnend mit ** "Brauche ..." ** werden einen Kartenmarker an Ihrer Position platzieren. Sie senden auch eine Funknachricht an Ihr Team, um sie auf Ihre Anfrage aufmerksam zu machen. Die ** "Brauche AREA ATTACK" ** -Anforderung verhält sich ein wenig anders als der Rest. Auf einigen Karten können konventionelle Streitkräfte mit diesem Befehl ein ** Artilleriefeuer ** anfordern. Wenn Ihre Anfrage vom Kommandeur des Teams genehmigt wurde, wird der Angriff nach etwa einer Minute erfolgen. Nach dem Laden einer neuen Karte oder dem Ausführen eines Gebietsangriffs dauert es 30 Minuten, bis es wieder verfügbar ist. Ähnlich unkonventionelle Fraktionen haben auf den meisten Karten alle 20 Minuten Zugriff auf Artilleriefeuer.
 
  
-
-00: 00: 37.559 -> 00: 00: 43.289/assets/support.png)
-
+>![](../assets/support.png)
 >
-
 > Unterstützung über Radio anfordern
 
  
@@ -134,10 +129,8 @@ Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den d
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/buildcomo.png)
-
+>![](../assets/buildcomo.png)
 >
-
 > Bau von Stellungen über Funk
 
  
@@ -158,10 +151,8 @@ Gehen Sie folgendermaßen vor, um eine Struktur bereitzustellen:
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/shovel.png)
-
+>![](../assets/shovel.png)
 >
-
 > Schaufel zum Aufbau von Stellungen benötigt.
 
  
@@ -182,10 +173,8 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen n
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/deploy.png)
-
+>![](../assets/deploy.png)
 >
-
 > Baue und baue Beispiele für ein Fuchsloch.
 
  
@@ -194,7 +183,7 @@ Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen n
 
  
 
-Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für deren Erstellung. Aufbaubare Strukturen können entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstört werden. Deployables können auch vollständig zerstört werden, indem die Basis weiterhin beschädigt wird. Feld-Außenposten und Verstecke können ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstört werden. Truppführer können unausgebaute bereitstellbare Aufstellungen mit dem Funkgerät in ähnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus für das Verschanzungswerkzeug hat auch die Fähigkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgeführten Anforderungen und Einschränkungen ist, dass alle Werte über die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden (mit Ausnahme der Anzahl der Mörser \). Beachten Sie auch, dass 2 große Vorratskisten auch durch 4 kleine Vorratskisten oder 1 große und 2 kleine Kisten ersetzt werden können. (Um mehr über Logistik zu erfahren siehe _ [_Logistics_] (../ the_basics/README.md/logistik)
+Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für deren Erstellung. Aufbaubare Strukturen können entweder mit einer Schaufel demontiert oder alternativ mit C4, IEDs, Panzergranaten, APC-Granaten oder anderen Formen schwerer Munition zerstört werden. Deployables können auch vollständig zerstört werden, indem die Basis weiterhin beschädigt wird. Feld-Außenposten und Verstecke können ebenfalls durch Sprengstoff oder C4-Plastiksprengstoff und TNT zerstört werden. Truppführer können unausgebaute bereitstellbare Aufstellungen mit dem Funkgerät in ähnlicher Weise wie bei ihrer Bereitstellung entfernen, indem sie alternativ die rechte Maustaste verwenden, um die implementierbare Basis zu entfernen. Der alternative Feuermodus für das Verschanzungswerkzeug hat auch die Fähigkeit, nicht aufgebaute versetzbare Stellungen zu demontieren. Ein wichtiger Hinweis zu den unten aufgeführten Anforderungen und Einschränkungen ist, dass alle Werte über die Entfernung zu einem FOB und die maximale Anzahl an Assets pro FOB auf dem CNC-Spielmodus verdoppelt werden (mit Ausnahme der Anzahl der Mörser \). Beachten Sie auch, dass 2 große Vorratskisten auch durch 4 kleine Vorratskisten oder 1 große und 2 kleine Kisten ersetzt werden können. (Um mehr über Logistik zu erfahren siehe [Logistics](../the_basics/README.md#logistik).
 
  
 
@@ -212,7 +201,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/fobb.png)
+![](../assets/fobb.png)
 
  
 
@@ -228,7 +217,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/hideoutt.png)
+![](../assets/hideoutt.png)
 
  
 
@@ -246,7 +235,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/hmg.png)
+![](../assets/hmg.png)
 
  
 
@@ -264,7 +253,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/tow.png)
+![](../assets/tow.png)
 
  
 
@@ -284,7 +273,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/spg.png)
+![](../assets/spg.png)
 
  
 
@@ -304,7 +293,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/aaa.png)
+![](../assets/aaa.png)
 
  
 
@@ -322,7 +311,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/foxhole.png)
+![](../assets/foxhole.png)
 
  
 
@@ -340,7 +329,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/sandbagwall.png)
+![](../assets/sandbagwall.png)
 
  
 
@@ -370,7 +359,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/roadblock.png)
+![](../assets/roadblock.png)
 
  
 
@@ -388,4 +377,4 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 
  
 
-! [] (/assets/mortarss.png)
+![](../assets/mortarss.png)

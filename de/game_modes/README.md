@@ -7,7 +7,7 @@ PR: BF2 bietet über 50 Karten mit über 300 verschiedenen Ebenen. Sie finden al
 
 Die meisten Spielmodi verfügen über 4-Layer-Varianten mit unterschiedlichen Ressourcen und Unterstützung. Die Schichten umfassen:
 
-* ** Infanterie \ (16 \): ** Diese Schicht besteht normalerweise nur aus Transport- und leichten bewaffneten Fahrzeugen, mit einem Fokus auf Infanteriegefechte.* ** Alternative \ (32 \): ** Dies ist die alternative Ebene, die einen großen oder kleinen Unterschied zum Standard aufweist.* ** Standard \ (64 \): ** Diese Ebene umfasst normalerweise die gesamte Karte und alle Assets, die für die Karte gelten. Dies ist die Standard-Ebene, die jederzeit gespielt werden kann.* ** Large \ (128 \): ** Diese Ebene ist für längere 2-stündige Runden ausgelegt und enthält normalerweise alle Assets aus der Standard-Ebene mit kleinen Variationen und höheren Ticket-Zählungen.
+* ** Infanterie(16): ** Diese Schicht besteht normalerweise nur aus Transport- und leichten bewaffneten Fahrzeugen, mit einem Fokus auf Infanteriegefechte.* ** Alternative(32): ** Dies ist die alternative Ebene, die einen großen oder kleinen Unterschied zum Standard aufweist.* ** Standard(64): ** Diese Ebene umfasst normalerweise die gesamte Karte und alle Assets, die für die Karte gelten. Dies ist die Standard-Ebene, die jederzeit gespielt werden kann.* ** Large(128): ** Diese Ebene ist für längere 2-stündige Runden ausgelegt und enthält normalerweise alle Assets aus der Standard-Ebene mit kleinen Variationen und höheren Ticket-Zählungen.
 
 ## _Advance and Secure \(AAS\)_ {#advance-and-secure}
 
@@ -36,7 +36,7 @@ Dieser Spielmodus funktioniert auf kleineren Kartenversionen des Advance- und Se
 
 ## _Command & Control \(CNC\)_ {#command-and-control}
 
-Dieser Spielmodus bietet große Freiformkämpfe. Es gibt keine Capturable-CPs, aber stattdessen muss jedes Team eine einzelne Vorgeschobene-Operationsbasis \ (FOB \) [(siehe Deployable Structures)] (../ the_squad_leader / README.md # deployable-structures) platzieren.
+Dieser Spielmodus bietet große Freiformkämpfe. Es gibt keine Capturable-CPs, aber stattdessen muss jedes Team eine einzelne Vorgeschobene-Operationsbasis (FOB)[(siehe Deployable Structures)](../the_squad_leader/README.md#deployable-structures) platzieren.
 
 Ziel ist es, den FOB des Teams zu verteidigen, während er versucht, den gegnerischen FOB zu finden und zu zerstören. Wenn eine Mannschaft ihren FOB verliert, erleidet sie eine große Ticketstrafe und verliert weiterhin Tickets, bis sie eine neue bauen. Der FOB muss mindestens 200 m von der Kartengrenze entfernt sein. Wenn Sie Ihre Teamkameraden FOB näher an der Kartenmitte aufbauen, erhöht sich der Ticketverlust, den der Gegner erleiden wird, wenn sein FOB nicht aktiv ist. Beide Teams können mehr Verteidigung in einem größeren Radius in der Nähe ihres FOBs aufbauen als in anderen Spielmodi.
 
@@ -52,7 +52,7 @@ Dieser Modus ist einzigartig im Vergleich zu anderen in der PR. Das Ziel der Koa
 >
 > Ein Waffen-Lager
 
-Die Koalitionstruppen müssen Informationen sammeln, indem sie aufständische Kämpfer töten oder aufständische Zivilisten festnehmen [(siehe Zivilist)] (../ kits / the-civilian / README.md). Um einen Zivilisten zu fangen, muss ein Koalitionsspieler innerhalb eines Meters des Zivilisten sein und entweder einen Einschränker/Hemmschuh verwenden, der aus einem Paar Plastikhandschellen besteht, die durch Auswahl der Nummer 1 auf Ihrer Tastatur zugänglich sind, oder alternativ ** mit einer Schrotflinte **. Dies simuliert die Immobilisierung des Zivilisten mit einem Gummigeschoss. Die Koalition gewinnt, wenn es ihnen gelingt, eine bestimmte Anzahl an Waffencaches zu zerstören, bevor ihnen die Zeit oder die Tickets ausgehen, sonst gewinnt das aufständische Team das Spiel. Aufständische Ingenieure können auch beschädigte Caches reparieren. Die Anzahl der Caches wird beim Laden der Karte und beim Blättern auf dem Server angezeigt.
+Die Koalitionstruppen müssen Informationen sammeln, indem sie aufständische Kämpfer töten oder aufständische Zivilisten festnehmen [(siehe Zivilist)](../the_civilian/README.md). Um einen Zivilisten zu fangen, muss ein Koalitionsspieler innerhalb eines Meters des Zivilisten sein und entweder einen Einschränker/Hemmschuh verwenden, der aus einem Paar Plastikhandschellen besteht, die durch Auswahl der Nummer 1 auf Ihrer Tastatur zugänglich sind, oder alternativ ** mit einer Schrotflinte **. Dies simuliert die Immobilisierung des Zivilisten mit einem Gummigeschoss. Die Koalition gewinnt, wenn es ihnen gelingt, eine bestimmte Anzahl an Waffencaches zu zerstören, bevor ihnen die Zeit oder die Tickets ausgehen, sonst gewinnt das aufständische Team das Spiel. Aufständische Ingenieure können auch beschädigte Caches reparieren. Die Anzahl der Caches wird beim Laden der Karte und beim Blättern auf dem Server angezeigt.
 
 Um die ungefähre Position von aufständischen Waffenlagern während des Aufstandes aufzudecken, müssen die Koalitionskräfte Informationen sammeln. Das Coalition-Team benötigt 50 Geheimdienstpunkte \ (IP \), damit sich das Lager nach fünf Minuten selbst zeigt. Die folgende Liste zeigt die Anzahl der Geheimdienstpunkte, die durch verschiedene Aktionen gewonnen oder verloren wurden.
 

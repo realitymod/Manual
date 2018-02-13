@@ -1,74 +1,55 @@
-# **Ausrüstung** {#kits}
+# **AusrÃ¼stung** {#kits}
 
-Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche Pack, das du auf dem Schlachtfeld findest, aufheben, aber du kannst keine feindlichen Kombattantenausrüstung benutzen. Wenn Sie ein solches Pack abholen, werden Sie gewarnt und haben ungefähr 30 Sekunden, um das Pack fallen zu lassen, um nicht getötet zu werden. 15 Sekunden nach dem Aufnehmen eines gegnerischen Pack wird dein Bildschirm schwarz und an diesem Punkt muss er fallen gelassen werden. Packs können in 3 Hauptgruppen eingeteilt werden:
+Es gibt viele verschiedene AusrÃ¼stungen in PR: BF2. Du kannst jedes freundliche Pack, das du auf dem Schlachtfeld findest, aufheben, aber du kannst keine feindlichen KombattantenausrÃ¼stung benutzen. Wenn Sie ein solches Pack abholen, werden Sie gewarnt und haben ungefÃ¤hr 30 Sekunden, um das Pack fallen zu lassen, um nicht getÃ¶tet zu werden. 15 Sekunden nach dem Aufnehmen eines gegnerischen Pack wird dein Bildschirm schwarz und an diesem Punkt muss er fallen gelassen werden. Packs kÃ¶nnen in 3 Hauptgruppen eingeteilt werden:
 
-* Spawn-fähig: unbegrenzt / spezialisiert / Infanterie
-* Anforderungsfähig: unbegrenzt / spezialisiert / Infanterie
+* Spawn-fÃ¤hig: unbegrenzt / spezialisiert / Infanterie
+* AnforderungsfÃ¤hig: unbegrenzt / spezialisiert / Infanterie
 * Aufnehmen
 
-**Alle Spawn-fähigen Kits ** können erhalten werden, indem man einen auf dem Spawn-Bildschirm auswählt. ** Anfrage-fähige Kits ** können nur nach dem spawnen von Kisten oder Fahrzeugen angefordert werden. Aufständische können keine Kits anfordern, haben aber Zugriff auf ** Pick-up-Kits ** in ihren Basen und in Waffenlagern.
+**Alle Spawn-fÃ¤higen Kits ** kÃ¶nnen erhalten werden, indem man einen auf dem Spawn-Bildschirm auswÃ¤hlt. ** Anfrage-fÃ¤hige Kits ** kÃ¶nnen nur nach dem spawnen von Kisten oder Fahrzeugen angefordert werden. AufstÃ¤ndische kÃ¶nnen keine Kits anfordern, haben aber Zugriff auf ** Pick-up-Kits ** in ihren Basen und in Waffenlagern.
 
-** Unlimited Kits ** kann von jedem erhalten werden. Jedes anfragbare ** spezialisierte ** Infanterie-Kit ist nur verfügbar, für eine gewisse Anzahl von Spielern per Team, zur selben Zeit.
+** Unlimited Kits ** kann von jedem erhalten werden. Jedes anfragbare ** spezialisierte ** Infanterie-Kit ist nur verfÃ¼gbar, fÃ¼r eine gewisse Anzahl von Spielern per Team, zur selben Zeit.
 
-## Ausrüstungs Auswahl {#kit-auswahl}
+## AusrÃ¼stungs Auswahl {#kit-auswahl}
 
-**Spawn-fähig Unlimited kits:**
+**Spawn-fÃ¤hig Unlimited kits:**
 
-* ![](/assets/rifleman.png)Der ** Schütze / Militanter Krieger / Aufständischer ** ist der Standard-Infanteriesoldat jeder Fraktion. Er ist typischerweise mit einem Sturmgewehr, Granaten und Rauch ausgerüstet, je nach Fraktion eine Munitionstasche.
-* ![](/assets/civiicon.png)** Der Zivilist ** ist ein unbewaffneter Aufständischer, der seinem Team bei der Entdeckung von Feinden helfen kann. Da er ein Zivilist ist, gibt es einige spezielle Regeln über ihn, die später in diesem Kapitel ausführlich beschrieben werden. Dieses Set ist nur für Hamas und irakische Aufständische verfügbar. [(siehe der Zivilist)](../kits/README.md#der-zivilist)
+* ![](/assets/rifleman.png)Der ** SchÃ¼tze / Militanter Krieger / AufstÃ¤ndischer ** ist der Standard-Infanteriesoldat jeder Fraktion. Er ist typischerweise mit einem Sturmgewehr, Granaten und Rauch ausgerÃ¼stet, je nach Fraktion eine Munitionstasche.
+* ![](/assets/civiicon.png)** Der Zivilist ** ist ein unbewaffneter AufstÃ¤ndischer, der seinem Team bei der Entdeckung von Feinden helfen kann. Da er ein Zivilist ist, gibt es einige spezielle Regeln Ã¼ber ihn, die spÃ¤ter in diesem Kapitel ausfÃ¼hrlich beschrieben werden. Dieses Set ist nur fÃ¼r Hamas und irakische AufstÃ¤ndische verfÃ¼gbar. [(siehe der Zivilist)](../the_civilian/README.md)
 
-* ![](/assets/sapper.png)**Der aufständische Sapper ** setzt Granatenfallen und platziert IEDs. Er ist wichtig, wenn er einen Hinterhalt vorbereitet.
+* ![](/assets/sapper.png)**Der aufstÃ¤ndische Sapper ** setzt Granatenfallen und platziert IEDs. Er ist wichtig, wenn er einen Hinterhalt vorbereitet.
 
-**Spawn-fähig Special kits:**
+**Spawn-fÃ¤hig Special kits:**
 
-* ![](/assets/officer.png** Das Ausrüstungsset für Officer / Cell Leader ** kann nur vom Gruppenführer erhalten werden. Er ist verantwortlich für das Kommando seiner Mannschaft, für die Kommunikation mit der restlichen Mannschaft und die Aufstellung von Außenposten. Detaillierte Verwendung dieses Kits ist in der Squad Leader Abschnitt abgedeckt.
-* ![](/assets/medic.png)**Der Feldsanitäter ** ist dafür verantwortlich, seine Truppe am Leben zu erhalten, was eine der wichtigsten Rollen auf dem Schlachtfeld ist.
+* ![](/assets/officer.png)** Das AusrÃ¼stungsset fÃ¼r Officer / Cell Leader ** kann nur vom GruppenfÃ¼hrer erhalten werden. Er ist verantwortlich fÃ¼r das Kommando seiner Mannschaft, fÃ¼r die Kommunikation mit der restlichen Mannschaft und die Aufstellung von AuÃŸenposten. Detaillierte Verwendung dieses Kits ist in der Squad Leader Abschnitt abgedeckt.
+* ![](/assets/medic.png)**Der FeldsanitÃ¤ter ** ist dafÃ¼r verantwortlich, seine Truppe am Leben zu erhalten, was eine der wichtigsten Rollen auf dem Schlachtfeld ist.
 
-**Spawn-fähig Infanterie:**
+**Spawn-fÃ¤hig Infanterie:**
 
-* ![](/assets/breacher.png)**Der Zugangstechniker / Erkunder ** ist normalerweise der erste in vorderste  Linie für das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermöglicht, hohe Hindernisse zu überwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene Türen zu durchbrechen und Kämpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstören.
-* ![](/assets/ar.png)**Der Leichte MG Schütze \ (AR \) ** bietet dem Squad Unterdrückungsfeuer und ist ideal, um die Fähigkeit des Feindes, sich zu bewegen einzuschränken und das Feuer effektiv zu erwidern.
-* ![] (/assets/at.png)** Der Schütze Anti-Panzer \ (AT \) ** ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
-
-* ![] (/assets/grenadier.png)** Der Grenadier ** benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in Gebäuden in schwer erreichbaren Gebieten zu bekämpfen.
-
- 
-
-** Anfrage möglich unbegrenzt: **
+* ![](/assets/breacher.png)**Der Zugangstechniker / Erkunder ** ist normalerweise der erste in vorderste  Linie fÃ¼r das Squad. Der Pack ist mit einem Enterhaken ausgestattet, der es seinem Team ermÃ¶glicht, hohe Hindernisse zu Ã¼berwinden. Eine Schrotflinte mit Schrotschuss kann dazu verwendet werden, verschlossene TÃ¼ren zu durchbrechen und KÃ¤mpfer zu verhaften. Das Kit ist auch mit kleinen C4-Ladungen ausgestattet, um verschiedene Ziele innerhalb eines Spiels zu zerstÃ¶ren.
+* ![](/assets/ar.png)**Der Leichte MG SchÃ¼tze \ (AR \) ** bietet dem Squad UnterdrÃ¼ckungsfeuer und ist ideal, um die FÃ¤higkeit des Feindes, sich zu bewegen einzuschrÃ¤nken und das Feuer effektiv zu erwidern.
+* ![](/assets/at.png)** Der SchÃ¼tze Anti-Panzer \ (AT \) ** ist ein hochgradig tragbares Panzerabwehrsystem, das feindliche ungepanzerte und leicht gepanzerte Fahrzeuge neutralisieren kann.
+* ![](/assets/grenadier.png)** Der Grenadier ** benutzt einen Granatwerfer, um Gruppen von Feinden oder ungepanzerten Fahrzeugen in Reichweite oder in GebÃ¤uden in schwer erreichbaren Gebieten zu bekÃ¤mpfen.
 
  
 
-*! [] (/assets/crewman.png)** Der Crewman ** ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
-
-*! [] (/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und Starrflügler betreiben kann. Dieses Kit ist mit einer Seitenwaffe für die Verteidigung und einem Fallschirm für Notfälle ausgestattet.
-
-*! [] (/assets/unarmed.png)**Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein Aufständischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)] (../der Zivilist/README.md)
+** Anfrage mÃ¶glich unbegrenzt: **
 
  
 
- 
+* ![](/assets/crewman.png)** Der Crewman ** ist die einzige Klasse, der gepanzerte Fahrzeuge bedienen kann. Ausgestattet mit einer kompakten Waffe zur Selbstverteidigung.
+* ![](/assets/pilot.png)** Der Pilot ** ist die einzige Klasse, die Hubschrauber und StarrflÃ¼gler betreiben kann. Dieses Kit ist mit einer Seitenwaffe fÃ¼r die Verteidigung und einem Fallschirm fÃ¼r NotfÃ¤lle ausgestattet.
+* ![](/assets/unarmed.png)** Das Unbewaffnete Kit ** kann als Vermittler verwendet werden, wenn Kits mit einem anderen Squad-Mitglied ausgetauscht werden. Wenn ein AufstÃ¤ndischer oder ein Hamas-Spieler das unbewaffnete Set benutzt, wird er als Zivilist behandelt, nachdem er das Set fallen gelassen und ein paar Minuten gewartet hat. [(siehe der Zivilist)](../the_civilian/README.md)
+
+ ** AnfragefÃ¤hige Spezialkits: **
 
  
 
-** Anfragefähige Spezialkits: **
-
- 
-
-*! [] (/assets/hay.png)** Der Anti-Panzer \ (HAT \) ** Soldat ist eine hochwirksame Bedrohung gegen alle Arten von Rüstungen und kann Fahrzeuge mit extremen Panzerungen auf große Entfernung zerstören.
-
-*! [] (/assets/sniper.png)** Der Sniper ** liefert während der Erkundung Erkenntnis, um das Team über Feindbewegungen auf dem Laufenden zu halten und um auch aus großer Entfernung Ziele von hoher Priorität zu erreichen.
-
- 
-
-*! [] (/assets/spotter.png)**Der Spotter ** ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines Scharfschützen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trägt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
-
- 
-
-*! [] (/assets/aa.png)**Der Anti-Aircraft \ (AA \) Soldat ** kann feindliche Flugzeuge angreifen und abschrecken.
-
- 
-
-*! [] (/ assets / combat engineer.png) ** Der Kampftechniker ** kann Minenfelder legen, feindliche Anlagen abreißen, Sprengsätze abschalten und leichte Fahrzeuge reparieren.
+* ![](/assets/hay.png)** Der Anti-Panzer \ (HAT \) ** Soldat ist eine hochwirksame Bedrohung gegen alle Arten von RÃ¼stungen und kann Fahrzeuge mit extremen Panzerungen auf groÃŸe Entfernung zerstÃ¶ren.
+* ![](/assets/sniper.png)** Der Sniper ** liefert wÃ¤hrend der Erkundung Erkenntnis, um das Team Ã¼ber Feindbewegungen auf dem Laufenden zu halten und um auch aus groÃŸer Entfernung Ziele von hoher PrioritÃ¤t zu erreichen.
+* ![](/assets/spotter.png)**Der Spotter ** ist eine engagierte Beobachterrolle und ein wichtiger Assistent eines ScharfschÃ¼tzen. Er kann Laserpunkte platzieren und das Team mit Informationen aus dem Schlachtfeld versorgen. Er trÃ¤gt auch einen Enterhaken, um sich in unerreichbaren Bereichen mit dem hohen visuellen Vorteil zu positionieren.
+* ![](/assets/aa.png)**Der Anti-Aircraft \ (AA \) Soldat ** kann feindliche Flugzeuge angreifen und abschrecken.
+* ![](/assets/combat_engineer.png) ** Der Kampftechniker ** kann Minenfelder legen, feindliche Anlagen abreiÃŸen, SprengsÃ¤tze abschalten und leichte Fahrzeuge reparieren.
 
  
 
@@ -76,19 +57,17 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche 
 
  
 
-*! [] (/assets/ap.png)** Der Kampfschütze Anti-Personal \ (AP \) ** ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
-
-*! [] (/assets/marskman.png)**Der Designated Marksman \ (DMR \) ** sorgt für präzises Präzisionsfeuer für seinen Squad und kann Ziele jenseits der Reichweite des Schützen anvisieren.
-
-*! [] (/assets/mlg.png)** Der Maschinengewehrschütze \ (MMG \) ** bietet während des Einsatzes ein starkes Unterdrückungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tödlich.
+* ![](/assets/ap.png)** Der KampfschÃ¼tze Anti-Personal \ (AP \) ** ist mit einer ferngesteuerten Detonations-Antipersonenmine ausgestattet, mit der man Hinterhalte setzen oder defensiv einsetzen kann.
+* ![](/assets/marskman.png)**Der Designated Marksman \ (DMR \) ** sorgt fÃ¼r prÃ¤zises PrÃ¤zisionsfeuer fÃ¼r seinen Squad und kann Ziele jenseits der Reichweite des SchÃ¼tzen anvisieren.
+* ![](/assets/mlg.png)** Der MaschinengewehrschÃ¼tze \ (MMG \) ** bietet wÃ¤hrend des Einsatzes ein starkes UnterdrÃ¼ckungsfeuer. Er kann eine ganze Mannschaft festsetzen und ist in Reichweite tÃ¶dlich.
 
  
 
-** Abholung \ (Aufständische \): **
+** Abholung \ (AufstÃ¤ndische \): **
 
  
 
-* Verschiedene Kits mit verschiedenen Waffentypen sind als Pick Up Kits für die aufständischen Fraktionen erhältlich. Diese variieren in fast allen der oben genannten Klassen.
+* Verschiedene Kits mit verschiedenen Waffentypen sind als Pick Up Kits fÃ¼r die aufstÃ¤ndischen Fraktionen erhÃ¤ltlich. Diese variieren in fast allen der oben genannten Klassen.
 
  
 
@@ -96,15 +75,15 @@ Es gibt viele verschiedene Ausrüstungen in PR: BF2. Du kannst jedes freundliche 
 
  
 
-Um einen Standard, eine Infanterie oder ein limitiertes Set anzufordern, musst du die vier folgenden Anforderungen erfüllen:
+Um einen Standard, eine Infanterie oder ein limitiertes Set anzufordern, musst du die vier folgenden Anforderungen erfÃ¼llen:
 
  
 
-* Sie müssen an der richtigen ** Position sein **
+* Sie mÃ¼ssen an der richtigen ** Position sein **
 
-* ** Sie müssen in einem Squad ** mit genügend Spielern sein, um diese Klasse zu verlangen, ohne dass sie bereits vergeben ist
+* ** Sie mÃ¼ssen in einem Squad ** mit genÃ¼gend Spielern sein, um diese Klasse zu verlangen, ohne dass sie bereits vergeben ist
 
-* Das angeforderte Kit muss im Kit-Pool ** verfügbar ** sein
+* Das angeforderte Kit muss im Kit-Pool ** verfÃ¼gbar ** sein
 
 * Du musst ** von deinem Squad Leader ** Erlaubnis erhalten haben, um das Kit anzufordern
 
@@ -114,11 +93,11 @@ Um einen Standard, eine Infanterie oder ein limitiertes Set anzufordern, musst d
 
  
 
-Je nach Kit-Typ, den Sie anfordern möchten, müssen Sie sich an einem der folgenden Standorte befinden:
+Je nach Kit-Typ, den Sie anfordern mÃ¶chten, mÃ¼ssen Sie sich an einem der folgenden Standorte befinden:
 
  
 
-** Alle anfragefähigen Kits: **
+** Alle anfragefÃ¤higen Kits: **
 
  
 
@@ -126,7 +105,7 @@ Je nach Kit-Typ, den Sie anfordern möchten, müssen Sie sich an einem der folgend
 
 * In der Vorratskiste oder im Waffen-Cache des Teams
 
-* Auf der Rückseite eines freundlichen APC oder IFV
+* Auf der RÃ¼ckseite eines freundlichen APC oder IFV
 
  
 
@@ -134,7 +113,7 @@ Je nach Kit-Typ, den Sie anfordern möchten, müssen Sie sich an einem der folgend
 
  
 
-* Bei einem Fahrzeug, das den angeforderten Kit benötigt, um bedient zu werden \ (Armor, Helicopter, Aircraft \)
+* Bei einem Fahrzeug, das den angeforderten Kit benÃ¶tigt, um bedient zu werden \ (Armor, Helicopter, Aircraft \)
 
  
 
@@ -142,37 +121,35 @@ Je nach Kit-Typ, den Sie anfordern möchten, müssen Sie sich an einem der folgend
 
  
 
-* Anfrage überall möglich
+* Anfrage Ã¼berall mÃ¶glich
 
-* Sie können keine Kits anfordern, während Sie in einem Fahrzeug sind. Sie können das unbewaffnete Kit auch 15 Sekunden lang nicht anfordern, nachdem Sie ein Fahrzeug verlassen haben.
-
- 
-
-Um ein begrenztes Kit an den angegebenen Orten anzufordern, müssen Sie den ** sekundären Funkschlüssel \ (T \) ** gedrückt halten und dann ** REQUEST / DROP KIT ** auswählen. Dies öffnet ein Untermenü mit einer Liste von Kits zur Auswahl. Wenn Ihre Anfrage genehmigt wurde, können Sie das neue Kit direkt zu Ihren Füßen finden und es wird Ihnen eine orangefarbene Nachricht geben:
+* Sie kÃ¶nnen keine Kits anfordern, wÃ¤hrend Sie in einem Fahrzeug sind. Sie kÃ¶nnen das unbewaffnete Kit auch 15 Sekunden lang nicht anfordern, nachdem Sie ein Fahrzeug verlassen haben.
 
  
 
-> ** "Dein Kit wurde zugeteilt und liegt dir zu Füßen" **
+Um ein begrenztes Kit an den angegebenen Orten anzufordern, mÃ¼ssen Sie den ** sekundÃ¤ren FunkschlÃ¼ssel \ (T \) ** gedrÃ¼ckt halten und dann ** REQUEST / DROP KIT ** auswÃ¤hlen. Dies Ã¶ffnet ein UntermenÃ¼ mit einer Liste von Kits zur Auswahl. Wenn Ihre Anfrage genehmigt wurde, kÃ¶nnen Sie das neue Kit direkt zu Ihren FÃ¼ÃŸen finden und es wird Ihnen eine orangefarbene Nachricht geben:
 
  
 
-Sie müssen die ** Pickup-Taste \ (G \) ** drücken, um es zu nehmen. Wenn deine Anfrage abgelehnt wurde, wirst du eine orangefarbene Nachricht sehen, die erklärt, warum du das Kit nicht erhalten hast:
+> ** "Dein Kit wurde zugeteilt und liegt dir zu FÃ¼ÃŸen" **
 
  
 
-> ** "Du musst in der Nähe eines freundlichen SUPPLY CRATE oder APC sein, um dieses Kit anzufordern" **
-
->
-
-> ** Du musst in der Nähe eines freundlichen SUPPLY CRATE oder FAHRZEUGS sein, um dieses Kit anzufordern **
+Sie mÃ¼ssen die ** Pickup-Taste \ (G \) ** drÃ¼cken, um es zu nehmen. Wenn deine Anfrage abgelehnt wurde, wirst du eine orangefarbene Nachricht sehen, die erklÃ¤rt, warum du das Kit nicht erhalten hast:
 
  
 
-Um das unbewaffnete Kit zu erhalten, müssen Sie nur den sekundären Radioknopf gedrückt halten und die rechte Maustaste drücken, um die Drop-Kit-Option auszuwählen.
+> ** "Du musst in der NÃ¤he eines freundlichen SUPPLY CRATE oder APC sein, um dieses Kit anzufordern" **
+
+> ** Du musst in der NÃ¤he eines freundlichen SUPPLY CRATE oder FAHRZEUGS sein, um dieses Kit anzufordern **
 
  
 
-Wenn Sie Kits aus einer Kiste oder einem Fahrzeug anfordern, können Sie im Untermenü mit der rechten Maustaste das alternative Kit für diese Waffenklasse anfordern, für das es viele Varianten gibt. Alternativ können Sie im Spawn-Menü auch die STD- und ALT-Tasten umschalten.
+Um das unbewaffnete Kit zu erhalten, mÃ¼ssen Sie nur den sekundÃ¤ren Radioknopf gedrÃ¼ckt halten und die rechte Maustaste drÃ¼cken, um die Drop-Kit-Option auszuwÃ¤hlen.
+
+ 
+
+Wenn Sie Kits aus einer Kiste oder einem Fahrzeug anfordern, kÃ¶nnen Sie im UntermenÃ¼ mit der rechten Maustaste das alternative Kit fÃ¼r diese Waffenklasse anfordern, fÃ¼r das es viele Varianten gibt. Alternativ kÃ¶nnen Sie im Spawn-MenÃ¼ auch die STD- und ALT-Tasten umschalten.
 
  
 
@@ -180,57 +157,39 @@ Wenn Sie Kits aus einer Kiste oder einem Fahrzeug anfordern, können Sie im Unter
 
  
 
-Infanterie- und Spezialkits haben eine Mindestanzahl von Spielern im Kader, bevor sie ausgewählt werden können. Verwenden Sie die folgende Tabelle, um die Standardwerte für Infanterie- und Spezialkits sowie einige Ausnahmen von dieser Regel zu finden. ** Alle Infanterie- und Spezialkits können nur einmal in einem Trupp angefordert werden, außer dem Sanitäter, Scharfschützen und Zivilisten, von denen du bis zu 2 in jedem Trupp haben kannst.**
-
- 
+Infanterie- und Spezialkits haben eine Mindestanzahl von Spielern im Kader, bevor sie ausgewÃ¤hlt werden kÃ¶nnen. Verwenden Sie die folgende Tabelle, um die Standardwerte fÃ¼r Infanterie- und Spezialkits sowie einige Ausnahmen von dieser Regel zu finden. ** Alle Infanterie- und Spezialkits kÃ¶nnen nur einmal in einem Trupp angefordert werden, auÃŸer dem SanitÃ¤ter, ScharfschÃ¼tzen und Zivilisten, von denen du bis zu 2 in jedem Trupp haben kannst.**
 
 | Kit | Minimum | Kit | Minimum |
-
 | --- | --- | --- | --- |
+| **Infanterie Standard** | 4 | **MaschinengewehrschÃ¼tze** | 6 |
+| **Sondervorgabe** | 3 | **Offizier** | 2 |
+| **Grenadier** | 6 | **Medic** | 2 |
+ 
 
-| ** Infanterie Standard ** | 4 | ** Maschinengewehrschütze ** | 6 |
-
-| ** Sondervorgabe ** | 3 | ** Offizier ** | 2 |
-
-| ** Grenadier ** | 6 | ** Medic ** | 2 |
+Es wird Ihnen erneut eine Nachricht anzeigen, wenn Sie die Anforderung nicht erfÃ¼llen:
 
  
 
-Es wird Ihnen erneut eine Nachricht anzeigen, wenn Sie die Anforderung nicht erfüllen:
+> ** Nicht verfÃ¼gbar wegen Kaderbegrenzungen **
 
  
 
-> ** Nicht verfügbar wegen Kaderbegrenzungen **
+** VerfÃ¼gbarkeitsanforderung: **
 
  
 
-** Verfügbarkeitsanforderung: **
+Infanterie und spezielle Kits werden aus einem Pool gezogen. Die Anzahl der verfÃ¼gbaren Kits hÃ¤ngt von der Anzahl der Spieler in deinem Team ab. Die Spawn-fÃ¤higen und Fahrzeug-Kits sind nicht in der Anzahl begrenzt. Wenn das Kit nicht in der folgenden Tabelle aufgefÃ¼hrt ist, bedeutet dies, dass es die Standardanforderungen fÃ¼r Infanterie- und Spezialkits verwendet.
 
- 
-
-Infanterie und spezielle Kits werden aus einem Pool gezogen. Die Anzahl der verfügbaren Kits hängt von der Anzahl der Spieler in deinem Team ab. Die Spawn-fähigen und Fahrzeug-Kits sind nicht in der Anzahl begrenzt. Wenn das Kit nicht in der folgenden Tabelle aufgeführt ist, bedeutet dies, dass es die Standardanforderungen für Infanterie- und Spezialkits verwendet.
-
- 
-
-| Kit | 1-7 Spieler | 8-15 Spieler | 16-23 Spieler | 24-31 Spieler | 32-50+ Spieler |
-
+| Kit | 1-7 Spieler | 8-15 Spieler | 16-23 Spieler | 24-31 Spieler | 32- 50+ Spieler |
 | --- | --- | --- | --- | --- | --- |
+| **Infanterie Standard** | 1 | 2 | 3 | 3 | 4 |
+| **Sondervorgabe** | 0 | 1 | 1 | 2 | 2 |
+| **HUT** | 0 | 1 | 1 | 1 | 1 |
+| **Sniper** | 0 | 1 | 1 | 2 | 2 |
+| **SchÃ¼tze AT** | 1 | 2 | 4 | 5 | 8 |
+| **Zivilist** | 1 | 3 | 9 | 12 | 16 |
 
-| ** Infanterie Standard ** | 1 | 2 | 3 | 3 | 4 |
-
-| ** Sondervorgabe ** | 0 | 1 | 1 | 2 | 2 |
-
-Hut
-
-Sniper
-
-| ** Schütze AT ** | 1 | 2 | 4 | 5 | 8 |
-
-| ** Zivilist ** | 1 | 3 | 9 | 12 | 16 |
-
- 
-
-Wenn ein Infanterie-Kit fallen gelassen wurde und nicht innerhalb von 5 Minuten abgeholt wird, verschwindet es aus der Welt und kehrt in den Pool zurück. Spezialkits benötigen 10 Minuten, um zum Pool zurückzukehren. Es wird eine orange Nachricht angezeigt, wenn das Kit nicht verfügbar ist:
+Wenn ein Infanterie-Kit fallen gelassen wurde und nicht innerhalb von 5 Minuten abgeholt wird, verschwindet es aus der Welt und kehrt in den Pool zurÃ¼ck. Spezialkits benÃ¶tigen 10 Minuten, um zum Pool zurÃ¼ckzukehren. Es wird eine orange Nachricht angezeigt, wenn das Kit nicht verfÃ¼gbar ist:
 
  
 
@@ -242,33 +201,29 @@ Wenn ein Infanterie-Kit fallen gelassen wurde und nicht innerhalb von 5 Minuten 
 
  
 
-Aufständische können keine Kits anfordern. Der Kommandant eines Teams darf nur das Offiziers-Kit anfordern. Bei bestimmten Aktionen können Sie vorübergehend keine Kits anfordern:
+AufstÃ¤ndische kÃ¶nnen keine Kits anfordern. Der Kommandant eines Teams darf nur das Offiziers-Kit anfordern. Bei bestimmten Aktionen kÃ¶nnen Sie vorÃ¼bergehend keine Kits anfordern:
 
  
 
-* Wenn Sie ein begrenztes Kit erhalten, müssen Sie 2 Minuten warten, bevor Sie ein weiteres anfordern können.
+* Wenn Sie ein begrenztes Kit erhalten, mÃ¼ssen Sie 2 Minuten warten, bevor Sie ein weiteres anfordern kÃ¶nnen.
 
-* Wenn Sie Squads wechseln, können Sie für weitere 2 Minuten kein Set anfordern.
+* Wenn Sie Squads wechseln, kÃ¶nnen Sie fÃ¼r weitere 2 Minuten kein Set anfordern.
 
-* Teamkilling, der ein begrenztes Kit trägt, blockiert dich für 3 Minuten.
+* Teamkilling, der ein begrenztes Kit trÃ¤gt, blockiert dich fÃ¼r 3 Minuten.
 
-* Wenn Sie einen Zivilisten töten, der die ROE verletzt, werden Sie für 10 Minuten gesperrt.
+* Wenn Sie einen Zivilisten tÃ¶ten, der die ROE verletzt, werden Sie fÃ¼r 10 Minuten gesperrt.
 
-* Wenn Sie Kit-Anfragen spammen, werden Sie für 30 Sekunden blockiert.
-
- 
-
-Nicht alle Kits sind für alle Fraktionen verfügbar. Wenn du das Kit nicht zur Verfügung hast, sagt dir das Spiel:
+* Wenn Sie Kit-Anfragen spammen, werden Sie fÃ¼r 30 Sekunden blockiert.
 
  
 
-> ** "Nicht für Ihre Streitkräfte verfügbar" **
+Nicht alle Kits sind fÃ¼r alle Fraktionen verfÃ¼gbar. Wenn du das Kit nicht zur VerfÃ¼gung hast, sagt dir das Spiel:
 
->
+ 
+
+> ** "Nicht fÃ¼r Ihre StreitkrÃ¤fte verfÃ¼gbar" **
 
 > ** Nach deinem letzten Besuch bekommst du kein weiteres begrenztes Kit
-
->
 
 > ** Du bist neu in diesem Trupp, fordere es in einer Minute noch einmal an!
 

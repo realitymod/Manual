@@ -16,7 +16,7 @@ Am wichtigsten ist, dass du ** einem Squad ** beitreten solltest. Einige Server 
 
 * Kits, die spezialisiert und schwieriger zu bedienen sind, sind in der Regel begrenzt und können nur erreicht werden, wenn bestimmte Bedingungen innerhalb eines Trupps erfüllt werden. Diese reservierten Kits sind für das Team begrenzt und Sie sollten immer nachfragen, bevor Sie eine anfordern.
 
-* Kits können vom Haupt-Spawn-Menü \ (wie BF2 \), einer Lieferkiste [_ \ (siehe Logistik \) _] (../the_basics/README.md#logistik) oder der Rückseite eines APC / IFV angefordert werden. Um die Möglichkeit zu haben, einen Bausatz aus einer Vorratskiste oder einem Fahrzeug anzufordern, müssen Sie Teil eines Trupps sein.
+* Kits können vom Haupt-Spawn-Menü \(wie BF2), einer Lieferkiste [_\(siehe Logistik\)_](../the_basics/README.md#Logistik) oder der Rückseite eines APC/IFV angefordert werden. Um die Möglichkeit zu haben, einen Bausatz aus einer Vorratskiste oder einem Fahrzeug anzufordern, müssen Sie Teil eines Trupps sein.
 
  
 
@@ -24,16 +24,13 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-* ** Der Sammelpunkt deines Trupps \ (RP \) ** ist ein grüner Kreis, der einen Spawnpunkt mit der Nummer deines Trupps umgibt. Abhängig von der Position des RP deines Teams in Bezug auf den FOB eines Teams wird seine Langlebigkeit bestimmen. Hinweis: Wenn du am Sammelpunkt eines anderen Squads spawnt, spawnt du automatisch an deinem eigenen Sammelpunkt oder in der Nähe eines FOB. Wenn keine verfügbar sind, werden Sie in die Hauptbasis Ihres Teams versetzt. Wenn der Feind vom Feind überrannt wird, verschwindet seine RP. RPs sind nur für konventionelle Streitkräfte verfügbar. [(siehe Deployable Structures)] (../ the_squad_leader / README.md # Rallyepunkte)
+* ** Der Sammelpunkt deines Trupps \(RP\) ** ist ein grüner Kreis, der einen Spawnpunkt mit der Nummer deines Trupps umgibt. Abhängig von der Position des RP deines Teams in Bezug auf den FOB eines Teams wird seine Langlebigkeit bestimmen. Hinweis: Wenn du am Sammelpunkt eines anderen Squads spawnt, spawnt du automatisch an deinem eigenen Sammelpunkt oder in der Nähe eines FOB. Wenn keine verfügbar sind, werden Sie in die Hauptbasis Ihres Teams versetzt. Wenn der Feind vom Feind überrannt wird, verschwindet seine RP. RPs sind nur für konventionelle Streitkräfte verfügbar. [(siehe Deployable Structures)](../the_squad_leader/README.md#Rallyepunkte)
 
  
-
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/rally.png)
-
+>![](../assets/rally.png)
 >
-
 > Ein Rallypunkt.
 
  
@@ -42,7 +39,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
 * ** Der Kommandeur-Sammelpunkt **. Diese RP kann nur vom Kommandanten platziert werden, vorausgesetzt, mehrere Gruppenführer sind in der Nähe des CO. Auf der Karte wird dies ein Sammelpunkt mit einem "C" daneben sein.
 
-* ** Feld Operations Basis \ (FOB \) oder Verstecke ** können vom gesamten Team verwendet werden, um zu spawnen, muss aber konstruiert werden, bevor es einsatzbereit ist. Auf der Karte wird es als Spawnpunkt mit einem grünen Dreieck angezeigt. Es kommt 90 Sekunden nach dem Aufbau online. Es wird für 30 Sekunden unspähbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. [(siehe Aufbaubare Strukture)] (../ the_squad_leader / README.md # deployable-structures)
+* ** Feld Operations Basis \(FOB\) oder Verstecke ** können vom gesamten Team verwendet werden, um zu spawnen, muss aber konstruiert werden, bevor es einsatzbereit ist. Auf der Karte wird es als Spawnpunkt mit einem grünen Dreieck angezeigt. Es kommt 90 Sekunden nach dem Aufbau online. Es wird für 30 Sekunden unspähbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. [(siehe Aufbaubare Strukture)](../the_squad_leader/README.md#deployable-structures)
 
  
 
@@ -50,10 +47,8 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/fob.png)! [] (/assets/hideout.png)! [] (/assets/cache-weapon.png)
-
+>![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
 >
-
 > FOB, Versteck & Waffen Cache.
 
  
@@ -62,10 +57,8 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/acv.png)
-
+>![](../assets/acv.png)
 >
-
 > Armored Command Vehicle \ (ACV \) nur in Hauptbasen gefunden.
 
  
@@ -114,7 +107,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-* Um die ** Anzahl verbleibender Runden ** in deinem Magazin zu schätzen, kannst du die Kommunikationsrose \ (** Q ** \) festhalten und einen visuellen Indikator für die verbleibende Munitionsmenge sehen. ! [] (/assets/ammo.png)
+* Um die ** Anzahl verbleibender Runden ** in deinem Magazin zu schätzen, kannst du die Kommunikationsrose \ (** Q ** \) festhalten und einen visuellen Indikator für die verbleibende Munitionsmenge sehen. ![](../assets/ammo.png)
 
  
 
@@ -138,10 +131,8 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/assets.png)
-
+>![](../assets/assets.png)
 >
-
 > Aktuelles Karten-Asset-Info-Overlay.
 
  
@@ -152,11 +143,10 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/suppresion.png)
-
+>![](../assets/suppresion.png)
 >
-
-> normale Ansicht des Spiels \ (links \) und Unterdrückungsseffekt in Aktion \ (rechts \).
+>
+>normale Ansicht des Spiels \ (links \) und Unterdrückungsseffekt in Aktion \ (rechts \).
 
  
 
@@ -181,11 +171,8 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 * Bei Ausstattung mit bestimmten Waffen oder Ausrüstungsgegenständen wird die Haupt-Funkkommunikationsrose ** durch ein kleines kontextsensitives Menü ersetzt. Wenn du ein Felddressing oder die Medic-Bag hältst, kannst du den "FIRST AID" -Befehl benutzen, um Spieler in der Nähe zu informieren, dass du sie heilen willst. Viele Ausrüstungsgegenstände und einige Waffen verwenden kontextsensitive Menüs.
 
  
-
-00: 00: 37.559 -> 00: 00: 43.289/assets/commorose.png)
-
+>![](../assets/commorose.png)
 >
-
 > Commo-Rose beim Drücken von Q.
 
  
@@ -222,15 +209,15 @@ Wenn du nicht rechtzeitig geheilt werden kannst, wirst du bewusstlos und der Bil
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/fielddressing.png)! [] (/assets/kit.png)! [] (/assets/epipen.png)
-
+>![](../assets/fielddressing.png)![](../assets/kit.png)![](../assets/epipen.png)
 >
-
 > Feldverband, Erste-Hilfe-Kit & Epipen.
 
  
 
-Tod
+** Tod **
+
+
 
  
 
@@ -292,7 +279,7 @@ Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nä
 
 * ** Ammo-Boxen ** - abgesetzt von leichten transportierten Fahrzeugen, APCs und IFVs.
 
-* ** Leichte / schwere Vorratskisten ** - Weitere Informationen im [nächsten Abschnitt] (the_basics / README.md # crates)
+* ** Leichte / schwere Vorratskisten ** - Weitere Informationen im [nächsten Abschnitt](the_basics/README.md#crates)
 
 * ** Waffencaches ** - Nur für Aufständische verfügbar
 
@@ -300,10 +287,8 @@ Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nä
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/ammobag.png)! [] (/assets/supplycrate.png)! [] (/assets/inscrate.png)! [] (/assets/cacahe.png)!] () (/assets/depott.png)
-
+<![](../assets/ammobag.png)![](../assets/supplycrate.png)![](../assets/inscrate.png)![](../assets/cacahe.png)![](../assets/depott.png)
 >
-
 > Munitionstasche, Munitionskiste der Koalitionskräfte, Munitionskiste der Aufständischenkräfte, Waffencache & Fahrzeugdepot.
 
  
@@ -322,14 +307,12 @@ Eine andere Sache zu beachten ist, dass die Nachlieferung ist ** nicht sofort **
 
  
 
-Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Heave Supply Crate. Während beide es erlauben, Spieler zu versorgen und Stellungen zu bauen, entspricht eine leichte Kiste der Hälfte der schweren Vorratskiste, was bedeutet, dass du 2x leichte Vorratskisten brauchst, wo nur 1x schwere Vorratskiste benötigt wird. Weitere Informationen zu Aufbauen von Stellungen finden Sie im Kapitel. [Deployable Structures] (Aufbaubare-Strukturen_squad_leader/README.md)
+Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Heave Supply Crate. Während beide es erlauben, Spieler zu versorgen und Stellungen zu bauen, entspricht eine leichte Kiste der Hälfte der schweren Vorratskiste, was bedeutet, dass du 2x leichte Vorratskisten brauchst, wo nur 1x schwere Vorratskiste benötigt wird. Weitere Informationen zu Aufbauen von Stellungen finden Sie im Kapitel. [Deployable Structures](Aufbaubare-Strukturen_squad_leader/README.md)
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/largecrate.png)! [] (/assets/smallcrate.png)
-
+>![](../assets/largecrate.png)![](../assets/smallcrate.png)
 >
-
 > _Hier sehen Sie die schwere Vorratskiste links und die leichte Version rechts._
 
  
@@ -370,10 +353,8 @@ Logistik-LKWs haben auch die Möglichkeit, eine Reparaturstation abzusetzen. Sie
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/reapir.png)
-
+>![](../assets/reapir.png)
 >
-
 > Reparatur absetzen.
 
  
@@ -420,15 +401,13 @@ Sobald Mörser benötigt werden, können Sie den Mörserrechner verwenden (drüc
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/mortars.png)
-
+>![](../assets/mortars.png)
 >
-
 > Die Mörserrechner-Schnittstelle._
 
  
 
-## _Ponton Brücken \ (CSB \)_ {#ponton-brücken}
+## _Ponton Brücken (CSB)_ {#ponton-brücken}
 
  
 
@@ -456,12 +435,13 @@ In einigen Fällen müssen mehrere CSBs die gesamte Entfernung überspannen. In 
 
  
 
-00: 00: 37.559 -> 00: 00: 43.289/assets/csb.png)
-
+>![](../assets/csb.png)
 >
-
 > CSB vom LKW wird eingesetzt.
 
+{% youtube %}
+https://www.youtube.com/watch?v=Vn66KbNrVJA
+{% endyoutube %}
  
 
 ## _Schlachtfeld Navigation_ {#Schlachtfeld-Navigation}
@@ -474,23 +454,18 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. D
 
 1 Squad Leader können ihren ** Squad Order Marker ** verwenden, um Orte an ihre Squad und den Commander zu kommunizieren. Die Richtung zum Marker wird durch einen Chevron über dem Kompass angezeigt. Wenn Sie sich nicht mehr als 75 Meter von der Markierung entfernt befinden, sehen Sie auch ein 3D-Symbol, das die Position vor Ihnen anzeigt. Der Marker wird auch auf der Karte sichtbar sein.
 
-   *! [] (/assets/target.png)**Ziel **
-
-   *! [] (/assets/build.png)**Bauen **
-
-   *! [] (/assets/observe.png)**Beobachten **
-
-   *! [] (/assets/defendmarker.png)**Verteidigen **
-
-   *! [] (/assets/demolish.png)**Zerstören **
-
-   *! [] (/assets/move.png)**Bewegen **
+   * ![](../assets/target.png)**Ziel **
+   * ![](../assets/build.png)**Bauen **
+   * ![](../assets/observe.png)**Beobachten **
+   * ![](../assets/defendmarker.png)**Verteidigen **
+   * ![](../assets/demolish.png)**Zerstören **
+   * ![](../assets/move.png)**Bewegen **
 
 2 Ein ** Präzisionsgradkompass ** zum unteren mittleren Bereich des Bildschirms. Der Kompass kann verwendet werden, um in der Nähe befindliche  Feinde genau zu lokalisieren. ** Die 8 Kardinal Richtungen ** sind deutlich mit den Grad-Label gekennzeichnet, die schrittweise alle 15 ° mit großen Abschnitten alle 5 ° dargestellt sind. Wenn Sie nur eine allgemeine Richtung mitteilen möchten, ist es am besten, die Himmelsrichtung zu sagen, gefolgt vom Grad und in manchen Fällen auch von der Entfernung. Zum Beispiel _ ** "Feind entdeckt NE 75 ° Grad 200 Meter außerhalb" **.**
 
    * Wenn das Ziel visuell mit einer nummerierten Peilung auf Ihrem Kompass übereinstimmt, wenn Sie in diese Richtung zeigen, sagen Sie einfach diese Nummer.
 
-   * Denken Sie daran, dass alle großen Kompasskerben gleich 5 Grad sind. Wenn das Ziel mit einer Kerbe auf der rechten Seite einer beschrifteten Kerbe entlang von 75 ° übereinstimmt, dann fügen Sie 5 ° hinzu. Das Ziel liegt also bei 80 °.! [] (/assets/compass.png)
+   * Denken Sie daran, dass alle großen Kompasskerben gleich 5 Grad sind. Wenn das Ziel mit einer Kerbe auf der rechten Seite einer beschrifteten Kerbe entlang von 75 ° übereinstimmt, dann fügen Sie 5 ° hinzu. Das Ziel liegt also bei 80 °.![](../assets/compass.png)
 
 3. Die Karten in PR: BF2 enthalten ** Raster-Referenzlabels und Tastatur-Subgrids **. Die Rasterbeschriftungen befinden sich am oberen und linken Rand der Karte. Die Karte ist in 169 Gitterquadrate unterteilt, beginnend mit A1 in der oberen linken Ecke und endend mit M13 in der unteren rechten Ecke. Jedes Rasterquadrat ist in 9 Teilraster unterteilt. Diese werden von 1 bis 9 auf die gleiche Weise wie ein Nummernblock eines Computers bezeichnet. \ (Obere Reihe von links nach rechts 7, 8, 9 \). Sie können Orte kommunizieren, indem Sie eine Rasterreferenz ausgeben. Für einen ungefähren Ort sagen Sie nur das Hauptrasterfeld \ (zB D6 \). Für genaue Orte fügen Sie auch das Untergitter ein \ (zB D6-2 \). Grid-Referenzen werden meist verwendet, um Standorte zwischen Trupps zu kommunizieren. Bei Verwendung von Mumble wird der erste Buchstabe der Grid-Referenz normalerweise mit dem phonetischen Alphabet der NATO angezeigt. Die Codewörter sind Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, Indien, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whisky, X -Ray, Yankee und Zulu
 
@@ -498,7 +473,7 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. D
 
  
 
-! [] (/assets/grid.png)
+![](../assets/grid.png)
 
  
 
@@ -518,7 +493,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/jeep.png)
+![](../assets/jeep.png)
 
  
 
@@ -526,7 +501,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/civiliancars.png)
+![](../assets/civiliancars.png)
 
  
 
@@ -534,7 +509,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/truck.png)
+![](../assets/truck.png)
 
  
 
@@ -542,7 +517,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/apc.png)
+![](../assets/apc.png)
 
  
 
@@ -550,7 +525,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/ifv.png)
+![](../assets/ifv.png)
 
  
 
@@ -558,7 +533,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/atm.png)
+![](../assets/atm.png)
 
  
 
@@ -566,7 +541,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/tank.png)
+![](../assets/tank.png)
 
  
 
@@ -574,7 +549,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/aavehicles.png)
+![](../assets/aavehicles.png)
 
  
 
@@ -582,7 +557,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/boats.png)
+![](../assets/boats.png)
 
  
 
@@ -590,7 +565,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/transheli.png)
+![](../assets/transheli.png)
 
  
 
@@ -598,7 +573,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/attackhelis.png)
+![](../assets/attackhelis.png)
 
  
 
@@ -606,7 +581,7 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
  
 
-! [] (/assets/jets.png)
+![](../assets/jets.png)
 
  
 
@@ -614,7 +589,7 @@ Alle befreundeten Fahrzeuge sind auf der Karte mit eindeutigen Symbolen zur einf
 
  
 
-! [] (/assets/vehicleicons.png)
+![](../assets/vehicleicons.png)
 
  
 
@@ -659,9 +634,5 @@ Alle befreundeten Fahrzeuge sind auf der Karte mit eindeutigen Symbolen zur einf
 * Gepanzerte Fahrzeuge sind anfälliger, wenn sie von ihren Flanken angegriffen werden. Die Panzerung am Heck des Fahrzeugs ist am schwächsten. Ein einzelnes gut platziertes Panzerabwehrgeschoss kann sie deaktivieren oder ausschalten.
 
  
-
-00: 00: 37.559 -> 00: 00: 43.289/assets/entrypoints.png)
-
->
-
+>![](../assets/entrypoints.png)
 > _Fahrzeug-Einstiegspunkte können sich je Fahrzeug unterscheiden. Suchen Sie nach Luken._
