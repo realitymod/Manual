@@ -22,7 +22,7 @@ If the attacking team doesn't have a 2 to 1 ratio to the defending team on the f
 The map-markers for AAS are:
 
 * ![](/assets/defend.png) Defend Marker 
-* ![](/assets/defend bleed.png) Defend Marker \(with ticket bleed\) 
+* ![](/assets/defend_bleed.png) Defend Marker \(with ticket bleed\) 
 * ![](/assets/attack_bleed.png) Attack Marker
 * ![](/assets/attack.png)Attack Marker \(with ticket bleed\)
 
@@ -58,7 +58,7 @@ The Coalition troops are required to gather intelligence by killing insurgent fi
 
 To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
 
-* Insurgent killed: +10 IP \(within 300m\)
+* Insurgent killed: +1 IP \(within 300m\)
 * Civilian or insurgent arrested: +10 IP
 * Civilian killed \(violating rules of engagement\): -5 IP
 * Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
