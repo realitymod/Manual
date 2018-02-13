@@ -12,7 +12,7 @@ These kits may be limited or not. If a kit is not limited you'll be always able 
 > In convention factions, only the rifleman, crewman and pilot kits are unlimited. All others are limited.
 
 
-## Kit limitations
+## Kit limitations {#kit-limitations}
 For you to be able to spawn with a kit or request it, you need to meet the four requirements:
 * **Location requirements**
 * **Squad requirements**
@@ -101,7 +101,7 @@ To obtain the unarmed kit you simply need to hold down the secondary radio key, 
 When requesting kits from a crate or vehicle, whilst in the sub-menu you are able to right click to request the alternate kit for that class of weapon, for which there are many variants. Alternatively in the spawn menu there are also the STD and ALT buttons to switch.
 
 
-## Kit Overview
+## Kits Overview {#kits-overview}
 
 * ![](/assets/rifleman.png)The **Rifleman / Militant Warrior / Insurgent** is the standard infantry soldier of each faction. He is typically equipped with an assault rifle, grenades and smoke, depending on the faction an ammo bag.
 
