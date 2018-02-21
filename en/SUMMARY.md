@@ -31,9 +31,12 @@
   * [General Weapons & Equipment ](weapons_&_equipment/README.md#general-weapons-equipment)
   * [Back Up Iron Sights](weapons_&_equipment/README.md#buis)
   * [Altering Sighting Range](weapons_&_equipment/README.md#altering-sighting-range)
-* [Kits](kits/README.md)
-  * [Kit Selection](kits/README.md#kit-selection)
-  * [Kit Request Procedure](kits/README.md#kit-request-procedure)
+
+* [Kits](kits/Kits.md)
+  * [Kit Limitations](kits/Kits.md#kit-limitations)
+  * [Kit Request Procedure](kits/Kits.md#kit-request-procedure)
+  * [Kits Overview](kits/Kits.md#kits-overview)
+  
 * [The Squad Leader](the_squad_leader/README.md)
   * [Guiding Squad](the_squad_leader/README.md#guiding-squad)
   * [Spotting Enemies](the_squad_leader/README.md#spotting-enemies)
