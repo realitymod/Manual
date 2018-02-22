@@ -3,7 +3,7 @@
 Kits in Project Reality define your class, equipment and your role in the team. PR features a wide selection of kits that you can take. Generally speaking, there are 2 kinds of kits in Poject Reality:
 
 * **Standard Kits**, which are the standard infantry squad roles and can be selected directly from the spawn screen
-* **Specialist Kits**, which are more specialised roles and can only be obtained through a special request procedure {#kit-request}
+* **Specialist Kits**, which are more specialised roles and can only be obtained through a special [request procedure](#kit-request)
 
 ## Where to Start
 
@@ -50,7 +50,7 @@ Note as well that, for playability purposes, in addition to the squad limitation
 
 * ![](assets/rifleman.png)**Rifleman**. Unlimited kit, representing the standard infantry grunt. Typically, it is equipped with an assault rifle, fragmentation and smoke grenades. Lacking a specialized role, the rifleman is ideal for more aggressive positions and maneuvers. It is also the only class with an ammo bag, which allows him to resupply teammates.
 
-* ![](/assets/officer.png)**Officer**. Limited to 1 per squad and only available to the Squad Leader. In addition of the standard fighting equipment, this kit comes with a side weapon, an officer radio and binoculars. He can have direct voice communication with the other officers in the team, place markers on the map, build emplacements and fortifications, and request support missions (artillery, mortar fire, armor or air support, etc). You can find more detailed information about this crucial role in the **Squad Leader** section of this manual {#the_squad_leader}.
+* ![](/assets/officer.png)**Officer**. Limited to 1 per squad and only available to the Squad Leader. In addition of the standard fighting equipment, this kit comes with a side weapon, an officer radio and binoculars. He can have direct voice communication with the other officers in the team, place markers on the map, build emplacements and fortifications, and request support missions (artillery, mortar fire, armor or air support, etc). You can find more detailed information about this crucial role in the [**Squad Leader**](../the_squad_leader/README.md#the_squad_leader) section of this manual.
 
 * ![](/assets/medic.png)**Medic**. Limited to 2 per squad. He is responisble of providing medical assitance in the battlefield, and therefore, it is one of the roles that affect squad performance the most. Battle-awareness and a survival instinct are essential for this role. In addition to an assault rifle, it comes equipped with several smoke grenades, a first-aid kit, epipens and field dressings.
 
@@ -62,11 +62,11 @@ Note as well that, for playability purposes, in addition to the squad limitation
 
 * ![](/assets/grenadier.png)**Grenadier**. Limited to 1 per squad and to **8 per team**. Usually equipped with an underbarrel grenade launcher attached to its assault rifle. His main job is to hostigate low visibility areas where enemy presence is suspected as well as to harass light vehicles. It is specially useful for long distance engagements and to fight enemies digged up inside of buildings.
 
-## Specialist Kits {#Specialist_kits}
+## Specialist Kits {#specialist_kits}
 
 In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others. 
 
-It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described below {#kit_request}. Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
+It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described [below](#kit-request). Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
 
 | Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
 | --- | --- | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ If your request is denied, you will see a yellow text message explaining why:
  * **“You can't get another limited kit so soon after your last”**
  * **“You are new to this squad, request again in a minute”**
 
-## How to Drop your Kit {#Drop_kit}
+## How to Drop your Kit {#drop-kit}
 
 In certain situations, you might want to drop your kit. Most typically: 
 
