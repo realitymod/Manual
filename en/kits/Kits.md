@@ -22,7 +22,7 @@ The **Standard Kits** are the 7 kits shown in the spawn screen and they represen
 | **Automatic Rifleman** | 1/Squad | 3 |
 | **Breacher** | 1/Squad | 3 |
 | **Grenadier** | 1/Squad | 6 | 
-| **Light Anti-Tank** | 1/Squad | 6 |
+| **Light Anti-Tank** | 1/Squad | 4 |
 | **Rifleman** | Unlimited | 1 |
 
 Having these limitations in mind, it can be said that the typical 8-man squad usually has the following composition:
