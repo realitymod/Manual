@@ -21,10 +21,17 @@ You have to download the full PR:BF2 installer from our website. There won’t b
 
 [**Download Full PR:BF2 v1.5 Installer**](http://www.realitymod.com/downloads)
 
-The installer download uses the [Torrent Protocol](http://en.wikipedia.org/wiki/Torrent_file) which can be used with free software such as [qBittorrent](http://www.qbittorrent.org/). The download comes in the form of an “[ISO](http://en.wikipedia.org/wiki/ISO_image)”-file. To install it depends on your operation system:
+There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
 
-* Windows 8 and beyond feature mounting as part of the Operating System. Right click the ISO and select **Mount** or double click the ISO. This will start the installer.
-* If you are on windows 7 or below your best option is to Extract the ISO file using free software such as [7-Zip](http://www.7-zip.org/) or [WinRar](http://www.rarlab.com/).
+**1\) Download**
+
+The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. If you are on a recent version of Windows it will offer a simple button to start the installer. If you are on a older version of Windows it will not. Then you will be required to go to Step 2 and follow the instructions to install PR:BF2.
+
+If you downloaded the Torrent version \(and now the Download Assistant\), this is **NOT **the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a "ISO" file to move on to step 2 after the application finishes the download.
+
+**2\) Installation**
+
+If using the download assistant on a modern version of windows \( Windows 8 and beyond\) you can skip this step.  The download comes in the form of an “[ISO](http://en.wikipedia.org/wiki/ISO_image)”-file. Your best option is to Extract the ISO file using free software such as [7-Zip](http://www.7-zip.org/) or [WinRar](http://www.rarlab.com/).
 
 A few more points:
 
@@ -40,7 +47,7 @@ After installation a shortcut for Project Reality:BF2 v1.5 will be provided on t
 
 If you are new to BF2:PR and have never made a profile before, just click ‘Create New Account’ and fill in the required details and pick a sensible, easy to pronounce username. To play on PR multiplayer servers you need to create an online profile. You can alternatively create an offline profile if you choose to.
 
-![](/assets/launcher_1.png)                                    
+![](/assets/launcher_1.png)
 
 After creating a profile and logging in, you are presented with the main menu of the PR launcher. All options are displayed on the right.
 
@@ -81,7 +88,7 @@ It’s recommended that you also check the main settings panel directly within t
 
 PR Mumble also integrates with BF2’s HUD display. During the game you will see the names of players talking, each colour depicting over which channel they are transmitting, which is displayed in the lower left hand corner of your screen. In the lower right hand corner mumble also indicates over what channel you are transmitting with a different colour depending on the channel you are using. It also shows whether your microphone or speakers are muted, and if there’s linking issues with the mumble client.
 
-![](/assets/mumble_1.png)                                   
+![](/assets/mumble_1.png)
 
 ![](/assets/mumble_2.png)
 
