@@ -1,11 +1,15 @@
-# ![](/assets/PR_v1_Logo.png)
+# README
 
-# **Project Reality: BF2 Manual - Updated for v1.5**
-> Project Reality: BF2 wurde von unzähligen Entwicklern über einen Zeitraum von mehr als 10 Jahren entwickelt. Während dieser Zeit wurden umfangreiche Änderungen und Verbesserungen vorgenommen. Nach Tausenden von Änderungen wird es immer schwieriger zu erkennen, dass PR eine Battlefield 2-Modifikation ist. Wir hoffen, dass Ihnen dieses Handbuch einen guten Einstieg in die herausfordernde Welt der PR:BF2 bietet. Wenn Sie Feedback oder unbeantwortete Fragen zu diesem Dokument haben, können Sie uns gerne in den Foren kontaktieren. ** Dieses Handbuch wurde für Version 1.5 von PR:BF2 aktualisiert.**
+## ![](../.gitbook/assets/pr_v1_logo.png)
+
+## **Project Reality: BF2 Manual - Updated for v1.5**
+
+> Project Reality: BF2 wurde von unzähligen Entwicklern über einen Zeitraum von mehr als 10 Jahren entwickelt. Während dieser Zeit wurden umfangreiche Änderungen und Verbesserungen vorgenommen. Nach Tausenden von Änderungen wird es immer schwieriger zu erkennen, dass PR eine Battlefield 2-Modifikation ist. Wir hoffen, dass Ihnen dieses Handbuch einen guten Einstieg in die herausfordernde Welt der PR:BF2 bietet. Wenn Sie Feedback oder unbeantwortete Fragen zu diesem Dokument haben, können Sie uns gerne in den Foren kontaktieren.  **Dieses Handbuch wurde für Version 1.5 von PR:BF2 aktualisiert.**
 >
 > _Das PR-Team_
 
-# ![](/assets/flag.png)
+## ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/flag.png)
+
 **v1.5 Translation by Rotblut**
 
 **Einführung**
@@ -17,3 +21,4 @@ Das primäre Kern Ethos von Project Reality ist Teamarbeit. Die Koordination inn
 Ein weiterer grundlegender Kernaspekt von PR ist, wie Spieler kommunizieren. Kommunikation in der PR ist ein essentielles Element des Gameplays und wir empfehlen, dass alle Spieler mikrofonbereit sind, wenn sie online spielen. Um eine verbesserte Kommunikation zu gewährleisten, bietet eine integrierte Version der PR Mumble-Sprachkommunikations-Software den Spielern Fähigkeiten, die mit eingebautem BF2-Voice-over-IP nicht verfügbar sind, wie die Fähigkeit, mit anderen Spielern in der näheren Umgebung zu sprechen sowie an die Squad-Mitglieder über das Squad-Radio zu senden, egal wo sie auf dem Schlachtfeld sind. Es ist keine zusätzliche Installation erforderlich, was bedeutet, dass jeder Spieler auf dem Schlachtfeld die gleichen Kommunikationseinstellungen hat und mühelos kommunizieren kann.
 
 Diese Mod wurde von Spielern gemacht, also habt keine Angst um Hilfe im Spiel oder in den Foren von [realitymod.com](http://www.realitymod.com/forum/f360-general-technical-support). Willkommen zu PR und einem völlig neuen Spielerlebnis!
+
