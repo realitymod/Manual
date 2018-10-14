@@ -24,6 +24,9 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 
 > ![](../assets/spotting.png)
 
+[Video Tutorial - Marking](https://www.youtube.com/watch?v=XNDb2yMuoho "Video Tutorial - Marking")
+
+
 ## _The GTL Designator \(GTLD\)_ {#gtld}
 
 The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\).**  This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles.
@@ -33,6 +36,9 @@ With the GTLD equipped, you can right-click to increase the zoom level and left-
 > Due to engine limitations, there may be situations where the laze representation won't appear on top of the target. This won't have any effect in-game, you can reliable keep the center of the sight on target untill the
 
 Additionally, while observing with the GTLD you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map. \(You need to specify the distance to the target using the same method as described for spotting enemies.\)
+
+[Video Tutorial - Lazing](https://www.youtube.com/watch?v=d7pntNDjSvM "Video Tutorial - Lazing")
+
 
 ## _Rally Points_ {#rally-points}
 

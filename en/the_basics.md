@@ -95,6 +95,8 @@ Since most kits only have one or two field dressings, a better way to regain hea
 
 If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but unlike in BF2, will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck \(inside a wall, tree, etc.\) or is on uneven ground \(hillside\) it can help to **resuscitate** the body first. This will move the ragdoll body and it might become un-stuck.
 
+[Video Tutorial - Reviving](https://www.youtube.com/watch?v=auBgiI8IxWE "Video Tutorial - Reviving")
+
 ### Death
 
 Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, left click on **Give up/Call Medic** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
@@ -206,6 +208,8 @@ When in need to cross small rivers or damaged bridges, conventional forces can d
 > CSBs are very narrow, so drive carefully when crossing them.
 
 The deployment process for CSBs is very simple: 1. Drive a logistics truck to the position where the CSB will be deployed. 2. Position the front or back of the truck as close as possible to the deployment position. 3. Select the CSB as active equipment of the truck. 4. Press alternate fire to deploy the bridge.
+
+[Video Tutorial - CSB Deployment](https://www.youtube.com/watch?v=Vn66KbNrVJA "Video Tutorial - CSB Deployment")
 
 > ![](../assets/csb.png)
 >
