@@ -1,4 +1,4 @@
-## ![](assets/pr_v1_logo.png)
+## ![](assets/PR_v1_Logo.png)
 
 ## **Project Reality: BF2 Manual**
 
