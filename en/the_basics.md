@@ -1,4 +1,4 @@
-# README
+# The Basics
 
 Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is by far the most fun to play in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. We expect you to have some basic understanding of BF2 when it comes to navigating the menu’s in-game such as scoreboard, map and kit selection. You can always start up BF2 and do the tutorial there to get acquainted with its interface. This manual will focus on the differences with BF2.
 
@@ -15,7 +15,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 
 * **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/rally.png)
+> ![](../assets/rally.png)
 >
 > A rallypoint.
 
@@ -24,13 +24,13 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 * **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
 * In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/fob.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/hideout.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/cache-weapon.png)
+> ![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
 >
 > FOB, Hideout & weapon cache.
 
 * **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/acv.png)
+> ![](../assets/acv.png)
 >
 > Armored Command Vehicle \(ACV\) found in mainbases only.
 
@@ -47,21 +47,21 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 * **Name tags have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
 * **No health status bar** indicating your vital status. When you lose more than 25% of your health, you will start to see a red bloody screen which pulsates as you hear wounded sounds of pain. You will continue to lose health as you bleed out until you receive medical attention, if you do not you will die. If however your health drops very low, your screen will lose all color, your vision will become very blurred and you will be unable to move at speed. You will have approximately a few minutes to reach medical attention or you will die.
 * **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/ammo.png)
+* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
 * **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
 * There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
 * Only vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
 * **The current map & layer** can be viewed on the top of the screen when opening the map.
 * Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the spawn times of friendly vehicles.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/assets.png)
+> ![](../assets/assets.png)
 >
 > Current map asset info overlay.
 
 * **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
 * **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/suppresion.png)
+> ![](../assets/suppresion.png)
 >
 > normal view of the game \(left\) and suppresion effect in action \(right\).
 
@@ -73,7 +73,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 * You can **orientate yourself** on the map using the direction element that you will find around your player icon.
 * Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/commorose.png)
+> ![](../assets/commorose.png)
 >
 > Commo-rose when pressing Q.
 
@@ -87,15 +87,13 @@ If your injuries are not treated, you will slowly bleed to death. To prevent thi
 
 Since most kits only have one or two field dressings, a better way to regain health is to be treated by a medic. **Medics** are able to completely heal a player by using a **first aid kit** and can be called to your position by using the “Q” radio key and then selecting “Need Medic”. The medic will select the first aid kit by pressing the appropriate number key or cycling through their weapon selection. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/fielddressing.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/kit.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/epipen.png)
+> ![](../assets/fielddressing.png)![](../assets/kit.png)![](../assets/epipen.png)
 >
 > Field dressing, first aid kit & epipen.
 
 ### Reviving
 
 If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but unlike in BF2, will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck \(inside a wall, tree, etc.\) or is on uneven ground \(hillside\) it can help to **resuscitate** the body first. This will move the ragdoll body and it might become un-stuck.
-
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=auBgiI8IxWE\",\"type\":\"video\",\"title\":\"\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/auBgiI8IxWE/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/auBgiI8IxWE?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/auBgiI8IxWE?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
 ### Death
 
@@ -134,7 +132,7 @@ To be able to rearm yourself, you'll need to get closer to one of several source
 * **Weapons caches** - Available only for insurgents
 * **Vehicle depot** - Present in all main bases, it also heals you
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/ammobag.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/supplycrate.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/inscrate.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/cacahe.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/depott.png)
+> ![](../assets/ammobag.png)![](../assets/supplycrate.png)![](../assets/inscrate.png)![](../assets/cacahe.png)![](../assets/depott.png)
 >
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
@@ -148,7 +146,7 @@ Another thing to take notice is that resupplying is **not instant** but takes a 
 
 There are two types of supply crates in PR:BF2 - Light Supply Crate and Heave Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.\)](the_squad_leader.md#deployable-structures)
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/largecrate.png)![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/smallcrate.png)
+> ![](../assets/largecrate.png)![](../assets/smallcrate.png)
 >
 > _Here you can see the heavy supply crate on the left and the light version on the right._
 
@@ -173,7 +171,7 @@ The ownership of the crate is depicted by the flag display on top of the crate.
 
 Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/reapir.png)
+> ![](../assets/reapir.png)
 >
 > Repair drop.
 
@@ -197,7 +195,7 @@ A fixed mortar position that can provide indirect fire support over long distanc
 
 Once mortars are needed you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure you SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. There are both Air-Burst and Impact rounds available that share ammunition.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/mortars.png)
+> ![](../assets/mortars.png)
 >
 > T_he mortar calculator interface._
 
@@ -209,32 +207,30 @@ When in need to cross small rivers or damaged bridges, conventional forces can d
 
 The deployment process for CSBs is very simple: 1. Drive a logistics truck to the position where the CSB will be deployed. 2. Position the front or back of the truck as close as possible to the deployment position. 3. Select the CSB as active equipment of the truck. 4. Press alternate fire to deploy the bridge.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/csb.png)
+> ![](../assets/csb.png)
 >
 > CSB from truck being deployed.
 
 In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
-
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=Vn66KbNrVJA\",\"type\":\"video\",\"title\":\"\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/Vn66KbNrVJA/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/Vn66KbNrVJA?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/Vn66KbNrVJA?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
 ## _Battlefield Navigation_ {#battlefield-navigation}
 
 It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and team coordination also requires players to communicate locations in a clear and concise manner. PR:BF2 offers 4 tools to aid players with this.
 
 1. Squad leaders can use their **squad order marker** to communicate locations to their squad and the commander. The direction to the marker is indicated by a chevron above the compass. If you are within 75m of the marker you'll also see a 3D icon which shows the location in front of you. The marker will also be visible on the map.
-   * ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/target.png)**Target** 
-   * ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/build.png)**Build** 
-   * ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/observe.png)**Observe**
-   * ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/defendmarker.png)**Defend**
-   * ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/demolish.png)**Demolish** 
-   * ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/move.png)**Move**
+   * ![](../assets/target.png)**Target** 
+   * ![](../assets/build.png)**Build** 
+   * ![](../assets/observe.png)**Observe**
+   * ![](../assets/defendmarker.png)**Defend**
+   * ![](../assets/demolish.png)**Demolish** 
+   * ![](../assets/move.png)**Move**
 2. A **precision degree compass** to the bottom central area of your screen. The compass can be used to give exact bearings of nearby spotted enemies. **The 8 Cardinal Directions** are clearly indicated along with the degree bearing labels which incrementally increase every 15° with major divisions every 5°. If you just want to communicate a general direction it is best practice to say the cardinal direction, followed by the degree and in some situations the distance if appropriate. For example _**“Enemy spotted NE 75° degrees 200 meters out”**_**.**
    * If the target is visually in line with a numbered bearing on your compass when you are facing that direction, you simply communicate that number.
-   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/compass.png)
+   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png)
 3. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
 4. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/grid.png)
+![](../assets/grid.png)
 
 ## _Basic Vehicle Information_ {#basic-vehicle-information}
 
@@ -244,55 +240,55 @@ There are many vehicle types in PR:BF2 used as classification. This isn’t alwa
 
 * **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/jeep.png)
+![](../assets/jeep.png)
 
 * **Civilian vehicles:** PR:BF2’s insurgent forces have access to a range of civilian cars and technicals mounted with machine guns, rocket-pods and SPG-9 recoilless rifles. They also have a flatbed with a mounted AA-gun, bomb trucks and bomb cars in their arsenal. 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/civiliancars.png)
+![](../assets/civiliancars.png)
 
 * **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges \(more on this later\).
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/truck.png)
+![](../assets/truck.png)
 
 * **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicles types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/apc.png)
+![](../assets/apc.png)
 
 * **Infantry Fighting Vehicle \(IFV\):** Better armed and stronger than most APCs with often capabilities to defeat heavy armored targets using AT-Missiles. Are not always capable of transporting infantry. Under this category often also fall the recon-vehicles.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/ifv.png)
+![](../assets/ifv.png)
 
 * **Anti-Tank Missile Mounted Vehicle \(ATM\):** The name speaks for itself. These are vehicles armed with AT-missiles to destroy other armored vehicles. Cannot transport infantry.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/atm.png)
+![](../assets/atm.png)
 
 * **Tank:** Our heaviest of armored vehicles. They come equipped with AP, HE and COAX weaponry.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/tank.png)
+![](../assets/tank.png)
 
 * **Anti-Air Vehicle:** These are usually light armored vehicles with only the ability to take out enemy aircraft and helicopters. They can use missiles or/and heavy guns.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/aavehicles.png)
+![](../assets/aavehicles.png)
 
 * **Boat:** PR:BF2 has a variety of boats both armed and un-armed.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/boats.png)
+![](../assets/boats.png)
 
 * **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use.They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on Supply Crates to read on which variant has which crates available to it.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/transheli.png)
+![](../assets/transheli.png)
 
 * **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Recon helicopters with the ability to laze targets and use their thermal cameras also fall under this category in PR:BF2. They are not always armed.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/attackhelis.png)
+![](../assets/attackhelis.png)
 
 * **Jets:** PR:BF2 has a wide variety of jets. There are light and heavy attack jets, fighter jets, bombers and fighter-bombers.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/jets.png)
+![](../assets/jets.png)
 
 All friendly vehicles are marked on the map with unique icons for easy identification.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/vehicleicons.png)
+![](../assets/vehicleicons.png)
 
 * If a team vehicle asset is destroyed it incurs a ticket penalty:
   * Jeep or truck: **2 tickets**
@@ -315,7 +311,7 @@ All friendly vehicles are marked on the map with unique icons for easy identific
 * Players can **request kits** from a APC’s/IFV’s entry position.
 * Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/entrypoints.png)
+> ![](../assets/entrypoints.png)
 >
 > _Vehicle entry points can differ per vehicle. Look for hatches._
 

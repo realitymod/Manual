@@ -1,6 +1,6 @@
-# README
+# Introduction
 
-## ![](../.gitbook/assets/pr_v1_logo.png)
+## ![](../assets/pr_v1_logo.png)
 
 ## **Project Reality: BF2 Manual - Updated for v1.5**
 

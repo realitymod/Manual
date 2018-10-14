@@ -1,4 +1,4 @@
-# README
+# Spielmodi
 
 Project Reality: BF2 bietet 6 verschiedene Spielmodi mit unterschiedlichen Zielen. Das gemeinsame Ziel aller Spielmodi ist es, die Verstärkungspunkte \(auch tickets genannt\) des gegnerischen Teams auf Null zu reduzieren. In den meisten Spielmodi wird dies erreicht, indem man Feinde verletzt und tötet, ihre Fahrzeuge zerstört und ihre Kontrollpunkte erobert. Farbige Kartenmarkierungen zeigen Ihre aktuellen Ziele in jedem Spielmodus an.
 
@@ -19,10 +19,10 @@ Wenn die angreifende Mannschaft kein 2: 1-Verhältnis zur verteidigenden Mannsch
 
 Die Kartenmarker für AAS sind:
 
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/defend.png) Defend Marker 
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/defend%20bleed.png) Defend Marker \(with ticket bleed\) 
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/attack_bleed.png) Attack Marker
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/attack.png)Attack Marker \(with ticket bleed\)
+* ![](../assets/defend.png) Defend Marker 
+* ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\) 
+* ![](../assets/attack_bleed.png) Attack Marker
+* ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
 
 Vehicle Warfare, Skirmish & COOP verwenden ähnliche Kartenmarker für Angriff und Verteidigung.
 
@@ -48,7 +48,7 @@ In diesem Modus können ein oder mehrere menschliche Spieler neben und gegen KI-
 
 Dieser Modus ist einzigartig im Vergleich zu anderen in der PR. Das Ziel der Koalitionstruppe ist es, fünf auf der Karte versteckte Aufstands-Caches zu finden und zu zerstören, bevor ihnen die Tickets ausgehen. Die Koalitionskräfte verlieren Tickets für jeden zerstörten Spieler oder Tod, während das Aufstandsteam nur Tickets verliert, wenn ein Waffen-Cache zerstört wird.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/weaponcache.png)
+> ![](../assets/weaponcache.png)
 >
 > Ein Waffen-Lager
 
@@ -66,9 +66,9 @@ Jets, Panzer und Helikopter können mit diesen Methoden keine GDP erlangen. Der 
 
 Die Kartenmarker für den Aufstand sind:
 
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/cache.png)  **Bekanntes Coalition Waffenlager:**  Dieses Symbol wird auf der Karte der Koalitionsstreitkräfte angezeigt, die den ungefähren Standort des Lagers anzeigt, wenn genügend Erkenntnis gewonnen wurde. Der Marker kann bis zu 75m versetzt werden.
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/unknown%20weapon%20cache.png)  **Bekanntes Aufständisches Waffenlager:**  Dieses Symbol wird auf der Karte der aufständischen Truppen sichtbar sein, die anzeigen, dass das Lager von den Koalitionstruppen lokalisiert wurde.
-* ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/unknown%20cache.png)  **Unbekanntes Aufstands Waffenlager:**  Dieses Symbol zeigt die Position des Lagers an, wo es auf dem Schlachtfeld erscheint. Sie sind nur für die aufständischen Kräfte sichtbar, damit sie ihre Verteidigung koordinieren können, während die Koalitionstruppen Intelligenz sammeln. Das Lager wird noch nicht physisch erzeugt, bis er den Koalitionskräften offenbart wird.
+* ![](../assets/cache.png)  **Bekanntes Coalition Waffenlager:**  Dieses Symbol wird auf der Karte der Koalitionsstreitkräfte angezeigt, die den ungefähren Standort des Lagers anzeigt, wenn genügend Erkenntnis gewonnen wurde. Der Marker kann bis zu 75m versetzt werden.
+* ![](../assets/unknown%20weapon%20cache.png)  **Bekanntes Aufständisches Waffenlager:**  Dieses Symbol wird auf der Karte der aufständischen Truppen sichtbar sein, die anzeigen, dass das Lager von den Koalitionstruppen lokalisiert wurde.
+* ![](../assets/unknown%20cache.png)  **Unbekanntes Aufstands Waffenlager:**  Dieses Symbol zeigt die Position des Lagers an, wo es auf dem Schlachtfeld erscheint. Sie sind nur für die aufständischen Kräfte sichtbar, damit sie ihre Verteidigung koordinieren können, während die Koalitionstruppen Intelligenz sammeln. Das Lager wird noch nicht physisch erzeugt, bis er den Koalitionskräften offenbart wird.
 
 Die Lager können durch kleine oder große C4-Pakete zerstört werden. Andere Waffen werden nur keinen oder nur wenig Schaden an einem Lager verursachen.
 

@@ -1,4 +1,4 @@
-# README
+# Fahrzeug Betrieboperating vehicles
 
 ## _Allgemeine Fahrzeuginformationen_ {#allgemeine-Fahrzeuginformationen}
 
@@ -6,7 +6,7 @@ Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps \(außer leichten g
 
 * Externe Ansichten für Fahrzeuge wurden entfernt. Aber für bestimmte Fahrzeuge gibt es spezielle Kameras, wie LKWs hinter sich sehen können \( **C**  \).
 * Sie können die Sichtweise  **statischer und fahrzeugmontierter MGs**  durch Drücken der Kamerataste wechseln \( **C**  \).
-* Fahrzeugmontierte automatische Waffen haben oft eine  **Überhitzung** . Sieh Dir das Wärme-HUD-Element in der unteren rechten Ecke an. ![](../.gitbook/assets/overheat.png)
+* Fahrzeugmontierte automatische Waffen haben oft eine  **Überhitzung** . Sieh Dir das Wärme-HUD-Element in der unteren rechten Ecke an. ![](../assets/overheat.png)
 * Fahrzeugmontierte MGs verwenden Munitionsgurte. Sie werden automatisch neu geladen, sind jedoch in ihrer Anzahl begrenzt.
 * Fahrzeuge können  **im Versorgungslager**  nachgeliefert und repariert werden. Oder verwenden Sie die Reparaturstation, die ein Logistik-LKW fallen lassen kann. Flugzeuge und Helikopter werden automatisch an ihrem Spawnstandort repariert und neu bewaffnet.
 * Aufständische haben  **Selbstmord-Fahrzeuge**  wie ein orange Müllcontainer-LKW oder kleine zivile Autos, die mit C4 gepackt sind. Sie können diese mit dem alternativen Feuertaste zünden.
@@ -24,7 +24,7 @@ Leichte Fahrzeuge, Lastwagen und Boote und die meisten Jeeps \(außer leichten g
 * Fahrer und Kanoniere können  **ihre Ansicht vergrößern, indem sie die Pop-Rauchtaste  \(** X \*\* \) drücken. Einige Panzerfahrer müssen zuerst in die Commander-Ansicht wechseln.
 * Die meisten Tanks und IFVs können zusätzlich zu ihren normalen Ansichten  **eine Optik**  verwenden. Sie können in den thermischen Modus wechseln, indem Sie das sekundäre Radiomenü  \( **T**  \) verwenden und  **"TAG / THERMAL" auswählen.**  Einige erlauben auch, zwischen thermischen Variationen wie WHOT / BHOT zu wechseln.
 
-> ![](../.gitbook/assets/thermalz.png)
+> ![](../assets/thermalz.png)
 >
 > Wärmebild
 
@@ -41,7 +41,7 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen
 
 * Bei bestimmten Fahrzeugen wird der Rauch  **IR-blockiert**  sein, was bedeutet, dass er auch das thermische Sehen blockiert. Für andere  \(ältere Fahrzeuge \) werden Sie in der Lage sein, durch den Rauch auf thermisches Sehen zu sehen.
 
-> ![](../.gitbook/assets/vehiclesmoke.png)
+> ![](../assets/vehiclesmoke.png)
 >
 > Fahrzeug entfaltet Rauch
 
@@ -74,7 +74,7 @@ Panzer- und IFV-Kanoniere setzen sie ein, indem sie ihren Waffenplatz auswählen
 * Um  **wieder auszurüsten und zu reparieren**  müssen Sie das Flugzeug auf Ihrem Flugplatz landen und zur "Rampe" rollen. Oder auf einigen wenigen Karten, auf der Landebahn. Es dauert ziemlich lange, bis es vollständig wiederhergestellt ist. Auf Trägern können Sie nur auf der "Rampe" abseits der Startbahn der Träger nachladen . Dies beinhaltet nicht die Aufzüge.
 *  **Luft-Boden-Waffen**  in einsitzigen Flugzeugen benötigen Sie einen festgelegten Laserpunkt, um ein Ziel zu treffen. Die empfohlene Vorgehensweise für einen Angriff mit ihnen wird im Folgenden erläutert:
   1. Bodentruppen finden ein geeignetes Ziel für einen Luftangriff.
-  2. Die Truppen kontaktieren den Piloten entweder direkt durch Mumble / Text Chat und / oder indem sie einen CAS Marker setzen. ![](../.gitbook/assets/marker.png)
+  2. Die Truppen kontaktieren den Piloten entweder direkt durch Mumble / Text Chat und / oder indem sie einen CAS Marker setzen. ![](../assets/marker.png)
   3. Der Pilot informiert die Bodentruppen über den Befehl  **"ON THE WAY"**  von seinem Hauptradio-Menü und / oder durch Mumble / Text-Chat.
   4. Wenn sich der Pilot dem Ziel nähert, markieren die Bodentruppen das Ziel mit einem  **GTLD-Laser** , wenn der Laser leicht vom Ziel entfernt ist, kann die Rakete verfehlen.
   5. Wenn das Ziel erfasst ist, erhält der Pilot einen akustischen Hinweis. Er darf nun die Bombe / Rakete loslassen.

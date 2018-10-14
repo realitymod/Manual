@@ -1,20 +1,20 @@
-# README
+# The Squad Leader
 
 ## _Truppführung_ {#Truppfuhrung}
 
 Wie im Abschnitt "Schlachtfeld-Navigation" erklärt, kann der Squad-Leader Marker auf die Karte setzen, damit seine Squad-Mitglieder ihm folgen können. Sie werden einen Marker auf ihrem Kompass finden, um zu folgen, sowie ein Symbol auf der Karte. Der Squad Leader sollte diese so oft wie möglich benutzen und kann damit auch die Entfernung zu einem Ziel leicht erreichen. Er kann dies von der Minikarte aus tun, indem er mit der rechten Maustaste darauf klickt und den Marker platziert oder indem du die  **sekundäre Radiotaste  \(T \)**  drückst und auf das Ziel zeigst und einen der Knöpfe benutzt, um den Marker zu platzieren.
 
-![](../.gitbook/assets/target.png) _\* Ziel_ 
+![](../assets/target.png) _\* Ziel_ 
 
-![](../.gitbook/assets/build%20%282%29.png) _\* Bauen_ 
+![](../assets/build%20%282%29.png) _\* Bauen_ 
 
-![](../.gitbook/assets/observe.png) _\* Beobachten_ 
+![](../assets/observe.png) _\* Beobachten_ 
 
 ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/de/assets/defensifmarker.png) _\* Verteidigen_ 
 
-![](../.gitbook/assets/demolish%20%282%29.png) _\* Zerstören_ 
+![](../assets/demolish%20%282%29.png) _\* Zerstören_ 
 
-![](../.gitbook/assets/move%20%282%29.png) _\* Bewegen_ 
+![](../assets/move%20%282%29.png) _\* Bewegen_ 
 
 Der Kommandant kann Sie auch befehlen. Wenn Sie den Befehl akzeptieren \( **PAGE UP**  \), wird Ihr Marker durch den Befehl des Kommandanten ersetzt.
 
@@ -30,7 +30,7 @@ Der  **Squad Leader**  in PR: BF2 hat viele funktionelle Fähigkeiten. Er ist in
 
 4 Öffnen Sie das Hauptmenü des Funkgeräts erneut und wählen Sie den Typ des Zielkontakts aus, der auf der Karte markiert werden soll. Jeder Spieler kann bis zu 3 Marker platzieren, die 5 Minuten lang bleiben.
 
-> ![](../.gitbook/assets/spotting.png)
+> ![](../assets/spotting.png)
 >
 > Reichweite im Radio
 
@@ -67,7 +67,7 @@ Ein Sammelpunkt wird alle 1 Minute wieder aufgeladen. Es sei denn, es wurde übe
 
 Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von anderen Trupps anzufordern. Dazu muss er sein Radio aktivieren und dann  **den sekundären Radiotaste  \(T \) drücken.** Dadurch wird das Menü zum Anfordern von Support und zum Bereitstellen von Team-Assets geöffnet. Die unteren fünf Befehle beginnend mit  **"Brauche ..."**  werden einen Kartenmarker an Ihrer Position platzieren. Sie senden auch eine Funknachricht an Ihr Team, um sie auf Ihre Anfrage aufmerksam zu machen. Die  **"Brauche AREA ATTACK"**  -Anforderung verhält sich ein wenig anders als der Rest. Auf einigen Karten können konventionelle Streitkräfte mit diesem Befehl ein  **Artilleriefeuer**  anfordern. Wenn Ihre Anfrage vom Kommandeur des Teams genehmigt wurde, wird der Angriff nach etwa einer Minute erfolgen. Nach dem Laden einer neuen Karte oder dem Ausführen eines Gebietsangriffs dauert es 30 Minuten, bis es wieder verfügbar ist. Ähnlich unkonventionelle Fraktionen haben auf den meisten Karten alle 20 Minuten Zugriff auf Artilleriefeuer.
 
-> ![](../.gitbook/assets/support.png)
+> ![](../assets/support.png)
 >
 > Unterstützung über Radio anfordern
 
@@ -75,7 +75,7 @@ Der Gruppenführer kann sein Funkgerät auch verwenden, um Unterstützung von an
 
 Der Aufbau von Stellungen ist eine wesentliche Funktion des Squad Leaders, den der Commander des Teams ebenfalls besitzt. Bei der Aufstellung und dem Bau einer Feld Operations Basis  \(FOB \) benötigt ein Squad Leader einen Officerkit und eine schwere Vorratskiste in einem Umkreis von 50 Metern um seine Umgebung. 2 leichte Vorratskisten bieten die gleichen Fähigkeiten wie 1 schwere Vorratskiste, um das gleiche Ziel zu erreichen. Aufständische, Taliban und die Hamas können nur Verstecke, Mörser und Panzerabwehrstellungen für ihr Team einsetzen, die keine Vorräte für den Bau dieser Strukturen benötigen. Um diese Funktion auszuführen, ist entweder ein Zellführer oder ein Kollaborationskit erforderlich.
 
-> ![](../.gitbook/assets/buildcomo.png)
+> ![](../assets/buildcomo.png)
 >
 > Bau von Stellungen über Funk
 
@@ -91,7 +91,7 @@ Gehen Sie folgendermaßen vor, um eine Struktur bereitzustellen:
 
 5 Wählen Sie die Struktur, die Sie erstellen möchten, aus der Liste aus.
 
-> ![](../.gitbook/assets/shovel.png)
+> ![](../assets/shovel.png)
 >
 > Schaufel zum Aufbau von Stellungen benötigt.
 
@@ -103,7 +103,7 @@ Um eine gebaute Struktur zu demontieren, müssen die Mitglieder der Gruppe die W
 
 Deployable Emplacements Waffen können durch Fallenlassen von Munitionstaschen neben ihnen aufgerüstet werden. Mehrere Taschen werden benötigt, um eine Einlagerung vollständig neu zu machen.
 
-> ![](../.gitbook/assets/deploy.png)
+> ![](../assets/deploy.png)
 >
 > Baue und baue Beispiele für ein Fuchsloch.
 
@@ -118,7 +118,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Muss mindestens 200m von anderen Vorposten und dem Hauptquartier des Teams entfernt sein.
 * Muss mindestens 10m vom Kartenrand entfernt sein \(200m auf CNC \).
 
-![](../.gitbook/assets/fobb.png)
+![](../assets/fobb.png)
 
  **Versteck:**  Aufständische benutzen Verstecke als Spawn-Ort. Wenn 2 oder mehr Feinde in der Nähe sind \(innerhalb von 50m\), ist das spawnen bis 90 Sekunden nach dem Verlassen oder Sterben deaktiviert. Anforderungen und Einschränkungen:
 
@@ -126,7 +126,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Das Team kann bis zu 6 Verstecke gleichzeitig haben.
 * Muss mindestens 10 m vom Kartenrand entfernt sein.
 
-![](../.gitbook/assets/hideoutt.png)
+![](../assets/hideoutt.png)
 
  **Schwerer MG:**  Ein festes schweres Maschinengewehr. Anforderungen und Einschränkungen:
 
@@ -135,7 +135,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Nur 2 MG pro FOB und innerhalb von 200m Radius.
 * Das Team kann bis zu 24 schwere MGs haben.
 
-![](../.gitbook/assets/hmg.png)
+![](../assets/hmg.png)
 
  **Anti-Tank:**  Ein fester Panzerabwehrraketenwerfer. Diese Waffe verfügt über eine Wärmebildkamera und 1 feste Vergrößerungsstufe. Nachladen dauert 20s. Anforderungen und Einschränkungen:
 
@@ -144,7 +144,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Keine andere Panzerabwehranlage darf sich innerhalb von 200m Entfernung und auf diesem FOB befinden.
 * Das Team kann bis zu 3 Panzerabwehrpositionen gleichzeitig haben.
 
-![](../.gitbook/assets/tow.png)
+![](../assets/tow.png)
 
  **Anti-Tank  \(unkonventionelle Kräfte \):**  Der SPG9 AT-Launcher hat nur einen engen Traversenbereich. Er kann zwei Arten von Munition abschießen und benötigt 15 Sekunden zum Nachladen. Anforderungen und Einschränkungen:
 
@@ -153,7 +153,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Keine andere Panzerabwehranlage darf sich innerhalb von 200m Entfernung und auf diesem FOB befinden.
 * Das Team kann bis zu 3 Panzerabwehrpositionen gleichzeitig haben.
 
-![](../.gitbook/assets/spg.png)
+![](../assets/spg.png)
 
  **Anti-Air:**  Ein fester Boden-Luft-Raketenwerfer. Anforderungen und Einschränkungen:
 
@@ -163,7 +163,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Das Team kann bis zu 6 Anti-Luft-Stellungen haben.
 * Unerfreuliche Kräfte erhalten ein DShK-Maschinengewehr auf einem Stativ als Anti-Air-Position.
 
-![](../.gitbook/assets/aaa.png)
+![](../assets/aaa.png)
 
  **Schützenloch:**  Ein mit Sandsack befestigtes Schützenloch bietet Deckung gegen Handfeuerwaffen und Artillerieangriffe. Anforderungen und Einschränkungen:
 
@@ -172,7 +172,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere Schützenlöcher, Sandsäcke oder Stacheldrahtstücke.
 * Das Team kann insgesamt bis zu 60 Schützenlöcher, Sandsackwände und Stacheldrahtstücke haben.
 
-![](../.gitbook/assets/foxhole.png)
+![](../assets/foxhole.png)
 
  **Sandsack-Wand:**  Eine Sandsack-Wand ist eine kleine 5m lange Wand aus Sandsäcken zum Verstecken und als Abdeckung gegen Handfeuerwaffen. Anforderungen und Einschränkungen:
 
@@ -181,7 +181,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Im Umkreis von 200m und auf diesem FOB befinden sich maximal 9 weitere Schützenlöcher, Sandsäcke oder Stacheldrahtstücke.
 * Das Team kann insgesamt bis zu 60 Schützenlöcher, Sandsackwände und Stacheldrahtstücke haben.
 
-![](../.gitbook/assets/sandbagwall.png)
+![](../assets/sandbagwall.png)
 
  **Stacheldraht:**  Ein 10m breiter Straßenblock aus Stacheldraht und Panzersperren. Anforderungen und Einschränkungen:
 
@@ -196,7 +196,7 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Maximal 9 weitere Straßensperren, Stacheldrahtstücke, Schützenlöcher und Sandsäcke können innerhalb von 200m erreicht werden.
 * Das Team kann insgesamt bis zu 100 Straßensperren haben.
 
-![](../.gitbook/assets/roadblock.png)
+![](../assets/roadblock.png)
 
  **Mörser:**  Eine feste Mörserposition, die eine indirekte Feuerunterstützung über große Entfernungen bieten kann. Alle Fraktionen können hochexplosive Munition abfeuern. Konventionelle Streitkräfte und die Miliz können auch Luftstoß- und Rauchgranaten einsetzen. Mörser können nicht auf Karten kleiner als 2km gebaut werden. Anforderungen und Einschränkungen:
 
@@ -205,5 +205,5 @@ Hier finden Sie eine Liste der baubaren Strukturen und die Voraussetzungen für 
 * Die Mannschaft kann bis zu 2 Mörserpositionen gleichzeitig haben.
 * Beide Mörserpositionen müssen innerhalb von 50 m zueinander stehen.
 
-![](../.gitbook/assets/mortarss.png)
+![](../assets/mortarss.png)
 

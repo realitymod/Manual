@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [Introduction](./)
+* [Introduction](README.md)
 * [Set-Up](set-up.md)
   * [System Requirements](set-up.md#systemreq)
   * [Spiel Installation](set-up.md#spiel-installation)

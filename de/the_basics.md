@@ -1,4 +1,4 @@
-# README
+# Die Grundlagen
 
 Am wichtigsten ist, dass du  **einem Squad**  beitreten solltest. Einige Server erzwingen das sogar, indem sie Solospieler nach einer Warnperiode treten. Das Spiel macht bei weitem den meisten Spaß in einem funktionierenden Kader. Wenn Sie Hilfe brauchen, fragen Sie einfach die Spieler in Ihrem Squad \*\*, was zu tun ist. Wenn möglich, benutze Mumble. Es wird häufig in PR verwendet. Playing PR: BF2 ohne Mikrofon bietet nicht die volle Erfahrung, also ist es eine kluge Investition. Wenn niemand antwortet, versuche einem anderen Team beizutreten oder nutze den allgemeinen Chat. Es gibt viele helfende Gemeindemitglieder, die neue Spieler willkommen heißen und sie unterstützen. Wir erwarten von Ihnen, dass Sie ein grundlegendes Verständnis von BF2 haben, wenn es um das Navigieren im Spiel geht, wie Anzeigetafel, Karte und Kit-Auswahl. Sie können BF2 immer starten und das Tutorial dort machen, um sich mit seiner Oberfläche vertraut zu machen. Dieses Handbuch konzentriert sich auf die Unterschiede zu BF2.
 
@@ -13,7 +13,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 
 *  **Der Sammelpunkt deines Trupps \(RP\)**  ist ein grüner Kreis, der einen Spawnpunkt mit der Nummer deines Trupps umgibt. Abhängig von der Position des RP deines Teams in Bezug auf den FOB eines Teams wird seine Langlebigkeit bestimmen. Hinweis: Wenn du am Sammelpunkt eines anderen Squads spawnt, spawnt du automatisch an deinem eigenen Sammelpunkt oder in der Nähe eines FOB. Wenn keine verfügbar sind, werden Sie in die Hauptbasis Ihres Teams versetzt. Wenn der Feind vom Feind überrannt wird, verschwindet seine RP. RPs sind nur für konventionelle Streitkräfte verfügbar. [\(siehe Deployable Structures\)](the_squad_leader.md#Rallyepunkte)
 
-> ![](../.gitbook/assets/rally.png)
+> ![](../assets/rally.png)
 >
 > Ein Rallypunkt.
 
@@ -22,13 +22,13 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 *  **Feld Operations Basis \(FOB\) oder Verstecke**  können vom gesamten Team verwendet werden, um zu spawnen, muss aber konstruiert werden, bevor es einsatzbereit ist. Auf der Karte wird es als Spawnpunkt mit einem grünen Dreieck angezeigt. Es kommt 90 Sekunden nach dem Aufbau online. Es wird für 30 Sekunden unspähbar, wenn 1 Gegner innerhalb von 10 Metern, 2 Feinde innerhalb von 50 Metern, 4 Feinde innerhalb von 100 Metern oder 8 Feinde innerhalb von 150 Metern sind. [\(siehe Aufbaubare Strukture\)](the_squad_leader.md#deployable-structures)
 * Im Aufstand-Spielmodus kann das verteidigende Aufständische-Team in den  **Waffen-Caches**  spawnen, die dem Feind nicht aufgedeckt wurden, dies wird als unbekannter Cache bezeichnet. Dieser Spawn ist auch deaktiviert, wenn Gegner ähnlich wie der FOB geschlossen werden.
 
-> ![](../.gitbook/assets/fob.png)![](../.gitbook/assets/hideout.png)![](../.gitbook/assets/cache-weapon.png)
+> ![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
 >
 > FOB, Versteck & Waffen Cache.
 
 *  **Hauptquartier, Hauptbasis oder permanenter FOB Ihres Teams**  Dies ist der einzige Spawnpunkt, der immer verfügbar ist.
 
-> ![](../.gitbook/assets/acv.png)
+> ![](../assets/acv.png)
 >
 > Armored Command Vehicle  \(ACV \) nur in Hauptbasen gefunden.
 
@@ -45,21 +45,21 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 *  **Namens-Tags wurden für alle Spieler**  entfernt. Es ist wichtig, dass Sie Ihre Ziele vor dem Einsatz identifizieren, um Freundschaftsfeuer zu vermeiden. Das Erlernen der Unterscheidung von verschiedenen Tarnfarben, Flaggen und der Profilform der Infanterie der Fraktionen hilft dir, einen Feind schneller zu identifizieren. Um beispielsweise einen Squad Leader zu finden, suchen Sie nach einer Radioantenne, die sich von seinem Rucksack nach oben erstreckt.
 *  **Keine Gesundheitsstatusleiste**  zeigt Ihren Vitalstatus an. Wenn Sie mehr als 25% Ihrer Gesundheit verlieren, werden Sie einen roten blutigen Bildschirm sehen, der pulsiert,  Schmerzenschrei sind zu hören. Sie werden weiterhin an Gesundheit verlieren, wenn Sie ausbluten, bis Sie medizinische Versorgung erhalten, wenn Sie nicht sterben. Wenn Ihre Gesundheit jedoch sehr niedrig ist, wird Ihr Bildschirm alle Farben verlieren, Ihre Sicht wird sehr verschwommen und Sie werden sich nicht mehr schnell bewegen können. Sie werden ungefähr ein paar Minuten Zeit haben, um medizinische Hilfe zu bekommen, oder Sie werden sterben.
 *  **Der Munitionszähler**  zeigt nur den Feuermodus der Waffe und die Anzahl der verbleibenden Magazine an.
-* Um die  **Anzahl verbleibender Runden**  in deinem Magazin zu schätzen, kannst du die Kommunikationsrose  \( **Q**  \) festhalten und einen visuellen Indikator für die verbleibende Munitionsmenge sehen. ![](../.gitbook/assets/ammo.png)
+* Um die  **Anzahl verbleibender Runden**  in deinem Magazin zu schätzen, kannst du die Kommunikationsrose  \( **Q**  \) festhalten und einen visuellen Indikator für die verbleibende Munitionsmenge sehen. ![](../assets/ammo.png)
 *  **Der Medic**  kann sehen, wie weit er fertig ist, um einen Soldaten mit dem HUD in der unteren rechten Ecke zu heilen. Die Infanterie kann das gleiche beobachten, wie lange es dauert bis das Schaufeln fertig ist.
 * Es gibt keine Kill-Nachrichten \*\* \(Friendly Fire ist eine Ausnahme\). Selbst die Anzeigetafel zeigt nicht an, wer im gegnerischen Team lebt oder tot ist. Wenn du wissen musst, ob jemand tot ist, solltest du nach seinem Körper suchen.
 * Nur Fahrzeuge verwenden eine permanente  **Minikarte**  auf dem HUD. Das vollständige Karten-Overlay ist für jeden verfügbar.
 *  **Die aktuelle Karte und Ebene**  kann beim Öffnen der Karte oben auf dem Bildschirm angezeigt werden.
 * Mit dem kleinen Pfeil wird das  **aktuelle Karten-Asset-Info-Overlay**  aller Fahrzeuge auf der Karte angezeigt, einschließlich der Spawn-Zeiten von befreundeten Fahrzeugen.
 
-> ![](../.gitbook/assets/assets.png)
+> ![](../assets/assets.png)
 >
 > Aktuelles Karten-Asset-Info-Overlay.
 
 *  **Die Restkarten**  Ihres Teams und die verbleibende Zeit können nur vom Gruppenbildschirm aus gesehen werden. Die gegnerischen Tickets werden nicht angezeigt.
 *  **Unterdrückung**  passiert, wenn Sie von Gewehren, schweren Waffen oder Explosionen in der Nähe unter Beschuss genommen werden. Der Bildschirm wird dunkler und verschwommen, wenn er zittert. Dieser Effekt simuliert die reduzierte Fähigkeit, effektives Feuer zurückzugeben, während er vom Gegner unterdrückt wird.
 
-> ![](../.gitbook/assets/suppresion.png)
+> ![](../assets/suppresion.png)
 >
 > normale Ansicht des Spiels  \(links \) und Unterdrückungsseffekt in Aktion  \(rechts \).
 
@@ -71,7 +71,7 @@ In PR: BF2 kannst du nicht an jedem Kontrollpunkt, den dein Team kontrolliert, s
 * Sie können sich \*\* auf der Karte orientieren, indem Sie das Richtungselement verwenden, das Sie um Ihr Player-Symbol finden.
 * Bei Ausstattung mit bestimmten Waffen oder Ausrüstungsgegenständen wird die Haupt-Funkkommunikationsrose \*\* durch ein kleines kontextsensitives Menü ersetzt. Wenn du ein Felddressing oder die Medic-Bag hältst, kannst du den "FIRST AID" -Befehl benutzen, um Spieler in der Nähe zu informieren, dass du sie heilen willst. Viele Ausrüstungsgegenstände und einige Waffen verwenden kontextsensitive Menüs.
 
-> ![](../.gitbook/assets/commorose.png)
+> ![](../assets/commorose.png)
 >
 > Commo-Rose beim Drücken von Q.
 
@@ -89,7 +89,7 @@ Da die meisten Kits nur ein oder zwei Feldverbände haben, ist ein besserer Weg,
 
 Wenn du nicht rechtzeitig geheilt werden kannst, wirst du bewusstlos und der Bildschirm wird dir sagen, dass du schwer verletzt wurdest. Das bedeutet nicht, dass du tot bist! Wenn Sie schwer verletzt werden, kann ein Sanitäter Sie bis zu 5 Minuten lang wiederbeleben und Ihrem Team wertvolle Tickets ersparen. Sie können Mumble verwenden, um den Sanitäter mit Ihrem Standort zu koordinieren, indem Sie den lokalen Kanal  \(H \) oder  **das Radio-Net  \( Numpad \) des Trupps verwenden.** Um Sie wiederzubeleben, wählen Sie den  **epipen**  aus der Waffenauswahl aus und injizieren und verabreichen Sie den Adrenalinschuss durch Klicken und Halten der linken Maustaste in den zentralen Massenbereich des Rumpfes des bewusstlosen Spielers. Der Spieler wird dann bewusst, aber anders als in BF2, wird nur bei etwa 10% Gesundheit und wird immer noch Heilung benötigen. Der Sanitäter und der kürzlich wiederbelebte Spieler sollten einen sicheren Bereich finden und dort den Heilungsprozess fortsetzen. Wenn der Spieler steckengeblieben ist \(in einer Mauer, Baum usw.\) oder auf einem unebenen Boden \(Berghang\), kann es helfen, den Körper zuerst durch Herzmassage wiederzubeleben. Dadurch wird der Körper bewegt und er kann sich nicht mehr festsetzen.
 
-> ![](../.gitbook/assets/fielddressing.png)![](../.gitbook/assets/kit.png)![](../.gitbook/assets/epipen.png)
+> ![](../assets/fielddressing.png)![](../assets/kit.png)![](../assets/epipen.png)
 >
 > Feldverband, Erste-Hilfe-Kit & Epipen.
 
@@ -130,7 +130,7 @@ Um sich wieder auffüllen zu können, müssen Sie sich einer Munitionsquelle nä
 *  **Waffencaches**  - Nur für Aufständische verfügbar
 *  **Fahrzeugdepot**  - In allen Hauptbasen vorhanden, heilt es auch Sie
 
-&lt;![](../.gitbook/assets/ammobag.png)![](../.gitbook/assets/supplycrate.png)![](../.gitbook/assets/inscrate.png)![](../.gitbook/assets/cacahe.png)![](../.gitbook/assets/depott.png) &gt;
+&lt;![](../assets/ammobag.png)![](../assets/supplycrate.png)![](../assets/inscrate.png)![](../assets/cacahe.png)![](../assets/depott.png) &gt;
 
 > Munitionstasche, Munitionskiste der Koalitionskräfte, Munitionskiste der Aufständischenkräfte, Waffencache & Fahrzeugdepot.
 
@@ -144,7 +144,7 @@ Eine andere Sache zu beachten ist, dass die Nachlieferung ist  **nicht sofort** 
 
 Es gibt zwei Arten von Versorgungskisten in PR: BF2 - Light Supply Crate und Heave Supply Crate. Während beide es erlauben, Spieler zu versorgen und Stellungen zu bauen, entspricht eine leichte Kiste der Hälfte der schweren Vorratskiste, was bedeutet, dass du 2x leichte Vorratskisten brauchst, wo nur 1x schwere Vorratskiste benötigt wird. Weitere Informationen zu Aufbauen von Stellungen finden Sie im Kapitel. [Deployable Structures](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/de/the_basics/Aufbaubare-Strukturen_squad_leader/README.md)
 
-> ![](../.gitbook/assets/largecrate.png)![](../.gitbook/assets/smallcrate.png)
+> ![](../assets/largecrate.png)![](../assets/smallcrate.png)
 >
 > _Hier sehen Sie die schwere Vorratskiste links und die leichte Version rechts._
 
@@ -169,7 +169,7 @@ Der Besitzer der Kiste wird durch die Flaggenanzeige auf der Kiste dargestellt.
 
 Logistik-LKWs haben auch die Möglichkeit, eine Reparaturstation abzusetzen. Sie sind für die Reparatur von Fahrzeugen vor Ort erforderlich, die stark beschädigt sind und sich nicht bewegen können.
 
-> ![](../.gitbook/assets/reapir.png)
+> ![](../assets/reapir.png)
 >
 > Reparatur absetzen.
 
@@ -194,7 +194,7 @@ Eine feste Mörserposition, die eine indirekte Feuerunterstützung über große 
 
 Sobald Mörser benötigt werden, können Sie den Mörserrechner verwenden \(drücken Sie  **4** , um  auszuwählen\). Die Entfernung zum Ziel und die Höhendifferenz können in den Rechner eingegeben werden, indem Sie auf die Zahlen in den Feldern  **"Bereich"**  und  **"Höhe"**  klicken. Um die Reichweite zu erhalten, stelle sicher, dass sich SLs Marker auf dem Ziel befindet, dann öffne die Karte und du findest den Bereich unter der Karte. Wenn Sie fertig sind, klicken Sie einfach auf die Schaltfläche  **"Calculate"** , um die erforderliche Lauf-Höhe anzuzeigen. Die Höhe kann mit den Tasten W und S eingestellt werden, während die Auslenkung mit den Tasten A und D geändert wird. Wenn beide Werte eingestellt sind, wählen Sie einfach die gewünschten Runden aus und feuern Sie ab. Es gibt sowohl Air-Burst- als auch Impact-Runden, die Munition teilen.
 
-> ![](../.gitbook/assets/mortars.png)
+> ![](../assets/mortars.png)
 >
 > Die Mörserrechner-Schnittstelle.\_
 
@@ -216,11 +216,9 @@ Der Bereitstellungsprozess für CSBs ist sehr einfach:
 
 In einigen Fällen müssen mehrere CSBs die gesamte Entfernung überspannen. In solchen Situationen müssen Sie bis zum Ende der unvollständigen Brücke fahren und einen neuen CSB bereitstellen und bis zum Ende wiederholen.
 
-> ![](../.gitbook/assets/csb.png)
+> ![](../assets/csb.png)
 >
 > CSB vom LKW wird eingesetzt.
-
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=Vn66KbNrVJA\",\"type\":\"video\",\"title\":\"\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/Vn66KbNrVJA/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/Vn66KbNrVJA?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/Vn66KbNrVJA?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
 ## _Schlachtfeld Navigation_ {#Schlachtfeld-Navigation}
 
@@ -228,23 +226,23 @@ Es ist ziemlich einfach, sich auf den großen Karten von PR: BF2 zu verlieren. D
 
 1 Squad Leader können ihren  **Squad Order Marker**  verwenden, um Orte an ihre Squad und den Commander zu kommunizieren. Die Richtung zum Marker wird durch einen Chevron über dem Kompass angezeigt. Wenn Sie sich nicht mehr als 75 Meter von der Markierung entfernt befinden, sehen Sie auch ein 3D-Symbol, das die Position vor Ihnen anzeigt. Der Marker wird auch auf der Karte sichtbar sein.
 
-* ![](../.gitbook/assets/target%20%282%29.png)**Ziel** 
-* ![](../.gitbook/assets/build%20%281%29.png)**Bauen** 
-* ![](../.gitbook/assets/observe%20%281%29.png)**Beobachten** 
-* ![](../.gitbook/assets/defendmarker.png)**Verteidigen** 
-* ![](../.gitbook/assets/demolish%20%281%29.png)**Zerstören** 
-* ![](../.gitbook/assets/move.png)**Bewegen** 
+* ![](../assets/target%20%282%29.png)**Ziel** 
+* ![](../assets/build%20%281%29.png)**Bauen** 
+* ![](../assets/observe%20%281%29.png)**Beobachten** 
+* ![](../assets/defendmarker.png)**Verteidigen** 
+* ![](../assets/demolish%20%281%29.png)**Zerstören** 
+* ![](../assets/move.png)**Bewegen** 
 
 2 Ein  **Präzisionsgradkompass**  zum unteren mittleren Bereich des Bildschirms. Der Kompass kann verwendet werden, um in der Nähe befindliche Feinde genau zu lokalisieren.  **Die 8 Kardinal Richtungen**  sind deutlich mit den Grad-Label gekennzeichnet, die schrittweise alle 15 ° mit großen Abschnitten alle 5 ° dargestellt sind. Wenn Sie nur eine allgemeine Richtung mitteilen möchten, ist es am besten, die Himmelsrichtung zu sagen, gefolgt vom Grad und in manchen Fällen auch von der Entfernung. Zum Beispiel \_  **"Feind entdeckt NE 75 ° Grad 200 Meter außerhalb"** .\*\*
 
 * Wenn das Ziel visuell mit einer nummerierten Peilung auf Ihrem Kompass übereinstimmt, wenn Sie in diese Richtung zeigen, sagen Sie einfach diese Nummer.
-* Denken Sie daran, dass alle großen Kompasskerben gleich 5 Grad sind. Wenn das Ziel mit einer Kerbe auf der rechten Seite einer beschrifteten Kerbe entlang von 75 ° übereinstimmt, dann fügen Sie 5 ° hinzu. Das Ziel liegt also bei 80 °.![](../.gitbook/assets/compass.png)
+* Denken Sie daran, dass alle großen Kompasskerben gleich 5 Grad sind. Wenn das Ziel mit einer Kerbe auf der rechten Seite einer beschrifteten Kerbe entlang von 75 ° übereinstimmt, dann fügen Sie 5 ° hinzu. Das Ziel liegt also bei 80 °.![](../assets/compass.png)
 
 1. Die Karten in PR: BF2 enthalten  **Raster-Referenzlabels und Tastatur-Subgrids** . Die Rasterbeschriftungen befinden sich am oberen und linken Rand der Karte. Die Karte ist in 169 Gitterquadrate unterteilt, beginnend mit A1 in der oberen linken Ecke und endend mit M13 in der unteren rechten Ecke. Jedes Rasterquadrat ist in 9 Teilraster unterteilt. Diese werden von 1 bis 9 auf die gleiche Weise wie ein Nummernblock eines Computers bezeichnet.  \(Obere Reihe von links nach rechts 7, 8, 9 \). Sie können Orte kommunizieren, indem Sie eine Rasterreferenz ausgeben. Für einen ungefähren Ort sagen Sie nur das Hauptrasterfeld  \(zB D6 \). Für genaue Orte fügen Sie auch das Untergitter ein  \(zB D6-2 \). Grid-Referenzen werden meist verwendet, um Standorte zwischen Trupps zu kommunizieren. Bei Verwendung von Mumble wird der erste Buchstabe der Grid-Referenz normalerweise mit dem phonetischen Alphabet der NATO angezeigt. Die Codewörter sind Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, Indien, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whisky, X -Ray, Yankee und Zulu
 
 4  **Die Größe jedes Quadrats**  wird in der unteren rechten Ecke der Karte angezeigt. Eine 1 km lange Karte wird von einem 75-m-Grid-Squad angezeigt, 150 m für 2 km und 300 m für eine 4 km-Karte. Mit den Gitterquadraten können Sie Entfernungen auf der Karte leicht schätzen. Der Kader-Bildschirm des Gruppenführers zeigt außerdem die ungefähre Entfernung zu Ihrem aktuellen Gruppenmarker unter der Karte des Schlachtfelds an.
 
-![](../.gitbook/assets/grid.png)
+![](../assets/grid.png)
 
 ## _Basis Fahrzeuginformationen_ {#Basis-Fahrzeuginformationen}
 
@@ -254,55 +252,55 @@ Es gibt viele Fahrzeugtypen in PR: BF2 wird als Klassifizierung verwendet. Dies 
 
 *  **Jeep:**  kleine Transportfahrzeuge, die nicht immer die gesamte Mannschaft füllen. Kann immer kleine Munitionskisten fallen lassen. Manchmal sind Maschinengewehre Nester ausgestattet.
 
-![](../.gitbook/assets/jeep.png)
+![](../assets/jeep.png)
 
 *  **Zivilfahrzeuge:**  PR: Die Aufständischen der BF2 haben Zugang zu einer Reihe ziviler Autos und technischer Ausrüstung, die mit Maschinengewehren, Raketenpaketen und rückstoßfreien Gewehren SPG-9 ausgerüstet sind. Sie haben auch ein Flachbett mit einer angebrachten AA-Pistole, Bombenlastwagen und Bombenautos in ihrem Arsenal.
 
-![](../.gitbook/assets/civiliancars.png)
+![](../assets/civiliancars.png)
 
 *  **Truck:**  kommen in Transport- und Logistikvarianten. Die Transportvariante ist in der Lage, 1 Leichte Kiste abzuwerfen und kann einen ganzen Trupp aufnehmen. Die logistische Variante kann nur 2 Soldaten aufnehmen und kann 2 schwere Vorratskisten, Reparaturstationen und geschlossene Unterstützungsbrücken ablegen \(mehr dazu später\).
 
-![](../.gitbook/assets/truck.png)
+![](../assets/truck.png)
 
 *  **Gepanzerter Personentransporter  \(APC \):**  große gepanzerte Fahrzeuge, die oft mit schweren Waffen bewaffnet sind. Oft besitzen sie nicht die Kraft, andere schwere gepanzerte Ziele wie IFVs und Panzer zu besiegen, aber sie sind die besten aller Arten von Fahrzeugen zur Unterstützung der Infanterie. Kann 2 Besatzungsmitglieder \(Fahrer und Richtschütze \) und bis zu 6 Soldatenpassagiere aufnehmen.
 
-![](../.gitbook/assets/apc.png)
+![](../assets/apc.png)
 
 *  **Infanterie-Gefechtsfahrzeug  \(IFV \):**  Besser bewaffnet und stärker als die meisten APCs mit oft Fähigkeiten, schwere gepanzerte Ziele mit AT-Raketen zu besiegen. Kann nicht immer Infanterie transportieren. Unter diese Kategorie fallen oft auch die Aufklärungsfahrzeuge.
 
-![](../.gitbook/assets/ifv.png)
+![](../assets/ifv.png)
 
 *  **Panzerabwehrraketenfahrzeug  \(ATM \):**  Der Name spricht für sich. Dies sind Fahrzeuge, die mit AT-Raketen bewaffnet sind, um andere gepanzerte Fahrzeuge zu zerstören. Infanterie kann nicht transportiert werden.
 
-![](../.gitbook/assets/atm.png)
+![](../assets/atm.png)
 
 *  **Tank:**  Unser schwerstes gepanzertes Fahrzeug. Sie sind mit AP-, HE- und COAX-Waffen ausgerüstet.
 
-![](../.gitbook/assets/tank.png)
+![](../assets/tank.png)
 
 *  **Anti-Air Vehicle:**  Dies sind in der Regel leichte gepanzerte Fahrzeuge mit der Fähigkeit, feindliche Flugzeuge und Hubschrauber zu beseitigen. Sie können Raketen oder / und schwere Waffen verwenden.
 
-![](../.gitbook/assets/aavehicles.png)
+![](../assets/aavehicles.png)
 
 *  **Boot:**  PR: BF2 hat eine Vielzahl von Booten sowohl bewaffnet als auch unbewaffnet.
 
-![](../.gitbook/assets/boats.png)
+![](../assets/boats.png)
 
 *  **Transporthubschrauber:**  Diese Helikopter sind normalerweise mit TürMG für die eingestigene Infanterie ausgestattet.Sie können auch schwere Vorratskisten fallen lassen. Es gibt leichte, mittlere und schwere Transporthelis. Lesen Sie den Abschnitt Vorratskisten, um zu erfahren, welche Variante welche Kisten zur Verfügung hat.
 
-![](../.gitbook/assets/transheli.png)
+![](../assets/transheli.png)
 
 *  **Attack Helicopters:**  Diese Hubschrauber sind mit Maschinengewehren und einer Vielzahl von Raketen ausgestattet. Es gibt leichte, mittlere und schwere Varianten. Recon Hubschrauber mit der Fähigkeit, Ziele zu lasern und ihre Wärmebildkameras zu verwenden fallen auch unter diese Kategorie in PR: BF2. Sie sind nicht immer bewaffnet.
 
-![](../.gitbook/assets/attackhelis.png)
+![](../assets/attackhelis.png)
 
 *  **Jets:**  PR: BF2 hat eine große Auswahl an Jets. Es gibt leichte und schwere Kampfjets, Kampfjets, Bomber und Jagdbomber.
 
-![](../.gitbook/assets/jets.png)
+![](../assets/jets.png)
 
 Alle befreundeten Fahrzeuge sind auf der Karte mit eindeutigen Symbolen zur einfachen Identifizierung gekennzeichnet.
 
-![](../.gitbook/assets/vehicleicons.png)
+![](../assets/vehicleicons.png)
 
 * Wenn ein Team-Fahrzeug-Vermögenswert zerstört wird, entsteht eine Ticket-Strafe:
   * Jeep oder LKW:  **2 Tickets** 
@@ -325,5 +323,5 @@ Alle befreundeten Fahrzeuge sind auf der Karte mit eindeutigen Symbolen zur einf
 * Spieler können  **Kits**  von der APC / IFV-Startposition anfordern.
 * Gepanzerte Fahrzeuge sind anfälliger, wenn sie von ihren Flanken angegriffen werden. Die Panzerung am Heck des Fahrzeugs ist am schwächsten. Ein einzelnes gut platziertes Panzerabwehrgeschoss kann sie deaktivieren oder ausschalten.
 
-> ![](../.gitbook/assets/entrypoints.png) _Fahrzeug-Einstiegspunkte können sich je Fahrzeug unterscheiden. Suchen Sie nach Luken._
+> ![](../assets/entrypoints.png) _Fahrzeug-Einstiegspunkte können sich je Fahrzeug unterscheiden. Suchen Sie nach Luken._
 

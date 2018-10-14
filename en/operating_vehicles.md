@@ -1,11 +1,11 @@
-# README
+# Operating Vehicles
 
 ## _General Vehicle Information_ {#general-vehicle-information}
 
 * Light vehicles, trucks and boats & most jeeps \(except light armored ones\) can be operated by any soldier. Armored vehicles, helicopters and aircraft need specified vehicle kits to operate. Players not using the correct kit will not be able to steer the vehicle or use the weapons. You can't enter or use enemy vehicles. For ground vehicles you then require a **Crewman** kit. For aircraft & helicopters it’s the **Pilot** kit. These are either requestable by the vehicle or by a supply crate.
 * External views for vehicles have been removed. But for certain vehicles there are custom cameras like the trucks can watch behind them \(**C**\).
 * You can **aim down the sights** of static and vehicle-mounted MGs by pressing the change camera key\(**C**\).
-* Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/overheat.png)
+* Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
 * Vehicle-mounted MGs use ammunition belts. They are reloaded automatically but are limited in number.
 * Vehicles can be **resupplied & repaired** at the supply depot. Or use the repair drop that any logistics truck can drop. Aircraft and Helicopters are automatically repaired and rearmed at their spawn location.
 * Insurgents have **suicide vehicles** like an orange dumpster truck or small civilian cars packed with C4. You can detonate these with the alternative fire key.
@@ -23,7 +23,7 @@
 * Drivers and gunners can **zoom** their view by pressing the pop smoke key \(**X**\). Some tank drivers must first change to the commander view.
 * Most tanks and IFVs can use **thermal optics** in addition to their normal views. You can switch to the thermal mode by using secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”.** Some will also allow you to switch between thermal variations like WHOT/BHOT.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/thermalz.png)
+> ![](../assets/thermalz.png)
 >
 > Thermal Vision
 
@@ -40,7 +40,7 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 
 * For certain vehicles the smoke will be **IR-blocking** meaning it will also block on thermal vision. For other \(older vehicles\) you will be able to see through the smoke on thermal vision.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/vehiclesmoke.png)
+> ![](../assets/vehiclesmoke.png)
 >
 > Vehicle deployed smoke
 
@@ -73,7 +73,7 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 * To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
 * **Air-to-ground weapons** in single seat aircraft need an established laser lock to hit a target. The recommended procedure for an attack with them is explained below:
   1. Ground troops find a suitable target for an air attack.
-  2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/marker.png)
+  2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](../assets/marker.png)
   3. The pilot informs the ground troops of his approach using the **“ON THE WAY”** command from his main radio menu and/or through mumble/text chat.
   4. As the pilot approaches the target, the ground troops mark the target with a **GTLD laser** designator, if the laser is slightly off from the target, the missile may miss.
   5. When the target is locked-on the pilot receives a sound cue. He may now release the bomb/missile.

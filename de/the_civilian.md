@@ -1,8 +1,8 @@
-# README
+# Zivilisten
 
 Wenn sie die irakische Aufständischen oder die Hamas-Fraktion spielen, können die Spieler wählen, ob sie als Zivilist spielen möchten. Die Hauptaufgabe dieser Rolle besteht darin, Informationen über die Streitkräfte der Koalition zu sammeln und die aufständischen Zellenführer zu intervenieren. Dieses Kit ist nicht mit Waffen ausgestattet, sondern verfügt über eine große Auswahl an Ausrüstung und Werkzeugen. Zivilisten können mit ihren Mobiltelefonen feindliche Truppen für ihr Team aufspüren, indem sie einen Marker auf die Karte setzen.
 
-> ![](../.gitbook/assets/civiii.png) Ein Zivilist
+> ![](../assets/civiii.png) Ein Zivilist
 
 Zivilisten sind an bestimmte  **Regeln des Engagements gebunden**   \(ROE \). Koalitionsstreitkräfte können nicht gegen Zivilisten feuern, die sich außerhalb der Regeln des Engagements befinden, und riskieren schwere Bestrafungen. Stattdessen müssen sie sie festnehmen oder warten, bis sie ein legitimes Ziel sind.
 

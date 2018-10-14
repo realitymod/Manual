@@ -1,15 +1,15 @@
-# README
+# The Squadleader
 
 ## _Guiding Squad_ {#guiding-squad}
 
 As explained in the Battlefield Navigation section, the Squad Leader can place markers on the map for his squad members to follow. They will find a marker on their compass to follow as well as an icon on the map. The Squad Leader should use these as often as possible and can also use this to easily get the distance towards a target. He can do this from the mini-map by right clicking it and placing the marker or by pressing the **secondary radio key \(T\)** and point at the target and using one of the buttons to place the marker.
 
-* ![](../.gitbook/assets/target%20%281%29.png) **Target** 
-* ![](../.gitbook/assets/build.png) **Build** 
-* ![](../.gitbook/assets/observe%20%282%29.png) **Observe**
-* ![](../.gitbook/assets/defendmarker%20%281%29.png) **Defend** 
-* ![](../.gitbook/assets/demolish.png) **Demolish** 
-* ![](../.gitbook/assets/move%20%281%29.png) **Move**
+* ![](../assets/target%20%281%29.png) **Target** 
+* ![](../assets/build.png) **Build** 
+* ![](../assets/observe%20%282%29.png) **Observe**
+* ![](../assets/defendmarker%20%281%29.png) **Defend** 
+* ![](../assets/demolish.png) **Demolish** 
+* ![](../assets/move%20%281%29.png) **Move**
 
 The commander can also order you. If you accept the order \(**PAGE UP**\) your marker will be replaced with the commander’s order.
 
@@ -22,9 +22,7 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 3. Now hold down **the main radio key \(Q\)** and select the **SET CONTACT DISTANCE** button, then select the target's distance from the list.
 4. Re-open the main radio menu and select the type of target contact to mark on the map. Each player can place up to 3 markers which stay for 5 minutes.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/spotting.png)
-
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=XNDb2yMuoho\",\"type\":\"video\",\"title\":\"\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/XNDb2yMuoho/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/XNDb2yMuoho?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/XNDb2yMuoho?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+> ![](../assets/spotting.png)
 
 ## _The GTL Designator \(GTLD\)_ {#gtld}
 
@@ -35,8 +33,6 @@ With the GTLD equipped, you can right-click to increase the zoom level and left-
 > Due to engine limitations, there may be situations where the laze representation won't appear on top of the target. This won't have any effect in-game, you can reliable keep the center of the sight on target untill the
 
 Additionally, while observing with the GTLD you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map. \(You need to specify the distance to the target using the same method as described for spotting enemies.\)
-
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=d7pntNDjSvM\",\"type\":\"video\",\"title\":\"\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/d7pntNDjSvM/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/d7pntNDjSvM?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/d7pntNDjSvM?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
 ## _Rally Points_ {#rally-points}
 
@@ -61,7 +57,7 @@ A rally point rearms every 1 minute. Unless it has become overrun. In which case
 
 The squad leader can also use his radio to request support from other squads. To do so he must activate his radio and then press **the secondary radio key \(T\).** This will open up the menu for requesting support and deploying team assets. The lower five commands starting with **“NEED ...”** will place a map marker at your position. They also transmit a radio message to your team to alert them of your request. The **“NEED AREA ATTACK”** request behaves a bit different from the rest. On some maps conventional forces can use this command to request an **artillery barrage**. If your request is approved by the team's commander, the attack will strike after about one minute. After loading a new map or executing an area attack it takes 30 minutes until it is available again. Similarly unconventional factions have access to a mortar barrage every 20 minutes on most maps.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/support.png)
+> ![](../assets/support.png)
 >
 > Requesting support through radio
 
@@ -69,7 +65,7 @@ The squad leader can also use his radio to request support from other squads. To
 
 Constructing assets is an essential functionality of the Squad Leader which the team's Commander also possesses. When deploying and constructing a Forward Outpost \(FOB\) a Squad Leader needs to have an officer kit and a heavy supply crate within a 50m radius of his vicinity. 2 light supply crates offer the same capabilities as 1 heavy supply crate to achieve the same goal. Insurgents, Taliban and the Hamas can only deploy hideouts, mortars and anti-tank positions for their team which do not require supplies to build these structures. To perform this function either a cell leader or collaborator kit is necessary.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/buildcomo.png)
+> ![](../assets/buildcomo.png)
 >
 > Building assets through radio
 
@@ -81,7 +77,7 @@ To deploy a structure follow these steps:
 4. Left click your mouse on **DEPLOY / REMOVE ASSET.**
 5. Select the structure you want to build from the list.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/shovel.png)
+> ![](../assets/shovel.png)
 >
 > Shovel needed to build up deployables.
 
@@ -93,7 +89,7 @@ To dismantle a built structure, squad members must use the entrenching tools rig
 
 Deployable Emplacements weapons can be rearmed by dropping ammunition bags next to them. Several bags are needed to completely rearm an emplacement.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/deploy.png)
+> ![](../assets/deploy.png)
 >
 > Unbuild and build examples of a foxhole.
 
@@ -108,7 +104,7 @@ Here is a list of the deployable structures and the requirements for building th
 * Must be constructed at least 200m from other forward outposts and the team's HQ.
 * Must be constructed at least 10m away from the map border \(200m on CNC\).
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/fobb.png)
+![](../assets/fobb.png)
 
 **Hideout:** Insurgents use hideouts as a spawn location. If 2 or more enemies are close by \(within 50m\), spawning is disabled until 90 seconds after they leave or die. Requirements and limitations:
 
@@ -116,7 +112,7 @@ Here is a list of the deployable structures and the requirements for building th
 * The team may have up to 6 hideouts at the same time.
 * Must be constructed at least 10m away from the map border.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/hideoutt.png)
+![](../assets/hideoutt.png)
 
 **Heavy MG:** A deployable heavy machine gun. Requirements and limitations:
 
@@ -125,7 +121,7 @@ Here is a list of the deployable structures and the requirements for building th
 * Only 2 MG’s per FOB and within 200m radius.
 * The team can have up to 24 heavy MGs.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/hmg.png)
+![](../assets/hmg.png)
 
 **Anti-Tank:** A deployable anti-tank missile launcher. This weapon features thermal imaging and 1 fixed level of magnification. Reloading takes 20s. Requirements and limitations:
 
@@ -134,7 +130,7 @@ Here is a list of the deployable structures and the requirements for building th
 * No other anti-tank emplacement may be within 200m distance and on that FOB.
 * The team can have up to 3 anti-tank positions at the same time.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/tow.png)
+![](../assets/tow.png)
 
 **Anti-Tank \(unconventional forces\):** The SPG9 AT-launcher only has a narrow range of traverse. It can shoot two types of ammunition and takes 15s to reload. Requirements and limitations:
 
@@ -143,7 +139,7 @@ Here is a list of the deployable structures and the requirements for building th
 * No other anti-tank emplacement may be within 200m distance and on that FOB.
 * The team can have up to 3 anti-tank positions at the same time.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/spg.png)
+![](../assets/spg.png)
 
 **Anti-Air:** A deployable surface-to-air missile launcher. Requirements and limitations:
 
@@ -153,7 +149,7 @@ Here is a list of the deployable structures and the requirements for building th
 * The team can have up to 6 anti-air emplacements.
 * Unconventential forces get a DShK machine gun on a tripod as anti-air emplacement. 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/aaa.png)
+![](../assets/aaa.png)
 
 **Foxhole:** A sandbag fortified foxhole provides cover against small arms and artillery strikes. Requirements and limitations:
 
@@ -162,7 +158,7 @@ Here is a list of the deployable structures and the requirements for building th
 * A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
 * The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/foxhole.png)
+![](../assets/foxhole.png)
 
 **Sandbag-wall:** A sandbag wall is a small 5m long wall made of sandbags to hide behind and use as cover against small arms. Requirements and limitations:
 
@@ -171,7 +167,7 @@ Here is a list of the deployable structures and the requirements for building th
 * A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
 * The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/sandbagwall.png)
+![](../assets/sandbagwall.png)
 
 **Razor wire:** A 10m wide road block of razor wire and tank traps. Requirements and limitations:
 
@@ -186,7 +182,7 @@ Here is a list of the deployable structures and the requirements for building th
 * A maximum of 9 other roadblocks, razorwires, foxholes and sandbags can be within 200m.
 * The team can have up to 100 roadblocks in total.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/roadblock.png)
+![](../assets/roadblock.png)
 
 **Mortar:** A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km. Requirements and limitations:
 
@@ -195,5 +191,5 @@ Here is a list of the deployable structures and the requirements for building th
 * The team can have up to 2 mortar positions at the same time.
 * Both mortar positions must be placed within 50m of each other.
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/mortarss.png)
+![](../assets/mortarss.png)
 

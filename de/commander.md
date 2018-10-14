@@ -1,4 +1,4 @@
-# README
+# Commander
 
 ## _Führen der Truppen_ {#führen-der-truppen}
 
@@ -15,22 +15,22 @@ Um das Team in Zusammen zu halten, konzentriert sich der Commander ausschließli
 *  **Mörser anfordern:**  Bitten Sie die Mörsergruppierung, Mörserfeuer auf diese Position zu bringen. 
 *  **Ziel lasern:**  Dies erzeugt ein Laser-Punkt an der Position, an der es platziert wurde. Dies kann von CAS verwendet werden, um bestimmte Standorte anzugreifen.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/commands.png)
+> ![](../assets/commands.png)
 >
 > Mögliche Kommandos, Gruppen Befehle und Symbole die der Commander vervenden kann.
 
 * **Gruppen Befehle**
   * Die gleichen Marker sind für Squad Leader verfügbar. Wenn Sie einen Trupp im linken Menü auswählen, können Sie diese anfordern. Wenn sie mit  \( **PAGE UP**   akzeptieren\), wird der Squads-Marker ersetzt. ****
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/build.png)**bauen** 
+![](../assets/build.png)**bauen** 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/observe.png)**beobachte** 
+![](../assets/observe.png)**beobachte** 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/defendmarker.png)**verteidigen** 
+![](../assets/defendmarker.png)**verteidigen** 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/demolish.png)**zerstören** 
+![](../assets/demolish.png)**zerstören** 
 
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/move.png)**bewegen** 
+![](../assets/move.png)**bewegen** 
 
 * **Infanterie \| Fahrzeuge \| Einrichtungen \| Versch.**
   * Verschiedene Marker, die platziert werden können, um gegnerische Infanterie und eingesetzte Ressourcen zu markieren.
@@ -47,7 +47,7 @@ Der Kommandant der konventionellen Streitkräfte und die Miliz sind in der Lage,
 
 Das UAV wird gestartet, indem der UAV-Marker auf der Befehlszuordnung platziert wird. Dies kann durch Drücken des UAV-Symbols oben links im Commander-Bildschirm oder durch Rechtsklick auf die Karte und das Platzieren des UAV-Symbols erfolgen. Sie müssen das ACV-Fahrzeug in der Hauptbasis Ihres Teams betreten, um es zu bedienen.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/acvv.png)
+> ![](../assets/acvv.png)
 >
 > Gepanzertes Kommandofahrzeug.
 
@@ -63,7 +63,7 @@ Das UAV benötigt 45 Sekunden zum Starten / Landen.
 
 Das UAV kann sofort verschoben werden, indem es eine neue Position auf der Karte zugewiesen wird. Das UAV funktioniert nur auf 2km und 4km Karten, da es für kleine Karten zu mächtig ist.
 
-> ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/uav.png)
+> ![](../assets/uav.png)
 >
 > _Des Commanders UAV Kamera._
 

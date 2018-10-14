@@ -1,6 +1,6 @@
-# README
+# Introduction
 
-## ![](../.gitbook/assets/pr_v1_logo.png)
+## ![](../assets/pr_v1_logo.png)
 
 ## **Project Reality: BF2 Manual - Updated for v1.5**
 
@@ -8,7 +8,7 @@
 >
 > _Das PR-Team_
 
-## ![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/flag.png)
+## ![](../assets/flag.png)
 
 **v1.5 Translation by Rotblut**
 
