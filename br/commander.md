@@ -42,7 +42,7 @@ Marcadores não podem ser colocados o tempo todo. No canto superior esquerdo há
 
 Se os Líderes do Esquadrão acreditam que o Comandante não é eficiente em seus deveres, então eles têm a opção de iniciar um ** motim **. Se for bem sucedido, um novo jogador pode assumir essa posição.**
 
-O ** Commander Rally Point ** pode ser usado por toda a equipe. Para estabelecer este RP o Comandante precisa de pelo menos 6 jogadores perto dele \ (um deles deve ser um líder de esquadrão \) para colocar o RP. Este RP não está disponível no modo skirmish e pelo menos 12 jogadores devem estar no time do comandante. O RP permanecerá ativo enquanto o comandante estiver dentro do raio de 100m do ponto de encontro. Todas as outras regras descritas no capítulo Líder de Esquadrão sobre pontos de rally também se aplicam ao ponto de encontro do comandante.
+O ** Commander Rally Point ** pode ser usado por toda a equipe. Para estabelecer este RP o Comandante precisa de pelo menos 6 jogadores perto dele \(um deles deve ser um líder de esquadrão \) para colocar o RP. Este RP não está disponível no modo skirmish e pelo menos 12 jogadores devem estar no time do comandante. O RP permanecerá ativo enquanto o comandante estiver dentro do raio de 100m do ponto de encontro. Todas as outras regras descritas no capítulo Líder de Esquadrão sobre pontos de rally também se aplicam ao ponto de encontro do comandante.
 
 ## _UAV_ {#uav}
 
