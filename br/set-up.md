@@ -11,7 +11,7 @@
 * ** Internet: ** 256 kbps ou conexão mais rápida necessária para jogar on-line
 * ** Software: ** .NET Framework 4
 * ** Entrada: ** Mouse, Teclado
-* ** Opcional: ** Joystick, fone de ouvido, microfone \ (altamente recomendado para comunicação de voz \)
+* ** Opcional: ** Joystick, fone de ouvido, microfone \(altamente recomendado para comunicação de voz \)
 
 ## _Instalação do jogo_                                                                          {#game-installation}
 
@@ -27,11 +27,11 @@ Existem 2 métodos de instalação. Você pode usar o ** aplicativo Assistente d
 
 O Assistente de Download baixará o Instalador usando o protocolo Torrent. Portanto, verifique se isso não está bloqueado pelo seu provedor. Simplesmente baixe o Download Assistant do nosso [PR:BF2 Download Section](http://www.realitymod.com/downloads) e siga as instruções no aplicativo. Se você estiver em uma versão recente do Windows, ele oferecerá um simples botão para iniciar o instalador. Se você estiver em uma versão mais antiga do Windows, não será. Então você será solicitado a ir para a Etapa 2 e seguir as instruções para instalar o PR: BF2.
 
-Se você baixou a versão Torrent \ (e agora o Download Assistant \), esta **NÃO** é a instalação completa. Você usa o pequeno arquivo .torrent com um cliente BitTorrent para baixar o arquivo .iso completo. Nós recomendamos [qBittorrent](http://www.qbittorrent.org/download.php). Uma vez que o torrent é baixado através do seu software Torrent selecionado, você será presenteado com um arquivo "ISO" para passar para a etapa 2 depois que o aplicativo terminar o download.
+Se você baixou a versão Torrent \(e agora o Download Assistant \), esta **NÃO** é a instalação completa. Você usa o pequeno arquivo .torrent com um cliente BitTorrent para baixar o arquivo .iso completo. Nós recomendamos [qBittorrent](http://www.qbittorrent.org/download.php). Uma vez que o torrent é baixado através do seu software Torrent selecionado, você será presenteado com um arquivo "ISO" para passar para a etapa 2 depois que o aplicativo terminar o download.
 
 **2\) Instalação**
 
-Se estiver usando o assistente de download em uma versão moderna do windows \ (Windows 8 e posterior \), você pode pular esta etapa. O download vem na forma de um “[ISO](http://en.wikipedia.org/wiki/ISO_image)”-file. Sua melhor opção é extrair o arquivo ISO usando software livre como [7-Zip](http://www.7-zip.org/) ou [WinRar](http://www.rarlab.com/).
+Se estiver usando o assistente de download em uma versão moderna do windows \(Windows 8 e posterior \), você pode pular esta etapa. O download vem na forma de um “[ISO](http://en.wikipedia.org/wiki/ISO_image)”-file. Sua melhor opção é extrair o arquivo ISO usando software livre como [7-Zip](http://www.7-zip.org/) ou [WinRar](http://www.rarlab.com/).
 
 Mais alguns pontos:
 
@@ -43,7 +43,7 @@ Mais alguns pontos:
 
 ## _O Launcher de PR_ {#the-pr-launcher}
 
-Após a instalação, um atalho para o Project Reality: BF2 v1.5 será fornecido na área de trabalho, clique duas vezes neste ícone para abrir o Launcher. Quando o Launcher aparecer, você será saudado com uma configuração de perfil de jogador, aqui você pode criar uma nova conta, recuperar ou importar um perfil pré-existente de jogador de RP. Para importar seu perfil, selecione o perfil desejado na lista e clique em importar. Como a DICE e a EA removeram o suporte para o BF2 em maio de 2014, agora usamos nosso próprio serviço de conta para o PR: BF2. Todas as suas antigas contas BF2 \ (antes de PR: BF2 v1.2 \) não são mais recuperáveis. Compartilhamos nosso serviço de conta com a modificação do Forgotten Hope 2 para o BF2.
+Após a instalação, um atalho para o Project Reality: BF2 v1.5 será fornecido na área de trabalho, clique duas vezes neste ícone para abrir o Launcher. Quando o Launcher aparecer, você será saudado com uma configuração de perfil de jogador, aqui você pode criar uma nova conta, recuperar ou importar um perfil pré-existente de jogador de RP. Para importar seu perfil, selecione o perfil desejado na lista e clique em importar. Como a DICE e a EA removeram o suporte para o BF2 em maio de 2014, agora usamos nosso próprio serviço de conta para o PR: BF2. Todas as suas antigas contas BF2 \(antes de PR: BF2 v1.2 \) não são mais recuperáveis. Compartilhamos nosso serviço de conta com a modificação do Forgotten Hope 2 para o BF2.
 
 Se você é novo no BF2: PR e nunca fez um perfil antes, basta clicar em "Criar nova conta" e preencher os detalhes necessários e escolher um nome de usuário sensato e fácil de pronunciar. Para jogar em servidores multiplayer PR você precisa criar um perfil online. Você pode criar um perfil off-line, se preferir.
 
