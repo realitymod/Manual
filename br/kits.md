@@ -5,7 +5,7 @@ Kits no Project Reality definem sua classe, equipamento e sua função na equipe
 * ** Kits Padrão **, que são os papéis do esquadrão de infantaria padrão e podem ser selecionados diretamente a partir da tela de spawn
 * ** Specialist Kits **, que são papéis mais especializados e só podem ser obtidos através de um especial[request procedure](kits.md#kit-request)** 
 
-## _Onde começar_ {#where-to-start}
+## _Como Iniciar_ {#where-to-start}
 
 Como um novo jogador, você deve sempre se juntar a um esquadrão de infantaria e pegar o kit ** Rifleman **. O Rifleman representa a infantaria básica e pode ser usado sem restrições por tantas pessoas quanto desejado em um esquadrão / time. Todos os outros kits estão associados a papéis mais especializados e têm restrições rígidas em relação ao número deles que podem ser usados simultaneamente em um esquadrão / equipe.**
 
@@ -46,7 +46,7 @@ Aqui segue uma explicação mais detalhada de cada kit:
 * ![](../assets/at.png)**Light Anti-Tank \(LAT\)**. Limitado a 1 por esquadrão e a ** 8 por equipe **. O LAT é um rifleman equipado com um fuzil de assalto e um sistema de armas anti-tanque leve portátil. Seu papel principal é atuar como um elemento anti-tanque ultra-leve, com capacidade de deter e neutralizar veículos leves e veículos com blindagem leve. ** No entanto, NÃO é eficaz contra veículos blindados pesados ou tanques. **
 * ![](../assets/grenadier.png)**Grenadier**. Limitado a 1 por esquadrão e a ** 8 por equipe **. Geralmente equipado com um lançador de granadas subjacente ao seu rifle de assalto. Seu trabalho principal é o de hospedar áreas de baixa visibilidade, onde a presença do inimigo é suspeita, bem como para perseguir veículos leves. É especialmente útil para compromissos de longa distância e para combater inimigos escavados dentro de edifícios.**
 
-## _Kits de Especialistas_ {#specialist_kits}
+## _Kits Especialistas_ {#specialist_kits}
 
 Além dos Kits Padrão descritos acima, no PR existe uma ampla seleção de ** Specialist Kits ** com capacidade para tarefas altamente especializadas. Alguns destes kits incluem o Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, entre outros.
 

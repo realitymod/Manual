@@ -13,7 +13,7 @@ Como explicado na seção Navegação do Campo de Batalha, o Líder do Esquadrã
 
 O comandante também pode comandar você. Se você aceitar o pedido \(** PAGE UP ** \), seu marcador será substituído pelo pedido do comandante.
 
-## _Spotting Enemies_ {#spotting-enemies}
+## _Marcando Inimigos_ {#spotting-enemies}
 
 O **Squad Leader** em PR:BF2 tem muitas habilidades funcionais. Ele é capaz de marcar unidades inimigas no mapa e encaminhar relatórios de contato para o comandante da equipe com a habilidade de marcar um alvo no mapa da equipe. Para executar essas funções, siga estas etapas:
 
@@ -67,7 +67,7 @@ O líder do esquadrão também pode usar seu rádio para solicitar apoio de outr
 >
 > Solicitando suporte por meio de rádio
 
-## _Trabalho de construção_ {#construction-work}
+## _Trabalho de Construção_ {#construction-work}
 
 A construção de ativos é uma funcionalidade essencial do Líder de Esquadrão que o Comandante da equipe também possui. Ao implantar e construir um Forward Outpost \(FOB \), um Líder de Esquadrão precisa ter um kit oficial e uma caixa de suprimento pesada dentro de um raio de 50m de sua vizinhança. 2 suprimentos leves oferecem as mesmas capacidades que uma caixa de suprimento pesado para atingir o mesmo objetivo. Os  Insurgents, Taliban e o Hamas só podem implantar esconderijos, morteiros e posições antitanque para sua equipe, que não precisam de suprimentos para construir essas estruturas. Para executar esta função, é necessário um líder de squad ou kit de colaborador.
 

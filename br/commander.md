@@ -1,6 +1,6 @@
 # The Commander
 
-## _Leading the Troops_ {#leading-the-troops}
+## _Liderando o Squad_ {#leading-the-troops}
 
 A principal tarefa do comandante é ** coordenar ** a equipe e dar orientação e direção àqueles que operam sob seu comando. Sua função é monitorar situações e compromissos e o escopo geral do campo de batalha para determinar efetivamente uma estratégia. Ele também pode conceder ou negar pedidos enviados pelos líderes do esquadrão. Estes incluem relatórios de contato e ataques de área.
 
@@ -8,7 +8,7 @@ A principal tarefa do comandante é ** coordenar ** a equipe e dar orientação 
 
 O Comandante pode ** confirmar ou negar o pedido de ataque de área \(area attack\)**. Se um Líder de Esquadrão solicitar artilharia, o comandante pode clicar com o botão direito do mouse no ícone e aceitá-lo ou negá-lo. Após o qual o pedido será confirmado para a equipe. O ataque da área está disponível a cada 30 minutos. Para os insurgentes e sua greve de morteiros semelhante, normalmente são 20 minutos entre possíveis ataques. Para ver quando artilharia / morteiros estão disponíveis novamente, você pode olhar no canto superior esquerdo da janela do comandante e ver a barra com “** AREA ATTACK **” nela.**
 
-Para manter a equipe coesa, o foco exclusivo do comandante é ** entregar os pedidos ** para cada esquadrão. Ele pode, alternativamente, ajudar os membros da equipe, mantendo-os bem informados sobre situações fora de sua área de operações \(AO \) confirmando inteligência no mapa usando uma variedade de marcadores clicando com o botão direito do mouse no mapa:
+Para manter a equipe coesa, o foco exclusivo do comandante é ** entregar os pedidos ** para cada esquadrão. Ele pode, alternativamente, ajudar os membros da equipe, mantendo-os bem informados sobre situações fora de sua área de operações \(AO\) confirmando inteligência no mapa usando uma variedade de marcadores clicando com o botão direito do mouse no mapa:
 
 * ** Comandos **
   * ** Destroy **: Remova FOBs amigáveis.

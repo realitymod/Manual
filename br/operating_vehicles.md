@@ -1,6 +1,6 @@
 # Operating Vehicles
 
-## _General Vehicle Information_ {#general-vehicle-information}
+## _Informações Gerais Sobre Veículos_ {#general-vehicle-information}
 
 * Veículos leves, caminhões e barcos e a maioria dos jipes (exceto blindados leves) podem ser operados por qualquer soldado. Veículos blindados, helicópteros e aeronaves precisam de kits específicos de veículos para operar. Os jogadores que não estiverem usando o kit correto não poderão dirigir o veículo ou usar as armas. Você não pode entrar ou usar veículos inimigos. Para veículos terrestres, você precisa de um kit ** Crewman **. Para aeronaves e helicópteros, é o kit ** Pilot **. Estes são solicitados pelo veículo ou por uma caixa de suprimentos.
 * Visualizações externas para veículos foram removidas. Mas, para certos veículos, há câmeras personalizadas, como os caminhões, que podem olhar para trás \(** C ** \).
@@ -15,7 +15,7 @@
 * Trocar armas de veículos \(tipo de munição \) normalmente causará um atraso antes que você possa disparar.
 * Você pode usar ** CTRL esquerdo + movimentar o mouse ** para olhar livremente ao operar a maioria dos veículos, como helicópteros, jatos, jipes, barcos e caminhões. APCs e IFVs não possuem esse recurso, pois usam câmeras dedicadas.**
 
-## _Armored Vehicles_ {#armored-vehicles}
+## _Veículos Blindados_ {#armored-vehicles}
 
 * Tanques e IFVs têm assentos separados para Piloto e artilheiro. Para usar a posição do artilheiro, um piloto ou artilheiro da cúpula deve estar presente. Depois de mudar para o assento do artilheiro, você deve esperar 30 segundos antes de poder mirar o canhão.
 * O Piloto e artilheiro em um veículo deve estar no mesmo esquadrão.
@@ -44,7 +44,7 @@ Os artilheiros Tank & IFV usam o slot de arma \(geralmente 3 \) e apertam o bot�
 >
 > Veiculo lançando Fumaça
 
-## _Helicopters_ {#helicopters}
+## _Helicópteros_ {#helicopters}
 
 * Os helicópteros têm um ** tempo de aquecimento ** de cerca de 30 segundos. Se muito torque for gerado enquanto as pás do rotor girarem, o piloto perderá o controle e colidirá. Para iniciar o helicóptero, você deve deixar o acelerador em marcha lenta por pelo menos 30 segundos antes de tentar decolar.
 * Pilotos de helicóptero podem olhar em outras direções enquanto voam pressionando as teclas 6, 7, 8 e 9 que você pode mapear para um joystick POV HAT Switch. Para olhar para frente, pressione 1 ou selecione qualquer outra arma que sua aeronave tenha.
@@ -62,7 +62,7 @@ Os artilheiros Tank & IFV usam o slot de arma \(geralmente 3 \) e apertam o bot�
 * Para obter êxito ** derrubar suprimentos ** de um helicóptero de transporte, o piloto precisa conduzir a queda a partir de uma altitude inferior a 5m / 15 pés, pressionando o botão direito do mouse.
 * ** Flares de contramedidas ** são limitados e precisam ser rearmados quando gastos. Toda vez que você utilizar flare \(** X ** \), um sinalizador será implantado. Você pode segurar para implantar múltiplos.
 
-## _Fixed Wing Aircraft_ {#fixed-wing-aircraft}
+## _Aeronaves_ {#fixed-wing-aircraft}
 
 * Aeronaves têm um ** tempo de aquecimento ** de 30 segundos antes de poderem decolar do solo.
 * Pilotos de jato podem olhar em outras direções enquanto voam pressionando as teclas 7, 8 e 9 que você pode mapear para um joystick POV HAT Switch. Para olhar para frente, pressione 1 ou selecione qualquer outra arma que sua aeronave tenha.

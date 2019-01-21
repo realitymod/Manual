@@ -1,6 +1,6 @@
 # Set-Up
 
-## _Requisitos de sistema_ {#systemreq}
+## _Requisitos do Sistema_ {#systemreq}
 
 * ** Sistema operacional: ** Windows XP, 7, 8 ou 10
 * ** Processador: ** mínimo de 2.4 Ghz Dual-Core. 3,2 Ghz Recomendado
@@ -13,7 +13,7 @@
 * ** Entrada: ** Mouse, Teclado
 * ** Opcional: ** Joystick, fone de ouvido, microfone \(altamente recomendado para comunicação de voz \)
 
-## _Instalação do jogo_                                                                          {#game-installation}
+## _Instalação do Jogo_                                                                          {#game-installation}
 
 Com o PR: BF2, ** não é mais necessário ter o Battlefield 2 ** instalado. PR: BF2 v1.3 e além funciona como um jogo autônomo. Se você tem uma versão do PR: BF2 instalado, você precisará desinstalá-lo antes de instalar o PR: BF2 v1.5. ** Não há patch disponível e versão mais antiga para v1.3! **
 
@@ -60,7 +60,7 @@ Depois de criar um perfil e fazer o login, você é apresentado ao menu principa
 
 > _O menu principal do lançador também fornece um marcador de notícias na parte inferior destacado em azul com anúncios de eventos futuros, progresso de desenvolvimento e blogs de desenvolvedores da comunidade PR: BF2._
 
-## _In-Game Menu Navigation_ {#in-game-menu-navigation}
+## _Navegação no menu no Jogo_ {#in-game-menu-navigation}
 
 * **Co-operative:** Allows you to play PR:BF2 with computer controlled AI soldiers on the teams. This mode is very useful for getting to know the game mechanics and equipment before joining competitive online battles.
 * **Deployment:** The main mode of play in Project Reality. Here you will find intense battles with up to 100 human players.
@@ -114,7 +114,7 @@ Aqui estão alguns links de fórum do realitymod.com para usar por vários motiv
 * [General Technical Support](http://www.realitymod.com/forum/f360-general-technical-support) para todas as suas questões técnicas.
 * [PR In-Game Tactics and Strategies](http://www.realitymod.com/forum/f137-pr-game-tactics-strategies) irá ajudá-lo ainda mais neste manual para dominar todos os elementos do PR: BF2 com guias e tutoriais escritos pela comunidade.
 
-## _Controles padrão do jogo_ {#default-game-controls}
+## _Padrão de Controles do Jogo_ {#default-game-controls}
 
 **Controles Gerais**
 

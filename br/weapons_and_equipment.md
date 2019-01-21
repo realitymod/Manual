@@ -112,7 +112,7 @@ Armas precisam ser recarregadas manualmente \(padrão: ** R ** \). O desvio de a
 
 > _Kits: Pilot, any spawnable kit used by a team with a paradrop spawn point_
 
-## _Back Up Iron Sights \(BUIS\)_ {#buis}
+## _Utilizando Iron Sights \(BUIS\)_ {#buis}
 
 **Back up iron sights \(BUIS\)** são projetados para fornecer ao operador um método alternativo para a aquisição de um alvo, dependendo da situação. Contanto que a arma tenha o BUIS equipado, o jogador poderá alternar entre visores de backup e ótica usando ** a tecla Cycle Camera pré-existente \(C ** \). O jogador pode alternar entre os modos de visualização, indicados pela letra BUIS no canto inferior direito. S para escopo, B para BUIS. O modo BUIS pode ser alternado a qualquer momento, esteja você mirando ou não a vista, mas você deve voltar a mirar a mudança entre os modos.
 
