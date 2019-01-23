@@ -87,11 +87,11 @@ Para implantar uma estrutura, siga estas etapas:
 >
 > uma pá é necessária para construir implementáveis.
 
-Os jogadores atualmente em pé onde o implementáveis está sendo colocado morrerão. Portanto, certifique-se de que seu esquadrão saiba onde você pretende construir. Os soldados precisam usar a ** pá ** para construir ativos. A construção está concluída quando a escavação é interrompida.
+Os jogadores atualmente em pé onde o implementáveis está sendo colocado morrerão. Portanto, certifique-se de que seu esquadrão saiba onde você pretende construir. Os soldados precisam usar a **pá** para construir ativos. A construção está concluída quando a escavação é interrompida.
 
 Coloque as implantações em áreas não obstruídas de terreno aberto para evitar efeitos indesejáveis e locais de posicionamento indesejados. A implantável só aparecerá se o local da veiculação não estiver muito acima ou abaixo da sua posição.
 
-Para desmontar uma estrutura construída, os membros do esquadrão devem usar o botão direito para destruir uma colocação, então o Líder do Esquadrão pode clicar com o botão direito no menu ** DEPLOY / REMOVE ASSET ** enquanto aponta para o objeto a não mais que 5m de distância, para removê-lo completamente.
+Para desmontar uma estrutura construída, os membros do esquadrão devem usar o botão direito para destruir uma colocação, então o Líder do Esquadrão pode clicar com o botão direito no menu **DEPLOY / REMOVE ASSET** enquanto aponta para o objeto a não mais que 5m de distância, para removê-lo completamente.
 
 As armas de posicionamentos Implementáveis_ podem ser rearmadas largando sacos de munição ao lado deles. Vários sacos são necessários para rearmar completamente uma colocação.
 
