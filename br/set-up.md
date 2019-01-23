@@ -2,26 +2,26 @@
 
 ## _Requisitos do Sistema_ {#systemreq}
 
-* ** Sistema operacional: ** Windows XP, 7, 8 ou 10
-* ** Processador: ** mínimo de 2.4 Ghz Dual-Core. 3,2 Ghz Recomendado
-* ** Memória: ** 3 GB de RAM. 4 GB recomendado
-* ** Disco Rígido: ** 10 GB de espaço livre no Disco Rígido
-* ** Adaptador gráfico: ** Placa gráfica com 128 MB de RAM. 512 MB recomendados.
-* ** Som: ** Dispositivo de som compatível com DirectX 9. Placa de som dedicada com suporte EAX recomendada para melhor experiência.
-* ** Internet: ** 256 kbps ou conexão mais rápida necessária para jogar on-line
-* ** Software: ** .NET Framework 4
-* ** Entrada: ** Mouse, Teclado
-* ** Opcional: ** Joystick, fone de ouvido, microfone \(altamente recomendado para comunicação de voz \)
+* **Sistema operacional:** Windows XP, 7, 8 ou 10
+* **Processador:** mínimo de 2.4 Ghz Dual-Core. 3,2 Ghz Recomendado
+* **Memória:** 3 GB de RAM. 4 GB recomendado
+* **Disco Rígido:** 10 GB de espaço livre no Disco Rígido
+* **Adaptador gráfico:** Placa gráfica com 128 MB de RAM. 512 MB recomendados.
+* **Som:** Dispositivo de som compatível com DirectX 9. Placa de som dedicada com suporte EAX recomendada para melhor experiência.
+* **Internet:** 256 kbps ou conexão mais rápida necessária para jogar on-line
+* **Software:** .NET Framework 4
+* **Entrada:** Mouse, Teclado
+* **Opcional:** Joystick, fone de ouvido, microfone \(altamente recomendado para comunicação de voz \)
 
 ## _Instalação do Jogo_                                                                          {#game-installation}
 
-Com o PR: BF2, ** não é mais necessário ter o Battlefield 2 ** instalado. PR: BF2 v1.3 e além funciona como um jogo autônomo. Se você tem uma versão do PR: BF2 instalado, você precisará desinstalá-lo antes de instalar o PR: BF2 v1.5. ** Não há patch disponível e versão mais antiga para v1.3! **
+Com o PR: BF2, **não é mais necessário ter o Battlefield 2** instalado. PR: BF2 v1.3 e além funciona como um jogo autônomo. Se você tem uma versão do PR: BF2 instalado, você precisará desinstalá-lo antes de instalar o PR: BF2 v1.5. **Não há patch disponível e versão mais antiga para v1.3!**
 
 Você tem que baixar o PR completo: instalador BF2 do nosso site. Não será necessário ter o Battlefield 2 instalado.
 
 [**Download Full PR:BF2 v1.5 Installer**](http://www.realitymod.com/downloads)
 
-Existem 2 métodos de instalação. Você pode usar o ** aplicativo Assistente de Download **, o que torna muito mais fácil instalar o PR: BF2 ou você pode baixar e instalar manualmente o Instalador através de um ** Torrent **. Com ambos os métodos, existem 2 etapas: Download e instalação:**
+Existem 2 métodos de instalação. Você pode usar o **aplicativo Assistente de Download**, o que torna muito mais fácil instalar o PR: BF2 ou você pode baixar e instalar manualmente o Instalador através de um **Torrent**. Com ambos os métodos, existem 2 etapas: Download e instalação:**
 
 **1\) Download**
 
@@ -37,7 +37,7 @@ Mais alguns pontos:
 
 * Com a nova versão independente, também não há mais a necessidade de instalá-lo na pasta Battlefield 2. Sinta-se à vontade para instalar o PR: BF2 em uma unidade e pasta de sua escolha.
 * Se você tiver o BF2 instalado, você pode continuar a executa-lo e fazer outras modificações no BF2. PR: BF2 não interfere com eles.
-* PR: BF2 possui ** um atualizador automático. ** Então, depois de instalar o PR: BF2, você pode usar o atualizador para atualizar automaticamente seu jogo para versões mais novas quando elas forem liberadas.
+* PR: BF2 possui **um atualizador automático.** Então, depois de instalar o PR: BF2, você pode usar o atualizador para atualizar automaticamente seu jogo para versões mais novas quando elas forem liberadas.
 * PR: BF2 v1.3 e além inclui PR Mumble em sua instalação. Portanto, não há necessidade de fazer o download separadamente.
 * Se você não quiser usar o Torrents, encontrará espelhos para downloads HTTP diretos em nossos fóruns.
 
@@ -51,12 +51,12 @@ Se você é novo no BF2: PR e nunca fez um perfil antes, basta clicar em "Criar 
 
 Depois de criar um perfil e fazer o login, você é apresentado ao menu principal do Launcher de relações públicas. Todas as opções são exibidas à direita.
 
-* ** Play: ** Isso iniciará o jogo. Se você clicar na seta para baixo à direita, terá a opção de verificar atualizações ou selecionar um perfil diferente. Se houver uma atualização, ela será exibida automaticamente se você pressionar o botão de reprodução. Essa atualização será baixada e instalada automaticamente. O progresso da atualização e instalação será exibido enquanto estiver em operação.
-* ** Options: ** Neste menu você pode editar suas configurações de vídeo, gráficos e áudio. Além disso, outras opções estão disponíveis, além de configurar as chaves do PR Mumble.
-* ** Support: ** Isso é útil quando você está com problemas. Ele oferece muitos utilitários, como limpar pastas armazenadas em cache ou fornecer uma exibição detalhada das informações do computador. Isso é útil ao entrar em contato com nossa equipe de suporte.
-* ** Credits: ** Aqui você pode ver toda a equipe do PR: BF2 que trabalhou neste mod por muitos anos.
-* ** Donate: ** Um link direto para a nossa página de doações on-line.
-* ** Exit: ** Use este botão para fechar o PR Launcher e retornar ao Windows
+* **Play:** Isso iniciará o jogo. Se você clicar na seta para baixo à direita, terá a opção de verificar atualizações ou selecionar um perfil diferente. Se houver uma atualização, ela será exibida automaticamente se você pressionar o botão de reprodução. Essa atualização será baixada e instalada automaticamente. O progresso da atualização e instalação será exibido enquanto estiver em operação.
+* **Options:** Neste menu você pode editar suas configurações de vídeo, gráficos e áudio. Além disso, outras opções estão disponíveis, além de configurar as chaves do PR Mumble.
+* **Support:** Isso é útil quando você está com problemas. Ele oferece muitos utilitários, como limpar pastas armazenadas em cache ou fornecer uma exibição detalhada das informações do computador. Isso é útil ao entrar em contato com nossa equipe de suporte.
+* **Credits:** Aqui você pode ver toda a equipe do PR: BF2 que trabalhou neste mod por muitos anos.
+* **Donate:** Um link direto para a nossa página de doações on-line.
+* **Exit:** Use este botão para fechar o PR Launcher e retornar ao Windows
 
 > _O menu principal do lançador também fornece um marcador de notícias na parte inferior destacado em azul com anúncios de eventos futuros, progresso de desenvolvimento e blogs de desenvolvedores da comunidade PR: BF2._
 
