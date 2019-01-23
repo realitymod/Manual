@@ -41,7 +41,7 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
    * A razão pela qual o recurso implementável que o player solicitou não pôde ser construído.
    * Que o jogador deve sair do veículo ou do assento atual para evitar punição.
 * PR também usa **HQ Notifications**, que é exibido em laranja grande na parte superior esquerda da tela. Essas notificações fornecem atualizações sobre os objetivos atuais, o progresso da missão e outras mensagens essenciais.
-* O disparo ** de mira ** foi removido da tela. Se você quiser fotografar com precisão, você precisa pressionar a tecla de disparo alternativo para mirar a mira da sua arma, ou usar o BUIS para lutar de perto. \(veja o capítulo sobre armas\).
+* O disparo **de mira** foi removido da tela. Se você quiser fotografar com precisão, você precisa pressionar a tecla de disparo alternativo para mirar a mira da sua arma, ou usar o BUIS para lutar de perto. \(veja o capítulo sobre armas\).
 * **Tags de nome foram removidas** para todos os jogadores. É vital identificar seus alvos antes de se envolver para evitar um fogo amigo. Aprender a distinção de camuflagem diferente, bandeiras e a forma de perfil da infantaria de facções o ajuda a identificar um inimigo mais rapidamente. Como exemplo, para localizar um Líder de Esquadrão, procure uma antena de rádio que se estenda para cima de sua mochila.
 * **Nenhuma barra de status de saúde** indicando seu status vital. Quando você perder mais de 25% de sua saúde, começará a ver uma tela vermelha e sangrenta que pulsa ao ouvir sons de dor de ferimentos. Você continuará perdendo saúde ao sangrar até receber atenção médica, se não morrer. Se, no entanto, sua saúde cair muito, sua tela perderá todas as cores, sua visão ficará muito embaçada e você não conseguirá se mexer rapidamente. Você terá aproximadamente alguns minutos para chegar à atenção médica ou morrerá.
 * **O contador de munição** exibe apenas o modo de disparo da arma e o número de revistas restantes.
@@ -313,5 +313,5 @@ Ao sair de um veículo em movimento ou em chamas, você será ferido e possivelm
 * Os jogadores podem **solicitar kits** da posição de entrada de um APC / IFV.
 * Veículos blindados são mais vulneráveis quando atacados pelos flancos. A armadura na traseira do veículo é a mais fraca. Um único projétil anti-tanque bem colocado pode desativá-lo ou destruí-lo
 >
-> _Vehicle entry points can differ per vehicle. Look for hatches._**
+> _Vehicle entry points can differ per vehicle. Look for hatches._
 
