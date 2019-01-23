@@ -26,7 +26,7 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
 >
 > FOB, Hideout & weapon cache.
 
-* **A sede da sua equipe, base principal ou FOB permanente.** Este é o único ponto de spawn que está sempre disponível.**
+* **A sede da sua equipe, base principal ou FOB permanente.** Este é o único ponto de spawn que está sempre disponível.
 
 > ![](../assets/acv.png)
 >
