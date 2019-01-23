@@ -71,14 +71,14 @@ Os artilheiros Tank & IFV usam o slot de arma \(geralmente 3 \) e apertam o bot�
 * Para **decolar** você precisa colocar o acelerador no máximo e depois esperar um pouco para que o avião comece a acelerar. Quando você está abaixo de 2/3 da pista, comece a puxar a alavanca suavemente e talvez adicione um pouco de afterburner\(Shit esquerdo \).
 * A maioria das aeronaves vem equipada com um **canhão e várias armas externas**. O botão de tiro primária \(esquerdo do mouse\) disparará o canhão (se a sua aeronave tiver uma), enquanto o botão direito do mouse disparará a arma selecionada no momento, como bombas e mísseis.
 * Para **re-armar e reparar** você precisa pousar a aeronave em sua base aérea e táxiar para o “rampa” ou em alguns poucos mapas na pista. Demora algum tempo para rearmar completamente. Nos Carriers, você só pode recarregar na “rampa” dos Carriers, fora da pista. Isso não inclui os elevadores.
-* **Air-to-ground weapons** em aeronaves de assento único precisam de uma trava a laser estabelecida para acertar um alvo. O procedimento recomendado para um ataque com eles é explicado abaixo:**
+* **Air-to-ground weapons** em aeronaves de assento único precisam de uma trava a laser estabelecida para acertar um alvo. O procedimento recomendado para um ataque com eles é explicado abaixo:
 
   1. As tropas terrestres encontram um alvo adequado para um ataque aéreo.
   2. As tropas entram em contato com o piloto diretamente através de um bate-papo com mumble / text e / ou colocando um marcador CAS.![](../assets/marker.png)
   3. O piloto informa as tropas terrestres de sua aproximação usando o comando **“ON THE WAY”** de seu menu de rádio principal e / ou através de um bate-papo com mensagens / texto.
   4. À medida que o piloto se aproxima do alvo, as tropas terrestres marcam o alvo com um designador **GTLD laser**, se o laser estiver ligeiramente fora do alvo, o míssil pode falhar.
   5. Quando o alvo está bloqueado, o piloto recebe uma dica de som. Ele pode agora liberar a bomba / míssil.
-* ** Aeronave de dois lugares ** permite que o oficial de sistemas de armas \(WSO \) identifique e envolva alvos sozinho ao usar o modo de segmentação de TV. Os modos de segmentação funcionam da mesma maneira que nos helicópteros de ataque.
+* **Aeronave de dois lugares** permite que o oficial de sistemas de armas \(WSO \) identifique e envolva alvos sozinho ao usar o modo de segmentação de TV. Os modos de segmentação funcionam da mesma maneira que nos helicópteros de ataque.
 * O comandante pode colocar um alvo a laser em seu mapa. Como esse método não é muito preciso, ele deve ser usado apenas para bombardear alvos estáticos.
 * As aeronaves não têm uma câmera no nariz, mas você ainda pode olhar para trás pressionando a tecla da câmera do ciclo \(**C** \) ou F11 para olhar para trás, e F9 ou uma tecla de arma para olhar para frente novamente.
 * **Flares** são acionados individualmente \(**X** \) e precisam ser rearmados após todos terem sido descartados. Como o som de advertência é tocado apenas quando o inimigo já está travado em sua aeronave por meio segundo, recomenda-se usá-lo durante uma corrida de ataque para reduzir a chance de o inimigo estabelecer uma trava. Assim como com helicópteros, você pode segurar a tecla para implantar vários.
