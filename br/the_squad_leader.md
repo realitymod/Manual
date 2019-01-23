@@ -2,7 +2,7 @@
 
 ## _Guiando Esquadrão_ {#guiding-squad}
 
-Como explicado na seção Navegação do Campo de Batalha, o Líder do Esquadrão pode colocar marcadores no mapa para os membros de seu esquadrão seguirem. Eles encontrarão um marcador em sua bússola para seguir, bem como um ícone no mapa. O Líder do Esquadrão deve usá-los sempre que possível e também pode usar isso para obter facilmente a distância em direção ao alvo. Ele pode fazer isso a partir do minimapa clicando com o botão direito do mouse e colocando o marcador ou pressionando a tecla de rádio secundária ** \(T \) ** e apontando para o alvo e usando um dos botões para colocar o marcador.
+Como explicado na seção Navegação do Campo de Batalha, o Líder do Esquadrão pode colocar marcadores no mapa para os membros de seu esquadrão seguirem. Eles encontrarão um marcador em sua bússola para seguir, bem como um ícone no mapa. O Líder do Esquadrão deve usá-los sempre que possível e também pode usar isso para obter facilmente a distância em direção ao alvo. Ele pode fazer isso a partir do minimapa clicando com o botão direito do mouse e colocando o marcador ou pressionando a tecla de rádio secundária **\(T \)** e apontando para o alvo e usando um dos botões para colocar o marcador.
 
 * ![](../assets/target%20%281%29.png) **Target** \(Alvo\)
 * ![](../assets/build.png) **Build** \(Construir\)
@@ -11,15 +11,15 @@ Como explicado na seção Navegação do Campo de Batalha, o Líder do Esquadrã
 * ![](../assets/demolish.png) **Demolish** \(Destruir\)
 * ![](../assets/move%20%281%29.png) **Move**\(Mover\)
 
-O comandante também pode comandar você. Se você aceitar o pedido \(** PAGE UP ** \), seu marcador será substituído pelo pedido do comandante.
+O comandante também pode comandar você. Se você aceitar o pedido \(**PAGE UP** \), seu marcador será substituído pelo pedido do comandante.
 
 ## _Marcando Inimigos_ {#spotting-enemies}
 
 O **Squad Leader** em PR:BF2 tem muitas habilidades funcionais. Ele é capaz de marcar unidades inimigas no mapa e encaminhar relatórios de contato para o comandante da equipe com a habilidade de marcar um alvo no mapa da equipe. Para executar essas funções, siga estas etapas:
 
 1. Defina uma ordem de posição de destino com a roda de menu para adquirir uma distância aproximada do contato. \(Abra o mapa para ver o intervalo a ser alistado listado sob o mapa \).
-2. Selecione o rádio do seu inventário e use ** o botão direito do mouse \(RMB \) ** para ativá-lo.
-3. Agora segure ** a tecla de menu radio principal \(Q\)** e selecione o botão ** SET CONTACT DISTANCE **, depois selecione a distância do alvo na lista.
+2. Selecione o rádio do seu inventário e use **o botão direito do mouse \(RMB \)** para ativá-lo.
+3. Agora segure **a tecla de menu radio principal \(Q\)** e selecione o botão **SET CONTACT DISTANCE**, depois selecione a distância do alvo na lista.
 4. Reabra o menu principal de rádio e selecione o tipo de contato alvo para marcar no mapa. Cada jogador pode colocar até 3 marcadores que permanecem por 5 minutos.
 
 > ![](../assets/spotting.png)
@@ -29,7 +29,7 @@ O **Squad Leader** em PR:BF2 tem muitas habilidades funcionais. Ele é capaz de 
 
 ## _O GTL Designador \(GTLD\)_ {#gtld}
 
-O kit de Líder de Esquadrão e o kit Spotter usado pelas forças convencionais são equipados com ** GTLD \(Ground Target Laser Designator \) **. Este equipamento tem melhor zoom do que os binóculos comuns, inclui um visor de faixa e permite que você pinte alvos inimigos que podem ser alvo de bombas ou mísseis da unidade aérea amigável \(e inimiga\).**
+O kit de Líder de Esquadrão e o kit Spotter usado pelas forças convencionais são equipados com **GTLD \(Ground Target Laser Designator \)**. Este equipamento tem melhor zoom do que os binóculos comuns, inclui um visor de faixa e permite que você pinte alvos inimigos que podem ser alvo de bombas ou mísseis da unidade aérea amigável \(e inimiga\).
 
 Com o GTLD equipado, você pode clicar com o botão direito do mouse para aumentar o nível de zoom e clicar com o botão esquerdo para alternar o estado ativado / desativado. Enquanto em diante, o GTLD emite um laze, representado com um pequeno quadrado verde e a distância até ele, que você deve manter seu alvo até que a bomba / míssil o atinja, ao contrário das versões anteriores, onde o laze "grudaria" no alvo mesmo sem linha de visão.
 
@@ -42,7 +42,7 @@ Além disso, ao observar com o GTLD, você pode acessar o menu de rádio princip
 
 ## _Rally Points_ {#rally-points}
 
-Um Líder de Esquadrão tem a capacidade de definir ** Rally Points \(RP \) **. Isso permite que membros do esquadrão caídos se reagrupem em uma área segura com o resto de seu esquadrão. Para colocar um RP, você precisa pressionar ** a tecla de rádio secundária \(T \) ** e selecionar ** PLACE RALLY POINT.**
+Um Líder de Esquadrão tem a capacidade de definir **Rally Points \(RP \)**. Isso permite que membros do esquadrão caídos se reagrupem em uma área segura com o resto de seu esquadrão. Para colocar um RP, você precisa pressionar **a tecla de rádio secundária \(T \)** e selecionar **PLACE RALLY POINT.**
 
 As seguintes condições devem ser atendidas para que o RP seja colocado com sucesso:
 
@@ -61,7 +61,7 @@ Um ponto de reunião rearma a cada 1 minuto. A menos que tenha sido superado. Ne
 
 ## _Solicitando Suporte_ {#requesting-support}
 
-O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar ** a tecla de rádio secundária \(T \). ** Isso abrirá o menu para solicitar suporte e implantar recursos da equipe. Os cinco comandos inferiores começando com ** “NEED ...” ** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido ** ** NEED AREA ATTACK ** **  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma ** barragem de artilharia **. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um ataque de área, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma barragem de morteiros a cada 20 minutos na maioria dos mapas.**
+O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar **a tecla de rádio secundária \(T \).** Isso abrirá o menu para solicitar suporte e implantar recursos da equipe. Os cinco comandos inferiores começando com **“NEED ...”** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido ** **NEED AREA ATTACK** **  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma **barragem de artilharia**. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um ataque de área, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma barragem de morteiros a cada 20 minutos na maioria dos mapas.
 
 > ![](../assets/support.png)
 >
@@ -79,8 +79,8 @@ Para implantar uma estrutura, siga estas etapas:
 
 1. Selecione e ative o rádio / celular.
 2. Olhe na direção em que a estrutura deve ser posicionada. Será colocado 10m à sua frente.
-3. Depois de implantá-lo, pressione a tecla ** do menu de rádio secundário \(T\). **
-4. Clique com o botão esquerdo do mouse em ** DEPLOY / REMOVE ASSET. **
+3. Depois de implantá-lo, pressione a tecla **do menu de rádio secundário \(T\).**
+4. Clique com o botão esquerdo do mouse em **DEPLOY / REMOVE ASSET.**
 5. Selecione a estrutura que você deseja construir na lista.
 
 > ![](../assets/shovel.png)
@@ -101,7 +101,7 @@ As armas de posicionamentos Implementáveis_ podem ser rearmadas largando sacos 
 
 ## _Estruturas Implementáveis_ {#deployable-structures}
 
-Aqui está uma lista das estruturas Implementáveis ​​e os requisitos para construí-las. Os ativos Implementáveis ​​podem ser desmontados com uma pá ou, alternativamente, destruídos com C4, IEDs, invólucros de tanques, shells APC ou qualquer outra forma de material pesado. Os implementáveis ​​também podem ser completamente destruídos, continuando a danificar a base do local. Postos avançados e esconderijos podem ser destruídos também por explosivos plásticos ou explosivos C4 e TNT. Os líderes da squad podem remover Implementáveis ​​não compilados com o rádio de forma semelhante à forma como foram implantados, usando alternativamente o clique direito para remover a base Implementáveis. O modo de disparo alternativo para a ferramenta de entrincheiramento também tem a capacidade de desmontar Implementáveis ​​não embutidos. Uma observação importante sobre os requisitos e limitações listados abaixo é que todos os valores sobre a distância para um FOB e a quantidade máxima de ativos por FOB são dobrados no modo de jogo CNC \(exceto a quantidade de morteiros \). Lembre-se também que 2 grandes caixas de suprimentos também podem ser substituídas por 4 pequenas caixas de suprimentos ou 1 grande e 2 pequenas caixas. Para saber mais sobre logística e caixas veja [the logistics chapter.](the_basics.md#logistics).
+Aqui está uma lista das estruturas Implementáveis e os requisitos para construí-las. Os ativos Implementáveis podem ser desmontados com uma pá ou, alternativamente, destruídos com C4, IEDs, invólucros de tanques, shells APC ou qualquer outra forma de material pesado. Os implementáveis também podem ser completamente destruídos, continuando a danificar a base do local. Postos avançados e esconderijos podem ser destruídos também por explosivos plásticos ou explosivos C4 e TNT. Os líderes da squad podem remover Implementáveis não compilados com o rádio de forma semelhante à forma como foram implantados, usando alternativamente o clique direito para remover a base Implementáveis. O modo de disparo alternativo para a ferramenta de entrincheiramento também tem a capacidade de desmontar Implementáveis não embutidos. Uma observação importante sobre os requisitos e limitações listados abaixo é que todos os valores sobre a distância para um FOB e a quantidade máxima de ativos por FOB são dobrados no modo de jogo CNC \(exceto a quantidade de morteiros \). Lembre-se também que 2 grandes caixas de suprimentos também podem ser substituídas por 4 pequenas caixas de suprimentos ou 1 grande e 2 pequenas caixas. Para saber mais sobre logística e caixas veja [the logistics chapter.](the_basics.md#logistics).
 
 **Forward Operating Base \(FOB\):** A base operacional avançada, também conhecida como forward outpost, serve como uma posição de spawn defensiva para a equipe. Ele fica online 90 segundos depois de ser construído. Ele se torna inviolável por 30 segundos se 1 inimigo estiver a 10 m, 2 inimigos em 50 m, 4 inimigos em 100 m ou 8 inimigos em 150 m. Requisitos e limitações:
 
