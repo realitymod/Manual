@@ -21,7 +21,7 @@ Você tem que baixar o PR completo: instalador BF2 do nosso site. Não será nec
 
 [**Download Full PR:BF2 v1.5 Installer**](http://www.realitymod.com/downloads)
 
-Existem 2 métodos de instalação. Você pode usar o **aplicativo Assistente de Download**, o que torna muito mais fácil instalar o PR: BF2 ou você pode baixar e instalar manualmente o Instalador através de um **Torrent**. Com ambos os métodos, existem 2 etapas: Download e instalação:**
+Existem 2 métodos de instalação. Você pode usar o **aplicativo Assistente de Download**, o que torna muito mais fácil instalar o PR: BF2 ou você pode baixar e instalar manualmente o Instalador através de um **Torrent**. Com ambos os métodos, existem 2 etapas: Download e instalação:
 
 **1\) Download**
 
