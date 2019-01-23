@@ -108,9 +108,9 @@ Para solicitar um kit, uma seqüência de teclas específica precisa ser seguida
 | Seqüência de teclas para solicitar um kit |
 | --- |
 | 1. Pressione e segure a tecla **Rádio Secundária / \(T\)** \(trará um _Ícone na tela \), |
-| 2. Com o mouse, selecione a opção central do clicando no ícone \(**REQUEST / DROP KIT "** \) ** com o botão esquerdo ** nele. Isso abrirá uma lista de menu com todos os kits |
+| 2. Com o mouse, selecione a opção central do clicando no ícone \(**REQUEST / DROP KIT "** \) **com o botão esquerdo** nele. Isso abrirá uma lista de menu com todos os kits |
 | 3. Mova o mouse para destacar o kit desejado e **clique com o botão esquerdo** nele para a versão padrão OU **clique com o botão direito do mouse** para o modelo alternativo |
-| 4. Se todas as condições forem atendidas, um texto amarelo aparecerá dizendo ** "Your kit has been ALLOCATED and is at your feet" \(Seu kit foi alocado e está a seus pés \) **. Pegue-o pressionando ** a tecla G** |
+| 4. Se todas as condições forem atendidas, um texto amarelo aparecerá dizendo **"Your kit has been ALLOCATED and is at your feet" \(Seu kit foi alocado e está a seus pés \)**. Pegue-o pressionando **a tecla G** |
 
 Se a sua solicitação for negada, você verá uma mensagem de texto amarela explicando o motivo:
 
