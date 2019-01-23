@@ -3,7 +3,7 @@
 Kits no Project Reality definem sua classe, equipamento e sua função na equipe. PR apresenta uma ampla seleção de kits que você pode levar. De um modo geral, existem dois tipos de kits no Project Reality:
 
 * **Kits Padrão**, que são os papéis do esquadrão de infantaria padrão e podem ser selecionados diretamente a partir da tela de spawn
-* **Specialist Kits**, que são papéis mais especializados e só podem ser obtidos através de um especial [request procedure](kits.md#kit-request)** 
+* **Specialist Kits**, que são papéis mais especializados e só podem ser obtidos através de um especial [request procedure](kits.md#kit-request)
 
 ## _Como Iniciar_ {#where-to-start}
 
