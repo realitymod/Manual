@@ -4,7 +4,7 @@
 
 ## **Project Reality: BF2 Manual - Updated for v1.5**
 
-> Project Reality: O BF2 está em desenvolvimento por inúmeros desenvolvedores ao longo de um período de mais de 10 anos. Extensas modificações e melhorias foram feitas durante este período. Depois de milhares de mudanças, fica cada vez mais difícil reconhecer que o PR é uma modificação do Battlefield 2. Esperamos que este manual ofereça um bom começo para o desafiador mundo do PR: BF2. Se você tiver algum comentário ou perguntas não respondidas sobre este documento, não hesite em nos contatar nos fóruns. ** Este manual foi atualizado para a versão 1.5 do PR: BF2. **
+> Project Reality: O BF2 está em desenvolvimento por inúmeros desenvolvedores ao longo de um período de mais de 10 anos. Extensas modificações e melhorias foram feitas durante este período. Depois de milhares de mudanças, fica cada vez mais difícil reconhecer que o PR é uma modificação do Battlefield 2. Esperamos que este manual ofereça um bom começo para o desafiador mundo do PR: BF2. Se você tiver algum comentário ou perguntas não respondidas sobre este documento, não hesite em nos contatar nos fóruns. **Este manual foi atualizado para a versão 1.5 do PR: BF2.**
 >
 > _The PR-Team_
 
@@ -18,5 +18,5 @@ O principal objetivo principal do Project Reality é o trabalho em equipe. Coord
 
 Outro aspecto fundamental do PR é como os jogadores se comunicam. A comunicação no PR é um elemento essencial do jogo e recomendamos que todos os jogadores estejam prontos para o microfone quando começarem a jogar online. Para garantir uma comunicação aprimorada, uma versão integrada do software de comunicação de voz PR Mumble oferece aos jogadores um recurso de comunição de voz não disponível em BF2, como a capacidade de falar com outros jogadores dentro da vizinhança local, independentemente de qual esquadrão eles sejam. , bem como transmitir aos membros do esquadrão sobre o rádio do esquadrão, não importa onde eles estão no campo de batalha. Nenhuma instalação adicional é necessária, o que significa que cada jogador no campo de batalha terá a mesma configuração de comunicação e poderá se comunicar sem esforço.
 
-Este mod foi feito por jogadores, por isso não tenha medo de pedir ajuda no jogo ou nos fóruns em[realitymod.com](http://www.realitymod.com/forum/f360-general-technical-support). Mais uma vez, bem-vindo ao PR e uma experiência de jogo totalmente nova!
+Este mod foi feito por jogadores, por isso não tenha medo de pedir ajuda no jogo ou nos fóruns em [realitymod.com](http://www.realitymod.com/forum/f360-general-technical-support). Mais uma vez, bem-vindo ao PR e uma experiência de jogo totalmente nova!
 
