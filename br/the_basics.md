@@ -14,7 +14,7 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
 * **Your squad's rally point \(RP\)** é um círculo verde em torno de um ponto de spawn com o número do seu esquadrão adjacente a ele. Dependendo da localização do RP do seu esquadrão em relação ao FOB de uma equipe, ele determinará sua longevidade. Nota: Se você aparecer no ponto de rally de outro esquadrão, você irá automaticamente aparecer no seu próprio ponto de rally, ou em qualquer FOB próximo. Se não houver nenhum disponível, você será transferido para a base principal de sua equipe. Se for invadido pelo inimigo, o RP do seu esquadrão desaparecerá. RPs só estão disponíveis para forças convencionais. [\(veja estruturas implementáveis\)](the_squad_leader.md#deployable-structures)
 
 > ![](../assets/rally.png)
->
+>f
 > Um rallypoint.
 
 * **Map-specific team rally points**. Estes geralmente expiram 5 minutos após o início da rodada e podem ser usados por toda a equipe. Estes também só permitem que o máximo de 12 pessoas spawnem até que desapareça.
@@ -136,7 +136,7 @@ Para ser capaz de se rearmar, você precisará se aproximar de uma das várias f
 >
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
-Esteja ciente de que, com exceção dos ** Weapons caches ** e **Vehicle depot**, todas as outras fontes de munição são **limitadas**. Eventualmente, essas fontes irão esgotar e desaparecer.
+Esteja ciente de que, com exceção dos **Weapons caches** e **Vehicle depot**, todas as outras fontes de munição são **limitadas**. Eventualmente, essas fontes irão esgotar e desaparecer.
 
 > É até possível que as fontes de munição se esgotem antes de você estar completamente rearmado.
 
