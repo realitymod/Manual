@@ -10,13 +10,13 @@ O Comandante pode **confirmar ou negar o pedido de ataque de área \(area attack
 
 Para manter a equipe coesa, o foco exclusivo do comandante é ** entregar os pedidos ** para cada esquadrão. Ele pode, alternativamente, ajudar os membros da equipe, mantendo-os bem informados sobre situações fora de sua área de operações \(AO\) confirmando inteligência no mapa usando uma variedade de marcadores clicando com o botão direito do mouse no mapa:
 
-* **Comandos**
+* **Commands**
   * **Destroy**: Remova FOBs amigáveis.
-  * **Remove Marker:** Remova marcadores amigáveis indesejados do mapa.
-  * **UAV:** Implante o reconhecimento de aeronave na posição.
-  * **Waypoint:** Coloque um marcador de waypoint. Você pode colocar até 7 deles. Cada um é identificado com uma letra. Estes não desaparecem.
-  * **Request Mortars:** Peça fogo de morteiro a esta posição.
-  * **Target laze:** Isso gera um objeto de lazer na posição em que foi colocado. Isso pode ser usado pelo CAS para atacar determinados locais.
+  * **Remove Marker:** Remova marcadores amigáveis indesejados do mapa.
+  * **UAV:** Implante o reconhecimento de aeronave na posição.
+  * **Waypoint:** Coloque um marcador de waypoint. Você pode colocar até 7 deles. Cada um é identificado com uma letra. Estes não desaparecem.
+  * **Request Mortars:** Peça fogo de morteiro a esta posição.
+  * **Target laze:** Isso gera um objeto de lazer na posição em que foi colocado. Isso pode ser usado pelo CAS para atacar determinados locais.
 
 > ![](../assets/commands.png)
 >
