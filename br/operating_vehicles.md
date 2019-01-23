@@ -30,10 +30,10 @@
 * Veículos blindados não emitem nenhum som de alerta quando são alvos de lançadores de foguetes ou quando mísseis são disparados contra eles.
 * Veículos blindados possuem materiais realistas. Isso significa que a blindagem frontal e da torre é mais forte que a traseira e superior do veículo. Lados de veículos e as trilhas geralmente têm o meio termo quando se trata de força de armadura.
 * Tanques e IFVs geralmente têm até 4 tipos de munição:
-  * **Armor-piercing \(AP \):** Para atacar veículos blindados inimigos.
-  * **High Explosive \(HE \)** \(carregado pressionando 2 \): Efetivo contra alvos fáceis \(jipes, casas, helicópteros, infantaria coberta, etc. \)
-  * **Anti-tank missiles** \(carregado pressionando 3 \): Usado contra armaduras pesadas.
-  * **Co-axial MG** \(acionado usando botão direito do mouse \): Usado contra a infantaria.
+  * **Armor-piercing \(AP\):**  Para atacar veículos blindados inimigos.
+  * **High Explosive \(HE\)** \(carregado pressionando 2 \): Efetivo contra alvos fáceis \(jipes, casas, helicópteros, infantaria coberta, etc. \)
+  * **Anti-tank missiles** \(carregado pressionando 2 \): Efetivo contra alvos fáceis \(jipes, casas, helicópteros, infantaria coberta, etc. \)
+  * **Co-axial MG** \(carregado pressionando 3 \): Usado contra armaduras pesadas.
 * Pilotos de tanque ou artilheiros \(dependendo do veículo \) e certos outros veículos podem **Lançar Fumaça** pressionando o botão direito do mouse.
 
 Os artilheiros Tank & IFV usam o slot de arma \(geralmente 3 \) e apertam o botão esquerdo do mouse para lançar uma saraivada de bombas de fumaça. Cada um deles pode disparar 2 voleys \ (o artilheiro tem que esperar 60s entre voleys \).
