@@ -6,7 +6,7 @@ Ao jogar no insurgente iraquiano ou facção do Hamas, os jogadores podem optar 
 >
 > Um civil
 
-Os civis estão sujeitos a determinadas regras de engajamento ** (ROE). As forças de coalizão não podem atirar em civis que estão fora das regras de engajamento, arriscando pesadas penalizações. Em vez disso, eles devem ** prendê-los ** ou esperar até que sejam um alvo legítimo.
+Os civis estão sujeitos a determinadas regras de engajamento **(ROE)**. As forças de coalizão não podem atirar em civis que estão fora das regras de engajamento, arriscando pesadas penalizações. Em vez disso, eles devem **prendê-los** ou esperar até que sejam um alvo legítimo.
 
 Para que um jogador prenda um civil, ele deve usar os detenedores ou a Escopeta com um cartucho de chumbo.
 
