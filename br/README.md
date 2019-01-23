@@ -8,6 +8,8 @@
 >
 > _The PR-Team_
 
+**v1.5 Translation by Mordekay**
+
 **Introdução**
 
 Esta introdução dará uma breve visão geral do que você pode esperar quando começar a jogar a modificação do Project Reality para o Battlefield 2. Essa modificação tem um nível de complexidade e trabalho de equipe que você não encontrará na maioria dos jogos de tiro em primeira pessoa, embora ainda encontra o equilíbrio entre simulação e jogabilidade. Devido à curva de aprendizado, recomendamos que todos os novos jogadores leiam este manual antes de entrar em um jogo online.
