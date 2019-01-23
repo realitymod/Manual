@@ -64,7 +64,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 > _Kits: Anti Aircraft_
 
-![C:\Users\Wouter\Desktop\15.png](../assets/cuserswouterdesktop15.png)**Remote detonated explosives** são explosivos que são detonados por um dispositivo remoto acionado pelo indivíduo que colocou os explosivos e são geralmente usados para emboscadas e defesa. ** Minas Antipessoal ** \(Claymores \) leva 5 segundos para armar após a colocação. Ao armar o detonador, um som indicará quando este tempo passou. Se os explosivos forem acionados prematuramente, eles não explodirão de jeito nenhum. IEDs não têm essa salvaguarda. A maioria dos explosivos tem que ser montada na posição de bruços. Um jogador pode colocar até 4 minas AP e 5 C4 packs ou IEDs simultaneamente. Alguns soldados podem colocar dois grupos independentes de explosivos que podem ser acionados individualmente. Esses explosivos podem ser todos retirados pela chave inglesa do Combat Engineer. Durante a colocação, você pode colocar um marcador no mapa para forças amigáveis pressionando ** Q **. Você pode colocar até 3 marcadores no total.**
+![C:\Users\Wouter\Desktop\15.png](../assets/cuserswouterdesktop15.png)**Remote detonated explosives** são explosivos que são detonados por um dispositivo remoto acionado pelo indivíduo que colocou os explosivos e são geralmente usados para emboscadas e defesa. **Minas Antipessoal** \(Claymores \) leva 5 segundos para armar após a colocação. Ao armar o detonador, um som indicará quando este tempo passou. Se os explosivos forem acionados prematuramente, eles não explodirão de jeito nenhum. IEDs não têm essa salvaguarda. A maioria dos explosivos tem que ser montada na posição de bruços. Um jogador pode colocar até 4 minas AP e 5 C4 packs ou IEDs simultaneamente. Alguns soldados podem colocar dois grupos independentes de explosivos que podem ser acionados individualmente. Esses explosivos podem ser todos retirados pela chave inglesa do Combat Engineer. Durante a colocação, você pode colocar um marcador no mapa para forças amigáveis pressionando **Q**. Você pode colocar até 3 marcadores no total.
 
 > _Kits: AP Mines: Rifleman AP \| Mine, Mortar, TNT IEDs: Sapper \| Water Container IED: Sapper and unconventional Engineer_
 
@@ -76,7 +76,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 > _Kits: Combat engineer_
 
-![C:\Users\Wouter\Desktop\18.png](../assets/cuserswouterdesktop18.png)**Field dressings** restaurar 25% de integridade. Eles são jogados no chão para curar o jogador mais próximo do curativo. Os curativos de campo são selecionados pressionando a tecla 8 ou 9. ** O kit de primeiros socorros ** pode curar completamente um jogador e é usado mantendo o botão esquerdo pressionado enquanto aponta para a pessoa a ser curada. Os kits de primeiros socorros não são mais descartados e levam algum tempo para curar completamente um jogador muito machucado. Um médico pode curar-se usando os patches fornecidos. Os jogadores dentro de um veículo com um médico curarão automaticamente ao longo do tempo. ** Ressuscitar ** é usado para preparar um jogador ferido antes de administrar uma injeção de epinefrina. ** O epipen ** é então usado para revivê-los. Soldados recém-ressuscitados precisam de tratamento médico imediato para evitar que sangrem.
+![C:\Users\Wouter\Desktop\18.png](../assets/cuserswouterdesktop18.png)**Field dressings** restaurar 25% de integridade. Eles são jogados no chão para curar o jogador mais próximo do curativo. Os curativos de campo são selecionados pressionando a tecla 8 ou 9. **O kit de primeiros socorros** pode curar completamente um jogador e é usado mantendo o botão esquerdo pressionado enquanto aponta para a pessoa a ser curada. Os kits de primeiros socorros não são mais descartados e levam algum tempo para curar completamente um jogador muito machucado. Um médico pode curar-se usando os patches fornecidos. Os jogadores dentro de um veículo com um médico curarão automaticamente ao longo do tempo. **Ressuscitar** é usado para preparar um jogador ferido antes de administrar uma injeção de epinefrina. **O epipen** é então usado para revivê-los. Soldados recém-ressuscitados precisam de tratamento médico imediato para evitar que sangrem.
 
 > _Kits: Field Dressing: all soldiers \| First Aid kit,Resuscitate, Epipen: Combat Medic / Corpsman / Insurgent Medic_
 
@@ -96,7 +96,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 > _Kits: Smoke Grenade: most kits \| Signal Smoke: Officer, conventional forces Sniper, Pilot_
 
-![C:\Users\Wouter\Desktop\21.png](../assets/cuserswouterdesktop21.png)**Binoculars** permita que os soldados avistem inimigos distantes e identifiquem contatos desconhecidos. Oficiais e líderes de squad também podem usar seus binóculos para solicitar ataques de morteiros. ** O designador de alvo de laser em terra ** \(GTLD \) é usado para marcar alvos para engajamento de aeronaves e morteiros aliados.
+![C:\Users\Wouter\Desktop\21.png](../assets/cuserswouterdesktop21.png)**Binoculars** permita que os soldados avistem inimigos distantes e identifiquem contatos desconhecidos. Oficiais e líderes de squad também podem usar seus binóculos para solicitar ataques de morteiros. **O designador de alvo de laser em terra** \(GTLD \) é usado para marcar alvos para engajamento de aeronaves e morteiros aliados.
 
 > _Kits: Binoculars: Crewman, Sniper and most kits on unconventional factions \| GTLD: Officer and Spotter for conventional forces_
 
@@ -114,7 +114,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 ## _Utilizando Iron Sights \(BUIS\)_ {#buis}
 
-**Back up iron sights \(BUIS\)** são projetados para fornecer ao operador um método alternativo para a aquisição de um alvo, dependendo da situação. Contanto que a arma tenha o BUIS equipado, o jogador poderá alternar entre visores de backup e ótica usando ** a tecla Cycle Camera pré-existente \(C ** \). O jogador pode alternar entre os modos de visualização, indicados pela letra BUIS no canto inferior direito. S para escopo, B para BUIS. O modo BUIS pode ser alternado a qualquer momento, esteja você mirando ou não a vista, mas você deve voltar a mirar a mudança entre os modos.
+**Back up iron sights \(BUIS\)** são projetados para fornecer ao operador um método alternativo para a aquisição de um alvo, dependendo da situação. Contanto que a arma tenha o BUIS equipado, o jogador poderá alternar entre visores de backup e ótica usando **a tecla Cycle Camera pré-existente \(C** \). O jogador pode alternar entre os modos de visualização, indicados pela letra BUIS no canto inferior direito. S para escopo, B para BUIS. O modo BUIS pode ser alternado a qualquer momento, esteja você mirando ou não a vista, mas você deve voltar a mirar a mudança entre os modos.
 
 ![](../assets/buis.png)
 
