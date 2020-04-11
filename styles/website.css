@@ -11,6 +11,10 @@ h1, h2, h3, h4 {
 	color: rgb(98,160,216);
 }
 
+.search-results .has-results .search-results-item {
+    color: #fff;
+}
+
 .book-summary ul.summary li.active>a {
 	background-color: rgb(98,160,216);
 	color: #404040;
