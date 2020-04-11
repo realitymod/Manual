@@ -2,7 +2,7 @@
 
 ## _Requisitos do Sistema_ {#systemreq}
 
-* **Sistema operacional:** Windows XP, 7, 8 ou 10
+* **Sistema operacional:** Windows 7, 8 ou 10
 * **Processador:** mínimo de 2.4 Ghz Dual-Core. 3,2 Ghz Recomendado
 * **Memória:** 3 GB de RAM. 4 GB recomendado
 * **Disco Rígido:** 10 GB de espaço livre no Disco Rígido
