@@ -34,7 +34,7 @@ In PR:BF2 you cannot spawn at every control point that your team controls. Spawn
 >
 > Armored Command Vehicle \(ACV\) found in mainbases only.
 
-* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and don't forget to **press 9 to deploy the parachute**!
+* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
 
 ## _In-game interface \(HUD\)_ {#hud}
 
