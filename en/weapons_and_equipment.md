@@ -106,7 +106,7 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 > _Kits: Rifleman Breacher, Scout, Civilian_
 
-**Parachutes** are used by pilots and paratroopers. They are deployed by hammering the 9-key frantically. Parachutes need to be opened an ample time before reaching the ground to avoid injury or a mild case of death. After your Squad Leader has reached the ground on a map supporting paradrops, a special supply crate appears next to him. This crate can only be used to request kits.
+**Parachutes** are used by pilots and paratroopers. They are deployed automatically when spawning in a paratrooper deployed faction. When ejecting from a fixed-wing aircraft the ejection seat will also automatically deploy the parachute. It can also be deployed manually in other cases by with the 9-key. Parachutes need to be opened an ample time before reaching the ground to avoid injury or a mild case of death. After your Squad Leader has reached the ground on a map supporting paradrops, a special supply crate appears next to him. This crate can only be used to request kits.
 
 > _Kits: Pilot, any spawnable kit used by a team with a paradrop spawn point_
 
