@@ -8,7 +8,7 @@ Most weapons are set to semi-automatic operation by default.
 
 Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is not affected by having optics or iron sights equipped. Weapons are classified into categories in PR:BF2, often connected to the kits they are used by:
 
-![cuserswouterdesktop1.png](../assets/cuserswouterdesktop1%20%281%29.png)**Assault rifles** are usually available in several variants with different sights. Sighting in with magnified optics has an accuracy advantage but hindered by greatly reduced peripheral vision compared to reflex sights or iron sights.
+![cuserswouterdesktop1.png](../assets/cuserswouterdesktop1.png)**Assault rifles** are usually available in several variants with different sights. Sighting in with magnified optics has an accuracy advantage but hindered by greatly reduced peripheral vision compared to reflex sights or iron sights.
 
 > _Kits: All kits that do not use another primary weapon or are unarmed_
 
