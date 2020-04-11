@@ -71,6 +71,7 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 * To **take off** you need to put the throttle on maximum and then wait a little for the plane to start accelerating. When you are down 2/3 of the runway gently start pulling on the stick and maybe add some afterburner.
 * Most aircraft come equipped with a **cannon and several external weapons**. The primary fire key will fire the cannon \(if your aircraft has one\) while the alternate fire key will fire the currently selected weapon such as bombs and missiles.
 * To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
+* Most fixed wing aircraft feature **ejection seats** when you press E. It will automatically deploy the parachute when below 750m. 
 * **Air-to-ground weapons** in single seat aircraft need an established laser lock to hit a target. The recommended procedure for an attack with them is explained below:
   1. Ground troops find a suitable target for an air attack.
   2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](../assets/marker.png)
