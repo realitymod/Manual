@@ -24,7 +24,7 @@ In the other hand, shooting a civilian inside the ROE will cause:
 * The civilian to have an additional 120 seconds in the respawn time
 * Your team gains 10 intelligence points
 
-Running over civilians in a vehicle or killing them while climbing ladders or ropes will also result in a penalty if done outside of the ROE.
+Running over civilians in a vehicle or climbing on ropes will also result in a penalty if done outside of the ROE.
 
 ## Rules Of Engagement \(ROE\)
 
