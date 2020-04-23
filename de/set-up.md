@@ -161,8 +161,8 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 |  **L**  | Chatte nur für deinen Squad |
 |  **Seite nach oben**  | Anfrage annehmen |
 |  **Seite nach unten**  | Anfrage ablehnen |
-|  **H**  | PR Mumble Proximity Lokaler Kanal |
-|  **0  \(Nummernblock \)**  | PR Mumble Squad Radio Kanal |
+|  **B / H**  | PR Mumble Proximity Lokaler Kanal |
+|  **V / 0  \(Nummernblock \)**  | PR Mumble Squad Radio Kanal |
 |  **1-9  \(Nummernblock \)**  | PR Mumble Einzelkader Leader Radio Channel |
 |   **\*  \(Nummernblock \)**  | PR Mumble alle Squad Leader Radio Channel |
 |  **/  \(Nummernblock \)**  | PR Mumble Commander Radio Kanal |
