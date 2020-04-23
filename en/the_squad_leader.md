@@ -29,16 +29,11 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 
 ## _The GTL Designator \(GTLD\)_ {#gtld}
 
-The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\).**  This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles.
+The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\).**. This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles.
 
-With the GTLD equipped, you can right-click to increase the zoom level and left-click to toggle the on/off state. While on, the GTLD will emite a laze, represented with a small green square and the distance to it, that you must keep on your target untill the bomb/missile hits it, unlike previous versions where the laze would "stick" to the target even without line of sight.
+With the GTLD equipped, you can right-click to increase the zoom level and left-click to toggle the on/off state. While on, the GTLD will emit a laze, that you must keep on your target until the bomb/missile hits it, unlike previous versions where the laze would "stick" to the target even without line of sight.
 
-> Due to engine limitations, there may be situations where the laze representation won't appear on top of the target. This won't have any effect in-game, you can reliable keep the center of the sight on target untill the
-
-Additionally, while observing with the GTLD you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map. \(You need to specify the distance to the target using the same method as described for spotting enemies.\)
-
-[Video Tutorial - Lazing](https://www.youtube.com/watch?v=d7pntNDjSvM "Video Tutorial - Lazing")
-
+Additionally, while the lase is ON, you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map.
 
 ## _Rally Points_ {#rally-points}
 
