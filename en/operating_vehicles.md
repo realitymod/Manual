@@ -49,7 +49,7 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 * Helicopters have a **warm-up time** of around 30 seconds. If too much thrust is generated while the rotor blades spin up, the pilot will lose control and crash. To start the helicopter you have to leave the throttle at idle for at least 30 seconds before trying to lift off.
 * Helicopter pilots can look in other directions while flying by pressing the 6, 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
 * The rudder controls are mostly effective at low speeds. At higher speeds you need to bank the helicopter to turn.
-* Players using **the pilot kit cannot occupy any of the passenger seats** of an aircraft. This is to stop players using the pilot kit as some kind of SF paratrooper assault kit because it has a parachute. If you have had to bail out of your aircraft and then receive a pickup from another aircraft, ensure you drop your pilot kit before entering the aircraft’s passenger seat otherwise you will be killed.
+* Players using **the pilot kit cannot occupy any of the passenger seats** of an aircraft. This is to stop players using the pilot kit as some kind of SF paratrooper assault kit because it has a parachute. If you have had to bail out of your aircraft and then receive a pickup from another aircraft, ensure you drop your pilot kit before entering the aircraft’s passenger seat otherwise you will be forced out of the helicopter.
 * The pilot of Heavy Attack Helicopters aka Gunships can fire the **unguided rockets** while the gunner controls the cannon and guided missiles.
 * Gunners in attack helicopters can zoom their weapons camera by pressing the cycle camera key \(**C**\) or by pressing the F9 to F11 keys. They can also switch to a thermal imaging mode by using the secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”** to toggle between the two.
 * The attack-helicopter's **gunner** has 4 different modes to choose from:
@@ -60,7 +60,7 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 * Helicopter crews need to be in the same squad.
 * Helicopters must return to the helipad and land to be **rearmed/repaired**. On Carriers you can only reload on the “ramp” of the carrier, off the runway, this doesn't include the lifts.
 * To successfully **drop supplies** from a transport helicopters the pilot needs to conduct the drop from an altitude under 5m / 15 feet by pressing the alternate fire key.
-* **Countermeasure flares** are limited and need to be rearmed when expended. Every time you deploy flare\(**X**\) one flare will be deployed. You can hold down for deploying multiple.
+* **Countermeasure flares** are limited and need to be rearmed when expended. Every time you deploy flare\(**X**\) one flare will be deployed.
 
 ## _Fixed Wing Aircraft_ {#fixed-wing-aircraft}
 
@@ -81,12 +81,12 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 * **Two-seater aircraft** allow the weapons systems officer \(WSO\) to identify and engage targets by himself while using the TV targeting mode. The targeting modes work in the same way as in attack helicopters.
 * The commander can place a laser target from his map. Since this method is not very precise it should only be used to bomb static targets.
 * Aircrafts don't have a nose camera but you can still look back by pressing the cycle camera key \(**C**\) or F11 to look back, and F9 or a weapon key to look forwards again.
-* **Flares** are triggered individually\(**X**\) and need to be rearmed after all of them have been dropped. Since the warning sound is only played once the enemy has already locked onto your aircraft for half a second, it is recommended to use them while on an attack run to reduce the chance of the enemy establishing a lock. Just like with helicopters you can hold the key down to deploy multiple.
+* **Flares** are triggered individually\(**X**\) and need to be rearmed after all of them have been dropped. Since the warning sound is only played once the enemy has already locked onto your aircraft for half a second, it is recommended to use them while on an attack run to reduce the chance of the enemy establishing a lock.
 * **To land** in PR:BF2 you need to plan ahead much longer than in BF2. Here are some tips on how to make your first landings easier:
 * You need to reduce your speed in advance until you can just stay level without falling out of the sky \(about 40% power\) with the stall airspeed being different for each aircraft. \(You can find the stall speed of your aircraft yourself by just going up high and slowing your aircraft down until it starts to lose control and fall, but doing it up high will mean you can regain control by opening up the throttle and pointing your nose down, then just stay above that stall speed while landing, until your wheels hit the ground.\)
 * When you are at this speed you should start your approach.
 * Imagine a point on the map by extending the runway by about 1km.
 * Fly to this point and turn towards the runway.
 * When you are about 200m from the runway cut your throttle.
-* Once you have touched the ground pull back on the stick to slow down the planes all handle individually.
+* Once you have touched the ground pull back on the stick to slow down, the planes all handle individually.
 
