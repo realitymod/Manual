@@ -168,8 +168,8 @@ Aqui estão alguns links de fórum do realitymod.com para usar por vários motiv
 | **L** | Bate-papo apenas para o seu esquadrão |
 | **Page Up** | Aceitar pedido |
 | **Page Down** | Negar pedido |
-| **H** | PR Mumble Canal de radio local |
-| **0 \(numpad\)** | PR Mumble Canal de radio Squad |
+| **B / H** | PR Mumble Canal de radio local |
+| **V / 0 \(numpad\)** | PR Mumble Canal de radio Squad |
 | **1-9 \(numpad\)** | PR Mumble Canal de Rádio Líder de Esquadrão Individual |
 | **\*\(numpad\)** | PR Mumble Todos os canais de rádio do líder do esquadrão |
 | **/\(numpad\)** | PR Mumble Canal de rádio comandante|
