@@ -15,11 +15,11 @@
 
 ## _Game Installation_                                                                          {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 v1.3 and beyond works as a standalone game. If you have a version of PR:BF2 installed you will need to uninstall this before you install PR:BF2 v1.5. **There is no patch available from and older version to v1.3**!
+With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 v1.3 and beyond works as a standalone game. If you have a version of PR:BF2 installed you will need to uninstall this before you install PR:BF2 v1.6. **There is no patch available from and older version to v1.3**!
 
 You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
 
-[**Download Full PR:BF2 v1.5 Installer**](http://www.realitymod.com/downloads)
+[**Download Full PR:BF2 v1.6 Installer**](http://www.realitymod.com/downloads)
 
 There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
 
@@ -43,7 +43,7 @@ A few more points:
 
 ## _The PR Launcher_ {#the-pr-launcher}
 
-After installation a shortcut for Project Reality:BF2 v1.5 will be provided on the desktop, double click on this icon to open the Launcher. When the launcher appears you will be greeted with a player profile setup, here you can either create a new account, retrieve or import a pre-existing PR player profile. To import your profile select the desired profile from the list and then click import. Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts \(before PR:BF2 v1.2\) are no longer retrievable. We share our account service with the Forgotten Hope 2 modification for BF2.
+After installation a shortcut for Project Reality:BF2 v1.6 will be provided on the desktop, double click on this icon to open the Launcher. When the launcher appears you will be greeted with a player profile setup, here you can either create a new account, retrieve or import a pre-existing PR player profile. To import your profile select the desired profile from the list and then click import. Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts \(before PR:BF2 v1.2\) are no longer retrievable. We share our account service with the Forgotten Hope 2 modification for BF2.
 
 If you are new to BF2:PR and have never made a profile before, just click ‘Create New Account’ and fill in the required details and pick a sensible, easy to pronounce username. To play on PR multiplayer servers you need to create an online profile. You can alternatively create an offline profile if you choose to.
 
