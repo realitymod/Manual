@@ -162,14 +162,14 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Communication**
 
-| **J** | Chat for all players |
+| **J** | Text chat for all players |
 | --- | --- |
-| **K** | Chat for your team only |
-| **L** | Chat for your squad only |
+| **K** | Text chat for your team only |
+| **L** | Text chat for your squad only |
 | **Page Up** | Accept request |
 | **Page Down** | Deny request |
-| **H** | PR Mumble Proximity Local Channel |
-| **0 \(numpad\)** | PR Mumble Squad Radio Channel |
+| **B or H** | PR Mumble Proximity Local Channel |
+| **V or 0 \(numpad\)** | PR Mumble Squad Radio Channel |
 | **1-9 \(numpad\)** | PR Mumble Individual Squad Leader Radio Channel |
 | **\*\(numpad\)** | PR Mumble All Squad Leader Radio Channel |
 | **/\(numpad\)** | PR Mumble Commander Radio Channel |
