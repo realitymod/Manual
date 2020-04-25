@@ -11,7 +11,8 @@ h1, h2, h3, h4 {
 	color: rgb(98,160,216);
 }
 
-.search-results .has-results .search-results-item {
+#book-search-results .search-results .has-results .search-results-item>:last-child {
+    margin-bottom: 0!important;
     color: #fff;
 }
 
