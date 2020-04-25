@@ -7,6 +7,11 @@ h1, h2, h3, h4 {
 	background-color: #404040;
 }
 
+#book-search-results .search-results .has-results .search-results-item>:last-child {
+    margin-bottom: 0!important;
+    color: #fff;
+}
+
 .book-summary ul.summary li a, .book-summary ul.summary li span{
 	color: rgb(98,160,216);
 }
