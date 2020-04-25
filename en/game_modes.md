@@ -2,7 +2,7 @@
 
 Project Reality:BF2 features 6 different game modes with different objectives. The common goal of all game modes is to reduce the enemy team's reinforcement points \(also referred to as tickets\) to zero. In most game modes this is achieved by wounding and killing enemies, destroying their vehicles and by capturing their control points. Colored map markers indicate your current objectives in each game mode.
 
-PR:BF2 features over 50 maps with over 300 different layers. You can find all maps and their specific map information on [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
+PR:BF2 features over 60 maps with over 400 different layers. You can find all maps and their specific map information on [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
 Most game modes feature 4 layer variations to it with different assets and support available. The layers include:
 
