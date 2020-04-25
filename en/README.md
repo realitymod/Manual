@@ -4,7 +4,7 @@
 
 ## **Project Reality: BF2 Manual - Updated for v1.6**
 
-> Project Reality: BF2 has been in development by countless developers over a period of more than 10 years. Extensive modifications and improvements were made during this time. After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification. We hope this manual provides you with a good start into the challenging world of PR:BF2. If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums. **This manual has been updated for version 1.5 of PR:BF2.**
+> Project Reality: BF2 has been in development by countless developers over a period of more than 15 years. Extensive modifications and improvements were made during this time. After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification. We hope this manual provides you with a good start into the challenging world of PR:BF2. If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums. **This manual has been updated for version 1.6 of PR:BF2.**
 >
 > _The PR-Team_
 
@@ -16,5 +16,5 @@ The primary core ethos of Project Reality is teamwork. Coordination within your 
 
 Another core fundamental aspect of PR is how players communicate. Communication in PR is an essential element of gameplay and we recommend that all players are microphone ready when they begin playing online. To ensure enhanced communication, an integrated version of PR Mumble voice communication software gives players abilities not available with built in BF2 voice-over-IP, such as the ability to talk to other players within the local vicinity, regardless of which squad they are in, as well as transmit to squad members over the squad radio no matter where they are on the battlefield. No additional installation is required, which means every player on the battlefield will have the same communications setup and can communicate effortlessly.
 
-This mod was made by players, for players so don't be afraid to ask for help in-game or on the forums at [realitymod.com](http://www.realitymod.com/forum/f360-general-technical-support). Again, welcome to PR and a totally new gaming experience!
+This mod was made by players, for players so don't be afraid to ask for help in-game or on the forums at [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Again, welcome to PR and a totally new gaming experience!
 
