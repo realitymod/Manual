@@ -13,7 +13,6 @@
   * [README](en/commander.md)
   * [README](en/kits.md)
   * [README](en/the_civilian.md)
-* [README](he.md)
 * [README](de/README.md)
   * [README](de/the_civilian.md)
   * [README](de/weapons_and_equipment.md)
