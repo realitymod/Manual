@@ -15,7 +15,7 @@
 
 ## _Game Installation_                                                                          {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 v1.3 and beyond works as a standalone game. If you have a version of PR:BF2 installed you will need to uninstall this before you install PR:BF2 v1.6. **There is no patch available from and older version to v1.3**!
+With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install PR:BF2 v1.6. 
 
 You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
 
@@ -25,40 +25,71 @@ There are 2 installation methods. You can use the **Download Assistant applicati
 
 **1\) Download**
 
-The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. If you are on a recent version of Windows it will offer a simple button to start the installer. If you are on a older version of Windows it will not. Then you will be required to go to Step 2 and follow the instructions to install PR:BF2.
+The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. 
 
-If you downloaded the Torrent version \(and now the Download Assistant\), this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a "ISO" file to move on to step 2 after the application finishes the download.
+If you downloaded the Torrent version \(and now the Download Assistant\), this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
 
 **2\) Installation**
-
-If using the download assistant on a modern version of windows \( Windows 8 and beyond\) you can skip this step. The download comes in the form of an “[ISO](http://en.wikipedia.org/wiki/ISO_image)”-file. Your best option is to Extract the ISO file using free software such as [7-Zip](http://www.7-zip.org/) or [WinRar](http://www.rarlab.com/).
+The downloaded folder that you now have through either the Download Assistant or the manual Torrent download now have a _setup.exe_ file. Launch this one to start the installation process. The Download Assistant however does has an automated system so after downloading there should be a button to start the installation automatically. 
 
 A few more points:
 
 * With the new standalone version there is also no longer a requirement to install it in the Battlefield 2 folder. Feel free to install PR:BF2 in a drive and folder of your choosing.
 * If you have BF2 installed you can continue to play it and player other BF2 modifications as well. PR:BF2 does not interfere with them.
 * PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to newer versions when they are released.
-* PR:BF2 v1.3 and beyond includes PR Mumble in its installation. So there is no need to download this separately.
+* PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
 * If you don’t want to use Torrents you will find mirrors for direct HTTP downloads through our forums.
+
+## _Creating a PR Account_ {#creating-a-pr-account}
+
+Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
+When you launch Project Reality:BF2 for the first time you will shown the following window:
+
+![](../assets/creating_profile_1.png)
+
+Press the Steam sign-in button to open a webpage where you will need to login to Steam in order to proceed. You will be then asked by your web browser to allow the PR Launcher to login. Depending on your browser this will look similar to the images below. Press the button that allows you to proceed. Afterwards you can close the webpage. 
+
+![](../assets/creating_profile_2.png)
+
+Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Servers have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
+Please make sure the _game details_ settings are set to be public. 
+
+![](../assets/creating_profile_3.png)
+
+**Your Steam profile does not have to be public while playing PR:BF2.** Only when calculating the PR Account level. This is done once automatically on the first login and afterwards only when manually calculating.  You can find our privacy-notice [here](https://hq.realitymod.com/account/privacy.html). If your account level is not high enough to play on most online servers you will be shown a warning on the main PR Launcher screen which looks like the image below.
+
+![](../assets/creating_profile_4.png)
+
+To recalculate your PR Account Level go to the **SUPPORT** menu and open the _Account_ tab. There you can find your unique PR Account ID as well as your current PR Account Level and a button to calculate it again. Your level can never become lower after calculation. You will always keep the highest level you have. 
+
+Your PR Account Level will be higher by gathering XP for a few indicators. These are for example having no current Steam VAC bans, having games bought on the Steam store in your library and having playtime on said games. **Donations to the Project Reality team do not influence your PR Account Level.**
+
+If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
+
+## _Creating a Profile_ {#creating-a-profile}
+
+You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
+
+You can access the profile settings by hovering over the PLAY button in the PR Launcher and choosing _Select Profile_ and then _Manage Profiles_. You have the option to create offline profiles as well. If you didn’t log in through your online PR Account, you can only make and use offline profiles. 
+
+![](../assets/creating_profile_5.png)
 
 ## _The PR Launcher_ {#the-pr-launcher}
 
-After installation a shortcut for Project Reality:BF2 v1.6 will be provided on the desktop, double click on this icon to open the Launcher. When the launcher appears you will be greeted with a player profile setup, here you can either create a new account, retrieve or import a pre-existing PR player profile. To import your profile select the desired profile from the list and then click import. Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts \(before PR:BF2 v1.2\) are no longer retrievable. We share our account service with the Forgotten Hope 2 modification for BF2.
-
-If you are new to BF2:PR and have never made a profile before, just click ‘Create New Account’ and fill in the required details and pick a sensible, easy to pronounce username. To play on PR multiplayer servers you need to create an online profile. You can alternatively create an offline profile if you choose to.
+After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
 
 ![](../assets/launcher_1.png)
 
-After creating a profile and logging in, you are presented with the main menu of the PR launcher. All options are displayed on the right.
+All main options are displayed on the right.
 
-* **Play:** This will start the game. If you click the down arrow to the right, you have the option to check for updates or select a different profile. If there is an update it will be automatically displayed if you press the play button. This update will then automatically be downloaded and installed. Progress of the update and installation will be displayed whilst it is in operation.
+* **Play:**  This will start the game. If you click the down arrow to the right, you have the option to check for updates or select a different profile. If there is an update it will be automatically displayed if you press the play button. This update will then automatically be downloaded and installed. Progress of the update and installation will be displayed whilst it is in operation.
 * **Options:** In this menu you can edit your video, graphics, and audio settings. Also some other options are available as well as configuring PR Mumble keys.
-* **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team.
-* **Credits:** Here you can see the entire PR:BF2 team who worked on this mod for many years.
-* **Donate:** A direct link to our online donation page.
+* **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team. It also holds information on your PR Account as well as the option to recalculate your PR Account Level. 
+* **Credits:** Here you can see the entire PR:BF2 team who worked on this game.
+* **Donate:** A direct link to our online donation page. The Project Reality Team develops this modification completely free of charge for its community to download and play. If you would like to show your support, please consider [donating to our team](https://www.realitymod.com/forum/misc.php?do=donate).
 * **Exit:** Use this button to close the PR Launcher and return to Windows
 
-> _The launcher’s main menu also provides a news ticker at the bottom highlighted in blue with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community._
+The launcher’s main menu also provides a news ticker at the bottom highlighted in blue with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community. Furthermore you can find links to our social media accounts on the top left. 
 
 ## _In-Game Menu Navigation_ {#in-game-menu-navigation}
 
@@ -74,8 +105,8 @@ In game, Mumble is the program which we use to communicate to each other in PR:B
 
 After joining a squad you gain access to that squad’s Radio Net, which allows you to transmit to other players in your squad no matter where you are on the map. Squad leaders also have access to an additional Radio Net that allows them to communicate directly to the commander, globally to all other squad leaders, and directly to an individual squad leader. When using a radio net, a transmission cue will be heard when activating and deactivating the radio \(which can be activated in the launcher audio options\). The default keys for transmitting over mumble are as follows:
 
-* **Local speech \(H\):** you talk to players in the 3D radius space around you.
-* **Squad Radio \(Num 0\):** you talk to your squad, no matter where you are.
+* **Local speech \(B or H\):** you talk to players in the 3D radius space around you.
+* **Squad Radio \(V or Num 0\):** you talk to your squad, no matter where you are.
 * **Squad Leader to all other squad leaders radio \(\*\):** you talk to all squad leaders at the same time. This radio net is also available to the commander to use with the same shortcut.
 * **Squad Leader to specific squad leader radio \(Num 1Num 9\):** you talk to one specific squad leader in your team. These channels on the net are also available to the commander to use with the same shortcut.
 * **Squad leader to Commander Radio \(/\):** you talk to the commander in private.
@@ -102,24 +133,24 @@ Transmitting Mic / Muted Speakers / Muted / Disconnected
 
 Direct link link to PRSpy : [http://www.realitymod.com/prspy/](http://www.realitymod.com/prspy/)
 
-* There is also an Android-app of the same name. This app allows you to see server information, current map, online players and a map gallery with detailed description of the assets presents in every layout. Besides this, you can enable notifications that will inform you when a server is playing your favourite map or game mode. You can find it [here.](https://play.google.com/store/apps/details?id=pt.uturista.prspy&hl=en)
 * If the server you want to join is full you now have the option of using Auto Deploy. Select the server, click on “SERVER INFO” and then “AUTO DEPLOY”. A dialog will open that explains the remaining steps. Then simply sit back and wait to be connected once a slot opens up.
 * The Support Menu in the PR Launcher can come in very handy. It can gather all system information of your computer for you to copy and paste into our Support forums for when you need assistance. It can also provide you with your CD-Key Hash.
 
 Here are a couple of forum links from realitymod.com to use for various common reasons:
 
-* [PR:BF2 Bugs](http://www.realitymod.com/forum/f26-pr-bf2-bugs) sub-forum to report bugs.
-* [PR:BF2 Feedback](http://www.realitymod.com/forum/f252-pr-bf2-feedback) sub-forum to post your feedback about PR:BF2.
-* [PR:BF2 Support](http://www.realitymod.com/forum/f27-pr-bf2-support) forums for all your problems regarding running and installing the game and errors you are getting.
-* [General Technical Support](http://www.realitymod.com/forum/f360-general-technical-support) for all your technical questions.
-* [PR In-Game Tactics and Strategies](http://www.realitymod.com/forum/f137-pr-game-tactics-strategies) will help you further then this manual to master all elements of PR:BF2 with community written guides and tutorials.
+* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) sub-forum to report bugs.
+* [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-forum to post your feedback about PR:BF2.
+* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) forums for all your problems regarding running and installing the game and errors you are getting.
+* [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) for all your technical questions.
+* [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137) will help you further then this manual to master all elements of PR:BF2 with community written guides and tutorials.
 
 ## _Default Game Controls_ {#default-game-controls}
 
 **General Controls**
 
-| Caps Lock/Home | Kit selection, squad selection and Map menus |
+| **Key** | **Function** |
 | --- | --- |
+| Caps Lock/Home | Kit selection, squad selection and Map menus |
 | **Tab** | Show scoreboard |
 | **Print Screen** | Take Screenshot |
 | **M** | Show/hide Map overlay |
@@ -132,8 +163,9 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Weapons**
 
+| **Key** | **Function** |
+| --- | --- |
 | **G** | Pick up a kit |
-| :--- | :--- |
 | **Left Mouse** | Fire |
 | **Right Mouse** | Alt Fire or Toggle sights |
 | **R** | Reload |
@@ -142,8 +174,9 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Movement**
 
-| **E** | Enter / Exit vehicle or emplacement |
+| **Key** | **Function** |
 | --- | --- |
+| **E** | Enter / Exit vehicle or emplacement |
 | **WSAD** | Basic movement |
 | **Left Ctrl** | Crouch \(hold\) |
 | **Z** | Toggle prone |
@@ -152,8 +185,9 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Vehicles**
 
-| **F1-F8** | Switch Vehicle Position |
+| **Key** | **Function** |
 | --- | --- |
+| **F1-F8** | Switch Vehicle Position |
 | **X** | increase zoom magnification / flares |
 | **6-9** | Camera Positions \(helicopters and aircraft only\) |
 | **R** | Reload |
@@ -162,8 +196,9 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Communication**
 
-| **J** | Text chat for all players |
+| **Key** | **Function** |
 | --- | --- |
+| **J** | Text chat for all players |
 | **K** | Text chat for your team only |
 | **L** | Text chat for your squad only |
 | **Page Up** | Accept request |
@@ -177,4 +212,3 @@ Here are a couple of forum links from realitymod.com to use for various common r
 **Mumble Keys**
 
 ![](../assets/mumblekeys.png)
-
