@@ -139,7 +139,7 @@ To be able to rearm yourself, you'll need to get closer to one of several source
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
 Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. 
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** by looking at it for a second. It will then appear next to the compass. Rearming a single weapon no matter the type will cost 100 supply points. Requesting a kit costs 200 supply points. The amount of supply points for the supply sources are:
+**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. Rearming a single weapon no matter the type will cost 100 supply points. Requesting a kit costs 200 supply points. The amount of supply points for the supply sources are:
 
 * **Ammo bags** : 160 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
 * **Ammo boxes** : 450
