@@ -8,9 +8,9 @@ Project Reality: BF2 has been in development by countless developers over a peri
 
 ## Building and testing
 Install plugins:
-´gitbook install´
+`gitbook install`
 Build:
-´gitbook build´
+`gitbook build`
 Host locally (available on localhost:4000):
-´gitbook serve´
+`gitbook serve`
 
