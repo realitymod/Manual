@@ -14,7 +14,8 @@
 * Vehicles that **fire wire-guided missiles** need to be stationary for about 7 seconds before they can fire their weapon.
 * Switching vehicle-weapons \(ammo type\) will usually cause a delay before you can fire.
 * You can use **Left CTRL+Mouse movement** to freelook when operating most vehicles such as helicopters, jets, jeeps, boats and trucks. APCs and IFVs do not have this feature as they use dedicated cameras.
-
+* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
+* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
 ## _Armored Vehicles_ {#armored-vehicles}
 
 * Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon.

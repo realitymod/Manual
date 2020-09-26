@@ -138,15 +138,16 @@ To be able to rearm yourself, you'll need to get closer to one of several source
 >
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
-Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. 
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. Rearming a single weapon no matter the type will cost 100 supply points. Requesting a kit costs 200 supply points. The amount of supply points for the supply sources are:
+Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
+**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. Rearming a single weapon no matter the type will cost 100 supply points. Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
+The amount of supply points for the supply sources are:
 
-* **Ammo bags** : 160 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
+* **Ammo bags** : 200 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
 * **Ammo boxes** : 450
 * **Light supply crates** : 1500
 * **Heavy supply crates** : 3000
 
-> It is even possible ammo sources deplete before you're completly rearmed.
+> 
 
 Another thing to take notice is that resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the ammount of ammo you need to ressuply. Additionally if you're not rearming, confirm that the Light/Heavy supply crates is indeed yours, rearming from **enemy supply crates** is not possible.
 
@@ -308,6 +309,11 @@ All friendly vehicles are marked on the map with unique icons for easy identific
   * Jet or attack helicopter: **10 tickets**
 * Vehicles are **Team Locked** and you cannot operate enemy vehicles of any kind.
 * Vehicles can only **be entered from appropriate positions** on the hull.
+
+> ![](../assets/entrypoints.png)
+>
+> _Vehicle entry points can differ per vehicle. Look for hatches._
+
 * Normal soldiers are allowed to drive small unarmored vehicles such as jeeps, trucks and boats without the need for any specialized kit. If you require **a crewman or pilot kit** to operate a vehicle position, you will receive a warning message upon entering it and the screen will fade to black. If you do not exit the vehicle position within a few seconds, you will die.
 * When exiting **a moving or burning vehicle** you will become wounded and possibly die. The faster the vehicle moves the greater the chance of death.
 * **Destroying vehicle wrecks** does not influence score although a warning message states otherwise when shooting friendly wrecks.
@@ -320,8 +326,10 @@ All friendly vehicles are marked on the map with unique icons for easy identific
 * Exiting vehicles in mid-air and falling into water from high altitudes will injure you and may result in your death.
 * Players can **request kits** from a APC’s/IFV’s entry position.
 * Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
-
-> ![](../assets/entrypoints.png)
+* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
+* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
+> ![](../assets/seaticons.png)
 >
-> _Vehicle entry points can differ per vehicle. Look for hatches._
+> _Important crew members are shown as squared markers. Passengers use a total counter above the vehicle icon._
+
 

@@ -6,3 +6,11 @@ Project Reality: BF2 has been in development by countless developers over a peri
 
 ### **Want to help with community translation? Visit** [**this thread**](https://www.realitymod.com/forum/showthread.php?t=75501) **on our forums.**
 
+## Building and testing
+Install plugins:
+´gitbook install´
+Build:
+´gitbook build´
+Host locally (available on localhost:4000):
+´gitbook serve´
+
