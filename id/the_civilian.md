@@ -26,7 +26,7 @@ Sebaliknya, bila menembak orang sipil (_civilian_) sesuai ROE akan membuat:
 
 Melindas orang sipil (_civilian_) dengan kendaraan atau menaiki tali panjat juga berakibat penalti jika dilakukan di luar ketentuan ROE.
 
-## RAturan Pelibatan/Rules of Engagement \(ROE\)
+## Rules of Engagement \(ROE\)
 
 Orang sipil (_civilian_) dianggap sah sesuai ROE dan dapat ditembak jika beberapa kondisi berikut terpenuhi:
 

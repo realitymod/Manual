@@ -2,7 +2,7 @@
 
 ## _Memimpin Squad_ {#guiding-squad}
 
-Seperti yang sudah dijelaskan di bagian Navigasi Area Pertempuran, Pemimpin Regu dapat menempatkan penanda/marka di map untuk diikuti anggota-anggota regunya. Mereka akan melihat marka pada kompas untuk diikuti sekaligus adanya penanda di map. Pemimpin Regu **WAJIB** menggunakan marka/kompas tersebut sesering mungkin dan juga dapat menggunakannya untuk mempermudah pengukuran jarak ke sasaran. Ia dapat melakukannya di _minimap_ dengan mengklik kanan _minimap_ lalu tempatkan marka, atau dengan cara menekan tombol **_secondary radio/radio sekunder_ \(T\)** dan tandai pada sasaran lalu menggunakan salah satu simbol berikut sebagai marka.
+Seperti yang sudah dijelaskan di bagian Navigasi Area Pertempuran, Pemimpin Squad dapat menempatkan penanda/marka di map untuk diikuti anggota-anggota squadnya. Mereka akan melihat marka pada kompas untuk diikuti sekaligus adanya penanda di map. Pemimpin Squad **WAJIB** menggunakan marka/kompas tersebut sesering mungkin dan juga dapat menggunakannya untuk mempermudah pengukuran jarak ke sasaran. Ia dapat melakukannya di _minimap_ dengan mengklik kanan _minimap_ lalu tempatkan marka, atau dengan cara menekan tombol **_secondary radio/radio sekunder_ \(T\)** dan tandai pada sasaran lalu menggunakan salah satu simbol berikut sebagai marka.
 
 * ![](../assets/target.png) **Target** 
 * ![](../assets/build.png) **Build** 
@@ -56,7 +56,7 @@ Rally point mengisi ulang setiap 1 menit. Kecuali rally pointnya diserbu. Pada k
 
 ## _Meminta Bantuan_ {#requesting-support}
 
-Pemimpin regu dapat menggunakan radio untuk meminta bantuan kepada regu lain. Dengan cara ia haru menyalakan radio lalu tekan tombol **_secondary radio_/radio sekunder (T).** Ini akan membuka menu untuk meminta bantuan dan mengirimkan aset-set tim. 5 perintah dari bawah yang diawali “**NEED ...”** akan menempatkan marka pada map sesuai posisi Anda. Perintah-perintah tersebut nantinya akan disampaikan sebagai pesan radio pada tim Anda untuk memberitahu satu tim mengenai permintaan tersebut. Permintaan bantuan **“NEED AREA ATTACK”** berbeda dengan yang lainnya. Dalam sebagian map, pasukan konvensional dapat menggunakan perintah ini untuk meminta bantuan **serangan artileri**. Jika permintaan ini diterima komandan satu tim, serangan tersebut akan sampai sekitar satu menit. Setelah _loading_ map baru atau mengeksekusi **_area attack,_**butuh waktu 30 menit untuk tersedia lagi. Di sisi yang bersamaan, tim insurgent/militia memiliki akses serangan mortir setiap 20 menit di kebanyakan map.
+Pemimpin squad dapat menggunakan radio untuk meminta bantuan kepada squad lain. Dengan cara ia haru menyalakan radio lalu tekan tombol **_secondary radio_/radio sekunder (T).** Ini akan membuka menu untuk meminta bantuan dan mengirimkan aset-set tim. 5 perintah dari bawah yang diawali “**NEED ...”** akan menempatkan marka pada map sesuai posisi Anda. Perintah-perintah tersebut nantinya akan disampaikan sebagai pesan radio pada tim Anda untuk memberitahu satu tim mengenai permintaan tersebut. Permintaan bantuan **“NEED AREA ATTACK”** berbeda dengan yang lainnya. Dalam sebagian map, pasukan konvensional dapat menggunakan perintah ini untuk meminta bantuan **serangan artileri**. Jika permintaan ini diterima komandan satu tim, serangan tersebut akan sampai sekitar satu menit. Setelah _loading_ map baru atau mengeksekusi **_area attack,_**butuh waktu 30 menit untuk tersedia lagi. Di sisi yang bersamaan, tim insurgent/militia memiliki akses serangan mortir setiap 20 menit di kebanyakan map.
 
 > ![](../assets/support.png)
 >
@@ -64,7 +64,7 @@ Pemimpin regu dapat menggunakan radio untuk meminta bantuan kepada regu lain. De
 
 ## _Pekerjaan Konstruksi_ {#construction-work}
 
-Membangun aset-aset sangatlah penting bagi Pemimpin Regu juga Komandan tim. Ketika menaruh dan membangun _Forward Operating Base_ (FOB), Pemimpin Regu harus memiliki kit _officer_ dan _heavy supply crate_ dalam radius 50m. 2 _light supply crates_ memiliki isi yang sama dengan 1 _heavy supply crate_ untuk mencapai tujuan yang sama. Insurgents, Taliban dan Hamas hanya dapat menaruh _hideout_, mortir dan posisi _anti-tank_ untuk tim dimana tidak memerlukan _supply_ (persediaan) untuk membangun struktur-struktur (aset) tersebut. Diperlukan kit _cell leader_ atau _collaborator_ untuk melakukan fungsi ini.
+Membangun aset-aset sangatlah penting bagi Pemimpin Squad juga Komandan tim. Ketika menaruh dan membangun _Forward Operating Base_ (FOB), Pemimpin Squad harus memiliki kit _officer_ dan _heavy supply crate_ dalam radius 50m. 2 _light supply crates_ memiliki isi yang sama dengan 1 _heavy supply crate_ untuk mencapai tujuan yang sama. Insurgents, Taliban dan Hamas hanya dapat menaruh _hideout_, mortir dan posisi _anti-tank_ untuk tim dimana tidak memerlukan _supply_ (persediaan) untuk membangun struktur-struktur (aset) tersebut. Diperlukan kit _cell leader_ atau _collaborator_ untuk melakukan fungsi ini.
 
 > ![](../assets/buildcomo.png)
 >
@@ -82,11 +82,11 @@ Untuk menaruh struktur, lakukan langkah-langkah berikut:
 >
 > _Shovel_/sekop diperlukan untuk membangun aset/struktur
 
-Player yang berada di dalam tempat struktur yang akan dibangun akan mati. Jadi, pastikan regu Anda mengetahui hal tersebut. Prajurit harus menggunakan **sekop** untuk membangun aset. Konstruksi akan selesai ketika penggalian/pembangunannya berhenti.
+Player yang berada di dalam tempat struktur yang akan dibangun akan mati. Jadi, pastikan squad Anda mengetahui hal tersebut. Prajurit harus menggunakan **sekop** untuk membangun aset. Konstruksi akan selesai ketika penggalian/pembangunannya berhenti.
 
 Tempatkan struktur/aset di tempat terbuka untuk mencegah efek-efek dan penempatan yang tidak diinginkan. Kerangka struktur akan muncul ketika lokasi penempatannya tidak begitu jauh dari posisi Anda.
 
-Untuk membongkar struktur yang telah dibangun, anggota regu harus menggunakan **sekop** dan klik kanan untuk menghancurkan emplasemen, kemudian Pemimpin Regu mampu klik kanan menu **DEPLOY / REMOVE ASSET** saat menghadap bangunan tersebut sejauh kurang dari 5m, untuk menghilangkannya secara utuh.
+Untuk membongkar struktur yang telah dibangun, anggota squad harus menggunakan **sekop** dan klik kanan untuk menghancurkan emplasemen, kemudian Pemimpin Squad mampu klik kanan menu **DEPLOY / REMOVE ASSET** saat menghadap bangunan tersebut sejauh kurang dari 5m, untuk menghilangkannya secara utuh.
 
 Amunisi senjata emplasemen (yang sudah dibangun) bisa diisi ulang dengan menjatuhkan/menaruh tas amunisi di sebelahnya. Butuh beberapa tas untuk mengisi ulang sampai penuh.
 
@@ -94,9 +94,9 @@ Amunisi senjata emplasemen (yang sudah dibangun) bisa diisi ulang dengan menjatu
 >
 > Gambar _foxhole_ yang belum dibangun (kiri) dan selesai dibangun (kanan).
 
-## _Struktur yang Bisa Ditempatkan (Deployable)_ {#deployable-structures}
+## _Deployable Structures_ {#deployable-structures}
 
-Berikut daftar struktur yang bisa ditempatkan serta ketentuan dalam membangun nya. Struktur ini dapat dibongkar dengan sekop maupun dihancurkan dengan C4, IED, peluru tank, peluru APC, atau persenjataan berat lainnya. Struktur bisa musnah jika menerima kerusakan terus-menerus pada emplasemen. Pos terdepan serta persembunyian dapat dihancurkan dengan persenjataan layaknya bahan peledak C4 dan TNT. Pemimpin regu mampu menyingkirkan penempatan emplasemen yang belum dibangun dengan radio melalui cara yang sama ketika menempatkannya, dengan cara lain menggunakan klik kanan untuk menyingkirkan penempatan pos tersebut. Mode tembakan alternatif pada peralatan galian memiliki fungsi membongkar penempatan emplasemen yang belum dibangun. Catatan penting terkait ketentuan dan limitasi yang tercantum di bawah ini merupakan poin penting mengenai jarak ke FOB serta jumlah maksimum aset tiap FOB yang digandakan pada gamemode CNC (kecuali jumlah mortar). Perlu diingat bahwa 2 _supply crate_ besar dapat digantikan oleh 4 _supply crate_ kecil atau 1 peti besar dan 2 peti kecil. Untuk lebih lanjut mengenai logistik dan _supply crate_, dapat disimak pada bab logistik [Bab Logistik.](the_basics.md#logistics).
+Berikut daftar struktur yang bisa ditempatkan serta ketentuan dalam membangun nya. Struktur ini dapat dibongkar dengan sekop maupun dihancurkan dengan C4, IED, peluru tank, peluru APC, atau persenjataan berat lainnya. Struktur bisa musnah jika menerima kerusakan terus-menerus pada emplasemen. Pos terdepan serta persembunyian dapat dihancurkan dengan persenjataan layaknya bahan peledak C4 dan TNT. Pemimpin Squad mampu menyingkirkan penempatan emplasemen yang belum dibangun dengan radio melalui cara yang sama ketika menempatkannya, dengan cara lain menggunakan klik kanan untuk menyingkirkan penempatan pos tersebut. Mode tembakan alternatif pada peralatan galian memiliki fungsi membongkar penempatan emplasemen yang belum dibangun. Catatan penting terkait ketentuan dan limitasi yang tercantum di bawah ini merupakan poin penting mengenai jarak ke FOB serta jumlah maksimum aset tiap FOB yang digandakan pada gamemode CNC (kecuali jumlah mortar). Perlu diingat bahwa 2 _supply crate_ besar dapat digantikan oleh 4 _supply crate_ kecil atau 1 peti besar dan 2 peti kecil. Untuk lebih lanjut mengenai logistik dan _supply crate_, dapat disimak pada bab logistik [Bab Logistik.](the_basics.md#logistics).
 
 **Forward Operating Base (FOB)**: Basis Operasi Terdepan, juga dikenal sebagai pos terdepan, berfungsi sebagai spawn defensif bagi tim. Akan aktif muncul setelah selesai dibangun. Menjadi tidak spawnable/muncul selama 30 detik bila ada 1 musuh dalam radius 10m, 2 musuh dalam radius 50m, 4 musuh dalam radius 100m atau 8 musuh dalam radius 150m. Ketentuan & batasan:
 

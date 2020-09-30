@@ -60,7 +60,7 @@ Akun PR anda akan diberikan PR Launcher Level. Level ini menunjukkan apakah akun
 
 Untuk menghitung ulang PR Account Level anda, pergi ke menu **SUPPORT** dan buka menu / label _Account_. Disana anda dapat menemukan ID khusus PR Account anda serta PR Account Level anda saat ini dan tombol untuk menghitung level anda lagi. Level anda tidak bisa berkurang setelah dihitung. Anda akan memiliki level tertinggi yang anda dapat.
 
-PR Account Level anda dapat bertambah dengan mengumpulkan XP untuk beberapa indikator. Contohnya seperti tidak mempunyai Steam VAC ban, memiliki game di steam library dan mempunyai banyak waktu bermain di dalamnya . **Memberi donasi ke tim Project Reality tidak akan menambah PR Account Level anda.**
+PR Account Level anda dapat bertambah dengan mengumpulkan XP untuk beberapa indikator. Contohnya seperti tidak mempunyai Steam VAC ban, memiliki game di steam library dan mempunyai banyak waktu bermain di dalamnya. **Memberi donasi ke tim Project Reality tidak akan menambah PR Account Level anda.**
 
 Jika anda tidak ingin membuat Akun PR untuk bermain online, anda bisa memilih untuk bermain secara offline dari layar login awal.
 
@@ -84,7 +84,7 @@ Semua opsi utama yang ditampilkan di sebelah kanan.
 * **Options:** Di menu ini anda bisa mengubah pengaturan video, grafis dan audio. Ada juga opsi lainnya seperti mengubah _tombol shortcut_ untuk PR Mumble.
 * **Support:** menu/opsi ini Sangatlah berguna saat anda menemukan sebuah  masalah. Opsi ini memberikan banyak utilitas seperti membersihkan folder cache atau memberikan anda informasi mendetail tentang spesifikasi komputer anda. Ini sangat berguna saat menghubungi tim dukungan kami. Opsi ini juga menyimpan informasi tentang Akun PR anda dan opsi untuk menghitung ulang level Akun PR anda.
 * **Credits:** Disini anda bisa melihat seluruh tim PR:BF2 yang bekerja di game ini.
-* **Donate:** Sebuah tautan langsung ke halaman donasi kami. Tim Project Reality membuat modifikasi ini sepenuhnya gratis untuk komunitasnya untuk diunduh dan dimainkan. Jika anda mau memberikan sebuah dukungan, tolong pertimbangkan untuk memberikan[donasi ke tim kami](https://www.realitymod.com/forum/misc.php?do=donate).
+* **Donate:** Sebuah tautan langsung ke halaman donasi kami. Tim Project Reality membuat modifikasi ini sepenuhnya gratis untuk komunitasnya untuk diunduh dan dimainkan. Jika anda mau memberikan sebuah dukungan, tolong pertimbangkan untuk memberikan [donasi ke tim kami](https://www.realitymod.com/forum/misc.php?do=donate).
 * **Exit:** Gunakan tombol ini untuk menutup PR Launcher
 
 Menu utama di launcher juga memberikan barisan  berita di bagian bawah yang disoroti dengan warna biru berisi pengumuman untuk acara yang akan datang, kemajuan dari proses pembuatan dan _developer blogs_ dari komunitas PR:BF2. Selain itu, anda bisa menemukan tautan ke akun sosial media kami di bagian kiri atas.
@@ -101,15 +101,15 @@ Menu utama di launcher juga memberikan barisan  berita di bagian bawah yang diso
 
 Di dalam game, Mumble adalah program yang kami gunakan untuk berkomunikasi dengan satu sama lain di PR:BF2, yang menggantikan sistem Voice-Over-IP \(VOIP\) di vanilla BF2. Fitur utama PR Mumble yang unik adalah metode komunikasi utamanya ditransmisikan dalam ruang 3 dimensi, membuatnya terdengar dari suatu arah dan berjarak. Ini disebut _Local_. Ini berarti bahwa semua pemain dalam tim anda bisa berbicara dengan satu sama lain jika mereka cukup dekat, dan anda bisa mendengar dari arah mana mereka berbicara, demikian pula anda bisa menebak seberapa jauh mereka, seperti di dunia nyata.
 
-Setelah bergabung dengan sebuah regu \(Squad\) anda akan mendapatkan akses ke Jaringan Radio regu, yang memungkinkan anda untuk mengirimkan transmisi ke pemain lain yang ada di regu anda tak peduli dimanapun dia di peta. _Squad Leader_ juga memiliki akses ke Jaringan Radio tambahan yang memungkinkannya untuk berkomunikasi secara langsung dengan Commander, secara global ke Squad Leader-Squad Leader lain, dan langsung ke Squad Leader lain secara individu. Saat menggunakan sebuah Radio Net, suara penanda transmisi akan terdengar saat mengaktifkan dan mematikan radio itu \(Yang bisa di aktifkan di pengaturan audio di Launcher\). _tombol_ default untuk mengirim transmisi lewat Mumble adalah sebagai berikut:
+Setelah bergabung dengan sebuah squad anda akan mendapatkan akses ke Jaringan Radio squad, yang memungkinkan anda untuk mengirimkan transmisi ke pemain lain yang ada di squad anda tak peduli dimanapun dia di peta. _Squad Leader_ juga memiliki akses ke Jaringan Radio tambahan yang memungkinkannya untuk berkomunikasi secara langsung dengan Commander, secara global ke Squad Leader-Squad Leader lain, dan langsung ke Squad Leader lain secara individu. Saat menggunakan sebuah Radio Net, suara penanda transmisi akan terdengar saat mengaktifkan dan mematikan radio itu \(Yang bisa di aktifkan di pengaturan audio di Launcher\). _tombol_ default untuk mengirim transmisi lewat Mumble adalah sebagai berikut:
 
-* **Local speech \(B atau H\):**anda berbicara dengan pemain lain di radius ruang 3 Dimensi di sekitar anda.
-* **Squad radio \(V atau Num 0\):**anda bisa berbicara dengan regu anda, dimanapun anda berada.
+* **Local speech \(B atau H\):** anda berbicara dengan pemain lain di radius ruang 3 Dimensi di sekitar anda.
+* **Squad radio \(V atau Num 0\):** anda bisa berbicara dengan squad anda, dimanapun anda berada.
 * **Radio Squad Leader ke semua Squad Leader lain \(\*\):** anda bisa berbicara dengan  semua squad leader lain disaat yang bersamaan. Jaringan Radio  ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
-* **Radio Squad Leader ke Squad Leader lain yang spesifik \(Num 1 - Num 9\):**anda bisa berbicara ke salah satu Squad Leader lain di tim anda. Channel ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
+* **Radio Squad Leader ke Squad Leader lain yang spesifik \(Num 1 - Num 9\):** anda bisa berbicara ke salah satu Squad Leader lain di tim anda. Channel ini juga tersedia untuk digunakan oleh Commander dengan pintasan yang sama.
 * **Radio Squad Leader ke Commander \(/\)**: anda bisa berbicara dengan Commander secara personal.
 
-PR Mumble terinstal bersamaan dengan PR:BF2. Mumble berjalan bersamaan dengan instalasi game dan melakukan semua tugas di sisi client secara otomatis untuk anda seperti memulai dan menghubungkan anda ke server mumble yang benar. Pemain memiliki pilihan untuk mengubah pengaturan komunikasi mereka bagaimanapun mereka suka seperti versi sebelumnya. Hal ini termasuk perangkat input dan output, volume dan pintasan keyboard. Dua fitur yang paling penting adalah default: Local Channel \(H\) dan Jaringan Radio Regu \(0 di Numpad\). Pintasan utama keyboard juga bisa diganti melalui PR Launcher melalui menu “option” di aplikasi PR Mumble.
+PR Mumble terinstal bersamaan dengan PR:BF2. Mumble berjalan bersamaan dengan instalasi game dan melakukan semua tugas di sisi client secara otomatis untuk anda seperti memulai dan menghubungkan anda ke server mumble yang benar. Pemain memiliki pilihan untuk mengubah pengaturan komunikasi mereka bagaimanapun mereka suka seperti versi sebelumnya. Hal ini termasuk perangkat input dan output, volume dan pintasan keyboard. Dua fitur yang paling penting adalah default: Local Channel \(H\) dan Jaringan Radio squad \(0 di Numpad\). Pintasan utama keyboard juga bisa diganti melalui PR Launcher melalui menu “option” di aplikasi PR Mumble.
 
 Sangat direkomendasikan bagi anda untuk memeriksa panel pengaturan utama secara langsung dalam aplikasi Mumble untuk memastikan semua pengaturan sudah benar. Untuk melakukan ini, cari _Dogtags PR_ di bagian _system tray_ di sebelah jam sistem Windows \(PR harus berjalan\), klik icon ini untuk membuka Mumble lalu carilah menu _“settings”_ di bagian atas. Setelah itu panel _settings_ akan muncul dan anda bisa mengubah perangkat input dan output anda dan mengubah pintasan keyboard dan pengaturan lainnya.
 
@@ -127,7 +127,7 @@ Transmisi Mic/ Speaker yang dibisukan/ Dibisukan/ Terputus
 
 * PR:BF2 akan memverifikasi file sebelum anda memulai game. Anda tidak bisa bermain secara online dengan file yang sudah dimodifikasi. Tetapi, Anda  masih bisa bermain secara offline.
 * PR:BF2 harus dijalankan dengan menggunakan PR Launcher. Menjalankan BF2.EXE atau PR:BF2.EXE tidak akan bekerja.
-* Selain _server browser_ bawaan anda bisa menggunakan [PRSpy](http://realitymodfiles.com/geze/prspy/)yang berbasis web untuk melihat dan bergabung dengan server PR:BF2. PRSpy juga memiliki fitur daftar teman yang memudahkan anda mencari teman anda.
+* Selain _server browser_ bawaan anda bisa menggunakan [PRSpy](http://realitymodfiles.com/geze/prspy/) yang berbasis web untuk melihat dan bergabung dengan server PR:BF2. PRSpy juga memiliki fitur daftar teman yang memudahkan anda mencari teman anda.
 
 Tautan ke PRSPY: [https://realitymod.com/prspy/](https://realitymod.com/prspy/)
 
@@ -138,7 +138,7 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 
 * [PR:BF2 Bugs](<https://www.realitymod.com/forum/forumdisplay.php?f=26>) sub-forum untuk melaporkan _Bug._
 * [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-forum untuk membuat post berisi umpan balik tentang PR:BF2.
-* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) forum untuk semua masalah yang berkaitan dengan menjalankan dan instalasi game dan _error_yang anda temukan.
+* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) forum untuk semua masalah yang berkaitan dengan menjalankan dan instalasi game dan _error_ yang anda temukan.
 * [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) untuk semua pertanyaan teknis anda.
 * [PR In-Game Tactics and Strategies](<https://www.realitymod.com/forum/forumdisplay.php?f=137>) akan membantu anda lebih lanjut dari manual ini untuk menguasai semua elemen yang ada di PR:BF2 dengan tutorial dan panduan yang dibuat oleh komunitas.
 
@@ -148,7 +148,7 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 
 | **Key** | **Fungsi** |
 | --- | --- |
-| Caps Lock/Home | Pemilihan kit, pemilihan regu dan menu Map |
+| Caps Lock/Home | Pemilihan kit, pemilihan squad dan menu Map |
 | **Tab** | Menampilkan Scoreboard |
 | **Print Screen** | Mengambil Screenshot |
 | **M** | Menampilkan/menyembunyikan Overlay Peta |
@@ -197,12 +197,12 @@ Berikut adalah beberapa tautan forum dari realitymod.com yang bisa digunakan unt
 | **Key** | **Function** |
 | --- | --- |
 | **J** | Chat text untuk semua pemain |
-| **K** | Chat text hanya untuk team anda |
-| **L** | Chat text hanya untuk regu anda |
+| **K** | Chat text hanya untuk tim anda |
+| **L** | Chat text hanya untuk squad anda |
 | **Page Up** | Terima Permintaan |
 | **Page Down** | Tolak Permintaan |
 | **B or H** | PR Mumble Proximity Local Channel |
-| **V or 0 \(numpad\)** | PR Mumble Radio Channel Regu |
+| **V or 0 \(numpad\)** | PR Mumble Radio Channel squad |
 | **1-9 \(numpad\)** | PR Mumble Channel Squad Leader Individu |
 | **\*\(numpad\)** | PR Mumble Channel ke Semua Squad Leader |
 | **/\(numpad\)** | PR Mumble Channel Radio Commander |

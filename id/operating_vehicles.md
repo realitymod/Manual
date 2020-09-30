@@ -19,7 +19,7 @@
 ## _Kendaraan Lapis Baja/Armored Vehicle_ {#armored-vehicles}
 
 * Tank serta IFV memiliki kursi _driver_ & _gunner_ yang terpisah. Untuk menggunakan posisi _gunner_, seorang _driver_ atau _cupola gunner_ wajib ada. Setelah berpindah ke kursi _gunner_, Anda harus menunggu 30 detik sebelum bisa memakai meriam secara penuh.
-* _Driver_ dan _gunner _harus berada di regu (_squad_) yang sama.
+* _Driver_ dan _gunner _harus berada di squad yang sama.
 * _Driver_ tank dan beberapa APC/IFV mempunyai **mode tampilan komandan (_commander view mode_)** yang memberikan tampilan 360° di sekitar turret. Mode ini bisa diakses dengan menekan tombol 2.
 * _Driver_ dan _gunner_ dapat menge-**zoom** tampilan mereka dengan menekan tombol memunculkan asap **(X)**. Beberapa tank driver mulanya harus beralih ke tampilan komandan (_commander view_).
 * Hampir semua tank serta IFV dapat menggunakan **optik termal (_thermal optics_)** sebagai tambahan pada tampilan normal. Anda bisa berganti ke mode termal dengan memakai menu radio kedua **(T)** lalu pilih **“DAY/THERMAL”**. Beberapa juga memperbolehkan untuk bertukar antar varian termal seperti WHOT/BHOT.
@@ -58,7 +58,7 @@ _Gunner_ Tank & IFV memunculkannya dengan memilih slot senjata itu (umumnya tomb
 * Kamera senjata yang mengendalikan persenjataan helikopter
 * **Mode penembakan _Laser-guided_ (LG) atau panduan laser** untuk melakukan mode pembidikan semi-manual, dimana anda dapat klik pada sasaran dan rudal akan meluncur sesuai panduan laser menuju titik sesuai yang diinginkan dan klik lagi untuk mengunggah lokasi sasaran ke rudal yang mengudara.
 * **Mode penembakan _Laser-targeted_ (LT) atau bidikan laser** (fire-and-forget) untuk mengunci rudal pada bidikan laser yang dilakukan pasukan darat atau helikopter intai. Mode bidikan laser merupakan pilihan terbaik jika _spotter_ dapat menandai sasarannya. Hal ini dapat meminimalkan paparan helikopter itu sendiri. Mode panduan laser merupakan pilihan terbaik untuk sasaran bergerak. Namun jika sasaran tersebut belum ditandai laser dengan benar atau buruk, atau sederhananya rudal tidak dapat melihat sasaran tanpa alasan apapun setelah rudal diluncurkan atau ada bangunan yang menghalangi, rudal tersebut dapat meleset.
-* Kru helikopter harus berada di regu yang sama.
+* Kru helikopter harus berada di squad yang sama.
 * Helikopter harus kembali ke _helipad_ dan mendarat untuk mengisi ulang peluru dan melakukan reparasi. Di kapal induk, Anda hanya bisa mengisi ulang peluru di _ramp_ luar landasan pacu, ini tidak termasuk tumpangan.
 * Untuk menjatuhkan suplai dengan sukses dari helikopter angkut, pilot diharuskan untuk menjatuhkan suplai dari ketinggian 5 meter dengan menekan tombol _alternate fire._
 * **_Flare_ pengecoh** yang dimiliki hanya terbatas dan butuh isi ulang setelah dipakai. Setiap kali anda mengeluarkan _flare_ (X), 1 _flare_ akan terpakai.

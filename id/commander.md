@@ -2,13 +2,13 @@
 
 ## _Memimpin Pasukan_ {#leading-the-troops}
 
-Tugas utama seorang komandan adalah **mengkoordinasikan** tim dan memberi panduan serta arahan pada para pemain yang beroperasi dibawah perintahnya. Peran seorang komandan adalah mengawasi situasi dan pertempuran serta seluruh jangkauan medan perang untuk menentukan strategi yang efektif. Komandan juga dapat mengizinkan atau menolak permintaan yang diberikan pemimpin skuad, yang termasuk laporan keberadaan musuh dan area yang akan dibombardir (area attack).
+Tugas utama seorang komandan adalah **mengkoordinasikan** tim dan memberi panduan serta arahan pada para pemain yang beroperasi dibawah perintahnya. Peran seorang komandan adalah mengawasi situasi dan pertempuran serta seluruh jangkauan medan perang untuk menentukan strategi yang efektif. Komandan juga dapat mengizinkan atau menolak permintaan yang diberikan pemimpin Squad, yang termasuk laporan keberadaan musuh dan area yang akan dibombardir (area attack).
 
-**Menyampaikan secara langsung kepada pemimpin regu tertentu** Komandan dapat menggunakan **Direct Squad Radio** dengan menggunakan tombol numpad 1-9 dengan cara menekan sekaligus menahan nomor regu sesuai numpad.
+**Menyampaikan secara langsung kepada pemimpin squad tertentu** Komandan dapat menggunakan **Direct Squad Radio** dengan menggunakan tombol numpad 1-9 dengan cara menekan sekaligus menahan nomor squad sesuai numpad.
 
-Komandan dapat **menerima atau menolak permintaan _area attack_/area yang akan dibombardir**. Jika satu pemimpin skuad memanggil bantuan artileri, komandan bisa klik kanan ikon dan menerima atau menolak permintaan tersebut. Setelah itu permintaan tersebut akan diterima kepada tim yang bersangkutan. Area Attack tersedia setiap 30 menit. Untuk tim insurgent dsb, area attack berjenis mortar dapat tersedia setiap 20 menit. Untuk melihat ketersediaan Area Attack, Anda bisa melihatnya di pojok kiri atas di panel commander dan panel bertuliskan AREA ATTACK.
+Komandan dapat **menerima atau menolak permintaan _area attack_/area yang akan dibombardir**. Jika satu pemimpin squad memanggil bantuan artileri, komandan bisa klik kanan ikon dan menerima atau menolak permintaan tersebut. Setelah itu permintaan tersebut akan diterima kepada tim yang bersangkutan. Area Attack tersedia setiap 30 menit. Untuk tim insurgent dsb, area attack berjenis mortar dapat tersedia setiap 20 menit. Untuk melihat ketersediaan Area Attack, Anda bisa melihatnya di pojok kiri atas di panel commander dan panel bertuliskan AREA ATTACK.
 
-Ini adalah tugasnya komandan untuk mempertahankan kekompakan team dengan dengan memberikan perintah ke setiap squad. Disisi lain, ia dapat membantu anggota tim dengan memberikan informasi situasi di luar Area Operasi (AO) mereka, dan mengkonfirmasi intel pada map dengan menggunakan berbagai jenis marker dengan mengklik kanan pada map:
+Ini adalah tugasnya komandan untuk mempertahankan kekompakan tim dengan dengan memberikan perintah ke setiap squad. Disisi lain, ia dapat membantu anggota tim dengan memberikan informasi situasi di luar Area Operasi (AO) mereka, dan mengkonfirmasi intel pada map dengan menggunakan berbagai jenis marker dengan mengklik kanan pada map:
 
 * **Commands (Perintah) dari kiri ke kanan:**
   * **Destroy:** Menghapus FOB tim
@@ -20,10 +20,10 @@ Ini adalah tugasnya komandan untuk mempertahankan kekompakan team dengan dengan 
 
 > ![](../assets/commands.png)
 >
-> Ilustrasi marka perintah _commands_, skuad/regu dan ikon/marka yang bisa digunakan komandan.
+> Ilustrasi marka perintah _commands_, squad/regu dan ikon/marka yang bisa digunakan komandan.
 
-* **Squad Orders (Perintah Skuad/regu):**
-  * Memiliki penanda yang sama seperti di atas. Ketika Anda memilih suatu skuad/regu di menu sebelah kiri, anda bisa memerintah mereka. Jika mereka menerimanya (PAGE UP), marka tersebut akan menggantikan marka yang sebelumnya.
+* **Perintah Squad:**
+  * Memiliki penanda yang sama seperti di atas. Ketika Anda memilih suatu Squad/regu di menu sebelah kiri, anda bisa memerintah mereka. Jika mereka menerimanya (PAGE UP), marka tersebut akan menggantikan marka yang sebelumnya.
 
 ![](../assets/build.png)**Build** 
 
@@ -40,11 +40,11 @@ Ini adalah tugasnya komandan untuk mempertahankan kekompakan team dengan dengan 
 
 Marka/penanda tidak bisa ditempatkan sepanjang waktu. Di pojok kiri atas, terdapat panel “**MARKER**” yang menunjukan berapa lama sampai bisa menempatkan marka selanjutnya.
 
-Jika para pemimpin regu yakin kalau Komandannya tidak efisien dalam melaksanakan tugasnya, mereka memiliki pilihan untuk memulai voting pencopotan commander **mutiny**. Jika sukses, _player lain_ bisa mengambil posisi tersebut.
+Jika para pemimpin Squad yakin kalau Komandannya tidak efisien dalam melaksanakan tugasnya, mereka memiliki pilihan untuk memulai voting pencopotan commander **mutiny**. Jika sukses, _player lain_ bisa mengambil posisi tersebut.
 
-**Titik Temu Komandan (Commander Rally Point)** bisa digunakan seluruh tim. Untuk mendirikan/membuat titik temu, Komandan butuh setidaknya 6 player di dekatnya (salah satunya harus ada pemimpin regu) untuk menempatkan titik temu. Rally Point tersebut tidak tersedia di mode _skirmish_ dan setidaknya 12 player harus ada di dalam timnya Komandan. Titik temu ini akan bertahan selama Komandan berada dalam radius 100 m dari Rally Point. Seluruh aturan lain dijelaskan di bab Pemimpin Regu (Squad Leader) mengenai Rally Point juga bisa digunakan di titik temu komandan.
+**Titik Temu Komandan (Commander Rally Point)** bisa digunakan seluruh tim. Untuk mendirikan/membuat titik temu, Komandan butuh setidaknya 6 player di dekatnya (salah satunya harus ada pemimpin squad) untuk menempatkan titik temu. Rally Point tersebut tidak tersedia di mode _skirmish_ dan setidaknya 12 player harus ada di dalam timnya Komandan. Titik temu ini akan bertahan selama Komandan berada dalam radius 100 m dari Rally Point. Seluruh aturan lain dijelaskan di bab Pemimpin squad (Squad Leader) mengenai Rally Point juga bisa digunakan di titik temu komandan.
 
-## _UAV (Kendaraan Tanpa Awak)_ {#uav}
+## _UAV_ {#uav}
 
 Komandan dari pasukan konvesional dan tim militia/insurgents mampu mengendalikan **Unmanned Aerial Vehicle (UAV)** atau kendaraan tanpa awak dari pos komando atau **Armored Command Vehicle (ACV)** atau Kendaraan Komando. UAV di PR:BF2 tidak memperlihatkan posisi musuh secara otomatis, tetapi akan memberikan Komandan sarana observasi  medan perang secara langsung dari sudut pandang langit (bird’s eye POV). Komandan dapat mengendalikan kamera UAV pada saat bergerak di ketinggian yang tetap.
 

@@ -1,6 +1,6 @@
 # Senjata dan Perlengkapan
 
-## _Senjata dan Perlengkapan Secara Umum_ {#general-weapons-equipment}
+## _Senjata dan Perlengkapan Umum_ {#general-weapons-equipment}
 
 Senjata setelah melakukan gerakan yang berlangsung lama, terkadang diperlukan beberapa saat untuk mengembalikan presisi dan kemampuan untuk menembak secara akurat pada sasaran jarak jauh. Pertempuran pada jarak dekat tidak akan terpengaruh dengan penyimpangan gerakan. Hal ini memungkinkan pemain untuk melakukan sedikit pengoreksian posisi  tanpa mengurangi akurasi senjata. Tiarap akan mengurangi akurasi pemain untuk beberapa saat tetapi dapat memberikan akurasi tertinggi saat melakukan pertempuran pada jarak jauh setelah penanda akurasi pemain pulih.
 
@@ -64,7 +64,7 @@ Senjata harus diisi kembali secara manual (default: **R**). Menyimpangnya senjat
 
 > _Kits: Anti Aircraft_
 
-![cuserswouterdesktop15.png](../assets/cuserswouterdesktop15.png)**Remote detonated explosives**adalah peledak yang diledakkan dengan perangkat pemicu jarak jauh oleh seseorang yang meletakkan peledak dan umumnya digunakan untuk menyerang dan bertahanan. **Anti-Personnel Mines**(_Claymores_) membutuhkan waktu sekitar 5 detik untuk aktif setelah dipasang. Saat memakai alat pemicu ledakan, akan ada suara yang menandakan berapa detik yang telah dihabiskan. Jika bahan peledak langsung dipicu setelah dipasang, mereka tidak akan meledak sama sekali. IED tidak punya pengaman seperti ini. Kebanyakan peledak harus dipasang dalam keadaan tiarap. Seorang player bisa meletakkan sampai 4 _AP mine_ dan 5 pak C4 atau IED secara serentak. Beberapa pemain bisa meletakkan dua kelompok peledak yang berbeda dimana bisa diledakkan masing-masing.Semua bahan peledak ini  dapat dijinakkan oleh kunci inggris milik _Combat Engineer._ Selama proses pemasangan, anda dapat meletakkan penanda di peta untuk pasukan tim anda dengan menekan **Q.** Anda dapat meletakkan sampai 3 penanda.
+![cuserswouterdesktop15.png](../assets/cuserswouterdesktop15.png)**Remote detonated explosives** adalah peledak yang diledakkan dengan perangkat pemicu jarak jauh oleh seseorang yang meletakkan peledak dan umumnya digunakan untuk menyerang dan bertahanan. **Anti-Personnel Mines**(_Claymores_) membutuhkan waktu sekitar 5 detik untuk aktif setelah dipasang. Saat memakai alat pemicu ledakan, akan ada suara yang menandakan berapa detik yang telah dihabiskan. Jika bahan peledak langsung dipicu setelah dipasang, mereka tidak akan meledak sama sekali. IED tidak punya pengaman seperti ini. Kebanyakan peledak harus dipasang dalam keadaan tiarap. Seorang player bisa meletakkan sampai 4 _AP mine_ dan 5 pak C4 atau IED secara serentak. Beberapa pemain bisa meletakkan dua kelompok peledak yang berbeda dimana bisa diledakkan masing-masing.Semua bahan peledak ini  dapat dijinakkan oleh kunci inggris milik _Combat Engineer._ Selama proses pemasangan, anda dapat meletakkan penanda di peta untuk pasukan tim anda dengan menekan **Q.** Anda dapat meletakkan sampai 3 penanda.
 
 > _Kits: AP Mines: Rifleman AP \| Mine, Mortar, TNT IEDs: Sapper \| Water Container IED: Sapper and unconventional Engineer_
 
@@ -103,7 +103,7 @@ Senjata harus diisi kembali secara manual (default: **R**). Menyimpangnya senjat
 
 > _Kits: Officer, Cell Leader, Spotter, Civilian_
 
-![cuserswouterdesktop23.png](../assets/cuserswouterdesktop23.png)**The Grappling Hook** is used to traverse over walls, buildings or to gain access to the top of structures to allow key squad member to have the advantage of high. After the hook has successfully attached itself to a surface, any player can accend up the rope by pressing the “enter/exit” key \(default: E\) and moving forward to climb and backwards to slide down the rope. They remain in position for 3 minutes and can be retrieved by the player using the pickup kit key \(default: G\).
+![cuserswouterdesktop23.png](../assets/cuserswouterdesktop23.png)**The Grappling Hook** digunakan untuk melintasi dinding, bangunan atau untuk mendapatkan akses ke atas bangunan untuk memungkinkan anggota squad memilki keunggulan posisi yang tinggi. Setelah _hook_ telah berhasil disangkutkan, semua pemain dapat naik menggunakan tali dengan menekan tombil "masuk/keluar" (default: E) dan bergerak maju untuk manjat dan mundur untuk meluncur kebawah menggunakan tali. Hook tersebut akan bertahan di posisi selama 3 menit dan bisa diambil lagi oleh pemain dengan menggunakan tombol mengambil kit (default: G)
 
 > _Kits: Rifleman Breacher, Scout, Civilian_
 

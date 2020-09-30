@@ -1,19 +1,19 @@
 # Dasar
 
-Anda wajib untuk masuk kedalam **_Squad_/Regu**. Beberapa server malah dapat mengeluarkan beberapa pemain sendiri/_solo_ \(tidak masuk squad\) setelah diberikan beberapa peringatan. Permainan ini akan lebih seru bila dimainkan bersama Squad yang terorganisir. Bila anda membutuhkan bantuan, Anda bisa menanyakan tugas dan peran anda kepada sesama pemain di dalam Regu. Jika memungkinkan gunakan Mumble, metode komunikasi yang sangat umum digunakan di PR. Bermain PR:BF2 tanpa mikrofon yang aktif, anda tidak dapat merasakan pengalaman yang sepenuhnya ketika bermain. Jadi, mempunyai mikrofon adalah sebuah alat yang berharga ketika bermain PR. Bila tidak ada yang menjawab/berbicara dalam sebuah Squad,  anda bisa masuk ke Squad lain atau menggunakan _General Chat._ Ada banyak Anggota Komunitas PR:BF2 yang siap membantu Pemain baru. Kita mengharapkan anda untuk memiliki Pengetahuan Dasar mengenai Battlefield 2 Untuk menavigasikan Menu di dalam game, seperti _Scoreboard_, _Map_ dan Memilih _Kit_/Peran. Anda juga bisa bermain Battlefield 2 dan melakukan beberapa latihan disana untuk membiasakan dengan tampilannya. Manual ini akan berfokus dalam perbedaan BF2 dan PR:BF2.
+Anda wajib untuk masuk kedalam **_Squad_/Regu**. Beberapa server malah dapat mengeluarkan beberapa pemain sendiri/_solo_ \(tidak masuk squad\) setelah diberikan beberapa peringatan. Permainan ini akan lebih seru bila dimainkan bersama Squad yang terorganisir. Bila anda membutuhkan bantuan, Anda bisa menanyakan tugas dan peran anda kepada sesama pemain di dalam Squad. Jika memungkinkan gunakan Mumble, metode komunikasi yang sangat umum digunakan di PR. Bermain PR:BF2 tanpa mikrofon yang aktif, anda tidak dapat merasakan pengalaman yang sepenuhnya ketika bermain. Jadi, mempunyai mikrofon adalah sebuah alat yang berharga ketika bermain PR. Bila tidak ada yang menjawab/berbicara dalam sebuah squad,  anda bisa masuk ke squad lain atau menggunakan _General Chat._ Ada banyak Anggota Komunitas PR:BF2 yang siap membantu Pemain baru. Kita mengharapkan anda untuk memiliki Pengetahuan Dasar mengenai Battlefield 2 Untuk menavigasikan Menu di dalam game, seperti _Scoreboard_, _Map_ dan Memilih _Kit_/Peran. Anda juga bisa bermain Battlefield 2 dan melakukan beberapa latihan disana untuk membiasakan dengan tampilannya. Manual ini akan berfokus dalam perbedaan BF2 dan PR:BF2.
 
 ## _Seleksi Kit & spawn_ {#kit-selection-and-spawning}
 
 * Ketika anda sudah mulai bermain, Direkomendasikan untuk spawn menjadi Rifleman pilihanmu. Dengan ini, anda dapat lebih tau tentang dasar-dasar gameplay PR:BF2.
-* Setelah anda paham dengan Dasar bermain Infanteri, anda dapat bertanya kepada _Squad Leader_/Pemimpin Regu untuk memberikan anda sebuah Peran Spesialis bila anda ingin mengisi peran tersebut. Bila anda ingin mencoba _Equipment_/Peralatan atau Kendaraan yang baru anda kenal, Anda dapat melakukannya dengan mudah di mode coop tanpa  membebani Regumu atau Mempertaruhkan Asset team anda.
-* _Kits_\(Peran\) yang lebih Spesialis dan lebih sulit untuk digunakan biasanya terbatas dan hanya bisa diambil dengan kondisi tertentu dalam _Squad_/Regu anda. Kit tersebut memiliki keterbatasan terhadap team dan anda harus selalu bertanya kepada Regu atau Tim anda ketika _Request_/Memintanya.
+* Setelah anda paham dengan Dasar bermain Infanteri, anda dapat bertanya kepada _Squad Leader_/Pemimpin Squad untuk memberikan anda sebuah Peran Spesialis bila anda ingin mengisi peran tersebut. Bila anda ingin mencoba _Equipment_/Peralatan atau Kendaraan yang baru anda kenal, Anda dapat melakukannya dengan mudah di mode coop tanpa  membebani Squadmu atau Mempertaruhkan Asset Tim anda.
+* _Kits_ \(Peran\) yang lebih Spesialis dan lebih sulit untuk digunakan biasanya terbatas dan hanya bisa diambil dengan kondisi tertentu dalam _Squad_/Regu anda. Kit tersebut memiliki keterbatasan terhadap Tim dan anda harus selalu bertanya kepada Squad atau Tim anda ketika _Request_/Memintanya.
 * Kits dapat di diminta/diambil dari Tampilan Spawn di menu \(Seperti BF2\), supply crate [\(Lihat Logistik\)](the_basics.md#logistics)
 
 Atau bagian belakang dari APC/IFV. Anda harus berada didalam squad untuk dapat mengambil Kit dari Supply crate atau Kendaraan.
 
-Di PR:BF2 anda tidak dapat spawn di setiap control point yang team anda dapatkan. Spawn Points yang tersedia di BF2 tidak lain adalah :
+Di PR:BF2 anda tidak dapat spawn di setiap control point yang Tim anda dapatkan. Spawn Points yang tersedia di BF2 tidak lain adalah :
 
-* **Rally Point Squad anda \(RP\)** adalah sebuah lingkaran hijau yang mengitari Spawn Point dengan nomor Squad anda di tengahnya. Posisi Rally Point Squad anda dan FOB Team dapat menentukan waktu aktif dari Rally Point tersebut. Note : Bila anda spawn di Rally Point squad lain, anda akan spawn di Rally Point anda sendiri atau FOB disekitarnya secara otomatis. Bila tidak ada sama sekali, anda akan spawn di _Main Base_/Markas Utama team anda. Bila diserang musuh, Rally Point squad anda akan menghilang. Rally Point hanya tersedia untuk Pasukan Konvensional. [\(Lihat Pekerjaan Konstruksi\)](the_squad_leader.md#deployable-structures)
+* **Rally Point Squad anda \(RP\)** adalah sebuah lingkaran hijau yang mengitari Spawn Point dengan nomor squad anda di tengahnya. Posisi Rally Point Squad anda dan FOB Tim dapat menentukan waktu aktif dari Rally Point tersebut. Note : Bila anda spawn di Rally Point Squad lain, anda akan spawn di Rally Point anda sendiri atau FOB disekitarnya secara otomatis. Bila tidak ada sama sekali, anda akan spawn di _Main Base_/Markas Utama Tim anda. Bila diserang musuh, Rally Point Squad anda akan menghilang. Rally Point hanya tersedia untuk Pasukan Konvensional. [\(Lihat Pekerjaan Konstruksi\)](the_squad_leader.md#deployable-structures)
 
 > ![](../assets/rally.png)
 >
@@ -23,7 +23,7 @@ Di PR:BF2 anda tidak dapat spawn di setiap control point yang team anda dapatkan
 Biasanya akan menghilang dalam 5 menit setelah ronde dimulai dan bisa digunakan oleh seluruh tim.
 * **_The commander rally point._** Rally point ini hanya bisa ditaruh oleh komandan, dapat disediakan oleh beberapa pemimpin squad di area sekitar komandan. Di peta, rally point ini akan terdapat tuliskan “C” disampingnya.
 * **_Deployable forward operating base \(FOB\) atau hideouts_** bisa digunakan oleh seluruh tim untuk _spawn_, tapi harus dibangun terlebih dahulu sebelum bisa beroperasi. Di peta akan bertanda sebagai _spawn point_ dengan segitiga hijau. FOB akan beroperasi setelah 90 detik saat selesai dibangun. FOB tidak bisa digunakan selama 30 detik jika ada 1 musuh dalam 10m, 2 musuh dalam 50m, 4 musuh dalam 100 meter atau 8 musuh dalam 150m. [\(lihat _Deployable Structures_\)](the_squad_leader.md#deployable-structures)
-* Di mode permainan _Insurgency_, tim insurgent akan bisa _spawn_ di tempat **_weapon caches_** yang belum diketahui oleh musuh, ini bisa disebut _unknown cache_. Tempat _spawn _ini juga akan tidak bisa digunakan ketika musuh dekat, sama seperti **_FOB_**.
+* Di mode permainan _Insurgency_, tim insurgent akan bisa _spawn_ di tempat **_weapon caches_** yang belum diketahui oleh musuh, ini bisa disebut _unknown cache_. Tempat _spawn_ ini juga akan tidak bisa digunakan ketika musuh dekat, sama seperti **_FOB_**.
 
 > ![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
 >
@@ -39,14 +39,13 @@ Biasanya akan menghilang dalam 5 menit setelah ronde dimulai dan bisa digunakan 
 
 ## _Tampilan Dalam Game \(HUD\)_ {#hud}
 
-
 * Dalam Tampilan in-game HUD PR:BF2, Pemain mendapatkan notifikasi dengan beberapa **player-specific messages** (Pesan Khusus Player) yang hanya bisa dilihat oleh player tersebut. Pesan tersebut digunakan untuk memberikan peringatan kepada player terkait dengan beberapa hal yang yang terjadi di game, contohnya :
   * Alasan kenapa player tidak diberikan kit yang diminta
   * Alasan kenapa Bangunan yang diminta untuk dibangun tidak bisa di buat
   * Player harus keluar dari kendaraan atau mengganti tempat duduk di kendaraan  untuk  menghindari hukuman.
 * PR juga menggunakan **HQ notifications (Notifikasi Markas Pusat)** yang di perlihatkan dengan tulisan besar berwarna oranye di di pojok kiri atas layar. Notifikasi tersebut dapat memberikan anda Informasi terbaru terkait dengan objektif saat ini, perkembangan misi dan pesan-pesan penting lainnya.
 * **Crosshairs** telah sepenuhnya di hapus dari layar. Bila anda ingin menembak dengan akurat, anda harus menekan tombol alternatif menembak untuk membidik menggunakan bidikan senjata, atau menggunakan BUIS untuk pertempuran jarak dekat \(Lihat bab senjata\).
-* **Tanda Nama di atas player** telah di hapus untuk semua player. Sangatlah penting untuk mengidentifikasikan Target anda sebelum menyerang untuk menghindari Friendly Fire \(Menyerang teman\). Belajar untuk mengetahui perbedaan infantry teman dan musuh dari kamuflase, bendera, senjata dan hal-hal lainnya untuk setiap Faksi sehingga anda dapat mengidentifikasikan musuh lebih cepat. Sebagai contoh, untuk mencari Squad Leader, lihat radio yang antenanya memanjang ke atas dari tasnya.
+* **Tanda Nama di atas player** telah di hapus untuk semua player. Sangatlah penting untuk mengidentifikasikan Target anda sebelum menyerang untuk menghindari Friendly Fire \(Menyerang teman\). Belajar untuk mengetahui perbedaan infantry teman dan musuh dari kamuflase, bendera, senjata dan hal-hal lainnya untuk setiap Faksi sehingga anda dapat mengidentifikasikan musuh lebih cepat. Sebagai contoh, untuk mencari squad Leader, lihat radio yang antenanya memanjang ke atas dari tasnya.
 * **Tidak ada Health Bar** yang menunjukan status vital anda. Ketika anda kehilangan 25% darah, anda akan mulai melihat berdarah merah di layarmu, yang akan terus-terusan muncul, diikuti oleh suara kesakitan dari karakter anda. Anda akan terus-menerus kehilangan darah sampai anda mendapatkan pertolongan pertama secara medis, bila tidak, maka anda akan mati. Bila darahmu tinggal sedikit, layar anda akan mulai kehilangan semua warna, penglihatanmu akan memudar dan anda akan berjalan dengan sangat lambat. Anda setidaknya memiliki beberapa menit untuk mendapatkan pertolongan secara medis atau anda akan mati.
 * **Tampilan Amunisi** hanya memperlihatkan mode menembak dan jumlah magazines.
 * Untuk mencari tahu **Jumlah amunisi yang tersisa** didalam magazine, anda bisa membuka Communication Rose \(Tombol Q\) dan melihat indikator visual dari jumlah amunisi yang tersisa di pojok kanan bawah. ![](../assets/ammo.png)
@@ -54,23 +53,23 @@ Biasanya akan menghilang dalam 5 menit setelah ronde dimulai dan bisa digunakan 
 * Tidak ada **Kill Messages** \(Kecuali Friendly Fire\). Scoreboard juga tidak akan menampilkan siapa yang mati atau siapa yang mati di tim musuh. Bila anda ingin tau bila seseorang mati, anda harus melihat mayatnya.
 * Hanya kendaraan yang dapat menggunakan **mini-map permanent** di HUD. Tetapi seluruh tampilan map tersedia bagi semua player.
 * **Map dan variasinya** dapat di lihat di bagian layar atas ketika membuka peta.
-* Dengan mengklik tanda panah di atas, anda dapat melihat **Informasi asset map yang sedang dimainkan** dari semua kendaraan yang ada di peta, termasuk waktu spawn kendaraan team anda.
+* Dengan mengklik tanda panah di atas, anda dapat melihat **Informasi asset map yang sedang dimainkan** dari semua kendaraan yang ada di peta, termasuk waktu spawn kendaraan Tim anda.
 
 > ![](../assets/assets.png)
 >
 > Paparan info asset peta saat ini
 
-* **Tiket yang tersisa** dari team anda dan waktu yang tersisa dari match hanya bisa dilihat dari Squad Screen \(CapsLock\) Tiket musuh tidak akan di perlihatkan.
+* **Tiket yang tersisa** dari Tim anda dan waktu yang tersisa dari match hanya bisa dilihat dari squad Screen \(CapsLock\) Tiket musuh tidak akan di perlihatkan.
 * **Suppresi/Suppression** terjadi ketika anda ditembak dengan senapan, Senjata berat atau ledakan dari dekat. Layar akan terlihat lebih gelap dan kabur, seperti efek terguncang. Efek ini mensimulasikan kapabilitas anda untuk menembak balik ketika sedang di berondong oleh tembakan musuh.
 
 > ![](../assets/suppresion.png)
 >
 > Penglihatan yang normal \(kiri\) dan efek supresi \(kanan\)
 
-* Ketika Player **Tewas**,player tidak bisa dihidupkan kembali dan player tidak bisa melihat sekitaran mereka, Player hanya akan melihat layar hitam dengan tulisan “Dead”.
+* Ketika Player **Tewas**, player tidak bisa dihidupkan kembali dan player tidak bisa melihat sekitaran mereka, Player hanya akan melihat layar hitam dengan tulisan “Dead”.
 * Semakin banyak anda bergerak, semakin kecil akurasi senjatanya dan anda harus diam di tempat untuk mendapatkan akurasi yang maksimal. Untuk mencari tahu tentang seberapa akurat senjata yang ingin anda tembak, ada sebuah indikator tepat di atas kompas, semakin lebar indikatornya maka semakin tidak akurat senjata anda.
 * Sistem spotting otomatis di map **telah dihapus dari unit darat. Tetapi kendaraan udara masih bisa dilacak.
-* OFficer dapat mengirim Laporan **Kontak**kepada komandan atau menggunakan radio untuk menempatkan tanda di map secara manual untuk dilihat oleh team. Infanteri Normal hanya bisa mengeluarkan suara lewat commorose (Q) ketika melihat musuh.
+* Officer dapat mengirim Laporan **Kontak** kepada komandan atau menggunakan radio untuk menempatkan tanda di map secara manual untuk dilihat oleh Tim. Infanteri Normal hanya bisa mengeluarkan suara lewat commorose (Q) ketika melihat musuh.
 * **Radio Commo-rose (default : Q dan T )** mempunyai dua fungsi. Klik Kiri **"RELOADING/CEASE FIRE”** dapat memberitahukan orang-orang di sekitar kalau anda sedang mengganti magasin senjata, Dan klik kanan akan mengasih tau orang disekitar untuk berhenti menembak. Prinsip yang sama juga berlaku untuk **“GO,GO,GO/FALL BACK”** dan menu lainnya di commo-rose.
 * Anda dapat **Melihat arah anda** di dalam map dengan melihat panah arahan di sekitar icon anda di map.
 * Dengan menggunakan senjata yang sejenis atau radio utama **communication-rose** akan diganti dengan menu lain. Ketika memegang _field dressing atau medic bag_ anda dapat menggunakan perintah “FIRST AID” untuk memberitahu teman terdekat yang anda mau obati. Banyak peralatan dan beberapa senjata menggunakan konteks menu.
@@ -95,7 +94,7 @@ Karena kebanyakan kit hanya mempunyai satu atau dua field dressings, cara yang l
 
 ### Reviving
 
-Bila anda tidak segera diobati, anda akan pingsan dan di layar anda akan tertulis kalau anda sedang terluka dengan parah \(Critically Wounded\). Ini bukan berarti anda telah mati, ketika anda telah terluka parah, seorang medic masih bisa men-revive anda dalam 5 menit, dan dapat menghemat tiket berharga team anda. Anda dapat menggunakan mumble untuk memanggil dan mengkoordinasi medic untuk datang ke posisi anda dengan menggunakan Local Channel \(H\) atau **Squad’s Radio** \(Numpad 0\). Untuk bisa menghidupkan kembali,medic harus menggunakan **Epipen** dari pilihan senjata mereka dan dengan Epipen di tangannya, Suntik Epinephrine ke bagian badan player yang sedang pingsan dengan mengklik dan menahan mouse kiri. Player lalu akan hidup kembali tapi beda dengan BF2, Player yang baru dihidupkan kembali hanya mempunyai 10% darah dan masih harus diberikan pengobatan lebih lanjut. Medic dan Player yang baru dihidupkan kembali semestinya mencari tempat yang aman dan melanjutkan proses pengobatan di sana. Bila Player yang ingin dihidupkan terjebak, contohnya ketika berada di tempat yang tidak rata  atau sedang berada di posisi yang buruk untuk di revive. Bila hal itu terjadi, para medic bisa menarik badan Player yang pingsan dan membawanya ke tempat yang lebih baik untuk di revive. Untuk menarik badan player sebagai medic, anda harus menunduk dekat badan player yang pingsan, lalu anda bisa menggunakan **Drag** di weapon slot untuk mulai menarik. Anda dapat menarik badan di segala arah, termasuk mundur.
+Bila anda tidak segera diobati, anda akan pingsan dan di layar anda akan tertulis kalau anda sedang terluka dengan parah _critically wounded_. Ini bukan berarti anda telah mati, ketika anda telah terluka parah, seorang medic masih bisa men-revive anda dalam 5 menit, dan dapat menghemat tiket berharga Tim anda. Anda dapat menggunakan mumble untuk memanggil dan mengkoordinasi medic untuk datang ke posisi anda dengan menggunakan Local Channel \(H\) atau **Squad’s Radio** \(Numpad 0\). Untuk bisa menghidupkan kembali,medic harus menggunakan **Epipen** dari pilihan senjata mereka dan dengan Epipen di tangannya, Suntik Epinephrine ke bagian badan player yang sedang pingsan dengan mengklik dan menahan mouse kiri. Player lalu akan hidup kembali tapi beda dengan BF2, Player yang baru dihidupkan kembali hanya mempunyai 10% darah dan masih harus diberikan pengobatan lebih lanjut. Medic dan Player yang baru dihidupkan kembali semestinya mencari tempat yang aman dan melanjutkan proses pengobatan di sana. Bila Player yang ingin dihidupkan terjebak, contohnya ketika berada di tempat yang tidak rata  atau sedang berada di posisi yang buruk untuk di revive. Bila hal itu terjadi, para medic bisa menarik badan Player yang pingsan dan membawanya ke tempat yang lebih baik untuk di revive. Untuk menarik badan player sebagai medic, anda harus menunduk dekat badan player yang pingsan, lalu anda bisa menggunakan **Drag** di weapon slot untuk mulai menarik. Anda dapat menarik badan di segala arah, termasuk mundur.
 
 [Video Tutorial - Menghidupkan Kembali](https://www.youtube.com/watch?v=auBgiI8IxWE "Video Tutorial - Reviving")
 
@@ -112,9 +111,9 @@ Waktu respawn player adalah sekitar 45 detik atau sekiranya 60 detik ditambah de
 * Melakukan aksi defensive : **-1 Detik**
 * Squad anda membuat Forward Outpost (FOB) : **-10 Detik**
 
-Penalty Sementara yang hanya berefek ketika nanti anda mati ( Bisa sampai 5 menit ) itu dapat didapatkan dengan aksi berikut : 
+Penalty Sementara yang hanya berefek ketika nanti anda mati ( Bisa sampai 5 menit ) itu dapat didapatkan dengan aksi berikut :
 
-* Membunuh Teman/Team Kill : **15 Detik setiap Team Kill**
+* Membunuh Teman/Tim Kill : **15 Detik setiap Team Kill**
 * Bunuh diri : **15 Detik**
 * Menjadi Civilian lalu tertangkap : **90 Detik**
 * Membunuh Civilian  : **120 detik setiap Civilian**
@@ -144,16 +143,14 @@ Anda harus paham kalau Semua amunisi itu **terbatas**, kecuali **_Weapon Caches_
 
 * **Ammo bags**: 200 (akan terhitung hanya untuk 43 supply point ketika digunakan oleh aset _deployable emplacement_ seperti contohnya TOW atau mortar)
 * **Ammo boxes**: 450
-* **Light supply crates **:1500
-* **Heavy supply crates **:3000
-
-> 
+* **Light supply crates**: 1500
+* **Heavy supply crates**: 3000
 
 Hal lainnya yang perlu diingat bahwa mengisi ulang itu **tidak instan** dan memerlukan beberapa detik, semua itu tergantung dari sumber amunisi yang dibutuhkan untuk mengisi ulang supply anda. Sebagai tambahan jika anda tidak mengisi ulang, anda harus konfirmasi bahwa light/heavy supply crates adalah milik tim anda, karena anda tidak bisa mengisi ulang dari supply crate musuh.
 
 ### _Supply Crates_ {#crates}
 
-Ada 2 macam tipe supply crates di PR:BF2 - Light Supply Crate dan Heavy Supply Crate. Dimana keduanya bisa dapat digunakan untuk mengisi ulang dan membuat _deployable emplacement_. Light crate sama dengan setengah dari Heavy Supply Crate, dalam artian anda butuh 2x light supply crates dimana hanya dibutuhkan 1x heavy supply crate. Untuk mempelajari lebih lanjut tentang _deployable emplacement_,[\(bisa dilihat di bab Bangunan.\)](the_squad_leader.md#deployable-structures)
+Ada 2 macam tipe supply crates di PR:BF2 - Light Supply Crate dan Heavy Supply Crate. Dimana keduanya bisa dapat digunakan untuk mengisi ulang dan membuat _deployable emplacement_. Light crate sama dengan setengah dari Heavy Supply Crate, dalam artian anda butuh 2x light supply crates dimana hanya dibutuhkan 1x heavy supply crate. Untuk mempelajari lebih lanjut tentang _deployable emplacement_, [\(bisa dilihat di bab Bangunan.\)](the_squad_leader.md#deployable-structures)
 
 > ![](../assets/largecrate.png)![](../assets/smallcrate.png)
 >
@@ -240,7 +237,7 @@ Sangatlah mudah untuk tersesat di peta yang besar di PR:BF2. Bergerak (secara) p
   * Ingatlah bahwa semua garis kompas panjangnya sama dengan 5°. Jika target sejajar di arah 75° dengan garis di sebelah kanan garis berlabel, tinggal tambahkan 5° .Jadi targetnya berada di arah 80°![](../assets/compass.png)
 3. Peta PR:BF2 memiliki **label referensi grid dan subgrid keypad**. Labelnya bisa ditemukan di perbatasan atas dan kiri peta. Petanya sendiri dibagi menjadi 169 kotak grid dimulai dari 1 di pojok atas kiri dan diakhiri dengan M13 di pojok kanan bawah. Setiap kotak grid dibagi menjadi 9 subgrid. Subgrid ditandai dari 1 sampai 9 sama seperti posisi keypad keyboard anda. Untuk lokasi yang tidak tepat, anda hanya perlu menyebutkan bidang grid utama \(contoh: D6\). Untuk lokasi yang lebih tepat, anda bisa menambahkan lokasi grid beserta  sub gridnya \(contoh: DG-2\). Petunjuk grid sering digunakan untuk berkomunikasi lokasi diantara squad. Ketika menggunakan mumble, huruf pertama petunjuk grid seringnya diucapkan menggunakan Alfabet Fonetik Nato. Kata sandinya yaitu :
     Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee dan Zulu
-4. **Skala setiap kotak map grid** ditampilkan di pojok kanan bawah. Skala pada peta 1km ditandai dengan 75m squad grid, 2km ditandai dengan 150m, dan 4km ditandai dengan 300m. Anda bisa memperkirakan jarak di peta secara mudah menggunakan kotak grid. Layar squad Squad Leader juga menampilkan prakiraan jarak ke penanda squad anda saat ini di bawah peta.
+4. **Skala setiap kotak map grid** ditampilkan di pojok kanan bawah. Skala pada peta 1km ditandai dengan 75m squad grid, 2km ditandai dengan 150m, dan 4km ditandai dengan 300m. Anda bisa memperkirakan jarak di peta secara mudah menggunakan kotak grid. Layar _Squad Leader_ juga menampilkan prakiraan jarak ke penanda squad anda saat ini di bawah peta.
 
 ![](../assets/grid.png)
 
@@ -250,7 +247,7 @@ Banyak kendaraan bersifat sangat berbeda dibandingkan dengan BF2 dan membutuhkan
 
 Ada banyak jenis kendaraan di PR:BF2 digunakan sebagai klasifikasi. Ini tidak selalu sama seperti di kehidupan nyata dikarenakan untuk _gameplay_ nya. Berikut daftar utama kendaraan di PR:BF2:
 
-* **Jeep**: kendaraan angkut berkapasitas kecil yang tidak selalu memuat seluruh squad. Bisa juga menaruh _ammo crates_ berukuran kecil. Terkadang juga dilengkapi oleh _machine gun_.
+* **Jeep**: Kendaraan angkut berkapasitas kecil yang tidak selalu memuat seluruh squad. Bisa juga menaruh _ammo crates_ berukuran kecil. Terkadang juga dilengkapi oleh _machine gun_.
 
 ![](../assets/jeep.png)
 
@@ -258,19 +255,19 @@ Ada banyak jenis kendaraan di PR:BF2 digunakan sebagai klasifikasi. Ini tidak se
 
 ![](../assets/civiliancars.png)
 
-* **Truck**: tersedia dalam bentuk transport dan varian logistik. Tipe transport dapat menaruh 1 _light supply crate_ dan bisa memuat semua squad. Tipe logistik hanya bisa muat 2 pasukan dan bisa menaruh 2 _heavy supply crates_, _repair stations_ dan _Close Support Bridge_ \(penjelasan lebih lanjut setelah ini\).
+* **Truck**: Tersedia dalam bentuk transport dan varian logistik. Tipe transport dapat menaruh 1 _light supply crate_ dan bisa memuat semua squad. Tipe logistik hanya bisa muat 2 pasukan dan bisa menaruh 2 _heavy supply crates_, _repair stations_ dan _Close Support Bridge_ \(penjelasan lebih lanjut setelah ini\).
 
 ![](../assets/truck.png)
 
-* **Armored Personnel Carrier \(APC\)**:ndaraan lapis baja berkapasitas besar yang lebih sering dipersenjatai dengan persenjataan berat. Tidak mempunyai kekuatan untuk mengalahkan target lapis baja berat lainnya seperti IFV dan tank, tapi kemampuan terbaiknya dari tipe kendaraan tersebut adalah membantu pasukan infanteri. Bisa memuat 2 krew kendaraan \(pengemudi dan penembak\) dan 6 penumpang pasukan.
+* **Armored Personnel Carrier \(APC\)**: Kendaraan lapis baja berkapasitas besar yang lebih sering dipersenjatai dengan persenjataan berat. Tidak mempunyai kekuatan untuk mengalahkan target lapis baja berat lainnya seperti IFV dan tank, tapi kemampuan terbaiknya dari tipe kendaraan tersebut adalah membantu pasukan infanteri. Bisa memuat 2 krew kendaraan \(pengemudi dan penembak\) dan 6 penumpang pasukan.
 
 ![](../assets/apc.png)
 
-* **Infantry Fighting Vehicle \(IFV\)**:mpunyai perlengkapan senjata yang lebih baik dan lebih kuat dari pada APC lainnya dengan mempunyai kemampuan untuk menghancurkan target lapis baja lainnya menggunakan Misil Anti Tank. IFV tidak selalu bisa membawa penumpang pasukan. Kategori ini juga bisa termasuk dalam kendaraan pengintaia.
+* **Infantry Fighting Vehicle \(IFV\)**: Mempunyai perlengkapan senjata yang lebih baik dan lebih kuat dari pada APC lainnya dengan mempunyai kemampuan untuk menghancurkan target lapis baja lainnya menggunakan Misil Anti Tank. IFV tidak selalu bisa membawa penumpang pasukan. Kategori ini juga bisa termasuk dalam kendaraan pengintaia.
 
 ![](../assets/ifv.png)
 
-* **Anti-Tank Missile Mounted Vehicle \(ATM\)**:Dengan namanya sendiri. Kendaraan ini dilengkapi dengan senjata misil Anti-Tank untuk menghancur kendaraan lapis baja lainnya. Tidak bisa membawa penumpang.
+* **Anti-Tank Missile Mounted Vehicle \(ATM\)**: Dengan namanya sendiri. Kendaraan ini dilengkapi dengan senjata misil Anti-Tank untuk menghancur kendaraan lapis baja lainnya. Tidak bisa membawa penumpang.
 
 ![](../assets/atm.png)
 

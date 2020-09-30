@@ -1,6 +1,6 @@
 # Mode Permainan
 
-Project Reality:BF2 menyediakan 6 mode permainan dengan objektif yang berbeda. Tujuan utama dari semua mode permainan adalah untuk mengurangi poin bala bantuan tim musuh \(juga disebut sebagai tiket\) ke nol. Di kebanyakan mode permainan, hal ini bisa didapatkan dengan melukai dan membunuh musuh, menghancurkan kendaraan mereka, dan merebut _control points_. Warna penanda peta menunjukkan objektif anda saat ini di setiap mode permainan.
+Project Reality:BF2 menyediakan 6 mode permainan dengan objektif yang berbeda. Tujuan utama dari semua mode permainan adalah untuk mengurangi poin bala bantuan Tim musuh \(juga disebut sebagai tiket\) ke nol. Di kebanyakan mode permainan, hal ini bisa didapatkan dengan melukai dan membunuh musuh, menghancurkan kendaraan mereka, dan merebut _control points_. Warna penanda peta menunjukkan objektif anda saat ini di setiap mode permainan.
 
 PR:BF2 menyediakan lebih dari 60 peta dengan lebih 400 varian. Anda bisa temukan semua peta dan informasi spesifik peta tersebut di [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
@@ -15,7 +15,7 @@ Kebanyakan mode permainan menyediakan 4 variasi dasar dengan aset dan bantuan te
 
 Mode permainan AAS hampir sama dengan mode _Conquest_ di BF2. Objektifnya adalah untuk merebut semua _control points_ \(CP\) sambil mempertahankan lebih banyak tiket daripada musuh. CP hanya bisa direbut dalam perintah secara berurutan untuk mensimulasikan garis depan dan memfokuskan penyerangan. CP yang akan direbut ditandai oleh ikon serang berwarna jingga, sedangkan CP yang perlu dipertahankan ditandai dengan ikon tahan berwarna ungu.
 
-Apabila tim anda mencapai  CP penanda pertahanan berwarna biru terakhir dan direbut oleh tim lawan, tiket tim anda akan terkuras sampai anda merebut kembali CP tersebut. Dalam contoh yang serupa, CP terakhir tim lawan ditandai oleh Penanda serang berwarna merah dan akan membuat tiket mereka terkuras jika tim anda berhasil merebut CP terakhir tim lawan.
+Apabila Tim anda mencapai  CP penanda pertahanan berwarna biru terakhir dan direbut oleh tim lawan, tiket tim anda akan terkuras sampai anda merebut kembali CP tersebut. Dalam contoh yang serupa, CP terakhir tim lawan ditandai oleh Penanda serang berwarna merah dan akan membuat tiket mereka terkuras jika tim anda berhasil merebut CP terakhir tim lawan.
 
 Setidaknya dibutuhkan minimal 2 pemain agar bisa merebut CP di dalam zonanya. Hal ini bisa memakan waktu lebih dari 1 menit untuk memperoleh CP, tergantung pada rasio penyerang dan yang bertahan di dalam zona CP. Walaupun anda tidak bisa merebut CP diluar urutan perintah, anda bisa memulai untuk menetralisir atau merebut CP selanjutnya sebelum CP saat ini telah selesai direbut/dinetralisir, walaupun anda kehilangan posisi yang lain selama proses perebutan. Jika CP yang dikendalikan oleh satu tim dinetralkan dan direbut oleh musuh, tim yang bersangkutan akan kehilangan 30 tiket. Salah satu fitur utama dari AAS adalah posisi CP yang selalu berubah, meskipun varian yang sama.
 
@@ -48,15 +48,17 @@ Mode ini memungkinkan 1 atau lebih pemain manusia untuk bertempur bersama atau m
 
 ## _Insurgency \(INS\)_ {#insurgency}
 
-Mode ini sangatlah unik dibanding mode lainnya di PR. Coalition team memiliki objektif yaitu mencari dan menghancurkan lima _weapon cache_ _insurgent_ yang tersembunyi di seluruh peta sebelum kehabisan tiket. coalition team akan kehilangan tiket untuk setiap pemain mati atau aset hancur. Sementara tim_ insurgent_ hanya dapat kehilangan tiket ketika _weapon cache_ hancur.
+Mode ini sangatlah unik dibanding mode lainnya di PR. Koalisi Tim memiliki objektif yaitu mencari dan menghancurkan lima _weapon cache_ _insurgent_ yang tersembunyi di seluruh peta sebelum kehabisan tiket. Koalisi Tim akan kehilangan tiket untuk setiap pemain mati atau aset hancur. Sementara tim_ insurgent_ hanya dapat kehilangan tiket ketika _weapon cache_ hancur.
 
 > ![](../assets/weaponcache.png)
 >
 > Sebuah Weapon Cache
 
-Pasukan coalition team dibutuhkan untuk mengumpulkan intelijen dengan membunuh para pejuang _insurgent_ atau menangkap civilian _insurgent_ [\(lihat The Civilian\)](the_civilian.md). Untuk menangkap _civilian_, pemain _coalition team_  harus berjarak 1 meter dari _civilian_ dan harus menggunakan alat penahan, yang terdiri dari sepasang borgol pita plastik, dapat diakses dengan memilih nomor 1 pada keyboard Anda, atau sebagai alternatif **menggunakan shotgun**. Ini mensimulasikan melumpuhkan _civilian_ dengan amunisi karet. coalition team dapat menang jika mereka bisa menghancurkan semua _weapon cache_ sebelum tiket atau waktu mereka habis. Jika tidak, tim insurgent akan memenangkan permainan. _Insurgent Engineer_ juga bisa memperbaiki _cache_ yang rusak. Jumlah cache ditampilkan pada map  dan pesan yang bergulir di server.
+Pasukan Koalisi Tim dibutuhkan untuk mengumpulkan intelijen dengan membunuh para pejuang _insurgent_ atau menangkap civilian _insurgent_ [\(lihat The Civilian\)](the_civilian.md). 
 
-Untuk mengungkap perkiraan lokasi cache ketika bermain mode _Insurgency_, _intelligence points_ harus dikumpulkan oleh _Coalition Forces_. _Coalition team_ membutuhkan 50 _intelligence points_ \(IP\) untuk cache bisa terungkap setelah 5 menit. Daftar berikut menunjukkan jumlah poin intelijen yang diperoleh atau hilang karena berbagai tindakan.
+Untuk menangkap _civilian_, pemain _Koalisi Tim_  harus berjarak 1 meter dari _civilian_ dan harus menggunakan alat penahan, yang terdiri dari sepasang borgol pita plastik, dapat diakses dengan memilih nomor 1 pada keyboard Anda, atau sebagai alternatif **menggunakan shotgun**. Ini mensimulasikan melumpuhkan _civilian_ dengan amunisi karet. Koalisi Tim dapat menang jika mereka bisa menghancurkan semua _weapon cache_ sebelum tiket atau waktu mereka habis. Jika tidak, tim insurgent akan memenangkan permainan. _Insurgent Engineer_ juga bisa memperbaiki _cache_ yang rusak. Jumlah cache ditampilkan pada map  dan pesan yang bergulir di server.
+
+Untuk mengungkap perkiraan lokasi cache ketika bermain mode _Insurgency_, _intelligence points_ harus dikumpulkan oleh _Coalition Forces_. _Coalition Tim_ membutuhkan 50 _intelligence points_ \(IP\) untuk cache bisa terungkap setelah 5 menit. Daftar berikut menunjukkan jumlah poin intelijen yang diperoleh atau hilang karena berbagai tindakan.
 
 * Insurgent terbunuh: +1 IP \(dalam jarak 300m\)
 * Civilian atau insurgent tertangkap: +10 IP
@@ -64,14 +66,14 @@ Untuk mengungkap perkiraan lokasi cache ketika bermain mode _Insurgency_, _intel
 * Menghancurkan kendaraan yang dekat dengan civilian \(dalam jarak 50m selama 60 detik terakhir\): -50 IP
 * Menghancurkan mobil civilian yang tidak terpakai: -5 IP
 
-Jet, tank, dan helikopter tidak bisa memperoleh IP menggunakan metode ini. Perkiraan lokasi _cache_ pertama terlihat dalam waktu 5 menit setelah ronde dimulai. Lokasi tambahan akan terlihat 5 menit setelah coalition team memperoleh IP yang cukup. Hal tersebut dapat memunculkan 2 cachedisaat yang bersamaan. Lokasi cache baru dapat terunkap ketika IP telah mencapai 50 IP. Jika server memiliki pemain kurang dari 32 orang,  IP yang dibutuhkan akan dipotong setengah. Sebuah tim hanya bisa memiliki maksimum sebanyak 50 IP dan minimum -50 IP.
+Jet, tank, dan helikopter tidak bisa memperoleh IP menggunakan metode ini. Perkiraan lokasi _cache_ pertama terlihat dalam waktu 5 menit setelah ronde dimulai. Lokasi tambahan akan terlihat 5 menit setelah Koalisi Tim memperoleh IP yang cukup. Hal tersebut dapat memunculkan 2 cachedisaat yang bersamaan. Lokasi cache baru dapat terunkap ketika IP telah mencapai 50 IP. Jika server memiliki pemain kurang dari 32 orang,  IP yang dibutuhkan akan dipotong setengah. Sebuah tim hanya bisa memiliki maksimum sebanyak 50 IP dan minimum -50 IP.
 
 Ikon penanda untuk mode _insurgency_ antara lain:
 
-* ![](../assets/cache.png) **_Weapon Cache_ Telah Diketahui oleh Coalition Team:** Ikon ini akan terlihat pada peta coalition team yang menunjukkan perkiraan lokasi cache ketika coalition team memiliki IP yang cukup.
-* ![](../assets/unknown%20weapon%20cache.png) **_Weapon Cache_ Insurgent:** Ikon ini akan terlihat oleh pasukan _Insurgent_ yang menunjukkan bahwa cache telah ditemukan oleh pasukan koalisi.
-* ![](../assets/unknown%20cache.png) **_Weapon Cache_ Insurgent yang Tidak Diketahui:** Ikon ini akan mewakili posisi cache dimana ia akan muncul di medan perang. Ikon ini hanya akan terlihat oleh pasukan _insurgent_, jadi mereka bisa mengatur pertahanan mereka sementara coalition team bisa mengumpulkan IP. Cache tidak akan langsung spawn secara fisik sampai coalition team mendapatkan IP yang cukup untuk memperlihatkan cache.
+* ![](../assets/cache.png) **_Weapon Cache_ Telah Diketahui oleh Koalisi Tim:** Ikon ini akan terlihat pada peta Koalisi Tim yang menunjukkan perkiraan lokasi cache ketika Koalisi Tim memiliki IP yang cukup.
+* ![](../assets/unknown%20weapon%20cache.png) **_Weapon Cache_ Insurgent:** Ikon ini akan terlihat oleh pasukan _Insurgent_ yang menunjukkan bahwa cache telah ditemukan oleh Koalisi tim.
+* ![](../assets/unknown%20cache.png) **_Weapon Cache_ Insurgent yang Tidak Diketahui:** Ikon ini akan mewakili posisi cache dimana ia akan muncul di medan perang. Ikon ini hanya akan terlihat oleh pasukan _insurgent_, jadi mereka bisa mengatur pertahanan mereka sementara Koalisi tim bisa mengumpulkan IP. Cache tidak akan langsung spawn secara fisik sampai Koalisi tim mendapatkan IP yang cukup untuk memperlihatkan cache.
 
-Cache dapat dihancurkan oleh C4 kecil atau besar. Senjata lain tidak akan menghancurkan atau hanya memberikan kerusakan kecil pada cache. Setelah cache dihancurkan oleh coalition team, coalition team akan memperoleh 30 tiket dan sebuah pesan akan memberitahu tim tentang berapa lagi cache yang tersisa untuk dihancurkan.
+Cache dapat dihancurkan oleh C4 kecil atau besar. Senjata lain tidak akan menghancurkan atau hanya memberikan kerusakan kecil pada cache. Setelah cache dihancurkan oleh Koalisi Tim, Koalisi Tim akan memperoleh 30 tiket dan sebuah pesan akan memberitahu Tim tentang berapa lagi cache yang tersisa untuk dihancurkan.
 
 Cache dapat diperbaiki oleh _wrench_ atau _shovel_/sekop. Cache hanya akan ditampilkan di peta 30 detik sebelum ronde dimulai untuk menghindari mengeksploitasi informasi ini sebelumnya.
