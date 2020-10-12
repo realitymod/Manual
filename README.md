@@ -13,7 +13,7 @@ This requires installing Node-JS, npm and getting gitbook-cli.
  - Host locally (available on localhost:4000): `gitbook serve`
 More info here: https://gchq.github.io/stroom-docs/dev-guide/gitbook.html
 
-## Translation credits:
+## Translation credits
 - German: Rotblut
 - Brazilian Portuguese: Mordekay
 - Indonesia: PRID-TEAM
