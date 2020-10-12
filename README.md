@@ -6,6 +6,8 @@ Project Reality: BF2 has been in development by countless developers over a peri
 
 ### **Want to help with community translation? Visit** [**this thread**](https://www.realitymod.com/forum/showthread.php?t=75501) **on our forums.**
 
+
+
 ## Building and testing
 This requires installing Node-JS, npm and getting gitbook-cli.
  - Install plugins: `gitbook install`
@@ -13,6 +15,7 @@ This requires installing Node-JS, npm and getting gitbook-cli.
  - Host locally (available on localhost:4000): `gitbook serve`
  
 More info here: https://gchq.github.io/stroom-docs/dev-guide/gitbook.html
+
 
 ## Translation credits
 - German: Rotblut
