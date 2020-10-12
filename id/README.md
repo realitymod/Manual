@@ -9,6 +9,8 @@
 >
 > _Tim Project Reality._
 
+**v1.6.3 Translation by PRID-TEAM**
+
 **Pengenalan**
 
 Penganalan ini akan memberikan gambaran singkat apa yang sekiranya ketika anda memulai memainkan modifikasi Project Reality untuk Battlefield 2. Modifikasi ini memiliki tingkat kerumitan dan kerjasama tim yang anda jarang ditemukan di kebanyakan permainan modern _first person shooter_, sementara masih akan mencari keseimbangan diantara simulasi dan gameplay. Karna metode pembelajaran yang sangat berbeda, kita sangat menyarankan untuk semua pemain baru membaca manual ini secara menyeluruh sebelum bergabung di permainan online.
