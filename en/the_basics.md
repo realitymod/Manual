@@ -143,6 +143,7 @@ Be aware that with the exception of **Weapons caches** and **Vehicle depot** all
 The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
 
 **Firearms**
+
 | **Type** | **Supply points cost** |
 | --- | --- |
 | **Pistols low capacity** | 15 |
@@ -157,6 +158,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **GPMG** | 200 |
 
 **Grenade Launcher**
+
 | **Type** | **Supply points cost** |
 | --- | --- |
 | **Anti-Tank x1** | 70 |
@@ -167,6 +169,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **Smoke** | 60 |
 
 **Items & Utilities**
+
 | **Type** | **Supply points cost** |
 | --- | --- |
 | **Ammo box** | 200 |
@@ -181,6 +184,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **Field dressing x12** | 180 |
 
 **Heavy ordnance & munitions**
+
 | **Type** | **Supply points cost** |
 | --- | --- |
 | **Fragmentation grenade x1** | 60 |
