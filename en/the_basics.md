@@ -139,7 +139,79 @@ To be able to rearm yourself, you'll need to get closer to one of several source
 > Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 
 Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. Rearming a single weapon no matter the type will cost 100 supply points. Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
+**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
+The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below table for the resupply cost of the corresponding weapon:
+
+**Firearms**
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Pistols low capacity** | 15 |
+| **Pistols high capacity** | 30 |
+| **PDW** | 30 |
+| **SMG** | 45 |
+| **Shotgun primary** | 50 |
+| **Shotgun breacher** | 25 |
+| **Rifle** | 60 |
+| **Sniper** | 40 |
+| **LMG** | 150 |
+| **GPMG** | 200 |
+
+**Grenade Launcher**
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Anti-Tank x1** | 70 |
+| **Anti-Tank x2** | 140 |
+| **Flare** | 60 |
+| **Fragmentation low capacity** | 80 |
+| **Fragmentation high capacity** | 120 |
+| **Smoke** | 60 |
+
+**Items & Utilities**
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Ammo box** | 200 |
+| **C4 low capacity** | 45 |
+| **C4 high capacity** | 75 |
+| **Tripflare** | 20 |
+| **Grappling hook** | 40 |
+| **Epipen** | 60 |
+| **Field dressing x1** | 30 |
+| **Field dressing x3** | 75 |
+| **Field dressing x6** | 120 |
+| **Field dressing x12** | 180 |
+
+**Heavy ordnance & munitions**
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Fragmentation grenade x1** | 60 |
+| **Fragmentation grenade x2** | 120 |
+| **Fragmentation grenade x4** | 240 |
+| **Smoke grenade low capacity** | 40 |
+| **Smoke grenade high capacity** | 60 |
+| **Signal smoke grenade** | 30 |
+| **Guided anti tank** | 120 |
+| **Anti-personel mine x2** | 140 |
+| **Anti-personel mine x3** | 210 |
+| **Conventional mine** | 210 |
+| **Insurgent mine** | 160 |
+| **Light IED** | 60 |
+| **Heavy IED** | 80 |
+| **Anti-air missile x1** | 100 |
+| **Anti-air missile x2** | 170 |
+| **Light anti-tank x1** | 70 |
+| **Light anti-tank x2** | 140 |
+| **Light anti-tank x3** | 210 |
+| **Light anti-tank x4** | 280 |
+| **Medium anti-tank x1** | 80 |
+| **Medium anti-tank x2** | 160 |
+| **Medium anti-tank x3** | 240 |
+| **Heavy anti-tank x1** | 90 |
+| **heavy anti-tank x2** | 180 |
+| **Guided anti tank** | 120 |
+
+Note: On a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
+
+Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
 The amount of supply points for the supply sources are:
 
 * **Ammo bags** : 200 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
