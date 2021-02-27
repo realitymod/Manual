@@ -9,7 +9,7 @@ Project Reality: BF2 has been in development by countless developers over a peri
 
 
 ## Building and testing
-This requires installing Node-JS, npm and getting gitbook-cli.
+This requires installing Node-JS and npm, npm and getting gitbook-cli:  `npm install gitbook-cli -g`
  - Install plugins: `gitbook install`
  - Build: `gitbook build`
  - Host locally (available on localhost:4000): `gitbook serve`
