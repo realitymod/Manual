@@ -209,7 +209,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **heavy anti-tank x2** | 180 |
 | **Guided anti tank** | 120 |
 
-Note: On a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
+Note that on a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
 
 Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
 The amount of supply points for the supply sources are:
