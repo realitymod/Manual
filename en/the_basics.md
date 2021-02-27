@@ -189,7 +189,6 @@ The various weapons available in PR require different ammounts of supply points 
 | **Smoke grenade low capacity** | 40 |
 | **Smoke grenade high capacity** | 60 |
 | **Signal smoke grenade** | 30 |
-| **Guided anti tank** | 120 |
 | **Anti-personel mine x2** | 140 |
 | **Anti-personel mine x3** | 210 |
 | **Conventional mine** | 210 |
