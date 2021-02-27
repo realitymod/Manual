@@ -140,7 +140,7 @@ To be able to rearm yourself, you'll need to get closer to one of several source
 
 Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
 **Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
-The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below table for the resupply cost of the corresponding weapon:
+The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
 
 **Firearms**
 | **Type** | **Supply points cost** |
