@@ -48,9 +48,9 @@ Veículos não armados, incluindo técnicos em munição e "garys falsos", não 
 
 Um veículo é considerado civil e, portanto, não pode ser destruído se:
 
-* Está vazia
+* Está vazio
 * Não tem uma arma
-* Foi o último uso há mais de 1 minuto
+* Foi usado por último há mais de 1 minuto
 * Não tem inimigos por perto \(3 metros \)
 
 O não cumprimento deste ROE resultará:
