@@ -8,7 +8,7 @@
 >
 > _The PR-Team_
 
-**v1.6 Translation by OBAMA: Fukai, Gabo e Concani**
+**v1.5 translation by Mordekay, v1.6.4 translation update by OBAMA: Fukai, Gabo e Concani**
 
 **Introdução**
 
