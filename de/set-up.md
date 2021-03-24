@@ -76,7 +76,7 @@ Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.6 auf 
 
 Wenn Sie neu bei BF2: PR sind und noch nie ein Profil erstellt haben, klicken Sie einfach auf "Create New Account" und geben Sie die erforderlichen Details ein und wählen Sie einen sinnvollen, leicht auszusprechenden Benutzernamen. Um auf PR-Multiplayer-Servern spielen zu können, müssen Sie ein Online-Profil erstellen. Sie können alternativ ein Offline-Profil erstellen, wenn Sie dies wünschen.
 
-![](../.gitbook/assets/launcher_1.png)
+![](../assets/launcher_1.png)
 
 Nachdem Sie ein Profil erstellt und sich angemeldet haben, wird Ihnen das Hauptmenü des PR-Launcher angezeigt. Alle Optionen werden auf der rechten Seite angezeigt.
 
