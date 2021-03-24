@@ -34,6 +34,42 @@ Noch ein paar Punkte:
 * PR: BF2 v1.3 und darüber hinaus enthält PR Mumble in seiner Installation. Es besteht also keine Notwendigkeit, dies separat herunterzuladen.
 * Wenn Sie Torrents nicht verwenden möchten, finden Sie in unseren Foren Spiegel für direkte HTTP-Downloads.
 
+## _Creating a PR Account_ {#creating-a-pr-account}
+
+Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
+When you launch Project Reality:BF2 for the first time you will shown the following window:
+
+![](../assets/creating_profile_1.png)
+
+Press the Steam sign-in button to open a webpage where you will need to login to Steam in order to proceed. You will be then asked by your web browser to allow the PR Launcher to login. Depending on your browser this will look similar to the images below. Press the button that allows you to proceed. Afterwards you can close the webpage. 
+
+![](../assets/creating_profile_2.png)
+
+Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Servers have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
+Please make sure the _game details_ settings are set to be public. 
+
+![](../assets/creating_profile_3.png)
+
+**Your Steam profile does not have to be public while playing PR:BF2.** Only when calculating the PR Account level. This is done once automatically on the first login and afterwards only when manually calculating.  You can find our privacy-notice [here](https://hq.realitymod.com/account/privacy.html). If your account level is not high enough to play on most online servers you will be shown a warning on the main PR Launcher screen which looks like the image below.
+
+![](../assets/creating_profile_4.png)
+
+To recalculate your PR Account Level go to the **SUPPORT** menu and open the _Account_ tab. There you can find your unique PR Account ID as well as your current PR Account Level and a button to calculate it again. Your level can never become lower after calculation. You will always keep the highest level you have. 
+
+Your PR Account Level will be higher by gathering XP for a few indicators. These are for example having no current Steam VAC bans, having games bought on the Steam store in your library and having playtime on said games. **Donations to the Project Reality team do not influence your PR Account Level.**
+
+If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
+
+## _Creating a Profile_ {#creating-a-profile}
+
+You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
+
+You can access the profile settings by hovering over the PLAY button in the PR Launcher and choosing _Select Profile_ and then _Manage Profiles_. You have the option to create offline profiles as well. If you didn’t log in through your online PR Account, you can only make and use offline profiles. 
+
+![](../assets/creating_profile_5.png)
+
+![](../assets/creating_profile_6.png)
+
 ## _Der PR-Launcher_ {#der-pr-launcher}
 
 Nach der Installation wird eine Verknüpfung für Project Reality: BF2 v1.6 auf dem Desktop bereitgestellt, doppelklicken Sie auf dieses Symbol, um den Launcher zu öffnen. Wenn der Launcher erscheint, werden Sie mit einem Spielerprofil-Setup begrüßt, hier können Sie entweder ein neues Konto erstellen, ein bereits vorhandenes PR-Spielerprofil abrufen oder importieren. Um Ihr Profil zu importieren, wählen Sie das gewünschte Profil aus der Liste und klicken Sie dann auf Importieren. Seit DICE und EA den Support für BF2 im Mai 2014 eingestellt haben, nutzen wir nun unseren eigenen Account-Service für PR: BF2. Alle Ihre alten BF2-Konten  \(vor PR: BF2 v1.2 \) sind nicht mehr abrufbar. Wir teilen unseren Account-Service mit der Forgotten Hope 2-Modifikation für BF2.
