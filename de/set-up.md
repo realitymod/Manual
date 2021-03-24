@@ -113,13 +113,13 @@ PR Mumble wird zusammen mit PR: BF2 installiert. Es läuft neben der Installatio
 
 Es wird empfohlen, dass Sie das Haupteinstellungen-Bedienfeld direkt in der Mumble-Anwendung überprüfen, um sicherzustellen, dass alles korrekt eingerichtet ist. Suche dazu das PR-Symbol in der Taskleiste neben der Windows-Systemuhr  \(PR muss laufen\), klicke auf auf das Symbol, um die Mumble-Oberfläche zu öffnen, und suche die Einstellungen oben. Danach erscheint das Einstellungsfenster und Du kannst Ihre Ein- und Ausgabegeräte konfigurieren und ändern
 
-![](../.gitbook/assets/mumblelogo.png)
+![](../assets/mumblelogo.png)
 
 PR Mumble integriert sich auch in das HUD-Display von BF2. Während des Spiels sehen Sie die Namen der sprechenden Spieler, wobei jede Farbe darstellt, welchen Kanal sie übertragen, der in der unteren linken Ecke des Bildschirms angezeigt wird. In der unteren rechten Ecke zeigt mumble auch an, welchen Kanal Sie mit einer anderen Farbe senden, je nachdem, welchen Kanal Sie verwenden. Es zeigt auch an, ob Ihr Mikrofon oder Ihre Lautsprecher stummgeschaltet sind und ob es Probleme mit dem Mumble-Client gibt.
 
-![](../.gitbook/assets/mumble_1.png)
+![](../assets/mumble_1.png)
 
-![](../.gitbook/assets/mumble_2.png)
+![](../assets/mumble_2.png)
 
 Übertragendes Mikrofon / Stummgeschaltete Lautsprecher / Stummgeschaltet / Getrennt
 
@@ -204,6 +204,5 @@ Hier sind ein paar Forum-Links von realitymod.com, die aus verschiedenen Gründe
 |  **/  \(Nummernblock \)**  | PR Mumble Commander Radio Kanal |
 
  **Mumble Keys** 
-
-![](https://github.com/realitymod/pr-manual/tree/4ed281e1ffdb0845e74555f5cada93e3d9bb1c53/assets/mumblekeys.png)
+![](../assets/mumblekeys.png)
 
