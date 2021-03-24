@@ -4,6 +4,7 @@
 * [Persiapan Bermain](set-up.md)
   * [System Requirements](set-up.md#systemreq)
   * [Game Installation](set-up.md#game-installation)
+  * [Membuat Akun PR](set-up.md#creating-a-pr-account)
   * [PR Launcher](set-up.md#the-pr-launcher)
   * [Navigasi Menu Dalam Game](set-up.md#in-game-menu-navigation)
   * [PR Mumble](set-up.md#pr-mumble)
