@@ -74,6 +74,8 @@ You can access the profile settings by hovering over the PLAY button in the PR L
 
 ![](../assets/creating_profile_5.png)
 
+![](../assets/creating_profile_6.png)
+
 ## _The PR Launcher_ {#the-pr-launcher}
 
 After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
