@@ -14,7 +14,7 @@ Para que um jogador prenda um civil, ele deve usar as algemas ou a Escopeta com 
 
 Se você atirar em um civil fora do ROE\(regras de engajamento\), você enfrentará várias penalidades:
 
-* Após sua próxima morte você irá reaparecer 120 segundos depois por atirar em civil \(acumula até 5 minutos de atraso adicional \)
+* Após sua próxima morte você irá reaparecer 120 segundos depois por atirar em civil \(acumula até 5 minutos de atraso adicional\)
 * Você não poderá solicitar kits por 10 minutos
 * Sua pontuação é reduzida a 0 e a morte não será listada no placar
 * Sua equipe perde 10 pontos de inteligência
@@ -40,7 +40,7 @@ Um civil é considerado dentro do ROE e, portanto, pode ser morto se qualquer um
 
 ## Se tornando um civil
 
-Para você se tornar um civil, você deve primeiro aparecer como um soldado não-armado ou simplesmente largar seu kit \(Pressione T e depois G \). Em segundo lugar, mencionado na seção anterior, você deve esperar 2 minutos depois de você spawnar ou soltar o seu kit.
+Para você se tornar um civil, você deve primeiro aparecer como um soldado não-armado ou simplesmente largar seu kit \(Pressione T e depois G\). Em segundo lugar, mencionado na seção anterior, você deve esperar 2 minutos depois de você spawnar ou soltar o seu kit.
 
 ## Veículos Civis
 

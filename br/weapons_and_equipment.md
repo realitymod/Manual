@@ -6,7 +6,7 @@ Armas após movimentos prolongados às vezes levam um momento para ganhar precis
 
 A maioria das armas está configurada para disparo semiautomático por padrão.
 
-Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de armas não é afetado por ter ótica ou miras de ferro equipadas. Armas são classificadas em categorias em PR: BF2, frequentemente conectadas aos kits pelos quais são usadas:
+Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de armas não é afetado por ter ótica ou miras de ferro equipadas. Armas são classificadas em categorias em PR:BF2, frequentemente conectadas aos kits pelos quais são usadas:
 
 ![cuserswouterdesktop1.png](../assets/cuserswouterdesktop1.png)
 
@@ -130,7 +130,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 ![C:\Users\Wouter\Desktop\21.png](../assets/cuserswouterdesktop21.png)
 
-**Binoculars ou Binóculos** permite que os soldados avistem inimigos distantes e identifiquem contatos desconhecidos. Officers e líderes de esquadrões também podem usar seus binóculos para solicitar ataques de morteiros. **O designador de alvo de laser em terra** \(GTLD \) é usado para marcar alvos para engajamento de aeronaves e morteiros aliados.
+**Binoculars ou Binóculos** permite que os soldados avistem inimigos distantes e identifiquem contatos desconhecidos. Officers e líderes de esquadrões também podem usar seus binóculos para solicitar ataques de morteiros. **O designador de alvo de laser em terra** \(GTLD\) é usado para marcar alvos para engajamento de aeronaves e morteiros aliados.
 
 > _Kits: Binóculos: Crewman, Sniper e a maioria dos kits de forças não convencionais \| GTLD: Officer e Spotter de forças convencionais_
 
@@ -152,7 +152,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 ![](../assets/buis.png)
 
-## _Alterando Alcance da Mira_ {#altering-sighting-range}
+## _Alterando Distância de Engajamento_ {#altering-sighting-range}
 
-[Video Tutorial - Sighting Range](https://www.youtube.com/watch?v=cLfdH1EHWPA "Tutorial em video - Alcance da Mira ")
+[Video Tutorial - Alterando Distância de tiro](https://www.youtube.com/watch?v=cLfdH1EHWPA "Video Tutorial - Sighting Range")
 

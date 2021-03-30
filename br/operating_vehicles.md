@@ -12,7 +12,7 @@
 * Ao sair de um veículo em movimento, você sofrerá danos dependendo da sua velocidade. Você será gravemente ferido se sair de um veículo em chamas.
 * Quando os veículos sofrerem muito dano, eles podem se tornar incapazes de se mover ou utilizar sua torre até que sejam totalmente consertados.
 * Os veículos que **disparam mísseis guiados** precisam estar parados por cerca de 7 segundos antes de poderem disparar sua arma.
-* Trocar armas de veículos \(tipo de munição \) normalmente causará um atraso antes que você possa disparar.
+* Trocar armas de veículos \(tipo de munição\) normalmente causará um atraso antes que você possa disparar.
 * Você pode usar **CTRL esquerdo + movimentar o mouse** para olhar livremente ao operar a maioria dos veículos, como helicópteros, jatos, jipes, barcos e caminhões. APCs e IFVs não possuem esse recurso, pois usam câmeras dedicadas.
 
 ## _Veículos Blindados_ {#armored-vehicles}
@@ -21,7 +21,7 @@
 * O Piloto e artilheiro em um veículo deve estar no mesmo esquadrão.
 * Motoristas de tanques e certos APC / IFVs possuem um **modo de visualização de comandante** que fornece uma visão de 360 ° ao redor da torre. Isso pode ser acessado pressionando 2.
 * Pilotos e artilheiros podem dar **zoom** na sua visão pressionando a tecla de fumaça padrão \(**X** \). Alguns Pilotos de tanque devem primeiro mudar para a visão do comandante.
-* A maioria dos tanques e IFVs pode usar uma **visão térmica** além de suas visualizações \( câmeras \) normais. Você pode alternar para o modo térmico usando o menu de rádio secundário \(**T** \) e selecionando **“Dia / Termal”.** Alguns também permitem alternar entre variações térmicas como WHOT / BHOT.
+* A maioria dos tanques e IFVs pode usar uma **visão térmica** além de suas visualizações \(câmeras\) normais. Você pode alternar para o modo térmico usando o menu de rádio secundário \(**T** \) e selecionando **“Dia / Termal”.** Alguns também permitem alternar entre variações térmicas como WHOT / BHOT.
 
 > ![](../assets/thermalz.png)
 >

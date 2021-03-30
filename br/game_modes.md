@@ -43,7 +43,7 @@ em algum lugar no mapa. O objetivo é defender a FOB da equipe ao tentar encontr
 
 ## _Co-Operative \(COOP\)_ {#co-operative}
 
-Neste modo, é possível que um ou mais jogadores humanos entrem em combate em uma mesma  equipe e contra bots controlados por IA. Este modo é ideal para praticar com equipamentos e veículos antes de usá-los em batalhas em larga escala contra jogadores humanos. Para acomodar o uso de bots, algumas regras e itens foram modificados neste modo. A maioria dos nossos mapas tem camadas COOP dedicadas.
+Neste modo, é possível que um ou mais jogadores humanos entrem em combate em uma mesma  equipe contra bots controlados por IA. Este modo é ideal para praticar com equipamentos e veículos antes de usá-los em batalhas contra jogadores humanos. Para acomodar o uso de bots, algumas regras e itens foram modificados neste modo. A maioria dos nossos mapas tem camadas COOP dedicadas.
 
 ## _Insurgency \(INS\)_ {#insurgency}
 
@@ -53,8 +53,7 @@ Este modo é muito original em comparação com outros dentro do PR. O objetivo 
 >
 > Um cache de armas
 
-As tropas da Coalizão são obrigadas a coletar inteligência matando combatentes insurgentes ou capturando civis insurgentes [\(veja o civil\)](the_civilian.md)  
-. Para capturar um civil, um jogador da Coalizão deve estar a menos de um metro do civil e deve usar um limitador, que consiste em um par de algemas de plástico ziptie, acessível selecionando o número 1 no seu teclado ou ** usando uma espingarda ** Isso simula a imobilização do civil com um tiro de borracha. A coalizão vence se eles conseguirem destruir uma certa quantidade de caches antes da partida acabar por limite de tempo ou ficando sem tickets, caso contrário, a equipe insurgente vence o jogo. Engenheiros Insurgentes também podem reparar caches danificados. A quantidade de caches é mostrada no carregamento do mapa e com mensagens de rolagem no servidor.
+As tropas da Coalizão são obrigadas a coletar inteligência matando combatentes insurgentes ou capturando civis insurgentes [\(veja o civil\)](the_civilian.md). Para capturar um civil, um jogador da Coalizão deve estar a menos de um metro do civil e deve usar um limitador, que consiste em um par de algemas de plástico ziptie, acessível selecionando o número 1 no seu teclado ou **usando uma espingarda** Isso simula a imobilização do civil com um tiro de borracha. A coalizão vence se eles conseguirem destruir uma certa quantidade de caches antes da partida acabar por limite de tempo ou ficando sem tickets, caso contrário, a equipe insurgente vence o jogo. Engenheiros Insurgentes também podem reparar caches danificados. A quantidade de caches é mostrada no carregamento do mapa e com mensagens de rolagem no servidor.
 
 Para revelar a localização aproximada dos caches insurgentes enquanto se joga Insurgency, a inteligência precisa ser reunida pelas forças da coalizão. A equipe da Coalizão precisa de 50 pontos de inteligência \(IP\) para que o cache se revele após 5 minutos. A lista a seguir mostra a quantidade de pontos de inteligência ganhos ou perdidos devido a diferentes ações.
 

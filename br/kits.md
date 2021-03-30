@@ -78,9 +78,9 @@ Aqui segue uma descrição mais detalhada de cada kit especializado:
 
 ## _Outros Kits_ {#other-kits}
 
-Além dos kits já descritos, existem alguns kits especiais que possuem regras especiais. Estes são os kits Crewman, o piloto, o civil e todos os insurgentes. Os kits Civil e Insurgentes pertencem ao **Modo Insurgency Game** e, portanto, são descritos na seção correspondente do manual {\#Insurgency}.
+Além dos kits já descritos, existem alguns kits especiais que possuem regras especiais. Estes são os kits Crewman, o piloto, o civil e todos os insurgentes. Os kits Civil e Insurgentes pertencem ao **Modo Insurgency Game** e, portanto, são descritos na seção correspondente do manual \{\#Insurgency}.
 
-Em relação ao **Pilot** \(Veículos Aéreos \) e ao **Crewman** \(Veículos Blindados \), ambos são necessários para operar os veículos correspondentes. Como eles são um tipo de Kit Especialista, não é possível spawnar diretamente com eles e devem ser solicitados como de costume {\#kit \_request}. Eles não têm, no entanto, nenhuma restrição sobre o número deles que podem estar simultaneamente em uma equipe e, portanto, também podem ser considerados kits ilimitados.
+Em relação ao **Pilot** \(Veículos Aéreos \) e ao **Crewman** \(Veículos Blindados \), ambos são necessários para operar os veículos correspondentes. Como eles são um tipo de Kit Especialista, não é possível spawnar diretamente com eles e devem ser solicitados como de costume {\#kit\_request}. Eles não têm, no entanto, nenhuma restrição sobre o número deles que podem estar simultaneamente em uma equipe e, portanto, também podem ser considerados kits ilimitados.
 
 * ![](../assets/pilot.png)**Pilot**. O piloto é o único kit capaz de operar helicópteros e aeronaves de asa fixa. Ele vem equipado com uma pistola, um pára-quedas e uma granada de fumaça de sinalização. Não tente operar aeronaves sem a devida experiência.
 * ![](../assets/crewman.png)**Crewman**. É o único kit capaz de operar veículos blindados. O tripulante está equipado com uma arma compacta de autodefesa e com binóculos para estudar o campo de batalha. Normalmente, tanto o motorista quanto o artilheiro de um veículo blindado precisam do kit de Crewman.
