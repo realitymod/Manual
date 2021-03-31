@@ -29,13 +29,13 @@ O **Lider de Esquadrão** em PR:BF2 tem muitas habilidades funcionais. Ele é ca
 
 ## _O GTL Designador \(GTLD\)_ {#gtld}
 
-O kit de Líder de Esquadrão e o kit Spotter usado pelas forças convencionais são equipados com **GTLD \(Ground Target Laser Designator \)**. Este equipamento tem melhor zoom do que os binóculos comuns, inclui um visor de faixa e permite que você marque alvos inimigos que podem ser alvo de bombas ou mísseis da unidade aérea aliada \(e inimiga\).
+O kit de Líder de Esquadrão e o kit Spotter usado pelas forças convencionais são equipados com **GTLD \(Ground Target Laser Designator\)**. Este equipamento tem melhor zoom do que os binóculos comuns, inclui um visor de faixa e permite que você marque alvos inimigos que podem ser alvo de bombas ou mísseis da unidade aérea aliada \(e inimiga\).
 
 Com o GTLD equipado, você pode clicar com o botão direito do mouse para aumentar o nível de zoom e clicar com o botão esquerdo para alternar o estado ativado / desativado. Enquanto em diante, o GTLD emite um laze, representado com um pequeno quadrado verde e a distância até ele, que você deve manter seu alvo até que a bomba / míssil o atinja, ao contrário das versões anteriores, onde o laze "grudaria" no alvo mesmo sem linha de visão.
 
 > Devido a limitações do motor, pode haver situações em que a representação do laze não apareça no topo do alvo. Isso não terá nenhum efeito no jogo, você pode manter o centro da visão no alvo até que o alvo seja atingido.
 
-Além disso, ao observar com o GTLD, você pode acessar o menu de rádio principal \(Q \) para solicitar suporte aéreo aproximado \(CAS \) ou chamar apoio de Morteiros. Fazer isso transmitirá automaticamente uma mensagem de texto para sua equipe detalhando a solicitação e adicionando um marcador de destino ao mapa. \(Você precisa especificar a distância para o alvo usando o mesmo método descrito para detectar inimigos. \)
+Além disso, ao observar com o GTLD, você pode acessar o menu de rádio principal \(Q\) para solicitar suporte aéreo aproximado \(CAS\) ou chamar apoio de Morteiros. Fazer isso transmitirá automaticamente uma mensagem de texto para sua equipe detalhando a solicitação e adicionando um marcador de destino ao mapa. \(Você precisa especificar a distância para o alvo usando o mesmo método descrito para detectar inimigos. \)
 
 [Video Tutorial - Lazing](https://www.youtube.com/watch?v=d7pntNDjSvM "Video Tutorial - Lazing")
 
@@ -61,7 +61,7 @@ Um ponto de rally rearma a cada 1 minuto. A menos que tenha sido destruido. Ness
 
 ## _Solicitando Suporte_ {#requesting-support}
 
-O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar **a tecla de rádio secundária \(T \).** Isso abrirá o menu para solicitar suporte, usar recursos e contruir estruturas da equipe. Os cinco comandos inferiores começando com **“Preciso ...”** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido ** **Preciso de Area Attack** **  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma **salva de artilharia**. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um area attack, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma salva de morteiros a cada 20 minutos na maioria dos mapas.
+O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar **a tecla de rádio secundária \(T\).** Isso abrirá o menu para solicitar suporte, usar recursos e contruir estruturas da equipe. Os cinco comandos inferiores começando com **“Preciso ...”** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido ** **Preciso de Area Attack** **  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma **salva de artilharia**. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um area attack, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma salva de morteiros a cada 20 minutos na maioria dos mapas.
 
 > ![](../assets/support.png)
 >

@@ -4,7 +4,7 @@
 
 A principal tarefa do comandante é **coordenar** a equipe e dar orientação e direção àqueles que operam sob seu comando. Sua função é monitorar situações e missões e a visão geral do campo de batalha para determinar efetivamente uma estratégia. Ele também pode conceder ou negar pedidos enviados pelos líderes do esquadrão. Estes incluem relatórios de contato e ataques de artilharia.
 
-**Falar diretamente com um Líder de Esquadrão específico** o comandante pode usar a **Rede de Rádio de Esquadrão Direto** usando os dígitos numpad do teclado de 1 a 9 mantendo pressionado o número do esquadrão no teclado numérico.
+**Falar diretamente com um Líder de Esquadrão específico** o comandante pode usar o **Rádio de Esquadrão Direto** usando os dígitos numpad do teclado de 1 a 9 mantendo pressionado o número do esquadrão no teclado numérico.
 
 O Comandante pode **confirmar ou negar o pedido de ataque de área \(area attack\)**. Se um Líder de Esquadrão solicitar artilharia, o comandante pode clicar com o botão direito do mouse no ícone e aceitá-lo ou negá-lo. Após o qual o pedido será confirmado para a equipe. O ataque da área está disponível a cada 30 minutos. Para os insurgentes e sua salva de morteiros semelhante, normalmente são 20 minutos entre possíveis ataques. Para ver quando artilharia / morteiros estão disponíveis novamente, você pode olhar no canto superior esquerdo da janela do comandante e ver a barra com “**AREA ATTACK**” nela.
 
