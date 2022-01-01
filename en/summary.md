@@ -52,6 +52,7 @@
   * [Armored Vehicles](operating_vehicles.md#armored-vehicles)
   * [Helicopters](operating_vehicles.md#helicopters)
   * [Fixed Wing Aircraft](operating_vehicles.md#fixed-wing-aircraft)
+  * [Fire Control Systems](operating_vehicles.md#fire-control-systems)
 * [The Commander](commander.md)
   * [Leading the Troops](commander.md#leading-the-troops)
   * [UAV](commander.md#uav)

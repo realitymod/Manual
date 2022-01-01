@@ -91,3 +91,44 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 * When you are about 200m from the runway cut your throttle.
 * Once you have touched the ground pull back on the stick to slow down, the planes all handle individually.
 
+## _Fire Control Systems_ {#fire-control-systems}
+Vehicles in Project Reality use an authentic ballistic system for vehicle projectiles. Depending on the vehicle several variations of Fire Control Systems (FCS) computers can be used by the gunner. In principle, the FCS can calculate required adjustments to fire at the target exactly where you want to. Not only does the firing solution consider the drop of the projectile due to gravity, it also includes friction slowing down projectiles. Further it can account for the offset between the operator camera and barrel, the height difference to the target, banking of the vehicle as well as speed of the vehicle. Just as their real life counterparts, not every vehicle will have the same capabilities for their FCS. This section will delve deeper into some of the use-cases of our FCS implementations. 
+
+### Ground Vehicles
+* In short, there are 3 types of FCS for ground vehicles:
+  * Static sight: You have to rely on range markings in the sight.
+  * Adjusting sight: The crosshair moves to show where to aim.
+  * Adjusting barrel: The barrel moves to hit where you are aiming.
+* The vehicle gunner‘s view (the sight in the HUD) will greatly vary from vehicle to vehicle depending on their specifications. Some vehicles, mostly older generation ones, but not limited to age, simply offer a graticule overlay with lines indicating the necessary point of aim for a given distance.
+The markings on the scope itself will usually clarify which lines are to be used for which type of armament specifically. The gunner then has to correctly estimate the range to the target and adjust the gun’s pitch in order to hit.
+* Other vehicles come with the ability to set up the gun sight’s zero to indicate the point of aim for the intended point of impact. By holding the commo-rose **\(default: Q\)**, the gunner can dial into the desired range by increasing or subtracting the indicated range. He can also reset the gun into neutral position, which is indicated by the display of **- - - -** in the HUD as range setting.
+> ![](../assets/fcs_manual.png)
+>
+> Using the commo-rose to manually change the set range.
+* The most sophisticated setup found on most modern vehicles comes with access to a fully automated FCS, complete with a laser range finder. They will show the icon for the laser as active:![](../assets/fcs_cap_laser.png).
+* After aiming the crosshair at the desired target(distance), vehicles that have it, the laser range finder can be used with the change camera key **\(default: C\)** which will set the gun automatically to be set in the correct position to fire at the center crosshair. 
+* In the bottom right of the HUD the current set range and available capabilities of your vehicle is shown.
+> ![](../assets/fcs_main.png)
+>
+> The set range and FCS capability icons being shown in the bottom right of the HUD.
+* The icons in the gunner view on vehicles using a FCS show a number of icons in either white or grey scale. These icons each indicate a certain type of aiming correction the FCS will account for when setting the gun up correctly. The corrections account for the following aiming inaccuracies:
+  * ![](../assets/fcs_cap_velocity.png) Speed compensation: Compensating for the vehicle’s own movement. Does NOT correct the lead on a moving enemy target vehicle.
+  * ![](../assets/fcs_cap_height.png) Height compensation: Compensates for the difference in altitude between your vehicle and the target.
+  * ![](../assets/fcs_cap_parallax.png) Parallax compensation:  Compensating the mismatch between gun position and gunner camera position.
+  * ![](../assets/fcs_cap_roll.png) Roll compensation: Compensates the vehicle sitting at an angle.
+* When switching to the coaxial machine gun, the gun’s pitch will automatically to fire the machine gun to fire at the center. The same will happen when switching to other types of munitions. To switch between main gun and coaxial MG use the switch weapon key **\(default: F\)**.
+* Although the desired mode of operation is for the weapon to be set automatically, the gunner has also the ability to dial manually. This will however not correct for aiming mismatches(see below).
+If the distance to the target is greater than physically achieveable by the selected weapon, the HUD will display a red lettering of the current range setting or **^ ^ ^ ^** as the error indication.
+* A small number of vehicles will utilize a laser range finder to receive the correct distance to the target, but instead of shifting the gun to aim in the center crosshair, the position of the crosshair within the scope will change. Changing to the coaxial machine gun or other types of ammunition will change the crosshair position automatically again. Just like above, manually dialing is also possible.
+* There is a very, very brief period after lasing and the gun entering the correct position. If you’re too hasty you may end up missing.
+* The laser range finder has a cool down period of about one second in between uses, indicated by the icon turning red. 
+* It cannot be used to set up the gun for distances under 150m. Lasing at such a low distance or into the horizon will revert the gun to settle into neutral position, with the range indicator showing **v v v v**. 
+* The laser has an error of around ± 5m.
+
+* The game will memorize the last setting of the gunner, regardless of whether he left it or was killed in it.
+* The gun’s warm up phase does not prevent the gunner from using the laser range finder or the manual range dialing.
+* The FCS on SPAAA (Self-Propelled Anti-Aircraft Artillery) vehicles is always active and does not require any additional input from the player.
+* When crewing a SPAAA with radar equipment, the FCS will display a circle indicating the correct target lead after aquiring a lock on the target. The enemy aircraft can deploy flares to break the lock, which removes the aiming circle temporarily.
+
+### Fixed Wing Aircraft
+The FCS is not limited to ground vehicles, fixed wing aircraft have their own versions for (automated) firing solutions. As such modern jets utilize Constantly Computed Impact Point (CCIP) which will show where bombs will land on the ground. Additionally ground attack jets will also utilize CCIP to show the impact of their main gun. Fighter jets supporting radar targeting will be able to lock onto aircraft with their guns to show a marker predicting where to aim and hit the target. This radar locking will also trigger the victims radar warning receivers and can be countered using flares.
