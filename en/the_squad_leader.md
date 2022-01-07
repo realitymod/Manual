@@ -24,8 +24,7 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 
 > ![](../assets/spotting.png)
 
-[Video Tutorial - Marking](https://www.youtube.com/watch?v=XNDb2yMuoho "Video Tutorial - Marking")
-
+{{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
 ## _The GTL Designator \(GTLD\)_ {#gtld}
 

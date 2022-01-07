@@ -118,5 +118,4 @@ Weapons need to be reloaded manually \(default: **R**\). Weapons deviation is no
 
 ## _Altering Sighting Range_ {#altering-sighting-range}
 
-[Video Tutorial - Sighting Range](https://www.youtube.com/watch?v=cLfdH1EHWPA "Video Tutorial - Sighting Range")
-
+{{ "Video Tutorial - Sighting Range" | youtube("cLfdH1EHWPA") }}
