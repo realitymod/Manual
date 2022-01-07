@@ -1,0 +1,17 @@
+{
+    "name": "honkit-plugin-reality-theme",
+    "version": "0.0.1",
+    "description": "This is my first HonKit plugin",
+    "engines": {
+        "honkit": ">1.x.x"
+    },
+    "honkit": {
+        "properties": {
+            "myConfigKey": {
+                "type": "string",
+                "default": "it's the default value",
+                "description": "It defines my awesome config!"
+            }
+        }
+    }
+}
