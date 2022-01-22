@@ -50,6 +50,7 @@ html{
     width: 100%;
     max-width: 800px;
     padding: 30px;
+    padding-bottom: 150px;
 }
 
 .book-body-content img{
@@ -129,6 +130,10 @@ html{
 
 .companion-group .btn:hover {
     color: #39c;
+}
+
+.companion-group .btn.lv-H3 {
+    padding-left: 15px;
 }
 
 .reality-book-summary ul.summary{

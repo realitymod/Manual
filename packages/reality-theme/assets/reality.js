@@ -5,21 +5,19 @@ require([
     //
     function SetPageTopics(){
         console.log("SetPageTopics")
-        var headers = $.merge($("h2"), $("h3"));
+        var headers = $("h2,h3")
         var topics = $(".companion-topics");
 
-        console.log("headers:" + headers.length);
-        console.log("topics:" + topics.length);
         for(var i = 0; i < headers.length; i++){
             console.log("setting toping");
             var header = headers[i];
-            var topic = `<a class='btn' href="#${header.id}">${header.textContent}</a>`;
+            var tag = `lv-${header.tagName}`;
+            var topic = `<a class='btn ${tag}' href="#${header.id}">${header.textContent}</a>`;
             topics.append(topic);
         }
     }   
 
     gitbook.events.on('page.change', function() {
-        console.log("onPageChanged")
         SetPageTopics();
     });
 
