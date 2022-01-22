@@ -49,12 +49,12 @@ In this mode it is possible for one or more human players to march into battle a
 
 This mode is very unique in comparison to others within PR. The objective of the coalition force is to find and destroy five insurgent weapons caches hidden throughout the map before running out of tickets. The coalition forces lose tickets for every player death or asset destroyed, while the insurgency team only loses tickets when a weapons cache is destroyed.
 
-> ![](../assets/weaponcache.png)
->
-> A weapon cache
+{% figure "../assets/weaponcache.png" %}
+A weapon cache.
+{% endfigure %}
 
-The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [\(see The Civilian\)](the_civilian.md)  
-. To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
+The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [\(see The Civilian\)](the_civilian.md).
+To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
 
 To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
 

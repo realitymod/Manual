@@ -22,7 +22,10 @@ The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark
 2. Select the radio from your inventory and use **the alternate fire key \(RMB\)** to activate it.
 4. Select the type of target contact to mark on the map. Each player can place up to 3 markers which stay for 5 minutes.
 
-> ![](../assets/spotting.png)
+{% figure "../assets/spotting.png" %}
+A civilian.
+{% endfigure %}
+
 
 {{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
@@ -57,17 +60,18 @@ A rally point rearms every 1 minute. Unless it has become overrun. In which case
 
 The squad leader can also use his radio to request support from other squads. To do so he must activate his radio and then press **the secondary radio key \(T\).** This will open up the menu for requesting support and deploying team assets. The lower five commands starting with **“NEED ...”** will place a map marker at your position. They also transmit a radio message to your team to alert them of your request. The **“NEED AREA ATTACK”** request behaves a bit different from the rest. On some maps conventional forces can use this command to request an **artillery barrage**. If your request is approved by the team's commander, the attack will strike after about one minute. After loading a new map or executing an area attack it takes 30 minutes until it is available again. Similarly unconventional factions have access to a mortar barrage every 20 minutes on most maps.
 
-> ![](../assets/support.png)
->
-> Requesting support through radio
+
+{% figure "../assets/support.png" %}
+Requesting support through radio.
+{% endfigure %}
 
 ## _Construction Work_ {#construction-work}
 
 Constructing assets is an essential functionality of the Squad Leader which the team's Commander also possesses. When deploying and constructing a Forward Outpost \(FOB\) a Squad Leader needs to have an officer kit and a heavy supply crate within a 50m radius of his vicinity. 2 light supply crates offer the same capabilities as 1 heavy supply crate to achieve the same goal. Insurgents, Taliban and the Hamas can only deploy hideouts, mortars and anti-tank positions for their team which do not require supplies to build these structures. To perform this function either a cell leader or collaborator kit is necessary.
 
-> ![](../assets/buildcomo.png)
->
-> Building assets through radio
+{% figure "../assets/buildcomo.png" %}
+Building assets through radio.
+{% endfigure %}
 
 To deploy a structure follow these steps:
 
@@ -77,9 +81,9 @@ To deploy a structure follow these steps:
 4. Left click your mouse on **DEPLOY / REMOVE ASSET.**
 5. Select the structure you want to build from the list.
 
-> ![](../assets/shovel.png)
->
-> Shovel needed to build up deployables.
+{% figure "../assets/shovel.png" %}
+Shovel needed to build up deployables.
+{% endfigure %}
 
 Players currently standing where the deployable is being placed will die. So make sure your squad knows where you intend to build. Soldiers need to use **the entrenching tool** to build assets. Construction is complete once the digging stops.
 
@@ -89,9 +93,9 @@ To dismantle a built structure, squad members must use the entrenching tools rig
 
 Deployable Emplacements weapons can be rearmed by dropping ammunition bags next to them. Several bags are needed to completely rearm an emplacement.
 
-> ![](../assets/deploy.png)
->
-> Unbuild and build examples of a foxhole.
+{% figure "../assets/deploy.png" %}
+Unbuild and build examples of a foxhole.
+{% endfigure %}
 
 ## _Deployable Structures_ {#deployable-structures}
 
@@ -104,7 +108,8 @@ Here is a list of the deployable structures and the requirements for building th
 * Must be constructed at least 200m from other forward outposts and the team's HQ.
 * Must be constructed at least 10m away from the map border \(200m on CNC\).
 
-![](../assets/fobb.png)
+{% figure "../assets/fobb.png" %}
+{% endfigure %}
 
 **Hideout:** Insurgents use hideouts as a spawn location. If 2 or more enemies are close by \(within 50m\), spawning is disabled until 90 seconds after they leave or die. Requirements and limitations:
 
@@ -112,7 +117,8 @@ Here is a list of the deployable structures and the requirements for building th
 * The team may have up to 6 hideouts at the same time.
 * Must be constructed at least 10m away from the map border.
 
-![](../assets/hideoutt.png)
+{% figure "../assets/hideoutt.png" %}
+{% endfigure %}
 
 **Heavy MG:** A deployable heavy machine gun. Requirements and limitations:
 
@@ -121,7 +127,8 @@ Here is a list of the deployable structures and the requirements for building th
 * Only 2 MG’s per FOB and within 200m radius.
 * The team can have up to 24 heavy MGs.
 
-![](../assets/hmg.png)
+{% figure "../assets/hmg.png" %}
+{% endfigure %}
 
 **Anti-Tank:** A deployable anti-tank missile launcher. This weapon features thermal imaging and 1 fixed level of magnification. Reloading takes 20s. Requirements and limitations:
 
@@ -130,7 +137,8 @@ Here is a list of the deployable structures and the requirements for building th
 * No other anti-tank emplacement may be within 200m distance and on that FOB.
 * The team can have up to 3 anti-tank positions at the same time.
 
-![](../assets/tow.png)
+{% figure "../assets/tow.png" %}
+{% endfigure %}
 
 **Anti-Tank \(unconventional forces\):** The SPG9 AT-launcher only has a narrow range of traverse. It can shoot two types of ammunition and takes 15s to reload. Requirements and limitations:
 
@@ -139,7 +147,8 @@ Here is a list of the deployable structures and the requirements for building th
 * No other anti-tank emplacement may be within 200m distance and on that FOB.
 * The team can have up to 3 anti-tank positions at the same time.
 
-![](../assets/spg.png)
+{% figure "../assets/spg.png" %}
+{% endfigure %}
 
 **Anti-Air:** A deployable surface-to-air missile launcher. Requirements and limitations:
 
@@ -149,7 +158,8 @@ Here is a list of the deployable structures and the requirements for building th
 * The team can have up to 6 anti-air emplacements.
 * Unconventential forces get a DShK machine gun on a tripod as anti-air emplacement. 
 
-![](../assets/aaa.png)
+{% figure "../assets/aaa.png" %}
+{% endfigure %}
 
 **Foxhole:** A sandbag fortified foxhole provides cover against small arms and artillery strikes. Requirements and limitations:
 
@@ -158,7 +168,8 @@ Here is a list of the deployable structures and the requirements for building th
 * A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
 * The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
 
-![](../assets/foxhole.png)
+{% figure "../assets/foxhole.png" %}
+{% endfigure %}
 
 **Sandbag-wall:** A sandbag wall is a small 5m long wall made of sandbags to hide behind and use as cover against small arms. Requirements and limitations:
 
@@ -167,7 +178,8 @@ Here is a list of the deployable structures and the requirements for building th
 * A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
 * The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
 
-![](../assets/sandbagwall.png)
+{% figure "../assets/sandbagwall.png" %}
+{% endfigure %}
 
 **Razor wire:** A 10m wide road block of razor wire and tank traps. Requirements and limitations:
 
@@ -182,7 +194,8 @@ Here is a list of the deployable structures and the requirements for building th
 * A maximum of 9 other roadblocks, razorwires, foxholes and sandbags can be within 200m.
 * The team can have up to 100 roadblocks in total.
 
-![](../assets/roadblock.png)
+{% figure "../assets/roadblock.png" %}
+{% endfigure %}
 
 **Mortar:** A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km. Requirements and limitations:
 
@@ -191,5 +204,5 @@ Here is a list of the deployable structures and the requirements for building th
 * The team can have up to 2 mortar positions at the same time.
 * Both mortar positions must be placed within 50m of each other.
 
-![](../assets/mortarss.png)
-
+{% figure "../assets/mortarss.png" %}
+{% endfigure %}

@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [Introduction](README.md)
+* [About](README.md)
   
 ### Installing
 * [Set-Up](set-up.md)
@@ -16,5 +16,4 @@
 * [The Civilian](the_civilian.md)
 
 ### Help
-* [Translations](the_civilian.md)
-* [Something else...](the_civilian.md)
+* [Expand manual](help_manual.md)

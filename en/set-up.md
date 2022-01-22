@@ -15,11 +15,11 @@
 
 ## _Game Installation_                                                                          {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install PR:BF2 v1.6. 
+With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version PR:BF2. 
 
 You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
 
-[**Download Full PR:BF2 v1.6 Installer**](http://www.realitymod.com/downloads)
+[**Download the latest version**](http://www.realitymod.com/downloads)
 
 There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
 
@@ -45,20 +45,28 @@ A few more points:
 Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
 When you launch Project Reality:BF2 for the first time you will shown the following window:
 
-![](../assets/creating_profile_1.png)
+{% figure "../assets/creating_profile_1.png" %}
+Steam login prompt.
+{% endfigure %}
 
 Press the Steam sign-in button to open a webpage where you will need to login to Steam in order to proceed. You will be then asked by your web browser to allow the PR Launcher to login. Depending on your browser this will look similar to the images below. Press the button that allows you to proceed. Afterwards you can close the webpage. 
 
-![](../assets/creating_profile_2.png)
+{% figure "../assets/creating_profile_2.png" %}
+Web browsers prompts.
+{% endfigure %}
 
 Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Servers have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
 Please make sure the _game details_ settings are set to be public. 
 
-![](../assets/creating_profile_3.png)
+{% figure "../assets/creating_profile_3.png" %}
+Steam profile's configurations.
+{% endfigure %}
 
 **Your Steam profile does not have to be public while playing PR:BF2.** Only when calculating the PR Account level. This is done once automatically on the first login and afterwards only when manually calculating.  You can find our privacy-notice [here](https://hq.realitymod.com/account/privacy.html). If your account level is not high enough to play on most online servers you will be shown a warning on the main PR Launcher screen which looks like the image below.
 
-![](../assets/creating_profile_4.png)
+{% figure "../assets/creating_profile_4.png" %}
+Main Launcher page with account level warning.
+{% endfigure %}
 
 To recalculate your PR Account Level go to the **SUPPORT** menu and open the _Account_ tab. There you can find your unique PR Account ID as well as your current PR Account Level and a button to calculate it again. Your level can never become lower after calculation. You will always keep the highest level you have. 
 
@@ -72,15 +80,23 @@ You have one PR Account that is unique. However, you can create multiple profile
 
 You can access the profile settings by hovering over the PLAY button in the PR Launcher and choosing _Select Profile_ and then _Manage Profiles_. You have the option to create offline profiles as well. If you didn’t log in through your online PR Account, you can only make and use offline profiles. 
 
-![](../assets/creating_profile_5.png)
+{% figure "../assets/creating_profile_5.png" %}
+Manage profiles page.
+{% endfigure %}
 
-![](../assets/creating_profile_6.png)
+
+{% figure "../assets/creating_profile_6.png" %}
+Creating profile page.
+{% endfigure %}
+
 
 ## _The PR Launcher_ {#the-pr-launcher}
 
 After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
 
-![](../assets/launcher_1.png)
+{% figure "../assets/launcher_1.png" %}
+Main page of PR Launcher.
+{% endfigure %}
 
 All main options are displayed on the right.
 
@@ -117,15 +133,22 @@ PR Mumble comes installed together with PR:BF2. It runs alongside the game insta
 
 It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this, locate the PR Dogtags in the system tray next to the Windows system clock \(PR has to be running\), click on the icon to open the mumble interface then locate settings at the top. After that the settings panel will appear and you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
 
-![](../assets/mumblelogo.png)
+{% figure "../assets/mumblelogo.png" %}
+Mumble's icon in window's system tray.
+{% endfigure %}
+
 
 PR Mumble also integrates with BF2’s HUD display. During the game you will see the names of players talking, each colour depicting over which channel they are transmitting, which is displayed in the lower left hand corner of your screen. In the lower right hand corner mumble also indicates over what channel you are transmitting with a different colour depending on the channel you are using. It also shows whether your microphone or speakers are muted, and if there’s linking issues with the mumble client.
 
-![](../assets/mumble_1.png)
+{% figure "../assets/mumble_1.png" %}
+Example of player's talking in game.
+{% endfigure %}
 
-![](../assets/mumble_2.png)
+{% figure "../assets/mumble_2.png" %}
+Mumble's icons status: Transmitting, Muted Speakers, Muted and Disconnected, respectively.
+{% endfigure %}
 
-Transmitting Mic / Muted Speakers / Muted / Disconnected
+
 
 ## _Troubleshooting_ {#troubleshooting}
 
@@ -213,4 +236,6 @@ Here are a couple of forum links from realitymod.com to use for various common r
 
 **Mumble Keys**
 
-![](../assets/mumblekeys.png)
+{% figure "../assets/mumblekeys.png" %}
+Creating profile page.
+{% endfigure %}
