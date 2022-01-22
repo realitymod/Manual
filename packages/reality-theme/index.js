@@ -8,11 +8,14 @@ module.exports = {
             process: function(fig) {
                 if(!fig || !fig.args || fig.args.length == 0) {return '';}
                 
-                var src = fig.args[0];
-                var alt = fig.args.length > 1 ? fig.args[1] : '';
+                var images = '';
+                for(var i=0;i<fig.args.length;i++){
+                    images += `<img src="${fig.args[i]}">`;
+                    images += '\n';
+                }
                 var caption = fig.body;
                 return `<figure>
-    <img src="${src}" alt="${caption}">
+    ${images}
     <figcaption>${caption}</figcaption>
 </figure>`;
             }
