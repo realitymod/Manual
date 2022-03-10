@@ -2,18 +2,18 @@
 
 ## ![](../assets/PR_v1_Logo.png)
 
-## **Project Reality: BF2 Manual - Updated for v1.6.3**
+## **Project Reality: BF2 Manual - Updated for v1.7**
 
-> Project Reality : BF2 sudah di kembangkan  oleh banyak developer sepanjang lebih dari 15 tahun. Banyak sekali perbaikan dan Modifikasi yang dilakukan waktu itu. Setelah ribuan perubahan,  akhirnya Project Reality semakin lama semakin susah untuk dikenali sebagai modifikasi Battlefield 2. Kita berharap manual ini memberikan anda pengenalan yang baik kedalam dunia PR:BF2 yang menantang. Bila anda mempunyai masukan atau pertanyaan yang belum terjawab tentang dokumen ini, silahkan kontak kita di Forum.
-**Manual ini sudah di perbeharui untuk PR:BF2 versi 1.6.3**
+> Project Reality: BF2 sudah dikembangkan oleh banyak developer sepanjang lebih dari 15 tahun. Banyak sekali perbaikan dan modifikasi yang dilakukan waktu itu. Setelah ribuan perubahan, akhirnya Project Reality semakin lama susah dikenali sebagai modifikasi dari Battlefield 2. Kita berharap manual ini memberikan anda pengenalan yang baik kedalam dunia PR:BF2 yang menantang. Bila anda mempunyai masukan atau pertanyaan yang belum terjawab tentang dokumen ini, silahkan kontak kita di forum.
+**Manual ini sudah diperbeharui untuk PR:BF2 versi 1.7**
 >
 > _Tim Project Reality._
 
-**v1.6.3 Translation by PRID-TEAM**
+**v1.7 Translation by PRID-TEAM**
 
 **Pengenalan**
 
-Penganalan ini akan memberikan gambaran singkat apa yang sekiranya ketika anda memulai memainkan modifikasi Project Reality untuk Battlefield 2. Modifikasi ini memiliki tingkat kerumitan dan kerjasama tim yang anda jarang ditemukan di kebanyakan permainan modern _first person shooter_, sementara masih akan mencari keseimbangan diantara simulasi dan gameplay. Karna metode pembelajaran yang sangat berbeda, kita sangat menyarankan untuk semua pemain baru membaca manual ini secara menyeluruh sebelum bergabung di permainan online.
+Penganalan ini akan memberikan gambaran singkat apa yang sekiranya ketika anda memulai memainkan modifikasi Project Reality untuk Battlefield 2. Modifikasi ini memiliki tingkat kerumitan dan kerjasama tim yang anda jarang ditemukan di kebanyakan permainan __modern first person shooter_, sementara masih akan mencari keseimbangan diantara simulasi dan gameplay. Karna metode pembelajaran yang sangat berbeda, kita sangat menyarankan untuk semua pemain baru membaca manual ini secara menyeluruh sebelum bergabung di permainan online.
 
 Etika utama dari Project Reality ini adalah kerjasama tim. Koordinasi di squad anda, antar regu dan seluruh tim anda adalah yang terpenting. Peran pemimpin squad dan komandan sangat penting untuk dapat sukses di PR dan arahnya permainan ditentukan oleh mereka yang berada di posisi pemimpin dan _carried out by the players_. PR: BF2 memiliki banyak mekanisme dalam bermain yang membedakan peran dalam sebuah squad dan tim. Ini juga dapat pemimpin squad dan komandan tim memiliki kemampuan untuk deploy emplacement aset seperti foxholes, machine gun nest dan mortar pit untuk memperkuat pertahanan lokasi spawn yang disebut sebagai _FOB_. Selain itu, peran pemain dalam satu squad sangatlah beragam dan tercermin dalam pemilihan kit standard dan khusus terbatas untuk beragam pilihan infanteri berbarengan dengan kit unik untuk mengoperasikan mekanik dan penerbangan
 
