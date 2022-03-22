@@ -13,9 +13,6 @@ This requires installing Node-JS and npm, npm and getting gitbook-cli:  `npm ins
  - Install plugins: `gitbook install`
  - Build: `gitbook build`
  - Host locally (available on localhost:4000): `gitbook serve`
- 
-More info here: https://gchq.github.io/stroom-docs/dev-guide/gitbook.html
-
 
 ## Translation credits
 - German: Rotblut
