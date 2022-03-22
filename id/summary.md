@@ -52,6 +52,7 @@
   * [_Armored Vehicle_](operating_vehicles.md#armored-vehicles)
   * [Helikopter](operating_vehicles.md#helicopters)
   * [Pesawat Terbang](operating_vehicles.md#fixed-wing-aircraft)
+  * [Sistem Pengendali Tembakan (Fire Control System)](operating_vehicles.md#fire-control-systems)
 * [Komandan](commander.md)
   * [Memimpin Pasukan](commander.md#leading-the-troops)
   * [UAV](commander.md#uav)
