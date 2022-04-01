@@ -6,7 +6,7 @@ Armas após movimentos prolongados às vezes levam um momento para ganhar precis
 
 A maioria das armas está configurada para disparo semiautomático por padrão.
 
-Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de armas não é afetado por ter ótica ou miras de ferro equipadas. Armas são classificadas em categorias em PR:BF2, frequentemente conectadas aos kits pelos quais são usadas:
+Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio do tiro não é afetado por ter ótica ou miras de ferro equipadas. Armas são classificadas em categorias em PR:BF2, frequentemente conectadas aos kits pelos quais são usadas:
 
 ![cuserswouterdesktop1.png](../assets/cuserswouterdesktop1.png)
 
@@ -80,7 +80,7 @@ Armas precisam ser recarregadas manualmente \(padrão: **R** \). O desvio de arm
 
 ![C:\Users\Wouter\Desktop\14.png](../assets/cuserswouterdesktop14.png)
 
-**Surface-to-air missiles \(SAM\) ou mísseis antiaéreos \(algumas pessoas utilizam a sigla AA\)** são usados para derrubar aeronaves inimigas. Para conseguir isso, você precisa adquirir visualmente o alvo rastreando-o com a mira da SAM. Uma vez que o rastreamento esteja estabelecido, você ouvirá um tom baixo; após alguns segundos, quando a trava for alcançada, você ouvirá um tom alto secundário, neste ponto, você poderá disparar. Contramedidas como flares impedem que você destrua efetivamente seu alvo, de modo que seu ângulo de ataque em relação à direção de movimento do veículo é fundamental para atingir um alvo. Os pilotos inimigos receberão um som de aviso alguns segundos depois de terem sido bloqueados por um SAM, dando-lhes tempo para se afastarem da ameaça. Algumas facções mais antigas, como as facções das Malvinas com o Blowpipe, não terão armas AA de rastreio automático e precisarão ser guiadas manualmente.
+**Surface-to-air missiles \(SAM\) ou mísseis antiaéreos \(algumas pessoas utilizam a sigla AA e ManPad\)** são usados para derrubar aeronaves inimigas. Para conseguir isso, você precisa adquirir visualmente o alvo rastreando-o com a mira da SAM. Uma vez que o rastreamento esteja estabelecido, você ouvirá um tom baixo; após alguns segundos, quando a trava for alcançada, você ouvirá um tom alto secundário, neste ponto, você poderá disparar. Contramedidas como flares impedem que você destrua efetivamente seu alvo, de modo que seu ângulo de ataque em relação à direção de movimento do veículo é fundamental para atingir um alvo. Os pilotos inimigos receberão um som de aviso alguns segundos depois de terem sido bloqueados por um SAM, dando-lhes tempo para se afastarem da ameaça. Algumas facções mais antigas, como as facções das Malvinas com o Blowpipe, não terão armas AA de rastreio automático e precisarão ser guiadas manualmente.
 
 > _Kits: Anti Aircraft_
 

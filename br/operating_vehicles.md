@@ -62,7 +62,7 @@ Os artilheiros de Tanques e IFVs usam o slot de arma \(geralmente 3 \) e apertam
 * Para obter êxito em **soltar suprimentos** de um helicóptero de transporte, o piloto precisa conduzir a queda a partir de uma altitude inferior a 5m / 15 pés, pressionando o botão direito do mouse.
 * **Flares de contramedidas** são limitados e precisam ser rearmados quando gastos. Toda vez que você utilizar flare \(**X** \), um sinalizador será implantado. Você pode segurar para implantar múltiplos.
 
-## _Aeronaves_ {#fixed-wing-aircraft}
+## _Aeronaves de Asa Fixa_ {#fixed-wing-aircraft}
 
 * Aeronaves têm um **tempo de aquecimento** de 30 segundos antes de poderem decolar do solo.
 * Pilotos de jato podem olhar em outras direções enquanto voam pressionando as teclas 7, 8 e 9 que você pode mapear para um joystick POV HAT Switch. Para olhar para frente, pressione 1 ou selecione qualquer outra arma que sua aeronave tenha.
@@ -90,3 +90,45 @@ Os artilheiros de Tanques e IFVs usam o slot de arma \(geralmente 3 \) e apertam
 * Quando você estiver a cerca de 200m da pista, corte seu acelerador.
 * Uma vez que você tenha tocado o chão, puxe o freio para desacelerar a aeronave.
 
+
+## _Sistema de Controle de Tiro_ {#fire-control-systems}
+Os veículos no Project Reality usam um autêntico sistema balístico para projéteis de veículos. Dependendo do veículo, várias variações de Sistemas de Controle de Fogo (FCS) podem ser usados pelo atirador. Em princípio, o FCS pode calcular os ajustes necessários para disparar no alvo exatamente onde você deseja. O cálculo do disparo não considera apenas a queda do projétil devido à gravidade, mas também inclui o atrito que reduz a velocidade dos projéteis. Além disso, ele pode contabilizar o desalinhamento entre a câmera do operador (mira) e o cano, a diferença de altura em relação ao alvo, inclinação do veículo e também a velocidade do veículo. Assim como seus equivalentes na vida real, nem todos os veículos terão os mesmos recursos para seus FCS. Esta seção se aprofundará em alguns dos casos de uso do FCS e suas implementações. 
+
+### Veículos Terrestres
+* Resumindo, existem 3 tipos de FCS para veículos terrestres:
+  * Mira estática: você deve confiar nas marcas de alcance na mira.
+  * Mira ajustável: a mira se move para mostrar onde mirar.
+  * Cano ajustável: O cano se move para acertar onde você está mirando.
+* A câmera do artilheiro do veículo (as marcas no HUD) variam muito de veículo para veículo, dependendo de suas especificações. Alguns veículos, principalmente os da geração mais antiga, mas não limitados à idade, simplesmente oferecem uma sobreposição de retícula com linhas indicando o ponto de mira necessário para uma determinada distância.
+As marcações na própria mira geralmente esclarecem quais linhas devem ser usadas para que tipo de armamento especificamente. O atirador, então, deve estimar corretamente a distância até o alvo e ajustar a elevação da arma para acertar.
+* Outros veículos vêm com a capacidade de configurar o zero(posição neutra) da mira para indicar o ponto de mira para o ponto de impacto pretendido. Segurando a commo-rose **\(padrão: Q\)**, o atirador pode selecionar a distância desejada, aumentando ou subtraindo a distância indicada. Ele também pode redefinir a arma para a posição neutra, o que é indicado pela exibição de **- - - -** no HUD como configuração de alcance(distância).
+> ![](../assets/fcs_manual.png)
+>
+> Usando a commo-rose para alterar manualmente a distância definida.
+* A especificação mais sofisticada encontrada na maioria dos veículos modernos vem com acesso a um FCS totalmente automatizado, completo com um telêmetro a laser. Eles mostrarão o ícone do laser como ativo:![](../assets/fcs_cap_laser.png).
+* Depois de apontar a mira para o alvo desejado (distância), veículos que possuam o telêmetro a laser podem usá-lo com a tecla de mudança de câmera **\(padrão: C\)** que irá definir a arma automaticamente na posição correta para disparar na mira central. 
+* No canto inferior direito do HUD, é exibida a distância de tiro atual e as capacidades disponíveis no seu veículo.
+> ![](../assets/fcs_main.png)
+>
+> Os ícones sobre distância e capacidades do FCS sendo mostrados na parte inferior direita do HUD.
+* Os ícones na câmera do artilheiro em veículos que usam um FCS mostram vários ícones em toms de branco ou cinza. Cada um desses ícones indica um certo tipo de correção de mira que o FCS considerará ao ajustar a arma corretamente. As correções são responsáveis pelas seguintes imprecisões de mira:
+  * ![](../assets/fcs_cap_velocity.png) Compensação de velocidade: Compensa o próprio movimento do veículo. NÃO corrige a diferença em um alvo inimigo em movimento.
+  * ![](../assets/fcs_cap_height.png) Compensação de altura: Compensa a diferença de altura entre seu veículo e o alvo.
+  * ![](../assets/fcs_cap_parallax.png) Compensação de parallax: Compensa a diferença entre a posição da arma e a posição da câmera(mira) do atirador.
+  * ![](../assets/fcs_cap_roll.png) Compensação de rotação: Compensa o veículo inclinado.
+* Ao mudar para a metralhadora coaxial, a mira da arma irá automaticamente definir a metralhadora para disparar no centro. O mesmo acontecerá ao trocar para outros tipos de munições. Para alternar entre a arma principal e o MG coaxial, use a tecla de troca de arma **\(padrão: F\)**.
+* Embora o modo de operação desejado seja a arma definir automaticamente, o atirador também tem a capacidade de selecionar manualmente. No entanto, isso não corrigirá as incompatibilidades de mira (veja abaixo).
+Se a distância até o alvo for maior do que fisicamente alcançável pela arma selecionada, o HUD exibirá uma inscrição em vermelho na especificação de alcance atual ou ** ^ ^ ^ ^ ** como  indicação de erro.
+* Um pequeno número de veículos utilizará um telêmetro a laser para detectar a distância correta ao alvo, mas em vez de mudar a arma para mirar na mira central, a posição da mira dentro da câmera mudará. Mudar para a metralhadora coaxial ou outros tipos de munição mudará a posição da mira automaticamente novamente. Assim como acima, a seleção manual também é possível.
+* Há um intervalo muito pequeno entre o lasing e a arma entrar na posição correta. Se você for muito apressado, pode acabar errando.
+* O telêmetro a laser tem um período de resfriamento de cerca de um segundo entre os usos, indicado pelo ícone que fica vermelho.
+* Não pode ser usado para definir a arma para distâncias abaixo de 150m. Lasing a uma distância tão baixa ou no horizonte irá reverter a arma na posição neutra, com o indicador de alcance(mira) mostrando **v v v v**. 
+* O laser tem uma margem de erro de cerca de ± 5m.
+
+* O jogo memorizará a última configuração da arma, independentemente do atirador ter saído ou morrido.
+* O intervalo de aquecimento da arma não impede que o atirador use o telêmetro a laser ou a seleção manual de distância.
+* O FCS nos veículos SPAAA (Artilharia Antiaérea Autopropelida) está sempre ativo e não requer nenhuma ação adicional do jogador.
+* Quando estiver em uma SPAAA com equipamento de radar, o FCS exibirá um círculo indicando o ponto correto de tiro após obter um bloqueio(lock) no alvo. A aeronave inimiga pode lançar flares para quebrar o bloqueio(lock), o que remove o círculo temporariamente.
+
+### Aeronaves de Asa Fixa
+O FCS não se limita a veículos terrestres, as aeronaves de asa fixa têm suas próprias versões para correções de disparo (automatizadas). Assim, os jatos modernos utilizam o Ponto de Impacto Constantemente Computado (CCIP), que mostra onde as bombas cairão no solo. Além disso, os jatos de ataque ao solo também utilizarão CCIP para mostrar o impacto de seu canhão principal. Os caças que suportam radares serão capazes de travar em aeronaves com suas armas para mostrar um marcador que prevê onde mirar e acertar o alvo. Este bloqueio(lock) de radar também acionará os receptores de alerta de radar das vítimas e pode ser combatido usando flares.

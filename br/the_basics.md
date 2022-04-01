@@ -62,9 +62,9 @@ Em PR:BF2 você não pode spawnar em todos os pontos de controle que sua equipe 
 >
 > visão normal do jogo \(esquerda\) e efeito de supressão em ação \(direita\).
 
-* Quando um jogador está **morto,** ele não será revivido e a tela preta com as palavras “dead” será exibida em vez de ver o que está ao seu redor.
+* Quando um jogador está **morto,** ele não será revivido e a tela preta com a palavra “dead” será exibida em vez de ver o que está ao seu redor.
 * Sua arma irá se desviar e se tornar imprecisa para atirar com base na quantidade de movimento que você faz. Para ter uma indicação dessa imprecisão, há um indicador de desvio logo acima da bússola. Quanto mais amplo for esse indicador, mais imprecisa você sua arma será.
-* **O sistema automático de comunicar avistamentos \(spots\) no mapa** foi removido da infantaria. Veículos aéreos ainda podem ser vistos.
+* **O sistema automático de comunicar avistamentos \(spots\) no mapa** foi removido da infantaria. Veículos aéreos ainda podem ser spotados.
 * Os oficiais \(Officers\) podem enviar um relatório de **contato** para o comandante ou usar seu rádio para colocar manualmente uma marca no mapa da equipe. Soldados normais só podem gritar um aviso genérico quando localizam unidades inimigas.
 * **A roda de rádio \(default: Q & T\)** contém itens com duas funções. Clicar com o botão esquerdo **“RECARREGAR / CESSAR FOGO”** diz às pessoas ao seu redor que você está recarregando, enquanto um clique com o botão direito diz a elas para parar com o fogo-amigo. O mesmo princípio se aplica a **“VAI, VAI, VAI / RECUAR!”** e outros itens do menu.
 * Você pode **orientar-se** no mapa usando o elemento de direção que você encontrará em torno do ícone do seu jogador.
@@ -82,7 +82,7 @@ Armas no Project Reality são altamente letais e é apenas uma questão de tempo
 
 Se seus ferimentos não forem tratados, você sangrará lentamente até a morte. Para evitar isso, você tem duas maneiras de se curar. Quase todos os kits incluem um **Curativo \(Também conhecido como Field Dressing, Bandagem ou Pastel\)** que é selecionado pressionando a tecla apropriada ou passando por sua seleção de armas. Pressionar o botão esquerdo do mouse joga o curativo no chão. Dentro de um segundo ou dois, o curativo de campo desaparecerá e o jogador ao lado recuperará 25% de sua saúde total.
 
-Como a maioria dos kits possui apenas um ou dois curativos, a melhor maneira de recuperar a saúde é ser tratado por um médico. **Medicos* são capazes de curar completamente um jogador usando um **Kit de Primeiros socorros \(Medical Supplies\)** e podem ser chamados para a sua posição usando a tecla de rádio “Q” e selecionando “Preciso de Medico \(Need Medic\)”. O médico selecionará o kit de primeiros socorros pressionando a tecla numérica apropriada ou passando por sua seleção de armas. No entanto, ao contrário do BF2, o médico não pode simplesmente jogar o kit de primeiros socorros no chão, mas deve segurá-lo em suas mãos, tocar o jogador a ser curado e, em seguida, pressionar o botão esquerdo do mouse. Um som simulando bandagens sendo rasgadas indicará que os primeiros socorros estão sendo aplicados. Para ser completamente curado leva cerca de 15 segundos, então certifique-se de fazer isso em um local seguro.
+Como a maioria dos kits possui apenas um ou dois curativos, a melhor maneira de recuperar a saúde é ser tratado por um médico. **Medicos são capazes de curar completamente um jogador usando um **Kit de Primeiros socorros \(Medical Supplies\)** e podem ser chamados para a sua posição usando a tecla de rádio “Q” e selecionando “Preciso de Medico \(Need Medic\)”. O médico selecionará o kit de primeiros socorros pressionando a tecla numérica apropriada ou passando por sua seleção de armas. No entanto, ao contrário do BF2, o médico não pode simplesmente jogar o kit de primeiros socorros no chão, mas deve segurá-lo em suas mãos, tocar o jogador a ser curado e, em seguida, pressionar o botão esquerdo do mouse. Um som simulando bandagens sendo rasgadas indicará que os primeiros socorros estão sendo aplicados. Para ser completamente curado leva cerca de 15 segundos, então certifique-se de fazer isso em um local seguro.
 
 > ![](../assets/fielddressing.png)![](../assets/kit.png)![](../assets/epipen.png)
 >
@@ -135,7 +135,7 @@ Para ser capaz de se rearmar, você precisará se aproximar de uma das várias f
 >
 > Bolsa de munição, Caixa de munição das forças da Coalizão, Caixa de munição das forças Insurgentes, Cache de armas e depósito de veículos.
 
-Esteja ciente de que, com exceção de **caches** e ** depósito de veículos \(reparo da base principal\), **todas as outras fontes de munição são **limitadas**. Eventualmente, essas fontes se esgotarão e desaparecerão. É até possível que as fontes de munição se esgotem antes de você ser totalmente rearmado.
+Esteja ciente de que, com exceção de **caches** e depósito de veículos \(reparo da base principal\), **todas as outras fontes de munição são **limitadas**. Eventualmente, essas fontes se esgotarão e desaparecerão. É até possível que as fontes de munição se esgotem antes de você ser totalmente rearmado.
 **Bolsas de munição **, ** caixas de munição ** e ** caixas de suprimentos ** usam ** pontos de suprimentos ** para determinar por quanto tempo eles podem ser usados. Você pode descobrir os pontos de suprimento restantes de ** caixas de suprimentos ** e ** caixas de munição ** olhando para eles por um segundo. Ele aparecerá ao lado da bússola.
 As várias armas disponíveis no PR requerem diferentes quantidades de pontos de abastecimento para serem reabastecidos. Itens utilitários como o gancho\(corda\), tripflares e curativos \(pastel\) custam menos para reabastecer do que munições explosivas, como foguetes / mísseis antitanque, granadas de fragmentação e minas. Veja as tabelas abaixo para o custo de reabastecimento da categoria e tipo de arma correspondente:
 
@@ -214,7 +214,7 @@ Observe que em um servidor local, o sistema de reabastecimento não funcionará 
 Solicitar um kit custa 200 pontos de suprimento. Esteja ciente de que rearmar uma bolsa de munição em, por exemplo, uma caixa de munição ou caixa de suprimentos leve / pesada custará tantos pontos quanto ela fornece (200).
 A quantidade de pontos de abastecimento para as fontes de abastecimento são:
 
-* **Bolsas de munição** : 200 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
+* **Bolsas de munição** : 200 (só contará como 43 pontos de abastecimento quando usado por um asset fixo como uma TOW ou morteiro, por exemplo)
 * **Caixas de munição** : 450
 * **Caixa de Suprimentos leve** : 1500
 * **Caixa de Suprimentos pesada** : 3000
@@ -223,7 +223,7 @@ Outra coisa a notar é que o reabastecimento não é instantâneo, mas leva algu
 
 ### _Caixas de Suprimentos \(Supply Crates\)_ {#crates}
 
-Existem dois tipos de caixas de suprimento \(Supply crates\) em PR:BF2 - Caixa de Suprimento leve \(light supply\) e Caixa de Suprimento pesada \(Heavy supply\). Enquanto ambos permitem remuniciar os jogadores e construir implementáveis, uma caixa leve é o equivalente a metade da Caixa de Suprimentos Pesada, o que significa que você precisará de duas caixas de suprimento leve onde apenas uma caixa de suprimento pesado é necessária. Para saber mais sobre construções, consulte o capítulo [construiveis.\)](the_squad_leader.md#deployable-structures)
+Existem dois tipos de caixas de suprimento \(Supply crates\) em PR:BF2 - Caixa de Suprimento leve \(light supply\) e Caixa de Suprimento pesada \(Heavy supply\). Enquanto ambos permitem remuniciar os jogadores e construir implementáveis, uma caixa leve é o equivalente a metade da Caixa de Suprimentos Pesada, o que significa que você precisará de duas caixas de suprimento leve onde apenas uma caixa de suprimento pesada é necessária. Para saber mais sobre construções, consulte o capítulo [construiveis.\)](the_squad_leader.md#deployable-structures)
 
 > ![](../assets/largecrate.png)![](../assets/smallcrate.png)
 >
@@ -307,7 +307,8 @@ Em alguns casos, vários CSBs são necessários para abranger a distância compl
    * ![](../assets/move.png)**Mover**
 2. Uma **bússola de grau de precisão** na área central inferior da tela. A bússola pode ser usada para dar os rolamentos exatos de inimigos marcados próximos. **Os 8 pontos cardeais** estão claramente indicados juntamente com os rótulos dos rolamentos que aumentam gradualmente a cada 15 ° com grandes divisões a cada 5 °. Se você quer apenas comunicar uma direção geral, é melhor dizer a direção cardeal, seguida do grau e, em algumas situações, da distância, se apropriado. Por exemplo, _ **“Inimigo visto a NE a 75 ° graus a 200 metros”**.
   * Se o alvo estiver visualmente alinhado com um rolamento numerado na sua bússola quando você estiver voltado para essa direção, basta comunicar esse número.
-    * Lembre-se de que todos os entalhes grandes da bússola são iguais a 5 graus. Se o alvo estiver alinhado com um entalhe à direita de um entalhe marcado ao longo de 75 °, então à direita você adiciona 5 °. Então o alvo está a 80 °!.[](../assets/compass.png)
+    * Lembre-se de que todos os entalhes grandes da bússola são iguais a 5 graus. Se o alvo estiver alinhado com um entalhe à direita de um entalhe marcado ao longo de 75 °, então à direita você adiciona 5 °. Então o alvo está a 80°.
+  ![](../assets/compass.png)
 3. Os mapas em PR:BF2 contêm **rótulos de referência de grade e sub-redes de teclado**. Os rótulos de grade são encontrados na borda superior e esquerda do mapa. O mapa é dividido em 169 quadrados de grade começando com A1 no canto superior esquerdo e terminando com M13 no canto inferior direito. Cada quadrado da grade é dividido em 9 sub-redes. Aqueles são rotulados de 1 a 9 da mesma maneira que o numpad do computador é organizado. \(Linha superior da esquerda para a direita 7, 8, 9\). Você pode comunicar locais fornecendo uma referência de grade. Para um local aproximado, você diz apenas o campo da grade principal \(por exemplo, D6\). Para locais precisos, você também adiciona o local da sub-rede \(por exemplo, D6-2\). As referências de grade são usadas principalmente para comunicar locais entre os esquadrões. Ao usar Mumble, a primeira letra da referência Grid é normalmente anunciada usando o alfabeto fonético da OTAN. As palavras de código são Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
 4. **A escala de cada quadrícula** quadrada é exibida no canto inferior direito do mapa. Um mapa de 1 km será indicado por um quadrante de 75 metros, 150 metros por 2 km e 300 metros por um mapa de 4 km. Você pode estimar facilmente as distâncias no mapa usando os quadrados da grade. A tela de esquadrões do líder de esquadra também exibe a distância aproximada de seu marcador de esquadrão atual abaixo do mapa do campo de batalha.  
 
