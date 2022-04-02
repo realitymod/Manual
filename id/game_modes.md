@@ -58,7 +58,7 @@ Pasukan Koalisi Tim dibutuhkan untuk mengumpulkan intelijen dengan membunuh para
 
 Untuk menangkap _civilian_, pemain _Koalisi Tim_  harus berjarak 1 meter dari _civilian_ dan harus menggunakan alat penahan, yang terdiri dari sepasang borgol pita plastik, dapat diakses dengan memilih nomor 1 pada keyboard Anda, atau sebagai alternatif **menggunakan shotgun**. Ini mensimulasikan melumpuhkan _civilian_ dengan amunisi karet. Koalisi Tim dapat menang jika mereka bisa menghancurkan semua _weapon cache_ sebelum tiket atau waktu mereka habis. Jika tidak, tim insurgent akan memenangkan permainan. _Insurgent Engineer_ juga bisa memperbaiki _cache_ yang rusak. Jumlah cache ditampilkan pada map  dan pesan yang bergulir di server.
 
-Untuk mengungkap perkiraan lokasi cache ketika bermain mode _Insurgency_, _intelligence points_ harus dikumpulkan oleh _Coalition Forces_. _Coalition Tim_ membutuhkan 50 _intelligence points_ \(IP\) untuk cache bisa terungkap setelah 5 menit. Daftar berikut menunjukkan jumlah poin intelijen yang diperoleh atau hilang karena berbagai tindakan.
+Untuk mengungkap perkiraan lokasi cache ketika bermain mode _Insurgency_, _intelligence points_ harus dikumpulkan oleh Tim koalisi. Tim koalisi membutuhkan 50 _intelligence points_ \(IP\) untuk cache bisa terungkap setelah 5 menit. Daftar berikut menunjukkan jumlah poin intelijen yang diperoleh atau hilang karena berbagai tindakan.
 
 * Insurgent terbunuh: +1 IP \(dalam jarak 300m\)
 * Civilian atau insurgent tertangkap: +10 IP

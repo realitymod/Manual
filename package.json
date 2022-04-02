@@ -11,8 +11,7 @@
     "gitbook-plugin-language-picker": "^0.1.0",
     "honkit": "^3.6.23"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "build": "honkit build",
     "serve": "honkit serve"

@@ -11,15 +11,16 @@
 * Insurgent mempunyai **suicide vehicles** seperti truk sampah oranye atau mobil sipil (_Civilian_) yang dilengkapi dengan C4. Pemain dapat meledakkannya dengan tombol tembakan alternatif.
 * Ketika keluar dari kendaraan yang sedang melaju, pemain menerima damage tergantung dari kecepatan melaju. Pemain akan terluka parah jika keluar dari kendaraan yang terbakar.
 * Ketika kendaraan mengalami banyak kerusakan, memicu kemungkinan kendaraan tidak dapat melaju atau menggerakkan turret mereka hingga direparasi penuh.
+* Kendaraan yang menembakan **wire-guided missile** perlu menunggu selama 7 detik sebelum bisa menembak.
 * Mengganti senjata kendaraan (jenis peluru) biasanya menimbulkan delay sebelum Anda bisa menembak lagi.
 * Anda dapat memakai **CTRL Kiri+Gerakan mouse** untuk freelook ketika mengoperasikan kendaraan layaknya helikopter, pesawat terbang, jeep, perahu serta truk. APC dan IFV tidak memiliki fitur ini sebab telah memiliki kamera khusus tersendiri.
-* Di _public server _(bukan _local game_) anda bisa ganti posisi duduk yang kosong di dalam kendaraan dengan menekan **F8.** 
+* Di _public server_ (bukan _local game_) anda bisa ganti posisi duduk yang kosong di dalam kendaraan dengan menekan **F8.**
 * Ketika di dalam kendaraan, anda dapat melihat informasi tentang kursi yang ditempati di kiri bawah HUD. Ini hanya menunjukkan kursi kru penting diberi penanda. Ini termasuk posisi pengemudi dan penembak. Kursi penumpang tidak memiliki penanda seperti itu dan ditampilkan sebagai penghitung terpisah.
 
 ## _Kendaraan Lapis Baja/Armored Vehicle_ {#armored-vehicles}
 
 * Tank serta IFV memiliki kursi _driver_ & _gunner_ yang terpisah. Untuk menggunakan posisi _gunner_, seorang _driver_ atau _cupola gunner_ wajib ada. Setelah berpindah ke kursi _gunner_, Anda harus menunggu 30 detik sebelum bisa memakai meriam secara penuh.
-* _Driver_ dan _gunner _harus berada di squad yang sama.
+* _Driver_ dan _gunner_ harus berada di squad yang sama.
 * _Driver_ tank dan beberapa APC/IFV mempunyai **mode tampilan komandan (_commander view mode_)** yang memberikan tampilan 360° di sekitar turret. Mode ini bisa diakses dengan menekan tombol 2.
 * _Driver_ dan _gunner_ dapat menge-**zoom** tampilan mereka dengan menekan tombol memunculkan asap **(X)**. Beberapa tank driver mulanya harus beralih ke tampilan komandan (_commander view_).
 * Hampir semua tank serta IFV dapat menggunakan **optik termal (_thermal optics_)** sebagai tambahan pada tampilan normal. Anda bisa berganti ke mode termal dengan memakai menu radio kedua **(T)** lalu pilih **“DAY/THERMAL”**. Beberapa juga memperbolehkan untuk bertukar antar varian termal seperti WHOT/BHOT.
@@ -39,7 +40,7 @@
 
 _Gunner_ Tank & IFV memunculkannya dengan memilih slot senjata itu (umumnya tombol 3) dan menekan tombol tembak untuk melontarkan rentetan bom asap. Masing-masing dapat melontarkan 2 rentetan (_Gunner_ harus menunggu jeda 60 detik antar rentetan).
 
-* Di beberapa kendaraan, bom asap akan memblokir inframerah alias **IR-blocking **yang juga turut memblokir pencitraan termal. Sementara (kendaraan lawas) lainnya, pemain bisa melihat jelas dalam asap pada penglihatan thermal.
+* Di beberapa kendaraan, bom asap akan memblokir inframerah alias **IR-blocking** yang juga turut memblokir pencitraan termal. Sementara (kendaraan lawas) lainnya, pemain bisa melihat jelas dalam asap pada penglihatan thermal.
 
 > ![](../assets/vehiclesmoke.png)
 >
@@ -90,3 +91,50 @@ _Gunner_ Tank & IFV memunculkannya dengan memilih slot senjata itu (umumnya tomb
 * Terbang ke titik tersebut lalu belok menuju landasan pacu.
 * Saat sudah berada sekitar 200 m dari landasan pacu, lepas _throttle_.
 * Sekali pesawat sudah berada di darat, tarik stik untuk memperlambat, pesawat pun akan melambat dengan sendirinya.
+
+## Sistem Pengendali Tembakan (_Fire Control Systems_) {#fire-control-systems}
+
+Kendaraan di Project Reality menggunakan sistem balistik yang realistis kpada peluru ranpur. Tergantung pada kendaraannya, beberapa variasi komputer Sistem Pengendali Tembakan (_FCS_) dapat digunakan oleh penembak. Pada prinsipnya, _FCS_ dapat menghitung penyesuaian yang diperlukan untuk menembak kepada target tepat yang diinginkan. Solusi penembakan tidak hanya mempertimbangkan jatuhnya peluru karena gravitasi, ini juga memperhitungkan gaya gesek dari udara yang memperlambat peluru. Selanjutnya offset dapat dihitung antara kamera operator dan laras senjata, perbedaaan ketinggian target, kemiringan serta kecepatan kendaraan. Sama seperti kehidupan nyata, tidak semua kendaraan mempunyai kemampuan _FCS_ yang sama. Bagian ini akan mempelajari lebih lanjut pada beberapa kasus penggunaan implementasi _FCS_ kami.
+
+### Kendaraan Darat
+
+* Singkatnya, terdapat 3 tipe _FCS_ untuk kendaraan darat:
+  * _Static sight_: kamu harus mengandalkan penanda jarak dibidikan.
+  * _Adjusting sight_: crosshair akan menandakan dimana harus membidik.
+  * _Adjusting barrel_: laras akan menyesuaikan dimana posisi yang kamu arah.
+* Pandangan juru tembak (_HUD_) akan bervariasi tergantung dari spesifikasinya. Beberapa kendaraan, umumnya kendaraan generasi terdahulu, tanpa dibatasi dengan usia, hanya menampilkan _graticule overlay_ (tampilan bidikan baru) dengan garis menunjukkan poin penting bidikan yang diperlukan pada jarak tertentu.
+* Kendaraan lain mampu untuk setel bidikan laras ke nol untuk menandakan poin bidikan pada arah tembakan. Dengan menahan _commo-rose_ **\(_default_: Q\)**, penembak dapat mengatur ke jarak yang diinginkan dengan menaikkan atau menurunkan indikator jarak Penembak juga dapat menyetel ulang bidikan ke posisi semula, yang ditandai dengan - - - pada tampilan jarak pada _HUD_.
+
+> ![](../assets/fcs_manual.png)
+>
+> Gunakan _commo-rose_ untuk mengganti jarak secara manual.
+
+* Penyetelan paling rumit yang ada di sebagian besar kendaraan modern dilengkapi dengan akses _FCS_ yang sepenuhnya otomatis, lengkap dengan _laser range finder_. ![](../assets/fcs_cap_laser.png).
+* Setelah membidik _crosshair_ pada jarak yang diinginkan, kendaraan dengan _laser range finder_ dapat digunakan dengan cara mengubah sudut pandang kamera **\(_default_: C\)** yang akan mengarahkan laras senjata ke tengah _crosshair_ secara otomatis.
+* Pada pojok kanan bawah HUD, terdapat tampilan jarak dan kemampuan lainnya saat ini.
+
+> ![](../assets/fcs_main.png)
+>
+> Jarak yang disetel dan ikon kemampuan _FCS_ berada di sebelah kanan _HUD_.
+
+* Ada beberapa ikon di pandangan penembak di kendaraan ber-_FCS_ yang bisa berwarna putih atau abu-abu. Setiap ikon ini mengindikasikan berbagai tipe koreksi bidikan yang akan dilakukan _FCS_ saat mengatur meriam dengan benar. Koreksi akan dilakukan untuk ketidak akuratan dalam pembidikan berikut:
+  * ![](../assets/fcs_cap_velocity.png) Kompensasi kecepatan: Mengkompensasi kecepatan kendaraan sendiri. TIDAK mengoreksi bidikan penuntuk untuk kendaraan musuh yang bergerak.
+  * ![](../assets/fcs_cap_height.png) Kompensasi ketinggian: Mengkompensasi perbedaan ketinggian antara kendaraan dan sasaran.
+  * ![](../assets/fcs_cap_parallax.png) Kompensasi paralaks: Mengkompensasi ketidakselarasan antara posisi meriam dan posisi kamera penembak.
+  * ![](../assets/fcs_cap_roll.png) Kompensasi kemiringan: Mengkompensasi saat kendaraan berada miring di sudut tertentu.
+* Saat mengganti ke senapan mesin _coaxial_, meriam utama secara otomatis akan mengganti _pitch_ agar tembakan berada tepat di tengah. Hal yang sama akan terjadi saat mengganti ke tipe amunisi lain. Untuk berganti antara meriam utama dan senapan mesin _coaxial_ gunakan tombol ganti senjata **\(default: F\)**.
+* Walaupun mode operasi yang paling mudah adalah yang senjata disetel otomatis, sang penembak tetap bisa mengaturnya secara manual. Namun hal ini tidak akan mengoreksi perbedaan pembidikan (lihat bawah).
+Jika jarak ke sasaran lebih jauh dari kemampuan sang senjata, _HUD_ akan mewarnai tulisan setelan jarak dengan warna merah atau **^ ^ ^ ^** sebagai indikator kesalahan.
+* Sebagian kecil kendaraan akan menggunakan alat penaksir jarak (_laser rangefinder_) untuk mencari jarak ke sasaran, tapi senjata tidak akan bergerak agar bidikan tetap berada di tengah, tapi posisi _crosshair_ di scope akan ganti. Mengganti ke senapan mesin _coaxial_ atau tipe amunisi lain juga akan mengganti posisi _crosshair_ secara otomatis. Seperti diatas, penembak juga bisa menyetel secara manual.
+* Ada periode yang sangat sangat singkat setelah mengukur jarak untuk senjata memasukkan setelan yang tepat. Jika anda terlalu cepat, kamu bisa meleset.
+* Laser _rangefinder_ memiliki interval beberapa detik dimana dia tidak bisa digunakan, diindikasikan dengan iconnya berubah menjadi merah.
+* Laser _rangefinder_ tidak bisa digunakan untuk mengatur senjata jika jarak ke sasaran kurang dari 150 meter. Mencari jarak ke sasaran yang dekat atau jauh di langit akan membuat senjata kembali ke posisi netral dan indikator jarak akan menunjukan  **v v v v**.
+* Laser _rangefinder_ memiliki _margin of error_ kira-kira 5 meter.
+* _Game_ akan mengingat settingan terakhir juru tembak, tidak peduli jika dia meninggalkan kendaraan atau mati di dalam kendaraan.
+* Pemanasan meriam utama tidak menghentikan penembak menggunakan laser _rangefinder_ atau penyetelan jarak secara manual.
+* _FCS_ di kendaraan artileri pertahanan udara (arhanud/_SPAAA_) selalu aktif dan tidak perlu _input_ apapun dari pemain.
+* Saat menjadi kru kendaraan artileri pertahanan udara yang memiliki radar, _FCS_ akan menampilkan lingkaran yang menandakan bidikan sasaran penuntun setelah sukses mengunci sasarannya. Pesawat musuh akan menggunakan _flare_ untuk mengganggu kuncian, yang akan menghilangkan lingkaran sasaran sementara.
+
+### Fixed Wing Aircraft
+
+_FCS_ tidak hanya terdapat pada kendaraan darat saja, pesawat terbang juga memiliki versi _FCS_ sendiri untuk solusi penembakan (otomatis). Dengan demikian, jet modern menggunakan _Constantly Computed Impact Point_ (_CCIP_) yang akan menunjukkan di mana bom akan mendarat di tanah. Selain itu, _ground attack jet_ juga akan menunjukkan efek dari senjata utama mereka. _Fighter jet_ yang memiliki penargetan radar akan dapat mengunci target pesawat dengan senjata mereka untuk menunjukan penanda yang memprediksi ke mana harus membidik dan menembak targetnya. Penguncian radar ini juga akan memicu peringatan radar korban dan dapat dilawan menggunakan _flare_.

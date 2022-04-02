@@ -27,7 +27,7 @@ Biasanya akan menghilang dalam 5 menit setelah ronde dimulai dan bisa digunakan 
 
 > ![](../assets/fob.png)![](../assets/hideout.png)![](../assets/cache-weapon.png)
 >
-> FOB, Hideout & weapon cache.
+> FOB, Hideout & Weapon Cache.
 
 * **_Headquarter_ tim anda, markas utama atau _permanent FOB_.** Inilah salah satu tempat _spawn_ yang selalu ada.
 
@@ -139,7 +139,81 @@ Untuk bisa mengisi ulang perlengkapan dan amunisi, anda harus mendekat ke salah 
 >
 > Ammunition bag, Pasukan Koalisi ammo crate, weapon cache, vehicle depot, & Pasukan Insurgent ammo crate.apon cache & Vehicle depot.
 
-Anda harus paham kalau Semua amunisi itu **terbatas**, kecuali **_Weapon Caches_** dan **_Vehicle Depot_**. Supply tersebut akan hilang bila isinya habis. Ketahuilah bahwa sumber amunisi juga dapat habis sebelum anda sempat mengisi ulang.**Ammo bags, ammo boxes** dan **supply crates** menggunakan **supply points** untuk menentukan seberapa banyak barang tersebut dapat dipakai. Anda bisa mencari tahu berapa tersisa supply point yang terdapat di **supply crates** dan **ammo boxes** dengan melihatnya/menghadapnya beberapa detik. Tampilan tersebut akan muncul di samping kompas. Mengisi ulang senjata apapun itu akan membutuhkan 100 supply points. Meminta kit membutuhkan 200 supply points. Mengisi ulang _Ammo Bags_ di _Ammo Box_ atau _Light/Heavy Supply Create_ membutuhkan 200 supply point. Jumlah dari supply point untuk sumber supply yaitu:
+Anda harus paham kalau Semua amunisi itu **terbatas**, kecuali **_Weapon Caches_** dan **_Vehicle Depot_**. Supply tersebut akan hilang bila isinya habis. Ketahuilah bahwa sumber amunisi juga dapat habis sebelum anda sempat mengisi ulang.**Ammo bags, ammo boxes** dan **supply crates** menggunakan **supply points** untuk menentukan seberapa banyak barang tersebut dapat dipakai. Anda bisa mencari tahu berapa tersisa supply point yang terdapat di **supply crates** dan **ammo boxes** dengan melihatnya/menghadapnya beberapa detik. Tampilan tersebut akan muncul di samping kompas. Barang utilitas seperti grappling hook, tripflare, dan field dressing lebih murah untuk diisi ulang per penggunaan daripada persenjataan peledak seperti roket/rudal anti-tank, fragmentation grenade, dan mines. Lihat tabel di bawah ini untuk biaya pasokan dari kategori dan jenis senjata yang sesuai:
+
+**Firearms**
+
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Pistols low capacity** | 15 |
+| **Pistols high capacity** | 30 |
+| **PDW** | 30 |
+| **SMG** | 45 |
+| **Shotgun primary** | 50 |
+| **Shotgun breacher** | 25 |
+| **Rifle** | 60 |
+| **Sniper** | 40 |
+| **LMG** | 150 |
+| **GPMG** | 200 |
+
+**Grenade Launcher**
+
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Anti-Tank x1** | 70 |
+| **Anti-Tank x2** | 140 |
+| **Flare** | 60 |
+| **Fragmentation low capacity** | 80 |
+| **Fragmentation high capacity** | 120 |
+| **Smoke** | 60 |
+
+**Items & Utilities**
+
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Ammo box** | 200 |
+| **C4 low capacity** | 45 |
+| **C4 high capacity** | 75 |
+| **Tripflare** | 20 |
+| **Grappling hook** | 40 |
+| **Epipen** | 60 |
+| **Field dressing x1** | 30 |
+| **Field dressing x3** | 75 |
+| **Field dressing x6** | 120 |
+| **Field dressing x12** | 180 |
+
+**Heavy ordnance & munitions**
+
+| **Type** | **Supply points cost** |
+| --- | --- |
+| **Fragmentation grenade x1** | 60 |
+| **Fragmentation grenade x2** | 120 |
+| **Fragmentation grenade x4** | 240 |
+| **Smoke grenade low capacity** | 40 |
+| **Smoke grenade high capacity** | 60 |
+| **Signal smoke grenade** | 30 |
+| **Anti-personel mine x2** | 140 |
+| **Anti-personel mine x3** | 210 |
+| **Conventional mine** | 210 |
+| **Insurgent mine** | 160 |
+| **Light IED** | 60 |
+| **Heavy IED** | 80 |
+| **Anti-air missile x1** | 100 |
+| **Anti-air missile x2** | 170 |
+| **Light anti-tank x1** | 70 |
+| **Light anti-tank x2** | 140 |
+| **Light anti-tank x3** | 210 |
+| **Light anti-tank x4** | 280 |
+| **Medium anti-tank x1** | 80 |
+| **Medium anti-tank x2** | 160 |
+| **Medium anti-tank x3** | 240 |
+| **Heavy anti-tank x1** | 90 |
+| **heavy anti-tank x2** | 180 |
+| **Guided anti tank** | 120 |
+
+Perhatikan bahwa pada server lokal, sistem isi ulang tidak akan berfungsi seperti yang dijelaskan. Setiap senjata akan membutuhkan 100 poin untuk diisi ulang terlepas dari jenis itemnya.
+
+Mengisi ulang senjata apapun itu akan membutuhkan 100 supply points. Meminta kit membutuhkan 200 supply points. Mengisi ulang _Ammo Bags_ di _Ammo Box_ atau _Light/Heavy Supply Create_ membutuhkan 200 supply point. Jumlah dari supply point untuk sumber supply yaitu:
 
 * **Ammo bags**: 200 (akan terhitung hanya untuk 43 supply point ketika digunakan oleh aset _deployable emplacement_ seperti contohnya TOW atau mortar)
 * **Ammo boxes**: 450
@@ -226,18 +300,21 @@ Dalam beberapa kasus diperlukan lebih dari satu _CSB_ untuk menjangkau jarak yan
 Sangatlah mudah untuk tersesat di peta yang besar di PR:BF2. Bergerak (secara) perlahan dan mengkoordinasikan tim juga membutuhkan pemain untuk berkomunikasi tentang lokasi dengan jelas dan ringkas. PR:BF2 menawarkan 4 alat untuk membantu pemain dengan ini.
 
 1. Pemimpin squad bisa menggunakan **_squad order marker_** untuk mengomunikasikan lokasi kepada squad sendiri dan juga komandan. Arahan penanda terdapat diatas kompas. Jika anda berada dalam jarak 75m dari penanda, anda juga akan melihat ikon 3D yang menunjukan lokasi di depan anda. Penanda juga akan terlihat di peta.e map.
-   * ![](../assets/target.png)**Target** 
-   * ![](../assets/build.png)**Build** 
+   * ![](../assets/target.png)**Target**
+   * ![](../assets/build.png)**Build**
    * ![](../assets/observe.png)**Observe**
    * ![](../assets/defendmarker.png)**Defend**
-   * ![](../assets/demolish.png)**Demolish** 
+   * ![](../assets/demolish.png)**Demolish**
    * ![](../assets/move.png)**Move**
 2. Derajat kompas yang tepat di bawah tengah layar anda. Kompas bisa digunakan untuk memberikan arah yang tepat kepada musuh yang terdeteksi. **8 Arah  mata angin yang berbeda** dan derajatnya tertera dengan jelas yang akan bertambah setiap 15 derajat dengan 5 darajat setiap divisi utama. Jika anda hanya ingin mengkomunikasikan arah, praktik terbaiknya adalah dengan mengatakan arah mata angin, diikuti dengan derajat dan jarak jika sesuai. Contohnya **"Musuh terdeteksi NE 75° 200 meter”.**:
-  * Jika target secara visual sejajar dengan poros di kompas anda ketika anda menghadap arah tersebut, anda cukup berkomunikasi nomor itu.
-  * Ingatlah bahwa semua garis kompas panjangnya sama dengan 5°. Jika target sejajar di arah 75° dengan garis di sebelah kanan garis berlabel, tinggal tambahkan 5° .Jadi targetnya berada di arah 80°![](../assets/compass.png)
+
+* Jika target secara visual sejajar dengan poros di kompas anda ketika anda menghadap arah tersebut, anda cukup berkomunikasi nomor itu.
+* Ingatlah bahwa semua garis kompas panjangnya sama dengan 5°. Jika target sejajar di arah 75° dengan garis di sebelah kanan garis berlabel, tinggal tambahkan 5° .Jadi targetnya berada di arah 80°![](../assets/compass.png)
+  
 3. Peta PR:BF2 memiliki **label referensi grid dan subgrid keypad**. Labelnya bisa ditemukan di perbatasan atas dan kiri peta. Petanya sendiri dibagi menjadi 169 kotak grid dimulai dari 1 di pojok atas kiri dan diakhiri dengan M13 di pojok kanan bawah. Setiap kotak grid dibagi menjadi 9 subgrid. Subgrid ditandai dari 1 sampai 9 sama seperti posisi keypad keyboard anda. Untuk lokasi yang tidak tepat, anda hanya perlu menyebutkan bidang grid utama \(contoh: D6\). Untuk lokasi yang lebih tepat, anda bisa menambahkan lokasi grid beserta  sub gridnya \(contoh: DG-2\). Petunjuk grid sering digunakan untuk berkomunikasi lokasi diantara squad. Ketika menggunakan mumble, huruf pertama petunjuk grid seringnya diucapkan menggunakan Alfabet Fonetik Nato. Kata sandinya yaitu :
+
     Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee dan Zulu
-4. **Skala setiap kotak map grid** ditampilkan di pojok kanan bawah. Skala pada peta 1km ditandai dengan 75m squad grid, 2km ditandai dengan 150m, dan 4km ditandai dengan 300m. Anda bisa memperkirakan jarak di peta secara mudah menggunakan kotak grid. Layar _Squad Leader_ juga menampilkan prakiraan jarak ke penanda squad anda saat ini di bawah peta.
+4. **Skala setiap kotak map grid** ditampilkan di pojok kanan bawah. Skala pada peta 1km ditandai dengan 75m map grid, 2km ditandai dengan 150m, dan 4km ditandai dengan 300m. Anda bisa memperkirakan jarak di peta secara mudah menggunakan kotak grid. Layar _Squad Leader_ juga menampilkan prakiraan jarak ke penanda squad anda saat ini di bawah peta.
 
 ![](../assets/grid.png)
 
