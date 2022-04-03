@@ -5,17 +5,17 @@
     <div class="reality-book-header flex row center">
         <div class="flex align-vertical noshrink">
             <div class="title ">
-                Project Reality: Manual
+                {{ "Title" | t }}
             </div>
         </div>
         <div class="search-area">
             {% block search_input %}{% endblock %}
         </div>
         <div class="external-links noshrink">
-            <a class="link" href="https://www.realitymod.com/downloads" rel="nofollow">Download</a>
-            <a class="link" href="https://www.realitymod.com/forum/" rel="nofollow">Forums</a>
-            <a class="link" href="https://www.realitymod.com/mapgallery/" rel="nofollow">Gallery</a>
-            <a class="link" href="https://www.realitymod.com/prspy/" rel="nofollow">PRSPY</a>
+            <a class="link" href="https://www.realitymod.com/downloads" rel="nofollow">{{ "Download" | t }}</a>
+            <a class="link" href="https://www.realitymod.com/forum/" rel="nofollow">{{ "Forums" | t }}</a>
+            <a class="link" href="https://www.realitymod.com/mapgallery/" rel="nofollow">{{ "Gallery" | t }}</a>
+            <a class="link" href="https://www.realitymod.com/prspy/" rel="nofollow">{{ "PRSPY" | t }}</a>
         </div>
     </div>
 
@@ -37,17 +37,17 @@
                     <div class="companion-group">
                         <a class="btn flex vertical-align" href="https://github.com/realitymod/Manual/tree/master/{{book.language}}/{{ file.path }}">
                             <svg viewBox="0 0 16 16" fill="none" preserveAspectRatio="xMidYMid meet" data-rnw-int-class="nearest___262-1676_" class="r-1rasi3h r-10ptun7 r-1vzi8xi" style="width: 16px;"><path d="M14.11 6.6l-.16-.09c-.042.343-.13.68-.26 1A3 3 0 0115 10a3 3 0 01-3 3H8a3 3 0 010-6h.82A3 3 0 009 6H8a4 4 0 000 8h4a4 4 0 002.11-7.4z" fill="currentColor"></path><path d="M1.89 9.4l.16.09c.042-.343.13-.68.26-1A3 3 0 011 6a3 3 0 013-3h4a3 3 0 110 6h-.82A3 3 0 007 10h1a4 4 0 000-8H4a4 4 0 00-2.11 7.4z" fill="currentColor"></path></svg>
-                            <span>Edit this page</span>
+                            <span> {{ "EditPage" | t }}</span>
                         </a>
                         <div class="btn flex vertical-align" onClick='gitbook.reality.openFeedbackPage("{{honkit.time}}", "{{book.language}}", "{{ file.path }}")'>
                             <svg viewBox="0 0 16 16" fill="none" preserveAspectRatio="xMidYMid meet" data-rnw-int-class="nearest___262-1676_" class="r-1rasi3h r-10ptun7 r-1vzi8xi" style="width: 16px;"><path d="M14.11 6.6l-.16-.09c-.042.343-.13.68-.26 1A3 3 0 0115 10a3 3 0 01-3 3H8a3 3 0 010-6h.82A3 3 0 009 6H8a4 4 0 000 8h4a4 4 0 002.11-7.4z" fill="currentColor"></path><path d="M1.89 9.4l.16.09c.042-.343.13-.68.26-1A3 3 0 011 6a3 3 0 013-3h4a3 3 0 110 6h-.82A3 3 0 007 10h1a4 4 0 000-8H4a4 4 0 00-2.11 7.4z" fill="currentColor"></path></svg>
-                            <span>Give feedback</span>
+                            <span>{{ "GiveFeedback" | t }}</span>
                         </div>
                     </div>
                     <div class="companion-group companion-topics">
                         <div class='flex vertical-align'>
                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" preserveAspectRatio="xMidYMid meet" class="r-1rasi3h r-10ptun7 r-1vzi8xi" style="width: 16px;"><path d="M21 10H7M21 6H3M21 14H3M21 18H7"></path></svg>
-                            <span>Contents</span>
+                            <span>{{ "Contents" | t }}</span>
                         </div>
                     </div>
                 </div>
