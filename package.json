@@ -1,0 +1,29 @@
+{
+  "name": "reality-manual",
+  "version": "1.0.0",
+  "description": "Manual for BF2:Project Reality",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "honkit-plugin-reality-theme": "file:packages/reality-theme",
+    "gitbook-plugin-language-picker": "^0.1.0",
+    "honkit": "^3.6.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTurista/Manual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UTurista/Manual/issues"
+  },
+  "homepage": "https://github.com/UTurista/Manual#readme"
+}

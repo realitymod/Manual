@@ -1,0 +1,221 @@
+html{
+    scroll-padding-top: 100px;
+    background: #171717;
+}
+
+.reality-book{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    color: white;
+}
+
+.reality-book-header {
+    position: sticky;
+    top: 0px;
+    border-bottom: solid 1px #39c;
+    background: rgb(23, 23, 23);
+    z-index: 1;
+    
+}
+
+.reality-book-header .title{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 15px;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #39c;
+}
+
+.reality-book-header .search-area{
+    width: 100%;
+    max-width: 800px;
+}
+
+@media only screen and (max-width: 900px) {
+    .reality-book-body-companion{
+        display: none;
+    }
+
+    .external-links{
+        display: none;
+    }
+}
+
+.reality-book-body-companion{
+    max-width: 240px;
+}
+
+.book-body-content{
+    width: 100%;
+    max-width: 800px;
+    padding: 30px;
+    padding-bottom: 150px;
+}
+
+.book-body-content img{
+    max-width: 100%;
+}
+
+
+.book-body-content figure{
+    text-align: center;
+}
+
+.book-body-content figure img{
+    max-width: 70%;
+}
+
+.book-body-content figure figcaption{
+    color: #39c;
+    font-style: italic;
+}
+.book-body-content a{
+    color: #39c;
+    font-style: italic;
+}
+.book-body-content blockquote {
+    border-left: 1px solid #39c;
+    padding-left: 15px;
+    font-style: italic;
+    color: #a5a5a5;
+}
+
+.book-body-content table{
+    margin: 0 auto;
+}
+
+.book-body-content td, .book-body-content th{
+    border: 1px solid #39c;
+    padding: 5px;
+    text-align: center;
+}
+
+.reality-book-header a{
+    color: #39c;
+    padding: 15px;
+}
+
+.reality-content{
+     display: flex;
+     justify-content: center;
+     padding: 0 15px;
+     background: rgb(23, 23, 23);
+}
+
+.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+}
+.top-50{
+    top: 100px;
+}
+
+
+.companion-group{
+    border-left: solid 2px #39c;
+    padding-left: 24px;
+}
+
+.companion-group ~ .companion-group{
+    margin-top: 20px;
+}
+
+.companion-group .btn{
+    color: #a5a5a5;
+    padding: 7px 0;
+    cursor: pointer;
+    display: block;
+}
+
+.companion-group .btn:hover {
+    color: #39c;
+}
+
+.companion-group .btn.lv-H3 {
+    padding-left: 15px;
+}
+
+.reality-book-summary ul.summary{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.reality-book-summary li.header {
+    margin-top: 15px;
+    padding: 10px 0;
+    color: #39c;
+}
+
+.reality-book-summary a  {
+    color: white;
+    padding: 10px 15px;
+    display: block;
+}
+
+.note {
+    background-color: #39c;
+    padding: 15px 30px;
+    margin-right: 0;
+    border-radius: 5px;
+}
+
+.note .title{
+    padding-bottom: 15px;
+    font-size: 1.3em;
+}
+
+.reality-book-summary a:hover {
+    color: #39c;
+}
+
+.reality-book-summary li.active{
+    background: rgba(51, 153, 204, 0.747);
+}
+
+.attribution{
+    border-top: 1px solid #39c;
+    padding: 15px;
+}
+
+.external-links a{
+    color: #39c;
+    padding: 15px;
+    display: inline-block;
+}
+
+.flex{
+    display:flex;
+}
+.flex.column{
+    flex-direction: column;
+}
+.flex.row{
+    flex-direction: row;
+}
+.noshrink{
+    flex-shrink: 0;
+}
+
+.align-vertical {
+    align-items: center;
+}
+
+.fill{
+    height: 100%;
+}
+
+.center
+{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.youtube .caption{
+    padding: 3px;
+    color: #39c;
+    font-style: italic;
+}

@@ -24,9 +24,9 @@
 * Drivers and gunners can **zoom** their view by pressing the pop smoke key \(**X**\). Some tank drivers must first change to the commander view.
 * Most tanks and IFVs can use **thermal optics** in addition to their normal views. You can switch to the thermal mode by using secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”.** Some will also allow you to switch between thermal variations like WHOT/BHOT.
 
-> ![](../assets/thermalz.png)
->
-> Thermal Vision
+{% figure "../assets/thermalz.png" %}
+Thermal Vision.
+{% endfigure %}
 
 * Armored vehicles have no warning sound when they are targeted by rocket launchers or when missiles are fired at them.
 * Armored vehicles have realistic materials. This means that front and turret armor is stronger than the one in the rear and top of the vehicle. Sides of vehicles and the tracks usually have the middle ground when it comes to armor strength.
@@ -41,9 +41,9 @@ Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pres
 
 * For certain vehicles the smoke will be **IR-blocking** meaning it will also block on thermal vision. For other \(older vehicles\) you will be able to see through the smoke on thermal vision.
 
-> ![](../assets/vehiclesmoke.png)
->
-> Vehicle deployed smoke
+{% figure "../assets/vehiclesmoke.png" %}
+Vehicle deployed smoke.
+{% endfigure %}
 
 ## _Helicopters_ {#helicopters}
 
@@ -102,15 +102,19 @@ Vehicles in Project Reality use an authentic ballistic system for vehicle projec
 * The vehicle gunner‘s view (the sight in the HUD) will greatly vary from vehicle to vehicle depending on their specifications. Some vehicles, mostly older generation ones, but not limited to age, simply offer a graticule overlay with lines indicating the necessary point of aim for a given distance.
 The markings on the scope itself will usually clarify which lines are to be used for which type of armament specifically. The gunner then has to correctly estimate the range to the target and adjust the gun’s pitch in order to hit.
 * Other vehicles come with the ability to set up the gun sight’s zero to indicate the point of aim for the intended point of impact. By holding the commo-rose **\(default: Q\)**, the gunner can dial into the desired range by increasing or subtracting the indicated range. He can also reset the gun into neutral position, which is indicated by the display of **- - - -** in the HUD as range setting.
-> ![](../assets/fcs_manual.png)
->
-> Using the commo-rose to manually change the set range.
+
+{% figure "../assets/fcs_manual.png" %}
+Using the commo-rose to manually change the set range.
+{% endfigure %}
+
 * The most sophisticated setup found on most modern vehicles comes with access to a fully automated FCS, complete with a laser range finder. They will show the icon for the laser as active:![](../assets/fcs_cap_laser.png).
 * After aiming the crosshair at the desired target(distance), vehicles that have it, the laser range finder can be used with the change camera key **\(default: C\)** which will set the gun automatically to be set in the correct position to fire at the center crosshair. 
 * In the bottom right of the HUD the current set range and available capabilities of your vehicle is shown.
-> ![](../assets/fcs_main.png)
->
-> The set range and FCS capability icons being shown in the bottom right of the HUD.
+
+{% figure "../assets/fcs_main.png" %}
+The set range and FCS capability icons being shown in the bottom right of the HUD.
+{% endfigure %}
+
 * The icons in the gunner view on vehicles using a FCS show a number of icons in either white or grey scale. These icons each indicate a certain type of aiming correction the FCS will account for when setting the gun up correctly. The corrections account for the following aiming inaccuracies:
   * ![](../assets/fcs_cap_velocity.png) Speed compensation: Compensating for the vehicle’s own movement. Does NOT correct the lead on a moving enemy target vehicle.
   * ![](../assets/fcs_cap_height.png) Height compensation: Compensates for the difference in altitude between your vehicle and the target.

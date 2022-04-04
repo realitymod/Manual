@@ -1,14 +1,12 @@
-# Introduction
-
-## ![](../assets/PR_v1_Logo.png)
-
-## **Project Reality: BF2 Manual - Updated for v1.7**
-
-> Project Reality: BF2 has been in development by countless developers over a period of more than 15 years. Extensive modifications and improvements were made during this time. After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification. We hope this manual provides you with a good start into the challenging world of PR:BF2. If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums. **This manual has been updated for version 1.7 of PR:BF2.**
+> Project Reality: BF2 has been in development by countless developers over a period of more than 15 years. Extensive modifications and improvements were made during this time.
+> After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification.
+> 
+> We hope this manual provides you with a good start into the challenging world of PR:BF2.
+> If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums.
 >
 > _The PR-Team_
 
-**Introduction**
+## Introduction
 
 This introduction will give a brief overview into what you can expect when you begin playing the Project Reality modification for Battlefield 2. This modification has a level of complexity and teamwork that you won’t find in most modern first person shooter games, while it still finds the balance between simulation and gameplay. Due to the steep learning curve, we highly recommended that all new players read through this manual thoroughly prior to joining an online game.
 
@@ -18,3 +16,9 @@ Another core fundamental aspect of PR is how players communicate. Communication 
 
 This mod was made by players, for players so don't be afraid to ask for help in-game or on the forums at [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Again, welcome to PR and a totally new gaming experience!
 
+## Changelog
+The changelog for this manual is as follows:
+
+### 2022-01-22
+- Added contributing page
+- Updated content for new theme
