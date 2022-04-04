@@ -2,7 +2,7 @@
 
 ## _Guiando Esquadrão_ {#guiding-squad}
 
-Como explicado na seção [Navegação do Campo de Batalha](the_basics.md#Battlefield Navigation), o Líder do Esquadrão pode colocar marcas no mapa para os membros de seu esquadrão seguirem. Eles encontrarão uma marca em sua bússola para seguir, bem como um ícone no mapa. O Líder do Esquadrão deve usá-los sempre que possível e também pode usar isso para obter facilmente a distância em direção ao alvo. Ele pode fazer isso a partir do minimapa clicando com o botão direito do mouse e colocando a marca ou pressionando a tecla de rádio secundária **\(T \)** e apontando para o alvo e usando um dos botões para colocar o marcador.
+Como explicado na seção [Navegação no Campo de Batalha](the_basics.md#Battlefield Navigation), o Líder do Esquadrão pode colocar marcas no mapa para os membros de seu esquadrão seguirem. Eles encontrarão uma marca em sua bússola para seguir, bem como um ícone no mapa. O Líder do Esquadrão deve usá-los sempre que possível e também pode usar isso para obter facilmente a distância em direção ao alvo. Ele pode fazer isso a partir do minimapa clicando com o botão direito do mouse e colocando a marca ou pressionando a tecla de rádio secundária **\(T \)** e apontando para o alvo e usando um dos botões para colocar o marcador.
 
 * ![](../assets/target.png) **Alvo** 
 * ![](../assets/build.png) **Construir** 
@@ -61,7 +61,7 @@ Um ponto de rally rearma a cada 1 minuto. A menos que tenha sido destruido. Ness
 
 ## _Solicitando Suporte_ {#requesting-support}
 
-O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar **a tecla de rádio secundária \(T\).** Isso abrirá o menu para solicitar suporte, usar recursos e contruir estruturas da equipe. Os cinco comandos inferiores começando com **“Preciso ...”** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido ** **Preciso de Area Attack** **  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma **salva de artilharia**. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um area attack, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma salva de morteiros a cada 20 minutos na maioria dos mapas.
+O líder do esquadrão também pode usar seu rádio para solicitar apoio de outros esquadrões. Para isso, ele deve ativar o rádio e depois pressionar **a tecla de rádio secundária \(T\).** Isso abrirá o menu para solicitar suporte, usar recursos e contruir estruturas da equipe. Os cinco comandos inferiores começando com **“Preciso ...”** colocarão um marcador de mapa na sua posição. Eles também transmitem uma mensagem de rádio para sua equipe para alertá-los sobre sua solicitação. O pedido **Preciso de Area Attack**  comporta-se um pouco diferente do resto. Em alguns mapas, forças convencionais podem usar este comando para solicitar uma **salva de artilharia**. Se o seu pedido for aprovado pelo comandante da equipe, o ataque ocorrerá após um minuto. Depois de carregar um novo mapa ou executar um area attack, leva 30 minutos até que ele esteja disponível novamente. Facções igualmente não convencionais têm acesso a uma salva de morteiros a cada 20 minutos na maioria dos mapas.
 
 > ![](../assets/support.png)
 >
@@ -93,11 +93,11 @@ Coloque as estruturas em áreas não obstruídas de terreno aberto para evitar e
 
 Para remover uma estrutura construída, os membros do esquadrão devem usar o botão direito para destruir uma colocação, então o Líder do Esquadrão pode clicar com o botão direito no menu **Construir / Remover ASSET** enquanto aponta para o objeto a não mais que 5m de distância, para removê-lo completamente.
 
-As armas de estruturas _ podem ser rearmadas largando bolsas de munição ao lado deles. Várias bolsas são necessários para rearmar completamente uma posição.
+As armas de estruturas podem ser rearmadas largando bolsas de munição ao lado deles. Várias bolsas são necessários para rearmar completamente uma posição.
 
 > ![](../assets/deploy.png)
 >
-> Removenndo e Construindo um exemplo de uma foxhole
+> Removendo e Construindo um exemplo de uma foxhole
 
 ## _Estruturas Implementáveis_ {#deployable-structures}
 

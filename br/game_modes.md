@@ -1,6 +1,6 @@
 # Game Modes
 
-Project Reality:BF2 possui 6 modos de jogo diferentes com objetivos diferentes. O objetivo comum de todos os modos de jogo é reduzir os pontos de reforço da equipe inimiga \(também conhecido como tickets\) para zero. Na maioria dos modos de jogo, isso é alcançado ferindo e matando inimigos, destruindo seus veículos e capturando seus pontos de controle\(também conhecidas como Bandeiras). Marcadores de mapa coloridos indicam seus objetivos atuais em cada modo de jogo.
+Project Reality:BF2 possui 6 modos de jogo diferentes com objetivos diferentes. O objetivo comum de todos os modos de jogo é reduzir os tickets da equipe inimiga para zero. Na maioria dos modos de jogo, isso é alcançado ferindo e matando inimigos, destruindo seus veículos e capturando seus pontos de controle\(também conhecidas como Bandeiras). Marcadores de mapa coloridos indicam seus objetivos atuais em cada modo de jogo.
 
 PR:BF2 apresenta mais de 60 mapas com mais de 400 camadas diferentes. Você pode encontrar todos os mapas e suas informações de mapa específicas em [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
@@ -15,11 +15,11 @@ A maioria dos modos de jogo apresenta variações de 4 camadas com diferentes re
 
 O modo de jogo AAS é o mais próximo do modo Conquest original do BF2. O objetivo é capturar todos os pontos de controle \(CPs\) ou Bandeiras enquanto mantém mais tickets que o inimigo. As Bandeiras só podem ser capturadas em uma ordem linear para simular uma linha de frente inconstante e engajar o foco. Bandeiras que estão em jogo para serem capturadas são indicadas por uma marca de ataque laranja, enquanto aquelas que precisam ser defendidas contra ataques inimigos são destacadas com uma marca de defesa roxa. Se o seu time atingir sua última bandeira defensável azul e for capturada pela força adversária, você começará a sangrar tickets até que você recapture sua bandeira pela força. De forma similar, a última Bandeira inimiga é indicada por uma marca ataque vermelha e fará com que eles sangrem tickets se sua equipe capturar da mesma maneira.
 
-Pelo menos 2 jogadores precisam estar dentro do raio de captura do CP para Capturar a bandeira. Pode levar mais de um minuto para garantir uma bandeira, dependendo da proporção de atacantes para defensores dentro do raio da bandeira. Embora não seja possível capturar Bandeiras fora de ordem, você pode começar a neutralizar ou capturar a próxima bandeira antes que a atual tenha terminado de capturar / neutralizar, mesmo se você perder outra posição durante o período de captura. Se uma bandeira controlada por uma equipe for neutralizada e capturada pelo inimigo, a equipe perderá 30 tickets. Uma das principais características do AAS é que cada vez que a mesma layout é carregada, pode ser um layout de bandeiras diferente, graças aos nossos layouts de bandeiras aleatórios.
+Pelo menos 2 jogadores precisam estar dentro do raio de captura do CP para Capturar a bandeira. Pode levar mais de um minuto para capturar uma bandeira, dependendo da proporção de atacantes para defensores dentro do raio da bandeira. Embora não seja possível capturar Bandeiras fora de ordem, você pode começar a neutralizar ou capturar a próxima bandeira antes que a atual tenha terminado de capturar / neutralizar, mesmo se você perder outra posição durante o período de captura. Se uma bandeira controlada por uma equipe for neutralizada e capturada pelo inimigo, a equipe perderá 30 tickets. Uma das principais características do AAS é que cada vez que o mesma layout é carregado, pode ser um layout de bandeiras diferente, graças aos nossos layouts de bandeiras aleatórios.
 
 Se a equipe atacante não tiver uma razão de 2 para 1 para a equipe defensora na bandeira, ela começará a perder o progresso de captura.
 
-Os marcadores de mapa para AAS são:
+Os marcadores do mapa para AAS são:
 
 * ![](../assets/defend.png) Marca de Defesa
 * ![](../assets/defend%20bleed.png) Marca de Defesa \(com sangramento de tickets\) 
@@ -39,11 +39,11 @@ Este modo de jogo opera em versões de mapa de menor escala do modo de jogo AAS,
 ## _Command & Control \(CNC\)_ {#command-and-control}
 
 Este modo de jogo apresenta grandes batalhas de forma livre. Não há bandeiras capturáveis, mas cada equipe deve colocar uma única base operacional avançada \(FOB\) [\(veja estruturas implementáveis\)](the_squad_leader.md#deployable-structures)  
-em algum lugar no mapa. O objetivo é defender a FOB da equipe ao tentar encontrar e destruir a FOB inimiga. Quando uma equipe perde sua FOB, ela sofrerá uma penalidade de tickets enorme e continuará perdendo tickets até construir uma nova. A FOB deve ser colocado a pelo menos 200m das bordas do mapa. Construir a FOB da sua equipe mais perto do centro do mapa aumenta a perda de tickets que o inimigo sofrerá enquanto sua FOB estiver inoperante. Ambas as equipes podem construir mais defesas em um raio maior perto de sua FOB do que em outros modos de jogo.
+em algum lugar no mapa. O objetivo é defender a FOB da equipe e ao mesmo tempo tentar encontrar e destruir a FOB inimiga. Quando uma equipe perde sua FOB, ela sofrerá uma penalidade de tickets enorme e continuará perdendo tickets até construir uma nova. A FOB deve ser colocada a pelo menos 200m das bordas do mapa. Construir a FOB da sua equipe mais perto do centro do mapa aumenta a perda de tickets que o inimigo sofrerá enquanto sua FOB estiver inoperante. Ambas as equipes podem construir mais defesas em um raio maior perto de sua FOB do que em outros modos de jogo.
 
 ## _Co-Operative \(COOP\)_ {#co-operative}
 
-Neste modo, é possível que um ou mais jogadores humanos entrem em combate em uma mesma  equipe contra bots controlados por IA. Este modo é ideal para praticar com equipamentos e veículos antes de usá-los em batalhas contra jogadores humanos. Para acomodar o uso de bots, algumas regras e itens foram modificados neste modo. A maioria dos nossos mapas tem camadas COOP dedicadas.
+Neste modo, é possível que um ou mais jogadores entrem em combate em uma mesma  equipe contra bots controlados por IA. Este modo é ideal para praticar com equipamentos e veículos antes de usá-los em batalhas contra jogadores humanos. Para acomodar o uso de bots, algumas regras e itens foram modificados neste modo. A maioria dos nossos mapas tem camadas COOP.
 
 ## _Insurgency \(INS\)_ {#insurgency}
 
@@ -57,7 +57,7 @@ As tropas da Coalizão são obrigadas a coletar inteligência matando combatente
 
 Para revelar a localização aproximada dos caches insurgentes enquanto se joga Insurgency, a inteligência precisa ser reunida pelas forças da coalizão. A equipe da Coalizão precisa de 50 pontos de inteligência \(IP\) para que o cache se revele após 5 minutos. A lista a seguir mostra a quantidade de pontos de inteligência ganhos ou perdidos devido a diferentes ações.
 
-* Insurgent Morto: +1 Ponto \(dentro de 300m\)
+* Insurgente Morto: +1 Ponto \(dentro de 300m\)
 * Civil ou insurgente preso: +10 Pontos
 * Civil Morto \(violando regras de engajamento\): -5 Pontos
 * Destruindo veículos com civis perto \(Dentro de 50m pelos ultimos 60 seconds\) : -50 Pontos
@@ -65,7 +65,7 @@ Para revelar a localização aproximada dos caches insurgentes enquanto se joga 
 
 Jatos, tanques e helicópteros não podem ganhar Pontos através destes métodos. A localização aproximada do primeiro cache é mostrada cerca de 5 minutos após o início da rodada. Locais adicionais serão revelados 5 minutos após os pontos de inteligência suficientes estiverem obtidos pela coalizão. Pode haver até 2 caches ativos ao mesmo tempo. O novo local é revelado ao atingir 50 pontos de inteligência. Se houver menos de 32 jogadores no servidor, os pontos necessários para revelar um cache é reduzido pela metade. Uma equipe pode ter no máximo 50 e no mínimo -50 pontos de inteligência.
 
-Os marcadores do mapa para insurgency são:
+Os marcadores no mapa para insurgency são:
 
 * ![](../assets/cache.png) **Cache de Armas Conhecido pela coalizão:** Esse ícone ficará visível no mapa das forças da coalizão, que indica a localização aproximada do cache quando uma inteligência suficiente foi adquirida. O marcador pode ser compensado até 75m.
 * ![](../assets/unknown%20weapon%20cache.png) **Cache de Armas Localizado pela Coalizão:** Este ícone será visível no mapa das forças insurgentes que indica que o cache foi localizado pelas forças de coalizão.
