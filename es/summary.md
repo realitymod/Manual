@@ -9,7 +9,7 @@
   * [Navegación en el menu del Juego](set-up.md#in-game-menu-navigation)
   * [PR Mumble](set-up.md#pr-mumble)
   * [Solucion de Problemas](set-up.md#troubleshooting)
-  * [Controles por defecto del Juego](set-up.md#default-game-controls)
+  * [Controles por Defecto del Juego](set-up.md#default-game-controls)
 * [Modos de Juego](game_modes.md)
   * [Advance and Secure](game_modes.md#advance-and-secure)
   * [Vehicle Warfare](game_modes.md#vehicle-warfare)

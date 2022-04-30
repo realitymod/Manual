@@ -111,34 +111,34 @@ En el  menú principal del Launcher en la parte inferior se visualizaran nuevos 
 
 ## _Navegación en el menu del Juego_ {#in-game-menu-navigation}
 
-* **Co-operative:** Allows you to play PR:BF2 with computer controlled AI soldiers on the teams. This mode is very useful for getting to know the game mechanics and equipment before joining competitive online battles.
-* **Deployment:** The main mode of play in Project Reality. Here you will find intense battles with up to 100 human players.
-* **Barracks:** This menu gives you access to replays using Battlerecorder.
-* **Options:** Here you can configure the audio options as well as the keyboard layout. Video options have to be changed in the PR Launcher.
-* **Exit:** Use this button to exit the game and return to Windows.
+* **Co-operativo:** Te permite jugar PR: BF2 con soldados controlados por computadora (IA) en equipos. Este modo es muy útil para empezar a conocer las mecánicas y equipos del juego antes de unirse a una partida competitiva en línea.
+* **Despliegue:** El modo de juego Principal en Project Reality. Acá encontraras batallas intensas con hasta 100 Jugadores Humanos.
+* **Barracas:** Este menú te da acceso a las repeticiones usando Battlerecorder.
+* **Opciones:** Puedes configurar las opciones de audio así como los controles del teclado. Las opciones de video tienen que ser cambiadas en el PR Launcher.
+* **Salir:** Usa este botón para salir del juego y volver a Windows.
 
 ## _PR Mumble_                                                                                {#pr-mumble}
 
-In game, Mumble is the program which we use to communicate to each other in PR:BF2, which replaces BF2 vanilla’s Voice-Over-IP \(VOIP\) system. The main unique feature of PR Mumble is that its primary method of communication is transmitted within 3D space, which is directional and proximity based. This is called Local. What this means is that all players on your team can talk to each other if they are nearby, and you can hear in what direction they are speaking from, similarly you can judge how far away they are, just like in real life.
+En el juego, Mumble es el programa que se usa para comunicarse el uno al otro en PR: BF2, que reemplaza el sistema de voz del BF2 vanilla sobre IP \(VOIP\). La principal característica única de PR Mumble es que su principal método de comunicación se transmite dentro del espacio 3D, que es direccional y basado en la proximidad. Esto se llama locales. Lo que esto significa es que todos los jugadores de tu equipo pueden hablar entre sí si están cerca, y puedes escuchar en qué dirección están hablando, de manera similar, puedes juzgar qué tan lejos están, como en la vida real.
 
-After joining a squad you gain access to that squad’s Radio Net, which allows you to transmit to other players in your squad no matter where you are on the map. Squad leaders also have access to an additional Radio Net that allows them to communicate directly to the commander, globally to all other squad leaders, and directly to an individual squad leader. When using a radio net, a transmission cue will be heard when activating and deactivating the radio \(which can be activated in the launcher audio options\). The default keys for transmitting over mumble are as follows:
+Después de unirte a un escuadron obtienes acceso al Canal de Radio del Escuadron, que te permite transmitir a las otras personas que estén dentro de tu escuadron sin importar donde estés en el mapa. El líder de la Escuadron también tiene acceso a un adicional Canal de Radio que les permite comunicarse directamente con el Comandante, globalmente a todos los líderes de escuadron, y directamente de forma individual a un líder de otro escuadron. Cuando se utiliza un canal de radio, un “bip” de transmisión se escuchara cuando se active y desactive el radio  \(que se puede activar en las opciones de audio del Launcher\).  Las teclas por defecto para transmitir por el mumble son las siguientes:
 
-* **Local speech \(B or H\):** you talk to players in the 3D radius space around you.
-* **Squad Radio \(V or Num 0\):** you talk to your squad, no matter where you are.
-* **Squad Leader to all other squad leaders radio \(\*\):** you talk to all squad leaders at the same time. This radio net is also available to the commander to use with the same shortcut.
-* **Squad Leader to specific squad leader radio \(Num 1Num 9\):** you talk to one specific squad leader in your team. These channels on the net are also available to the commander to use with the same shortcut.
-* **Squad leader to Commander Radio \(/\):** you talk to the commander in private.
+* **Hablar por local \(B or H\):** Tú hablas a los otros jugadores en un radio 3D alrededor de ti.
+* **Radio del Escuadron \(V or Num 0\):** Hablas con tu escuadron, no importa dónde te encuentres.
+* **Radio General de los Líderes de Escuadrones\(\*\):** Hablas a todos los líderes de los escuadrones al mismo tiempo, este canal de radio también está disponible para el comandante con el mismo atajo.
+* **Líder de escuadron a un líder de otro escuadron específico  \(Num 1Num 9\):** hablas a un líder de escuadron específico dentro de tu equipo, esta canal de radio también está disponible para el comandante con el mismo atajo.
+* **Radio de Líder de escuadron al Comandante  \(/\):** Hablas al comandante en privado.
 
-PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel \(H\) and squad radio net \(0 on the numpad\).The main keyboard shortcuts can be edited in the PR Launcher also via the options menu under the PR Mumble tab.
+PR Mumble viene instalado junto con PR: BF2 desde la v1.0. El programa inicia junto la instalación del juego y realiza todas las tareas del cliente automáticamente por ti tal como iniciar y conectarte al servidor correcto de mumble. Los jugadores tienen la opción de cambiar la configuración de comunicación a su placer justo como la versión anterior. Esto incluye dispositivos de entrada y salida, Volumen y atajos del teclado. Las dos teclas más importantes por defecto son: Canal Local \(H\) y canal de Escuadron \(0 on the numpad\).Las principales teclas pueden ser editadas en el PR Launcher dentro de opciones en la pestaña PR Mumble.
 
-It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this, locate the PR Dogtags in the system tray next to the Windows system clock \(PR has to be running\), click on the icon to open the mumble interface then locate settings at the top. After that the settings panel will appear and you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
+Se recomienda que usted revise el panel de ajustes dentro de la aplicación de mumble para asegurarse que es tiene la mejor configuración. Para hacer esto, localiza las chapas de PR cerca del sistema de reloj de Windows  \(PR tiene que estar iniciado\), haz click en el icono para abrir el interface de Mumble luego busca “ajustes” en la parte superior. Después de eso el panel de ajustes aparecerá y podrás configurar tus dispositivos de audio de entrada y salida así como otros atajos del teclado y otras opciones.
 
 {% figure "../assets/mumblelogo.png" %}
 Mumble's icon in window's system tray.
 {% endfigure %}
 
 
-PR Mumble also integrates with BF2’s HUD display. During the game you will see the names of players talking, each colour depicting over which channel they are transmitting, which is displayed in the lower left hand corner of your screen. In the lower right hand corner mumble also indicates over what channel you are transmitting with a different colour depending on the channel you are using. It also shows whether your microphone or speakers are muted, and if there’s linking issues with the mumble client.
+PR Mumble también integra un HUD en la pantalla para BF2. Durante el juego podrás ver los nombres de los jugadores que se encuentran hablando, el color depende a que canal se encuentra transmitiendo, esto se muestra en la esquina inferior izquierda de tu pantalla. En la esquina inferior derecha muestra en que canal está transmitiendo con diferente color dependiendo a que canal estés usando. También muestra si tu micrófono o altavoces se encuentran silenciados, y si no hay problemas con la vinculación del cliente de Mumble.
 
 {% figure "../assets/mumble_1.png" %}
 Example of player's talking in game.
@@ -150,30 +150,30 @@ Mumble's icons status: Transmitting, Muted Speakers, Muted and Disconnected, res
 
 
 
-## _Troubleshooting_ {#troubleshooting}
+## _Solucion de Problemas_ {#troubleshooting}
 
-* PR:BF2 has its own file verification before you start the game. You will not be able to play online with modified files. You can still use them offline.
-* PR:BF2 needs to be started using the PR Launcher. Launching BF2.EXE or PRBF2.EXE will not work.
-* In addition to the built-in server browser you can use the web-based [PRSpy](http://realitymodfiles.com/geze/prspy/) to browse and join PR:BF2 servers. PRSpy also features a friend-list which makes locating your friends much easier.
+* PR: BF2 tiene su propia verificación de archivos antes de iniciar el juego. No podrá jugar en línea con archivos modificados solo podrás jugar en partidas offline.
+* R: BF2 necesita ser iniciado usando PR Launcher. Iniciar BF2.EXE o PRBF2.EXE no funcionara.
+* Además del buscador de servidores incorporado puedes utilizar el buscador web [PRSpy](http://realitymodfiles.com/geze/prspy/) para unirte a cualquier servidor PR: BF2. PRSpy posee una característica de lista de amigos que te facilitara localizar a tus amigos.
 
-Direct link link to PRSpy : [http://www.realitymod.com/prspy/](http://www.realitymod.com/prspy/)
+Link PRSpy : [http://www.realitymod.com/prspy/](http://www.realitymod.com/prspy/)
 
-* If the server you want to join is full you now have the option of using Auto Deploy. Select the server, click on “SERVER INFO” and then “AUTO DEPLOY”. A dialog will open that explains the remaining steps. Then simply sit back and wait to be connected once a slot opens up.
-* The Support Menu in the PR Launcher can come in very handy. It can gather all system information of your computer for you to copy and paste into our Support forums for when you need assistance. It can also provide you with your CD-Key Hash.
+* Si el servidor que quieres unirte está lleno tienes la opción de usar Auto Desplegar. Selecciona el servidor, click en “SERVER INFO” y luego “AUTO DESPLEGAR”. Un dialogo se abrirá que explicara los pasos restantes. Luego siéntate y espera a ser conectado cuando un espacio esté disponible.
+* El menú de soporte en el PR Launcher puede ser útil. Se puede reunir toda la información del sistema de tu computadora para copiar y pegar en nuestros foros de soporte técnico para cuando tú necesites ayuda. También puede proporcionarte tu CD-KEY HASH.
 
-Here are a couple of forum links from realitymod.com to use for various common reasons:
+Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias razones:
 
-* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) sub-forum to report bugs.
-* [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-forum to post your feedback about PR:BF2.
-* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) forums for all your problems regarding running and installing the game and errors you are getting.
-* [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) for all your technical questions.
-* [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137) will help you further then this manual to master all elements of PR:BF2 with community written guides and tutorials.
+* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) sub-foro para reportar bugs.
+* [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-foro para postear tus comentarios acerca de PR:BF2.
+* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) foro para todos tus problemas con respecto a iniciar e instalación del juego y otros problemas que tengas.
+* [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360)para todas tus preguntas técnicas.
+* [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137)te puede ayudar aún más para dominar todos los elementos de PR: BF2 con manuales escritos por la comunidad.
 
-## _Default Game Controls_ {#default-game-controls}
+## _Controles por Defecto del Juego_ {#default-game-controls}
 
-**General Controls**
+**Controles Generales**
 
-| **Key** | **Function** |
+| **Tecla** | **Función** |
 | --- | --- |
 | Caps Lock/Home | Kit selection, squad selection and Map menus |
 | **Tab** | Show scoreboard |
