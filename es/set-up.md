@@ -153,7 +153,7 @@ Mumble's icons status: Transmitting, Muted Speakers, Muted and Disconnected, res
 ## _Solucion de Problemas_ {#troubleshooting}
 
 * PR: BF2 tiene su propia verificación de archivos antes de iniciar el juego. No podrá jugar en línea con archivos modificados solo podrás jugar en partidas offline.
-* R: BF2 necesita ser iniciado usando PR Launcher. Iniciar BF2.EXE o PRBF2.EXE no funcionara.
+* PR: BF2 necesita ser iniciado usando PR Launcher. Iniciar BF2.EXE o PRBF2.EXE no funcionara.
 * Además del buscador de servidores incorporado puedes utilizar el buscador web [PRSpy](http://realitymodfiles.com/geze/prspy/) para unirte a cualquier servidor PR: BF2. PRSpy posee una característica de lista de amigos que te facilitara localizar a tus amigos.
 
 Link PRSpy : [http://www.realitymod.com/prspy/](http://www.realitymod.com/prspy/)
