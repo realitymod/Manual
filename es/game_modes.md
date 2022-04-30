@@ -1,32 +1,32 @@
-# Game Modes
+# Modos de Juego
 
-Project Reality:BF2 features 6 different game modes with different objectives. The common goal of all game modes is to reduce the enemy team's reinforcement points \(also referred to as tickets\) to zero. In most game modes this is achieved by wounding and killing enemies, destroying their vehicles and by capturing their control points. Colored map markers indicate your current objectives in each game mode.
+Project Reality: BF2 contiene 6 modos diferentes de juego con distintos objetivos. El objetivo común de todos los modos de juego es reducir los puntos de refuerzo del equipo enemigo \(también conocido como tickets\) a cero. En la mayoría de las partidas se logra hiriendo o matando enemigos, destruyendo sus vehículos y por la captura de sus puntos de control / banderas, coloreados en el mapa con marcas que te indican tu objetivo actual según el modo de juego.
 
-PR:BF2 features over 60 maps with over 400 different layers. You can find all maps and their specific map information on [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
+PR: BF2 contiene 40 mapas con más de 250 tipos. Puedes encontrar todos los mapas con su específica información de mapa en [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
-Most game modes feature 4 layer variations to it with different assets and support available. The layers include:
+Los modos de juegos incluyen 4 tipos de variación con diferentes assets y soportes disponibles. Los tipos incluyen:
 
-* **Infantry \(16\):** This layer usually consists of just transport and light armed vehicles, with a focus on infantry fighting.
-* **Alternative \(32\):** This is the alternative layer which features a big or small difference from standard.
-* **Standard \(64\):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times. 
-* **Large \(128\):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
+* **Infantería  \(16\):** Este modo consiste en su mayoría de vehículos de transporte, como objetivo principal el combate entre infantería..
+* **Alternative \(32\):** Este modo es usado por los mappers para crear únicas configuraciones, que pueden incluir ambientes de noche, una diferente distribución de banderas, facciones alternativas o una mezcla de assets de los tipos de juegos de infantería y estándar.
+* **Standard \(64\):** Este modo generalmente involucra todo el mapa y todos los assets, según corresponda al mapa. Este es el modo estándar que se puede reproducir en todo momento.. 
+* **Large \(128\):** Este modo está diseñado para rondas más largas de 2 horas y, por lo general, contiene todos los assets de la modo estándar con pequeñas variaciones y un mayor número de tickets..
 
 ## _Advance and Secure \(AAS\)_ {#advance-and-secure}
 
-The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points \(CPs\) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If your team reaches its last blue defensible flag and that is captured by the opposing force, you will start to bleed tickets until you recapture your flag by force. In a similar fashion the opposing forces last CP is indicated by a red attack marker and will cause them to bleed tickets if your team captures it in the same manner.
+El modo de juego AAS es el más cercano al modo BF2 Conquest original. El objetivo es capturar todos los Puntos de Control  \(CPs\) manteniendo más tickets que el enemigo. Los CPs solo se pueden capturar en un orden lineal para simular una línea de frente cambiante y enfrentamientos de enfoque. Los CPs que están en juego para ser capturados se indican con un marcador de ataque naranja, mientras que los que deben defenderse de los ataques enemigos se resaltan con un marcador de defensa púrpura. Si tu equipo alcanza su última bandera azul defendible y esa es capturada por el equipo enemigo, tu equipo comenzara a sangrar tickets hasta que recuperes tu bandera. De manera similar, el último CP del equipo enemigo se indica con un marcador de ataque rojo y hará que sangren tickets si tu equipo lo captura de la misma manera.
 
-At least a minimum of 2 players need to be within the CP capture radius in order to seize the flag. It can take more than a minute to secure a CP depending on the ratio of attackers to defenders within the flag radius. Although you cannot capture CPs out of order, you can begin to neutralize or capture the next CP forward before the current CP has finished capturing/neutralizing, even if you lose another position during the capture period. If a CP controlled by one team is neutralized and captured by the enemy, the team will lose 30 tickets. One of the key-features of AAS is that each time the same layer is loaded, it could be a different flag-layout thanks to our randomized flag-layouts.
+Al menos un mínimo de 2 jugadores deben estar dentro del radio de captura de CP para apoderarse de la bandera. Puede tomar más de un minuto asegurar un CP dependiendo de la proporción de atacantes y defensores dentro del radio de la bandera. Aunque no puedes capturar CP fuera del orden preestablecido, puede comenzar a neutralizar o capturar el siguiente CP antes de que el CP actual haya terminado de capturar/neutralizar, incluso si pierde otra posición durante el período de captura. Si un CP controlado por un equipo es neutralizado y capturado por el enemigo, el equipo perderá 30 boletos. Una de las características clave de AAS es que cada vez que se carga el mismo mapa, podría ser un diseño de bandera diferente gracias a nuestros diseños de bandera aleatorios.
 
-If the attacking team doesn't have a 2 to 1 ratio to the defending team on the flag they will start losing the capturing progress.
+Si el equipo atacante no tiene una proporción de 2 a 1 con respecto al equipo defensor en la bandera, comenzará a perder el progreso de captura..
 
-The map-markers for AAS are:
+Las marcas en el mapa para el modo AAS son::
 
-* ![](../assets/defend.png) Defend Marker 
-* ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\) 
-* ![](../assets/attack_bleed.png) Attack Marker
-* ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
+* ![](../assets/defend.png) Marca de Defensa
+* ![](../assets/defend%20bleed.png) Marca de Defensa \(Pérdida de Tickets\) 
+* ![](../assets/attack_bleed.png) Marca de Ataque 
+* ![](../assets/attack.png) Marca de Ataque  \(érdida de Tickets\)
 
-Vehicle Warfare, Skirmish & COOP use similar map markers for attack and defend.
+Guerra de Vehículos, Skirmish & COOP usan marcas similares para el ataque y la defensa.
 
 ## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
 
