@@ -1,25 +1,25 @@
 # Set-Up
 
-## _System Requirements_ {#systemreq}
+## _Requisitos del Sistema_ {#systemreq}
 
-* **Operating System:** Windows 7, 8 or 10
-* **Processor:** 2.4 Ghz Dual-Core minimum. 3.2 Ghz Recommended
-* **Memory:** 3 GB RAM. 4 GB recommended
-* **Hard Disk:** 10 GB free Hard Drive Space
-* **Graphics Adapter:** Graphics Card with 128 MB RAM. 512 MB recommended.
-* **Sound:** DirectX 9 compatible sound device. Dedicated sound card with EAX support recommended for best experience.
-* **Internet:** 256 kbps or faster connection required for online play
-* **Software:** .NET Framework 4
-* **Input:** Mouse, Keyboard
-* **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
+* **Sistema operativo:** Windows 7, 8 or 10.
+* **Procesador:** 2.4 Ghz Dual-Core minimum. Recomendado 3.2 Ghz. 
+* **Memoria:** 3 GB RAM. Recomendado 4 GB. 
+* **Espacio en El Disco:** 10 GB Disponible. 
+* **Tarjeta Grafica:** Tarjeta Grafica con minimo 128 MB RAM. Recomendado 512 MB.
+* **Sonido:** DirectX 9 audio compatible. Se recomiendo una tarjeta de sonido dedicada con soporte EAX para una mejor experiencia.
+* **Internet:** 256 kbps o conexión superior para partidas en línea.
+* **Software:** .NET Framework 4.
+* **Perifeicos:** Mouse, Teclado.
+* **Opcional:** Joystick, Audífonos, Micrófono \(fuertemente recomendado para la comunicación por voz\)
 
-## _Game Installation_                                                                          {#game-installation}
+## _Instalación del Juego_                                                                          {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version PR:BF2. 
+ Con PR: BF2 ya **no es necesario tener Battlefield 2** instalado. PR: BF2 funciona como un juego independiente. Si tiene una versión de PR: BF2 instalada antes de la v1.3, deberá desinstalarla antes de instalar PR: BF2 v1.7. 
 
-You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
+YHay 2 métodos de instalación. Puede usar la aplicación Download Assistant que hace que sea mucho más fácil instalar PR: BF2 o puede descargar e instalar manualmente el instalador a través de un Torrent. Con cualquiera de los métodos hay 2 pasos: Descargar e instalar:.
 
-[**Download the latest version**](http://www.realitymod.com/downloads)
+[**Descargar PR: BF2 v1.7 (click aqui)**](http://www.realitymod.com/downloads)
 
 There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
 
