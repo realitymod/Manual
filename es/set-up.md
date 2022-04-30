@@ -17,68 +17,68 @@
 
  Con PR: BF2 ya **no es necesario tener Battlefield 2** instalado. PR: BF2 funciona como un juego independiente. Si tiene una versión de PR: BF2 instalada antes de la v1.3, deberá desinstalarla antes de instalar PR: BF2 v1.7. 
 
-YHay 2 métodos de instalación. Puede usar la aplicación Download Assistant que hace que sea mucho más fácil instalar PR: BF2 o puede descargar e instalar manualmente el instalador a través de un Torrent. Con cualquiera de los métodos hay 2 pasos: Descargar e instalar:.
+Tendrás que descargar el instalador completo de PR: BF2 desde la página web. No es necesario tener Battlefield 2 instalado.
 
 [**Descargar PR: BF2 v1.7 (click aqui)**](http://www.realitymod.com/downloads)
 
-There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
+Hay 2 métodos de instalación. Puede usar la **Aplicación Download Assistant** ue hace que sea mucho más fácil instalar PR: BF2 o puede descargar e instalar manualmente el instalador a través de un Torrent. Con cualquiera de los métodos hay 2 pasos: Descargar e instalar:
 
-**1\) Download**
+**1\) Descarga**
 
-The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. 
+El Asistente de descarga descargará el instalador utilizando el protocolo Torrent. Así que asegúrese de que su ISP no bloquee esto. Simplemente descargue el Asistente de descarga de nuestra [sección de descargas de PR: BF2](http://www.realitymod.com/downloads) y siga las instrucciones de la aplicación. 
 
-If you downloaded the Torrent version \(and now the Download Assistant\), this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
+Si descargó la versión Torrent  \(y ahora el Asistente de descarga)\), esta **NO** es la instalación completa. Utiliza el pequeño archivo .torrent con un cliente BitTorrent para descargar realmente el archivo .iso completo. Recomendamos [qBittorrent](http://www.qbittorrent.org/download.php). Una vez que el torrent se haya descargado a través del software Torrent seleccionado, se le presentará una carpeta con todos los archivos de instalación, continúe con el paso 2 después de que la aplicación finalice la descarga.
 
-**2\) Installation**
-The downloaded folder that you now have through either the Download Assistant or the manual Torrent download now have a _setup.exe_ file. Launch this one to start the installation process. The Download Assistant however does has an automated system so after downloading there should be a button to start the installation automatically. 
+**2\) Instalación**
+La carpeta descargada que ahora tiene a través del Asistente de descarga, o la descarga manual de Torrent , tiene un archivo setup.exe. Inicie este para comenzar el proceso de instalación. Sin embargo, el Asistente de descarga tiene un sistema automatizado, por lo que después de la descarga
+debe haber un botón para iniciar la instalación automáticamente. 
 
-A few more points:
+Algunos puntos más:
 
-* With the new standalone version there is also no longer a requirement to install it in the Battlefield 2 folder. Feel free to install PR:BF2 in a drive and folder of your choosing.
-* If you have BF2 installed you can continue to play it and player other BF2 modifications as well. PR:BF2 does not interfere with them.
-* PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to newer versions when they are released.
-* PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
-* If you don’t want to use Torrents you will find mirrors for direct HTTP downloads through our forums.
+* Con la nueva versión independiente, ya no es necesario instalarla en la carpeta Battlefield 2. Siéntase libre de instalar PR: BF2 en una unidad y carpeta de su elección.
+* Si tiene BF2 instalado, puedes continuar jugando otras modificaciones de BF2 también. PR: BF2 no interfiere con ellos.
+* PR: BF2 cuenta con  **actualización automática.** Entonces, una vez que haya instalado PR: BF2, puede usar el actualizador para actualizar automáticamente su juego a versiones más    nuevas cuando se publiquen.
+* PR: BF2 incluye PR Mumble en su instalación. Por lo tanto, no es necesario descargar esto por separado.
+* Si no desea utilizar Torrents, encontrará espejos para descargas HTTP directas a través de nuestros foros.
 
-## _Creating a PR Account_ {#creating-a-pr-account}
+## _Crear PR Account_ {#creating-a-pr-account}
 
-Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
-When you launch Project Reality:BF2 for the first time you will shown the following window:
+Dado que DICE y EA eliminaron la compatibilidad con BF2 en mayo de 2014, ahora utilizamos nuestro propio servicio de cuenta para PR: BF2. Todas sus antiguas cuentas BF2 (antes de PR: BF2 v1.2) ya no se pueden recuperar. Antes de utilizar PR Launcher, deberá crear una cuenta de PR Account para poder jugar en línea. Esta cuenta es exclusiva para ti. 
+El juego sin conexión no requiere una cuenta de PR Account. Utilizamos servicios de terceros para conectar y verificar una cuenta de PR Account. Actualmente solo admitimos Steam. Deberá tener una cuenta de Steam existente o  [crear una nueva](https://steamcommunity.com/) para vincularla a su cuenta de PR Account. Cuando inicie Project Reality: BF2 por primera vez, se mostrará la siguiente ventana:
 
 {% figure "../assets/creating_profile_1.png" %}
 Steam login prompt.
 {% endfigure %}
 
-Press the Steam sign-in button to open a webpage where you will need to login to Steam in order to proceed. You will be then asked by your web browser to allow the PR Launcher to login. Depending on your browser this will look similar to the images below. Press the button that allows you to proceed. Afterwards you can close the webpage. 
+Presione el botón de inicio de sesión de Steam para abrir una página web donde deberá iniciar sesión en Steam para continuar. Luego, su navegador web le pedirá que permita que PR Launcher inicie sesión. Dependiendo de su navegador, esto se verá similar a las imágenes a continuación. Presione el botón que le permite continuar. Luego puede cerrar la página web. 
 
 {% figure "../assets/creating_profile_2.png" %}
 Web browsers prompts.
 {% endfigure %}
 
-Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Servers have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
-Please make sure the _game details_ settings are set to be public. 
+A su PR Account se le asignará un nivel de cuenta de PR. Este nivel determina cuánto se considera legítima su cuenta y no una cuenta desechable. Los servidores tienen la opción de elegir qué nivel mínimo se requiere para jugar en su servidor. Para determinar su nivel de PR Account, su cuenta de Steam deberá hacerse pública en parte. Puedes hacerlo en la  [Configuración de Privacidad de Steam](https://steamcommunity.com/my/edit/settings). Asegúrate de que la configuración de detalles del juego sea pública. 
 
 {% figure "../assets/creating_profile_3.png" %}
 Steam profile's configurations.
 {% endfigure %}
 
-**Your Steam profile does not have to be public while playing PR:BF2.** Only when calculating the PR Account level. This is done once automatically on the first login and afterwards only when manually calculating.  You can find our privacy-notice [here](https://hq.realitymod.com/account/privacy.html). If your account level is not high enough to play on most online servers you will be shown a warning on the main PR Launcher screen which looks like the image below.
+**Tu perfil de Steam no tiene que ser público mientras juegas PR: BF2.** Solo al calcular el nivel de la cuenta PR. Esto se hace una vez automáticamente en el primer inicio de sesión y luego solo cuando se calcula manualmente. Puede encontrar nuestro aviso de privacidad [aqui](https://hq.realitymod.com/account/privacy.html). Si el nivel de su cuenta no es lo suficientemente alto como para jugar en la mayoría de los servidores en línea, se le mostrará una advertencia en la pantalla principal de PR Launcher que se parece a la imagen a continuación.
 
 {% figure "../assets/creating_profile_4.png" %}
 Main Launcher page with account level warning.
 {% endfigure %}
 
-To recalculate your PR Account Level go to the **SUPPORT** menu and open the _Account_ tab. There you can find your unique PR Account ID as well as your current PR Account Level and a button to calculate it again. Your level can never become lower after calculation. You will always keep the highest level you have. 
+Para volver a calcular el nivel de su cuenta PR, vaya al menú  **SOPORTE** y abra la pestaña Cuenta. Allí puede encontrar su ID de PR Account, así como su Nivel de PR Account actual y un botón para calcularlo nuevamente. Su nivel nunca puede bajar después del cálculo. Siempre mantendrás el nivel más alto que tengas. 
 
-Your PR Account Level will be higher by gathering XP for a few indicators. These are for example having no current Steam VAC bans, having games bought on the Steam store in your library and having playtime on said games. **Donations to the Project Reality team do not influence your PR Account Level.**
+Tu nivel de PR Account será mayor al reunir XP para algunos indicadores. Estos son, por ejemplo, no tener prohibiciones actuales de Steam VAC, comprar juegos en la tienda Steam en su biblioteca y tener tiempo de juego en dichos juegos. **Las donaciones al equipo de Project Reality no influyen en su nivel de PR Account.**
 
-If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
+Si no desea crear un PR Account para jugar en línea, puede elegir jugar sin conexión solo en la pantalla de inicio de sesión. 
 
-## _Creating a Profile_ {#creating-a-profile}
+## _Crear un Perfil_ {#creating-a-profile}
 
-You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
+Tienes una cuenta PR que es única. Sin embargo, puede crear múltiples perfiles bajo esta cuenta PR. Cada perfil tiene un nombre único en el juego, así como configuraciones y controles separados guardados en su computadora. También puede recuperar perfiles creados anteriormente. Los perfiles más antiguos creados después de PR:BF2 v1.2 y antes de v1.6 también se pueden recuperar proporcionando el nombre de perfil y la contraseña.
 
-You can access the profile settings by hovering over the PLAY button in the PR Launcher and choosing _Select Profile_ and then _Manage Profiles_. You have the option to create offline profiles as well. If you didn’t log in through your online PR Account, you can only make and use offline profiles. 
+Puede acceder a la configuración del perfil colocando el cursor sobre el botón JUGAR en PR Launcher y eligiendo Seleccionar perfil y luego Administrar perfiles. También tiene la opción de crear perfiles fuera de línea. Si no inició sesión a través de su cuenta PR en línea, solo puede crear y usar perfiles sin conexion. 
 
 {% figure "../assets/creating_profile_5.png" %}
 Manage profiles page.
@@ -90,26 +90,26 @@ Creating profile page.
 {% endfigure %}
 
 
-## _The PR Launcher_ {#the-pr-launcher}
+## _PR Launcher_ {#the-pr-launcher}
 
-After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
+Después de la instalación, se proporcionará un acceso directo para Project Reality: BF2 en el escritorio, haga doble clic en este icono para abrir PR Launcher.. 
 
 {% figure "../assets/launcher_1.png" %}
 Main page of PR Launcher.
 {% endfigure %}
 
-All main options are displayed on the right.
+Todas las opciones se muestran del lado derecho..
 
-* **Play:**  This will start the game. If you click the down arrow to the right, you have the option to check for updates or select a different profile. If there is an update it will be automatically displayed if you press the play button. This update will then automatically be downloaded and installed. Progress of the update and installation will be displayed whilst it is in operation.
-* **Options:** In this menu you can edit your video, graphics, and audio settings. Also some other options are available as well as configuring PR Mumble keys.
-* **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team. It also holds information on your PR Account as well as the option to recalculate your PR Account Level. 
-* **Credits:** Here you can see the entire PR:BF2 team who worked on this game.
-* **Donate:** A direct link to our online donation page. The Project Reality Team develops this modification completely free of charge for its community to download and play. If you would like to show your support, please consider [donating to our team](https://www.realitymod.com/forum/misc.php?do=donate).
-* **Exit:** Use this button to close the PR Launcher and return to Windows
+* **Jugar:**  Esto iniciara el juego, si das click en la flecha hacia abajo a la derecha tendrás la opción de comprobar si hay actualizaciones o seleccionar un perfil diferente. Si existe una actualización se mostrara automáticamente al pulsar el botón de “Jugar”, Por lo tanto la actualización se descargara e instalara automáticamente. El progreso de la actualización se mostrara mientras está en funcionamiento.
+* **Opciones:** En este menú puedes editar las opciones de video, gráficos y audio. Además tendrás otras opciones disponibles si quieres editar las teclas de PR Mumble.
+* **Soporte:** Esto es muy útil cuando se tiene problemas al ejecutar cualquier activo de PR, ofrece muchos servicios públicos como la limpieza de carpetas almacenadas en alijo o provee una pantalla de la información detallada sobre las especificaciones de tu computadora, esto es muy útil cuando te pones en contacto con nuestro equipo de soporte. 
+* **Creditos:** Aquí podrás ver el equipo entero de PR: BF2 quienes han trabajado en el mod por muchos años.
+* **Donar:** Un enlace directo a nuestra página de donaciones en línea. El equipo de Project Reality desarrolla esta modificación de forma totalmente gratuita para que su comunidad la descargue y juegue. Si desea mostrar su apoyo, considere [donar a nuestro equipo](https://www.realitymod.com/forum/misc.php?do=donate).
+* **Salir:** Usa este botón para cerrar el PR Launcher y volver a Windows.
 
-The launcher’s main menu also provides a news ticker at the bottom highlighted in blue with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community. Furthermore you can find links to our social media accounts on the top left. 
+En el  menú principal del Launcher en la parte inferior se visualizaran nuevos temas en el foro y en letras azules eventos próximos o blogs mostrando progresos en los  trabajos de los desarrolladores en  la comunidad de PR: BF2. 
 
-## _In-Game Menu Navigation_ {#in-game-menu-navigation}
+## _Navegación en el menu del Juego_ {#in-game-menu-navigation}
 
 * **Co-operative:** Allows you to play PR:BF2 with computer controlled AI soldiers on the teams. This mode is very useful for getting to know the game mechanics and equipment before joining competitive online battles.
 * **Deployment:** The main mode of play in Project Reality. Here you will find intense battles with up to 100 human players.
