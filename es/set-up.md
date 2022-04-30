@@ -231,7 +231,7 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | **B or H** | PR Mumble Canal de radio local  |
 | **V or 0 \(numpad\)** | PR Mumble Canal de radio del escuadrón  |
 | **1-9 \(numpad\)** | PR Mumble Canal directo de líder del escuadrón |
-| **\*\(numpad\)** | PR Mumble Radio General para los Lideres de Escuadrón  |
+| **\*\(numpad\)** | PR Mumble Radio General para los lideres de escuadrón  |
 | **/\(numpad\)** | PR Mumble Radio para Comandante   |
 
 **Teclas Mumble**
