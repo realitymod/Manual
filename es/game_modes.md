@@ -2,7 +2,7 @@
 
 Project Reality: BF2 contiene 6 modos diferentes de juego con distintos objetivos. El objetivo común de todos los modos de juego es reducir los puntos de refuerzo del equipo enemigo \(también conocido como tickets\) a cero. En la mayoría de las partidas se logra hiriendo o matando enemigos, destruyendo sus vehículos y por la captura de sus puntos de control / banderas, coloreados en el mapa con marcas que te indican tu objetivo actual según el modo de juego.
 
-PR: BF2 contiene 40 mapas con más de 250 tipos. Puedes encontrar todos los mapas con su específica información de mapa en [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
+PR: BF2 contiene 60 mapas con más de 400 tipos. Puedes encontrar todos los mapas con su específica información de mapa en [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
 Los modos de juegos incluyen 4 tipos de variación con diferentes assets y soportes disponibles. Los tipos incluyen:
 
