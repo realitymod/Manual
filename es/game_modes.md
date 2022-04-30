@@ -6,7 +6,7 @@ PR: BF2 contiene 40 mapas con más de 250 tipos. Puedes encontrar todos los mapa
 
 Los modos de juegos incluyen 4 tipos de variación con diferentes assets y soportes disponibles. Los tipos incluyen:
 
-* **Infantería  \(16\):** Este modo consiste en su mayoría de vehículos de transporte, como objetivo principal el combate entre infantería..
+* **Infantry  \(16\):** Este modo consiste en su mayoría de vehículos de transporte, como objetivo principal el combate entre infantería..
 * **Alternative \(32\):** Este modo es usado por los mappers para crear únicas configuraciones, que pueden incluir ambientes de noche, una diferente distribución de banderas, facciones alternativas o una mezcla de assets de los tipos de juegos de infantería y estándar.
 * **Standard \(64\):** Este modo generalmente involucra todo el mapa y todos los assets, según corresponda al mapa. Este es el modo estándar que se puede reproducir en todo momento.. 
 * **Large \(128\):** Este modo está diseñado para rondas más largas de 2 horas y, por lo general, contiene todos los assets de la modo estándar con pequeñas variaciones y un mayor número de tickets..
