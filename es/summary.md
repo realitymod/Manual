@@ -4,7 +4,7 @@
 * [Set-Up](set-up.md)
   * [Requisitos del Sistema](set-up.md#systemreq)
   * [Instalación del Juego](set-up.md#game-installation)
-  * [Crear una cuenta PR](set-up.md#creating-a-pr-account)
+  * [Crear PR Account](set-up.md#creating-a-pr-account)
   * [PR Launcher](set-up.md#the-pr-launcher)
   * [Navegación en el menu del Juego](set-up.md#in-game-menu-navigation)
   * [PR Mumble](set-up.md#pr-mumble)
