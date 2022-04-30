@@ -193,48 +193,48 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | **G** | Recoger un Kit |
 | **Click Izquierdo** | Disparar |
 | **Click Derecho** | Disparo Alternativo / Usar mira del arma  |
-| **R** | Reload |
-| **F** | Cycle Weapons |
-| **1-9** | Select Weapon |
+| **R** | Recargar |
+| **F** | Ciclo de Armas |
+| **1-9** | Seleccionar Arma |
 
-**Movement**
+**Movimiento**
 
-| **Key** | **Function** |
+| **Tacla** | **Función** |
 | --- | --- |
-| **E** | Enter / Exit vehicle or emplacement |
-| **WSAD** | Basic movement |
-| **Left Ctrl** | Crouch \(hold\) |
-| **Z** | Toggle prone |
-| **Space** | Jump |
-| **Left Shift** | Sprint / Vehicle Boost |
+| **E** | Entrar / Salir del vehículo o emplazamiento  |
+| **WSAD** | Movimiento Básico  |
+| **Ctrl Iazquierdo** | Agacharse  \(Sostener\) |
+| **Z** | Tirarse al Suelo  |
+| **Space** | Saltar |
+| **Left Shift** | Correr / Impulsar Vehículo   |
 
-**Vehicles**
+**Vehículos**
 
-| **Key** | **Function** |
+| **Tecla** | **Función** |
 | --- | --- |
-| **F1-F8** | Switch Vehicle Position |
-| **X** | increase zoom magnification / flares |
-| **6-9** | Camera Positions \(helicopters and aircraft only\) |
-| **R** | Reload |
-| **F** | Cycle Weapons |
-| **1-9** | Select Weapon |
+| **F1-F8** | Seleccionar posición dentro del Vehículo |
+| **X** | Incremento del zoom / bengalas  |
+| **6-9** | Posición de Cámara \(Solo en Helicópteros y Aviones\) |
+| **R** | Recargar |
+| **F** | Ciclo de Armas |
+| **1-9** | Seleccionar Armas |
 
-**Communication**
+**Comunicación**
 
-| **Key** | **Function** |
+| **Tecla** | **Función** |
 | --- | --- |
-| **J** | Text chat for all players |
-| **K** | Text chat for your team only |
-| **L** | Text chat for your squad only |
-| **Page Up** | Accept request |
-| **Page Down** | Deny request |
-| **B or H** | PR Mumble Proximity Local Channel |
-| **V or 0 \(numpad\)** | PR Mumble Squad Radio Channel |
-| **1-9 \(numpad\)** | PR Mumble Individual Squad Leader Radio Channel |
-| **\*\(numpad\)** | PR Mumble All Squad Leader Radio Channel |
-| **/\(numpad\)** | PR Mumble Commander Radio Channel |
+| **J** | Mensaje visible para todos los jugadores  |
+| **K** | Mensaje visible solo para tu equipo   |
+| **L** | Mensaje visible solo para tu escuadrón  |
+| **Repag** | Aceptar orden / petición  |
+| **Avpag** | Aceptar orden / petición  |
+| **B or H** | PR Mumble Canal de radio local  |
+| **V or 0 \(numpad\)** | PR Mumble Canal de radio del escuadrón  |
+| **1-9 \(numpad\)** | PR Mumble Canal directo de líder del escuadrón |
+| **\*\(numpad\)** | PR Mumble Radio General para los Lideres de Escuadrón  |
+| **/\(numpad\)** | PR Mumble Radio para Comandante   |
 
-**Mumble Keys**
+**Teclas Mumble**
 
 {% figure "../assets/mumblekeys.png" %}
 Creating profile page.
