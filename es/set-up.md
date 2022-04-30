@@ -192,7 +192,7 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 | --- | --- |
 | **G** | Recoger un Kit |
 | **Click Izquierdo** | Disparar |
-| **Click Derecho** | Disparo Alternativo | Usar mira del arma  |
+| **Click Derecho** | Disparo Alternativo / Usar mira del arma  |
 | **R** | Reload |
 | **F** | Cycle Weapons |
 | **1-9** | Select Weapon |
