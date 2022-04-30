@@ -163,11 +163,11 @@ Link PRSpy : [http://www.realitymod.com/prspy/](http://www.realitymod.com/prspy/
 
 Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias razones:
 
-* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) sub-foro para reportar bugs.
-* [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-foro para postear tus comentarios acerca de PR:BF2.
-* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) foro para todos tus problemas con respecto a iniciar e instalación del juego y otros problemas que tengas.
-* [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360)para todas tus preguntas técnicas.
-* [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137)te puede ayudar aún más para dominar todos los elementos de PR: BF2 con manuales escritos por la comunidad.
+* [PR:BF2 Bugs:](https://www.realitymod.com/forum/forumdisplay.php?f=26) sub-foro para reportar bugs.
+* [PR:BF2 Feedback:](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-foro para postear tus comentarios acerca de PR:BF2.
+* [PR:BF2 Support:](https://www.realitymod.com/forum/forumdisplay.php?f=27) foro para todos tus problemas con respecto a iniciar e instalación del juego y otros problemas que tengas.
+* [General Technical Support:](https://www.realitymod.com/forum/forumdisplay.php?f=360) para todas tus preguntas técnicas.
+* [PR In-Game Tactics and Strategies:](https://www.realitymod.com/forum/forumdisplay.php?f=137) te puede ayudar aún más para dominar todos los elementos de PR: BF2 con manuales escritos por la comunidad.
 
 ## _Controles por Defecto del Juego_ {#default-game-controls}
 
@@ -175,24 +175,24 @@ Aquí tienes un par de enlaces al foro de realitymod.com para usar por varias ra
 
 | **Tecla** | **Función** |
 | --- | --- |
-| Caps Lock/Home | Kit selection, squad selection and Map menus |
-| **Tab** | Show scoreboard |
-| **Print Screen** | Take Screenshot |
-| **M** | Show/hide Map overlay |
-| **N** | Switch zoom level of minimap |
-| **Q** | Display main radio-rose |
-| **T** | Display secondary radio-rose |
-| **Left alt** | Show/hide 3D markers \(only visible within 50m\) |
-| **C** | Toggle BUIS / Change camera |
-| **End/grave** | Console |
+| Bloq Mayus/Inicio | Selección de kit, selección de patrulla y menú del mapa |
+| **Tab** | Muestra el Marcador |
+| **Imp Pant** | Toma una captura de pantalla |
+| **M** | Muestra / Esconde un mapa sobrepuesto |
+| **N** | Cambiar nivel de zoom del mini mapa  |
+| **Q** | Muestra la principal radio-menu  |
+| **T** | Muestra la secundaria radio-menu  |
+| **Alt Iazquierdo** | Muestra/Esconde las marcas 3D \(Solo visibles a los 50m\) |
+| **C** | Cambiar Mira / Cambiar Cámara  |
+| **Fin/°** | Consola |
 
-**Weapons**
+**Armas**
 
-| **Key** | **Function** |
+| **Teacla** | **Función** |
 | --- | --- |
-| **G** | Pick up a kit |
-| **Left Mouse** | Fire |
-| **Right Mouse** | Alt Fire or Toggle sights |
+| **G** | Recoger un Kit |
+| **Click Izquierdo** | Disparar |
+| **Click Derecho** | Disparo Alternativo | Usar mira del arma  |
 | **R** | Reload |
 | **F** | Cycle Weapons |
 | **1-9** | Select Weapon |
