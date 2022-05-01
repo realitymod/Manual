@@ -30,51 +30,50 @@ Guerra de Vehículos, Skirmish & COOP usan marcas similares para el ataque y la 
 
 ## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
 
-Many heavy vehicles battle for control of the map in this game mode. Players are limited to spawning with crewman kits. Only officer and pilot kits can be requested. Tickets are only influenced by how many CPs a team controls. Vehicles that are already destroyed respawn after 5 minutes. It takes at least 6 players \(inside vehicles\) to take control of a CP. Capturing works much faster than in AAS.
+Muchos vehículos pesados, luchan por mantener el control del mapa en este modo de juego. Los jugadores están limitados a jugar con kit de Conductor. Solo se pueden solicitar kits de Oficial y Piloto. Los tickets solo son afectados por la cantidad de banderas o puntos de control que el equipo haya capturado. Los vehículos que fueron destruidos reaparecen después de 5 minutos. Se necesitan al menos 6 jugadores (dentro de sus respectivos vehículos) para poder capturar una bandera. Éstas se capturan mucho más rápido que en el modo AAS.
 
 ## _Skirmish_ {#skirmish}
 
-This game mode operates on smaller scale map versions of the Advance and Secure game mode, intended for around 12-16 players. It is perfect for clan matches and small infantry engagements. Skirmish has the same rules as AAS but with smaller combat zones, usually no vehicles or deployable assets as well as fewer tickets. If a team loses a CP to the enemy they will be penalized by 10 tickets.
+Este modo de juego se da en versiones reducidas de los mapas del modo AAS y está destinado para partidas de entre 12 y 16 jugadores. Es perfecto para partidas entre Clanes y combates cercanos de infantería. Skirmish tiene las mismas reglas que el modo AAS, pero con una zona de captura más pequeña, generalmente sin vehículos ni construcciones desplegables, al igual que menor cantidad de tickets. Si un equipo pierde una bandera, se lo penalizará con 10 Tickets.
 
 ## _Command & Control \(CNC\)_ {#command-and-control}
 
-This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)  
-somewhere on the map. The objective is to defend the team's FOB while trying to find and destroy the enemy FOB. When a team loses their FOB they will suffer a huge ticket penalty and continue to lose tickets until they build a new one. The FOB must be placed at least 200m from the map's borders. Building your team’s FOB closer to the map's center increases the ticket loss that the enemy will suffer while their FOB is down. Both teams can build more defenses in a bigger radius near their FOB than in other game modes.
+Este modo de juego cuenta con  grandes batallas de forma libre. No hay banderas capturarles, cada equipo debe desplegar una sola  \(FOB\) [\(Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)  en alguna parte del mapa. El objetivo es defender la FOB del equipo mientras se busca y destruye la FOB enemiga. Cuando un equipo pierde su FOB sufrirá una gran pérdida de tickets y seguirá perdiendo hasta que se construya una nueva. La FOB debe colocarse al menos a 200mts de las fronteras del mapa. El equipo que construya la FOB más cerca del centro del mapa generara mayores pérdidas de tickets al equipo enemigo cuando su FOB sea destruida. Ambos equipos pueden desplegar más defensas estáticas que en otros modos de juego.
 
 ## _Co-Operative \(COOP\)_ {#co-operative}
 
-In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
+En este modo es posible jugar uno o varios jugadores con Bots / soldados controlados por IA. Esto es ideal para practicar todas las armas y vehículos así como kits antes de entrar en una partida con jugadores humanos. Para que los bots funcionaran / representaran una amenaza se modificaron ciertas características y objetos para  su uso. La mayoría de los mapas tienen su versión COOP.
 
 ## _Insurgency \(INS\)_ {#insurgency}
 
-This mode is very unique in comparison to others within PR. The objective of the coalition force is to find and destroy five insurgent weapons caches hidden throughout the map before running out of tickets. The coalition forces lose tickets for every player death or asset destroyed, while the insurgency team only loses tickets when a weapons cache is destroyed.
+Este modo es muy singular en comparación con otros dentro de PR. El objetivo de la fuerza de la coalición es encontrar y destruir cinco alijos \(cache\) de armas insurgentes ocultos en todo el mapa antes de quedarse sin tickets. Las fuerzas de la coalición pierden boletos por cada jugador muerto o activo destruido, mientras que el equipo de insurgencia solo pierde boletos cuando se destruye un alijo de armas.
 
 {% figure "../assets/weaponcache.png" %}
 A weapon cache.
 {% endfigure %}
 
-The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [\(see The Civilian\)](the_civilian.md).
-To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
+Las tropas de la Coalición deben recolectar inteligencia matando guerreros insurgentes o capturando civiles [\(ver El Civilian\)](the_civilian.md).
+Para capturar un civil, el jugador de la Coalición debe encontrarse a 1 metro del civil y deben usar unas esposas, que consiste en unas esposas de plástico, accesibles al presionar el número en el teclado, o alternativamente,**usando una escopeta de perdigones.**.Esto simula la inmovilización del civil con balas de goma. La coalición gana si logran destruir 5 alijos antes de que se les acabe el tiempo o los tickets, en caso contrario el equipo insurgente ganará el juego. Los ingenieros Insurgentes también pueden reparar alijos dañados.
 
-To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
+Para revelar la posición aproximada del alijo insurgente, las fuerzas de la coalición deben recolectar inteligencia. La siguiente lista muestra la cantidad de puntos de inteligencia \(IP\) ganados o perdidos por las diferentes acciones: .
 
-* Insurgent killed: +1 IP \(within 300m\)
-* Civilian or insurgent arrested: +10 IP
-* Civilian killed \(violating rules of engagement\): -5 IP
-* Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
-* Destroying unused civilian vehicles : -5 IP
+* Insurgente asesinado: +1 IP \(dentro de 300m de distancia\)
+* Civil o insurgente arrestado: +10 IP
+* Civil asesinado \(violando reglas de enfrentamiento\): -5 IP
+* Destruyendo vehículos civil\(dentro de 50m durante los últimos 60 segundos\) : -50 IP
+* Destrucción de vehículos civiles en desuso : -5 IP
 
-Jets, tanks and helicopters can't gain IP through these methods. The approximate location of the first cache is shown about 5 minutes into the round. Additional locations will be revealed 5 minutes after enough IP is gained by the coalition. There can be up to 2 active caches at the same time. The new location is revealed when reaching 50 intelligence points. If there are less than 32 players on the server the IP needed to reveal a cache is halved. A team can only have a maximum of 50 and a minimum of -50 IP.
+Los jets, tanques y helicópteros no pueden obtener IP a través de estos métodos. La ubicación aproximada del primer caché se muestra aproximadamente 5 minutos después de la ronda. Se revelarán ubicaciones adicionales 5 minutos después de que la coalición obtenga suficientes IP. Puede haber hasta 2 cachés activos al mismo tiempo. La nueva ubicación se revela al llegar a 50 puntos de inteligencia. Si hay menos de 32 jugadores en el servidor, la IP necesaria para revelar un caché se reduce a la mitad. Un equipo solo puede tener un máximo de 50 y un mínimo de -50 IP.
 
-The map markers for insurgency are:
+Las marcas en el  mapa para los insurgentes son:
 
-* ![](../assets/cache.png) **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
-* ![](../assets/unknown%20weapon%20cache.png) **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces.
-* ![](../assets/unknown%20cache.png) **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence. The cache will not be physically spawned yet until it is revealed to the coalition forces.
+* ![](../assets/cache.png) **Alijo Conocido por la Coalición:** Este icono será visible en el mapa de las fuerzas de la coalición que indica la ubicación aproximada del alijo cuando los suficientes puntos de inteligencia han sido adquiridos. La marca podrá estar hasta a 75 metros del alijo.
+* ![](../assets/unknown%20weapon%20cache.png) **Alijo Conocido por los Insurgentes:** Este icono será visible en las fuerzas insurgentes indicando que el alijo ha sido localizado por las fuerzas de la coalición.
+* ![](../assets/unknown%20cache.png) **Alijo Insurgente Desconocido:** Este icono representa la posición donde el alijo aparecerá en el campo de batalla. Solo es visible para las fuerzas insurgentes en pos de que puedan coordinar su defensa mientras las fuerzas de la coalición están reuniendo inteligencia. El alijo no estará presente físicamente hasta que sea revelado a las fuerzas de la coalición.
 
-The caches can be destroyed by small or large packs of C4. Other weaponry will only do no or light damage to a cache.
+Los alijos pueden ser destruidos por un pack de C4 pequeño o grande. Otras armas harán poco o nada de daño a un cache.
 
-Once it is destroyed the coalition team gains 30 tickets and a message will inform the team about how many caches remain to be destroyed. Caches can be repaired by wrench or shovels.
+Una vez que sea destruido el equipo de la coalición gana 30 tickets y un mensaje informará al equipo cuantos alijos restantes quedan por ser destruidos. Alijos pueden ser reparados con la llave inglesa o la pala.
 
-The caches will only show on the map 30 seconds before round start to avoid exploiting this information beforehand.
+Los cachés solo se mostrarán en el mapa 30 segundos antes del inicio de la ronda para evitar explotar esta información de antemano. 
 
