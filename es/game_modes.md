@@ -38,7 +38,7 @@ Este modo de juego se da en versiones reducidas de los mapas del modo AAS y est�
 
 ## _Command & Control \(CNC\)_ {#command-and-control}
 
-Este modo de juego cuenta con  grandes batallas de forma libre. No hay banderas capturarles, cada equipo debe desplegar una sola  \(FOB\) [\(Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)  en alguna parte del mapa. El objetivo es defender la FOB del equipo mientras se busca y destruye la FOB enemiga. Cuando un equipo pierde su FOB sufrirá una gran pérdida de tickets y seguirá perdiendo hasta que se construya una nueva. La FOB debe colocarse al menos a 200mts de las fronteras del mapa. El equipo que construya la FOB más cerca del centro del mapa generara mayores pérdidas de tickets al equipo enemigo cuando su FOB sea destruida. Ambos equipos pueden desplegar más defensas estáticas que en otros modos de juego.
+Este modo de juego cuenta con  grandes batallas de forma libre. No hay banderas capturarles, cada equipo debe desplegar una sola  \(FOB\) [\( Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)  en alguna parte del mapa. El objetivo es defender la FOB del equipo mientras se busca y destruye la FOB enemiga. Cuando un equipo pierde su FOB sufrirá una gran pérdida de tickets y seguirá perdiendo hasta que se construya una nueva. La FOB debe colocarse al menos a 200mts de las fronteras del mapa. El equipo que construya la FOB más cerca del centro del mapa generara mayores pérdidas de tickets al equipo enemigo cuando su FOB sea destruida. Ambos equipos pueden desplegar más defensas estáticas que en otros modos de juego.
 
 ## _Co-Operative \(COOP\)_ {#co-operative}
 
@@ -52,7 +52,7 @@ Este modo es muy singular en comparación con otros dentro de PR. El objetivo de
 A weapon cache.
 {% endfigure %}
 
-Las tropas de la Coalición deben recolectar inteligencia matando guerreros insurgentes o capturando civiles [\(ver El Civilian\)](the_civilian.md).
+Las tropas de la Coalición deben recolectar inteligencia matando guerreros insurgentes o capturando civiles [\(Ver El Civil\)](the_civilian.md).
 Para capturar un civil, el jugador de la Coalición debe encontrarse a 1 metro del civil y deben usar unas esposas, que consiste en unas esposas de plástico, accesibles al presionar el número en el teclado, o alternativamente,**usando una escopeta de perdigones.**.Esto simula la inmovilización del civil con balas de goma. La coalición gana si logran destruir 5 alijos antes de que se les acabe el tiempo o los tickets, en caso contrario el equipo insurgente ganará el juego. Los ingenieros Insurgentes también pueden reparar alijos dañados.
 
 Para revelar la posición aproximada del alijo insurgente, las fuerzas de la coalición deben recolectar inteligencia. La siguiente lista muestra la cantidad de puntos de inteligencia \(IP\) ganados o perdidos por las diferentes acciones: .
