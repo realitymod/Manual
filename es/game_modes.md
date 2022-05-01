@@ -2,14 +2,14 @@
 
 Project Reality: BF2 contiene 6 modos diferentes de juego con distintos objetivos. El objetivo común de todos los modos de juego es reducir los puntos de refuerzo del equipo enemigo \(también conocido como tickets\) a cero. En la mayoría de las partidas se logra hiriendo o matando enemigos, destruyendo sus vehículos y por la captura de sus puntos de control / banderas, coloreados en el mapa con marcas que te indican tu objetivo actual según el modo de juego.
 
-PR: BF2 contiene 60 mapas con más de 400 tipos. Puedes encontrar todos los mapas con su específica información de mapa en [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
+PR: BF2 contiene 60 mapas con más de 400 diferentes capas. Puedes encontrar todos los mapas con su específica información de mapa en [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
 
-Los modos de juegos incluyen 4 tipos de variación con diferentes assets y soportes disponibles. Los tipos incluyen:
+Los modos de juegos incluyen 4 capas de variación con diferentes assets y soportes disponibles. Los tipos incluyen:
 
-* **Infantry  \(16\):** Este modo consiste en su mayoría de vehículos de transporte, como objetivo principal el combate entre infantería..
-* **Alternative \(32\):** Este modo es usado por los mappers para crear únicas configuraciones, que pueden incluir ambientes de noche, una diferente distribución de banderas, facciones alternativas o una mezcla de assets de los tipos de juegos de infantería y estándar.
-* **Standard \(64\):** Este modo generalmente involucra todo el mapa y todos los assets, según corresponda al mapa. Este es el modo estándar que se puede reproducir en todo momento.. 
-* **Large \(128\):** Este modo está diseñado para rondas más largas de 2 horas y, por lo general, contiene todos los assets de la modo estándar con pequeñas variaciones y un mayor número de tickets..
+* **Infantry  \(16\):** Esta capa consiste en su mayoría de vehículos de transporte, como objetivo principal el combate entre infantería..
+* **Alternative \(32\):** Esta capa es usado por los mappers para crear únicas configuraciones, que pueden incluir ambientes de noche, una diferente distribución de banderas, facciones alternativas o una mezcla de assets de los tipos de juegos de infantería y estándar.
+* **Standard \(64\):** Esta capa generalmente involucra todo el mapa y todos los assets, según corresponda al mapa. Este es la capa estándar que se puede reproducir en todo momento.. 
+* **Large \(128\):** Esta capa está diseñado para rondas más largas de 2 horas y, por lo general, contiene todos los assets de la capa estándar con pequeñas variaciones y un mayor número de tickets..
 
 ## _Advance and Secure \(AAS\)_ {#advance-and-secure}
 
