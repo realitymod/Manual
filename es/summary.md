@@ -19,7 +19,7 @@
   * [Insurgency](game_modes.md#insurgency)
 * [Conseptos Basicos](the_basics.md)
   * [Selección de Kits y como Spawnar](the_basics.md#kit-selection-and-spawning)
-  * [Interfaz del Juego HUD](the_basics.md#hud)
+  * [Interfaz del Juego](the_basics.md#hud)
   * [Control de Daño y Salud](the_basics.md#health-management)
   * [Muninición](the_basics.md#ammunition)
   * [Logística](the_basics.md#logistics)
