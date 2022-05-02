@@ -131,7 +131,7 @@ Para poder rearmarte, deberás acercarte a una de varias fuentes de munición, q
 
 * **Bolsas de Munición** - Estos se pueden encontrar en los kits de fusilero, militante, guerrero y algunos insurgentes y deben ser arrojados \(click izquierdo\) al suelo, para que usted u otros soldados puedan rearmarse, o en estructuras desplegables \(tow, aa, morteros\) para recargarlos. 
 * **Cajas de Munición** - Lanzadas por vehículos, APCs and IFVs.
-* **Cajas de Suministros Livianas/Pesadas** - Más información en la [siguiente sección](the_basics.md#crates).
+* **Cajas de Suministros Ligeras/Pesadas** - Más información en la [siguiente sección](the_basics.md#crates).
 * **Caches \(Alijos de Armas\)** - Disponible solo para insurgentes.
 * **Deposito de Vehículo** - Presente en todas las bases principales, también te cura.
 
@@ -162,8 +162,8 @@ Las diversas armas disponibles en PR requieren diferentes cantidades de puntos d
 
 | **Tipo** | **Costos de Puntos de Suministros** |
 | --- | --- |
-| **Anti-Tank x1** | 70 |
-| **Anti-Tank x2** | 140 |
+| **Anti-tanque x1** | 70 |
+| **Anti-tanque x2** | 140 |
 | **Flare** | 60 |
 | **Fragmentación baja capacidad** | 80 |
 | **Fragmentación alta capacidad** | 120 |
@@ -198,7 +198,7 @@ Las diversas armas disponibles en PR requieren diferentes cantidades de puntos d
 | **Mina Anti-personel x3** | 210 |
 | **Mina convencional** | 210 |
 | **Mina insurgente** | 160 |
-| **IED liviano** | 60 |
+| **IED ligero** | 60 |
 | **IED pesado** | 80 |
 | **Misil anti-aereo x1** | 100 |
 | **Misil anti-aereo x2** | 170 |
@@ -220,7 +220,7 @@ La cantidad de puntos de suministro para las fuentes de suministro son:
 
 * **Bolsas de Munición** : 200 (solo contarán para 43 puntos de suministro cuando las utilice un emplazamiento de activos como un TOW o un mortero, por ejemplo)
 * **Cajas de Munición** : 450
-* **Caja de Suministros Liviana** : 1500
+* **Caja de Suministros Ligera** : 1500
 * **Cajas de Suministros Pesada** : 3000
 
 {% note %}
@@ -231,36 +231,36 @@ Además, si no te estás rearmando, confirma que las cajas de suministros ligero
 
 
 
-### _Supply Crates_ {#crates}
+### _Cajas de Suministros_ {#crates}
 
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heave Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.\)](the_squad_leader.md#deployable-structures)
+Hay dos tipos de cajas de suministro en PR: BF2: caja de suministro ligera y caja de suministro pesada. Si bien ambos permiten reabastecer a los jugadores y construir implementables, una caja ligera es el equivalente a la mitad de la caja de suministros pesadas, lo que significa que necesitará 2 cajas de suministros ligeros donde solo se necesita 1 caja de suministros pesadas. Para obtener más información sobre emplazamientos desplegables, [Ver Estruturas Desplegables.\)](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
-Here you can see the heavy supply crate on the left and the light version on the right.
+Aquí puedes ver la caja de suministros pesadas a la izquierda y la versión ligera a la derecha.
 {% endfigure %}
 
-Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 200 points, with light crates having 1500 \(7x kits\) and heavy ones 3000 \(14x kits\).
+Al igual que con el rearme, solicitar kits agotará las cajas de suministros. Cada kit costará 200 puntos, siendo las cajas ligeras\(7x kits\) y las pesadas 3000 \(14x kits\).
 
 {% note %}
-Requesting kits from a crate that does not have enought points will still grant you the kit but the crate will be destroyed in the process.
+Solicitar un kit de una caja que no tiene suficientes puntos aún le otorgará el kit, pero la caja se destruirá en el proceso.
 {% endnote %}
 
-Light Supply Crate can be transported by:
+La caja de suministro ligera puede ser transportada por:
 
-* Light Helicopters such as the Huey, Lynx and Zhi-9B \(One Crate\)
-* Transport trucks \(One Crate\)
+* Helicopteros de carga ligera como Huey, Lynx and Zhi-9B \(Una Caja\)
+* Camiones de Transporte \(Una Caja\)
 
-While, Heavy Supply Crate can be transported by:
+Mientras que la caja de suministros pesadas puede ser transportada por:
 
-* Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90 \(One Crate\)
-* Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22 \(Two Crates\)
-* Logistic trucks: \(Two Crates\)
+* Helicópteros de carga media como el Black Hawk, Mi-17 and NH-90 \(Una Caja\)
+* Helicópteros de carga pesada como el Chinook, Zhi-8KA and MV-22 \(Dos Cajas\)
+* Camiones Logísticos: \(Dos Cajas\)
 
-The ownership of the crate is depicted by the flag display on top of the crate.
+La propiedad de la caja está representada por la bandera que se muestra en la parte superior de la caja.
 
-### Repair Drop
+### Punto de Reparacion Desplegable
 
-Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
+Los camiones logísticos también tienen la capacidad de dejar una estación de reparación. Son necesarios para reparaciones de campo de vehículos que están muy dañados y no pueden moverse.
 
 {% figure "../assets/reapir.png" %}
 Repair drop.
