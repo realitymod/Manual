@@ -23,7 +23,7 @@
   * [Control de Daño y Salud](the_basics.md#health-management)
   * [Muninición](the_basics.md#ammunition)
   * [Logística](the_basics.md#logistics)
-  * [Puntuacion](the_basics.md#score)
+  * [Puntuación](the_basics.md#score)
   * [Morteros](the_basics.md#mortars)
   * [Puentes de Soporte CSB](the_basics.md#close-support-bridges)
   * [Navegación en el campo de Batalla](the_basics.md#battlefield-navigation)

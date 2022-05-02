@@ -65,167 +65,168 @@ Current map asset info overlay.
 Normal view of the game \(left\) and suppresion effect in action \(right\).
 {% endfigure %}
 
-* When a player is **dead,** he will not be not revivable and black screen with the words dead will be displayed instead of seeing their surroundings.
+* Cuando el jugador está **muerto,** y no pueda ser revivido la pantalla estará en negro con las palabras “MUERTO” y no podrás ver tu entorno ni a otros jugadores.
 * Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. To have an indication of this inaccuracy there is a **deviation indicator** right above the compass. The wider this indicator is, the more deviation you have. 
-* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted.
-* Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
-* **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
-* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
-* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
+* **El sistema automático para identificar** ha sido removido para la infantería, solo los vehículos aéreos pueden ser identificados al estilo de BF2.
+* Los Oficiales pueden enviar información de **contactos** al comandante o usar la radio para colocar manualmente marcas distintivas en el mapa para su equipo aliado. Soldados normales solo pueden gritar una advertencia local cuando estén a la vista unidades enemigas.
+* **El sub-menú del Radio \(teclas por defecto: Q & T\)** contiene elementos con 2 funciones, ejemplos: **“RECARGANDO / CESE EL FUEGO”** click izquierdo indicara a las personas a tu alrededor que estas cambiando de cargador y click derecho avisara un alto al fuego o dejar de disparar. El mismo principio se aplica a **“AVANCEN / RETROCEDAN”** y otras funciones del sub-menú.
+* Te puedes **orientar** en el mapa buscando los elementos alrededor o a tu icono de identificación.
+* Algunos equipos en particular o armas cuentan con **un sub-menú de la radio exclusiva.** Cuando sostienes un paquete medico puedes usar el sub-menú para decir “PRIMEROS AUXILIOS” para indicar a los jugadores cercanos que lo quieres sanar. Muchos equipos y armas utilizan esta clase de sub-menús exclusivos.
 
 {% figure "../assets/commorose.png" %}
 Commo-rose when pressing Q.
 {% endfigure %}
 
-## _Health Management_ {#health-management}
+## _Control de Daño y Salud_ {#health-management}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be audible and visual cues to warn you such as a bloody vision whilst coughing or screaming.
+Las armas en Project Reality son sumamente letales y sólo es cuestión de tiempo hasta que te disparen y empieces a sangrar. Aunque la interfaz en PR no contenga una barra de salud, una vez tu vida baje del 75% habrá señales visuales y audibles para avisarte, como visión roja acompañada de tos o gritos.
 
-### Healing
+### Curación
 
-If your injuries are not treated, you will slowly bleed to death. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health.
+Si tus heridas no son tratadas, te desangrarás lentamente hasta morir. Para evitarlo, tienes dos maneras de curarte. Casi todos los kits incluyen un **vendaje de campo** que se selecciona presionando la tecla apropiada o navegando por la selección de armas. Presionar el botón de disparo tira el vendaje al suelo. En un segundo o dos el vendaje de campo desaparecerá y el jugador que se encuentre al lado de este recuperará un 25% de su vida total.
 
-Since most kits only have one or two field dressings, a better way to regain health is to be treated by a medic. **Medics** are able to completely heal a player by using a **first aid kit** and can be called to your position by using the “Q” radio key and then selecting “Need Medic”. The medic will select the first aid kit by pressing the appropriate number key or cycling through their weapon selection. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+Ya que la mayoría de kits tienen sólo 1 o 2 vendajes de campo, una mejor manera de recuperar vida es ser tratado por un médico. **Los médicos** son capaces de curar por completo a un jugador usando un **kit de primeros auxilios** y se les puede llamar usando la “Q” y seleccionando “Necesito médico”. El médico seleccionará el kit de primeros auxilios pulsando la tecla numérica apropiada o navegando por la selección de armas. Sin embargo, al contrario que en el BF2, el médico no puede tirar el kit de primeros auxilios al suelo, tiene que sostenerlo en las manos, estar pegado al jugador que quiere curar, mantener pulsado el botón izquierdo del ratón. Un sonido simulando vendajes siendo rasgados indicará que los primeros auxilios están siendo aplicados. Curar a alguien completamente lleva unos 15 segundos, así que asegúrate de hacer esto en un lugar seguro.
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
 Field dressing, first aid kit & epipen.
 {% endfigure %}
 
-### Reviving
+### Resucitación
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but unlike in BF2, will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck , on uneven ground or in a bad position for reviving it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot to start dragging. You can drag in all directions including backwards. 
+Si no puedes ser curado a tiempo, te quedarás inconsciente y la pantalla dirá que has sido herido de gravedad. ¡Esto no significa que estés muerto! Cuando seas herido de gravedad un médico te puede resucitar en un periodo de hasta 5 minutos, ahorrándole al equipo valiosos tickets. Puedes usar el Mumble para coordinarte con el médico, usando el canal local  \(H\) o **en la radio de escuadron \(0 teclado numerico\).** Para resucitarte, el médico seleccionará la **epipen** de su selección de armas y con la epipen en la mano, administrará la dosis de epinefrina en el centro del torso del jugador inconsciente, haciendo click izquierdo y manteniéndolo pulsado. El jugador volverá a estar consciente pero al contrario que en el BF2, solo tendrá un 10% de la vida máxima, y necesitará curación. El médico y el jugador recién resucitado deberían encontrar una zona segura para continuar el proceso de curación ahí. Si el jugador está atascado \(dentro de un muro, de un árbol, etc.\) o en una mala posición para revivirlo, la opción de **drag \(mover o arrastrar\)** puede ayudar. Esto moverá el 
+cuerpo y puede que lo desatasque. Para arrastrar un cuerpo como médico, debes estar agachado y permanecerlo. Luego puedes usar la ranura de arma de arrastre para comenzar a arrastrar. Puede arrastrar en todas las direcciones, incluso hacia atrás.
 
 {{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
 
-### Death
+### Muerte
 
-Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, left click on **Give up/Call Medic** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
+A veces, los jugadores no podrán ser revividos, como cuando un jugador muere en un vehículo. Si fue revivido recientemente y vuelve a ser gravemente herido en 2 minutos, no podrá ser revivido la segunda vez. Si estás herido y no te reviven en 5 minutos, también morirás. Si no hay posibilidad de ser revivido, haz click izquierdo en **Give up/Call Medic \(Rendirse/Llamar médico\)** en la pantalla de respawn. Ahora, la pantalla mostrará que estás muerto y te podrás preparar para reaparecer. El tiempo que pases antes de darle al botón de rendirse \(give up\) cuenta para el total de tiempo de reaparición.
 
 ### Re-spawning
 
-A player's respawn time is at least 45 seconds and at most 60 seconds plus temporary penalties. Time spent while waiting for a medic is subtracted from that time. Once a player dies he has to wait at least 5 seconds before spawning. These actions influence the respawn time:
+El tiempo de reaparición de un jugador es como mínimo de 45 segundos y como muchos 60 segundos más las penalizaciones temporales. El tiempo que ha pasado esperando a un médico es restado a ese tiempo. Una vez que un jugador muere, tiene que esperar al menos 5 segundos antes de reaparecer. Estas acciones influyen el tiempo de reaparición:
 
-* Player death: **+3s**
-* Capturing CP or destroying objective: **-3s**
-* Doing a defensive action: **-1s**
-* Squad built forward outpost: **-10s**
+* Muerte del Jugador: **+3s**
+* Capturar un punto \(CP\) o destruir un objetivo: **-3s**
+* Realizar una accion defensiva: **-1s**
+* Construir un FOB con tu escuadron: **-10s**
 
-A temporary spawn time penalty which only affects the next time you die \(building up to 5 minutes\) is added by these actions:
+Un penalizador temporal al tiempo de reaparición que afecta sólo a la próxima vez que mueras \(hasta un máximo de 5 minutos\) es añadido por estas acciones:
 
-* Teamkill: **15 seconds per teamkill**
-* Suicide: **15 seconds**
-* Civilian getting captured: **90 seconds**
-* Civilian killed violating ROE: **120 seconds per civilian**
-* Own weapons cache destroyed: **300 seconds**
+* Teamkill \(matar a un aliado\): **15 segundos por teamkill**
+* Suicidarse: **15 segundos**
+* Ser capturado como civil: **90 segundos**
+* Matar a un civil violando las reglas de enfrentamiento ROE: **120 segundos por civil**
+* Destruir un cache \(alijo de armas\) aliado: **300 segundos**
 
-To select a spawn point, bring up the spawn map and select an applicable location. Once you’re happy with that spawn location, you must click on the **Done** button in the lower right corner of the map screen to re-spawn into the game. Just waiting for the timer to expire or hitting the &lt;enter&gt; key will not automatically respawn you. If you see a very large number on the timer, such as 5999, then you haven’t clicked Done.
+Para elegir un punto de regeneración, abre el mapa de spawns y selecciona una localización pertinente. Cuando estés satisfecho con ese punto de regeneración, deberás hacer click en **Done \(listo\)** en la esquina inferior derecha de la pantalla del mapa para reaparecer en la partida. Simplemente esperar a que el temporizador llegue a “0” o dándole a la tecla &lt;enter&gt; no te hará reaparecer automáticamente. Si ves un número muy grande en el temporizador, como 5999, es que no le has dado al botón listo.
 
-## _Logistics_ {#logistics}
+## _Logistica_ {#logistics}
 
-Whether your running low on ammunition and need to rearm, want a new kit or simply want to build deployables, logistics keep your team alive.
+Ya sea que te quedes sin municiones y necesites rearmarte, quieras un kit nuevo o simplemente quieras construir estructuras, la logística mantiene vivo a tu equipo.
 
-### _Ammunition_ {#ammunition}
+### _Munición_ {#ammunition}
 
-To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
+Para poder rearmarte, deberás acercarte a una de varias fuentes de munición, que luego recargará automáticamente tus armas. Estas fuentes son:
 
-* **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables \(tow, aa, mortars\) to rearm them. 
-* **Ammo boxes** - Dropped by light transported vehicles, APCs and IFVs.
-* **Light/Heavy supply crates** - More information in the [next section](the_basics.md#crates)
-* **Weapons caches** - Available only for insurgents
-* **Vehicle depot** - Present in all main bases, it also heals you
+* **Bolsas de Munición** - Estos se pueden encontrar en los kits de fusilero, militante, guerrero y algunos insurgentes y deben ser arrojados \(click izquierdo\) al suelo, para que usted u otros soldados puedan rearmarse, o en estructuras desplegables \(tow, aa, morteros\) para recargarlos. 
+* **Cajas de Munición** - Lanzadas por vehículos, APCs and IFVs.
+* **Cajas de Suministros Livianas/Pesadas** - Más información en la [siguiente sección](the_basics.md#crates).
+* **Caches \(Alijos de Armas\)** - Disponible solo para insurgentes.
+* **Deposito de Vehículo** - Presente en todas las bases principales, también te cura.
 
 {% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
 Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
 {% endfigure %}
 
-Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
-The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
+Tenga en cuenta que, con la excepción de **Caches** y **Deposito de Vehículos** todas las demás fuentes de munición son **limitadas**. Eventualmente, estas fuentes se agotarán y desaparecerán. Incluso es posible que las fuentes de munición se agoten antes de que estés completamente rearmado.
+**Bolsas de Munición**, **Cajas de Munición** y **Cajas de Suministros** usan **Puntos de Suministros** para determinar cuánto tiempo se pueden usar. Puede encontrar los puntos de suministro restantes de **Cajas de Suministros** y **Cajas de Munición** mirándolos por un segundo. Entonces aparecerá junto a la brújula.
+Las diversas armas disponibles en PR requieren diferentes cantidades de puntos de suministro para ser repuestas. Los artículos de utilidad como el gancho de agarre, las bengalas y los vendajes de campo cuestan menos para reabastecerse por uso que los artefactos explosivos como cohetes/misiles antitanque, granadas de fragmentación y minas. Consulte las tablas a continuación para conocer el costo de reabastecimiento de la categoría y el tipo de arma correspondiente:
 
-**Firearms**
+**Armas de Fuego**
 
-| **Type** | **Supply points cost** |
+| **Tipo** | **Costos de Puntos de Suministros** |
 | --- | --- |
-| **Pistols low capacity** | 15 |
-| **Pistols high capacity** | 30 |
-| **PDW** | 30 |
+| **Pistolas de baja capacidad** | 15 |
+| **Pistolas de alta capacidad** | 30 |
+| **PDW \(arma de defensa personal\)** | 30 |
 | **SMG** | 45 |
-| **Shotgun primary** | 50 |
-| **Shotgun breacher** | 25 |
+| **Escopeta primaria** | 50 |
+| **Escopeta del breacher** | 25 |
 | **Rifle** | 60 |
 | **Sniper** | 40 |
 | **LMG** | 150 |
 | **GPMG** | 200 |
 
-**Grenade Launcher**
+**Lanza Granadas**
 
-| **Type** | **Supply points cost** |
+| **Tipo** | **Costos de Puntos de Suministros** |
 | --- | --- |
 | **Anti-Tank x1** | 70 |
 | **Anti-Tank x2** | 140 |
 | **Flare** | 60 |
-| **Fragmentation low capacity** | 80 |
-| **Fragmentation high capacity** | 120 |
-| **Smoke** | 60 |
+| **Fragmentación baja capacidad** | 80 |
+| **Fragmentación alta capacidad** | 120 |
+| **Smoke/Humo** | 60 |
 
-**Items & Utilities**
+**Articulos y Utilidades**
 
-| **Type** | **Supply points cost** |
+| **Tipo** | **Costos de Puntos de Suministros** |
 | --- | --- |
-| **Ammo box** | 200 |
-| **C4 low capacity** | 45 |
-| **C4 high capacity** | 75 |
-| **Tripflare** | 20 |
-| **Grappling hook** | 40 |
+| **Bolsa de Munición** | 200 |
+| **C4 baja capacidad** | 45 |
+| **C4 alta capacidad** | 75 |
+| **Tripflare/granada de vengala** | 20 |
+| **Gancho de breacher** | 40 |
 | **Epipen** | 60 |
-| **Field dressing x1** | 30 |
-| **Field dressing x3** | 75 |
-| **Field dressing x6** | 120 |
-| **Field dressing x12** | 180 |
+| **Vendaje x1** | 30 |
+| **Vendaje x3** | 75 |
+| **Vendaje x6** | 120 |
+| **Vendaje x12** | 180 |
 
-**Heavy ordnance & munitions**
+**Artillería pesada y municiones**
 
-| **Type** | **Supply points cost** |
+| **Tipo** | **Costos de Puntos de Suministros** |
 | --- | --- |
-| **Fragmentation grenade x1** | 60 |
-| **Fragmentation grenade x2** | 120 |
-| **Fragmentation grenade x4** | 240 |
-| **Smoke grenade low capacity** | 40 |
-| **Smoke grenade high capacity** | 60 |
-| **Signal smoke grenade** | 30 |
-| **Anti-personel mine x2** | 140 |
-| **Anti-personel mine x3** | 210 |
-| **Conventional mine** | 210 |
-| **Insurgent mine** | 160 |
-| **Light IED** | 60 |
-| **Heavy IED** | 80 |
-| **Anti-air missile x1** | 100 |
-| **Anti-air missile x2** | 170 |
-| **Light anti-tank x1** | 70 |
-| **Light anti-tank x2** | 140 |
-| **Light anti-tank x3** | 210 |
-| **Light anti-tank x4** | 280 |
-| **Medium anti-tank x1** | 80 |
-| **Medium anti-tank x2** | 160 |
-| **Medium anti-tank x3** | 240 |
-| **Heavy anti-tank x1** | 90 |
-| **heavy anti-tank x2** | 180 |
-| **Guided anti tank** | 120 |
+| **Granada de fragmentación x1** | 60 |
+| **Granada de fragmentación x2** | 120 |
+| **Granada de fragmentación x4** | 240 |
+| **Granada de humo de baja capacidad** | 40 |
+| **Granada de humo de alta capacidad** | 60 |
+| **SGranada de humo de señal** | 30 |
+| **Mina Anti-personel x2** | 140 |
+| **Mina Anti-personel x3** | 210 |
+| **Mina convencional** | 210 |
+| **Mina insurgente** | 160 |
+| **IED liviano** | 60 |
+| **IED pesado** | 80 |
+| **Misil anti-aereo x1** | 100 |
+| **Misil anti-aereo x2** | 170 |
+| **Anti-tanque ligero x1** | 70 |
+| **Anti-tanque ligero x2** | 140 |
+| **Anti-tanque ligero x3** | 210 |
+| **Anti-tanque ligero x4** | 280 |
+| **Anti-tanque mediano x1** | 80 |
+| **Anti-tanque mediano x2** | 160 |
+| **Anti-tanque mediano x3** | 240 |
+| **Anti-tanque pesado x1** | 90 |
+| **Anti-tanque pesado x2** | 180 |
+| **Anti-tanque guiado** | 120 |
 
-Note that on a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
+Tenga en cuenta que en un servidor local, el sistema de reabastecimiento no funcionará como se describe. Cada ranura de arma requerirá 100 puntos de suministro para recargar independientemente del tipo de artículo.
 
-Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
-The amount of supply points for the supply sources are:
+Solicitar un kit cuesta 200 puntos de suministro. Tenga en cuenta que volver a armar una bolsa de munición en, por ejemplo, una caja de munición o una caja de suministros ligeros/pesados costará tantos puntos como proporciona (200).
+La cantidad de puntos de suministro para las fuentes de suministro son:
 
-* **Ammo bags** : 200 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
-* **Ammo boxes** : 450
-* **Light supply crates** : 1500
-* **Heavy supply crates** : 3000
+* **Bolsas de Munición** : 200 (solo contarán para 43 puntos de suministro cuando las utilice un emplazamiento de activos como un TOW o un mortero, por ejemplo)
+* **Cajas de Munición** : 450
+* **Caja de Suministros Liviana** : 1500
+* **Cajas de Suministros Pesada** : 3000
 
 {% note %}
-Resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the ammount of ammo you need to ressuply. 
+El reabastecimiento **no es instantáneo**pero toma unos segundos, dependiendo de la fuente de munición y de la cantidad de munición que necesitas para reabastecerte.
 
-Additionally if you're not rearming, confirm that the Light/Heavy supply crates is indeed yours, rearming from **enemy supply crates** is not possible.
+Además, si no te estás rearmando, confirma que las cajas de suministros ligeros/pesados son realmente tuyas, el rearme desde **Cajas de Suministros Enemigas** no es posible.
 {% endnote %}
 
 
