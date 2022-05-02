@@ -2,7 +2,7 @@
 
 Primeramente deberás  **nirte a un escuadron.**. Algunos servers te pueden forzar a hacerlo al expulsarte después de un periodo de advertencia. El juego es de lejos mucho más jugándolo con una patrulla funcional. Si necesitas ayuda, **solo pregunta a los jugadores de tu escuadron** que hacer. En la medida de lo posible, usa Mumble. Es comúnmente usado en PR. Al jugar PR: BF2 sin un micrófono no vivirás la máxima experiencia, así que es una inversión sabia. Si nadie responde, trata de unirte a otra patrulla o usar el chat general. Hay muchos miembros de la comunidad que están dispuestos a echarles una mano a los nuevos jugadores. Puedes jugar primero BF2 a modo de tutorial para familiarizarte con la interfaz. Este manual se centrará en las diferencias con BF2.
 
-## _Selección de Kits y como Spawnar_ {#kit-selection-and-spawning}
+## _Selección de Kits y Spawn_ {#kit-selection-and-spawning}
 
 *	Cuando empieces a jugar, se recomienda que solo aparezcas como fusilero con la mira de tu elección. De esta manera podrás aprender mejor los fundamentos básicos del juego.
 *	Después de aprender las bases de la infantería, podrás pedirle a tu SL que te asigne un kit especializado cuando te sientas preparado para la tarea. Si quieres probar nuevo equipamiento o vehículos, podrás hacerlo en el modo coop sin causarle percances a tu patrulla arriesgando los assets del equipo..
@@ -11,7 +11,7 @@ Primeramente deberás  **nirte a un escuadron.**. Algunos servers te pueden forz
 
 En PR: BF2 no puedes reaparecer en cada punto de control de tu equipo. Los puntos de respawn disponibles son:
 
-* **El Rally Point de tu escuadrón \(RP\)** es un círculo verde que rodea un punto de generación con el número de tu escuadrón junto a él. Dependiendo de la ubicación del RP de tu escuadrón en relación con el FOB de un equipo, se determinará su longevidad. Nota: si apareces en el punto de reunión de otro escuadrón, aparecerás automáticamente en tu propio punto de reunión o en cualquier FOB cercano. Si no hay ninguno disponible, será trasladado a la base principal de su equipo. Si es invadido por el enemigo, el RP de tu escuadrón desaparecerá. Los RP solo están disponibles para las fuerzas convencionales. [\Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)
+* **El Rally Point de tu escuadrón \(RP\)** es un círculo verde que rodea un punto de generación con el número de tu escuadrón junto a él. Dependiendo de la ubicación del RP de tu escuadrón en relación con el FOB de un equipo, se determinará su longevidad. Nota: si apareces en el punto de reunión de otro escuadrón, aparecerás automáticamente en tu propio punto de reunión o en cualquier FOB cercano. Si no hay ninguno disponible, será trasladado a la base principal de su equipo. Si es invadido por el enemigo, el RP de tu escuadrón desaparecerá. Los RP solo están disponibles para las fuerzas convencionales. [\(Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/rally.png" %}
   A rallypoint.
@@ -19,8 +19,8 @@ En PR: BF2 no puedes reaparecer en cada punto de control de tu equipo. Los punto
 
 * **Rally points del equipo especiales del mapa:** Usualmente expiran 5 minutos después de empezada la partida y pueden ser utilizados por todo el equipo. Estos también solo permiten spawnar un máximo de 12 personas hasta que desaparezca.
 * **Comander Rally Point:**. Este RP solo puede ser colocado por el comandante del equipo, siempre que algunos líderes de patrulla estén cerca de él. En el mapa este  rally point tendrá una letra “C” adjunto.
-* **Base de Operaciones Desplegable \(FOB\) o hideouts \(Escondites\):** Pueden ser utilizado por todo el equipo para regenerarse, pero debe construirse antes de que esté operativo. En el mapa se mostrará como un punto de generación con un triángulo verde. Se habilita 90 segundos después de ser construido. No se puede dar spawn durante 30 segundos si 1 enemigo está dentro de los 10 m, 2 enemigos dentro de los 50m, 4 enemigos dentro de los 100m u 8 enemigos dentro de los 150m. [\(Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)
-* En el modo Insurgencia, el equipo insurgente defensor puede aparecer **en el alijo \(cache\)** ue no hayan sido revelado al enemigo, este es el llamado alijo desconocido o alijo violeta. Este respawn también se desactiva si los enemigos se acercan similar al de la FOB.
+* **Base de Operaciones Desplegable \(FOB\) o Hideouts \(Escondites\):** Pueden ser utilizado por todo el equipo para regenerarse, pero debe construirse antes de que esté operativo. En el mapa se mostrará como un punto de generación con un triángulo verde. Se habilita 90 segundos después de ser construido. No se puede dar spawn durante 30 segundos si 1 enemigo está dentro de los 10 m, 2 enemigos dentro de los 50m, 4 enemigos dentro de los 100m u 8 enemigos dentro de los 150m. [\(Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)
+* En el modo Insurgencia, el equipo insurgente defensor puede aparecer **en el alijo \(cache\)** que no hayan sido revelado al enemigo, este es el llamado alijo desconocido o alijo violeta. Este respawn también se desactiva si los enemigos se acercan similar al de la FOB.
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
 FOB, Hideout & weapon cache.
@@ -28,21 +28,21 @@ FOB, Hideout & weapon cache.
 
 
 
-* **Cuarteles General, base principal o FOB permanente:** Son el único punto respawn y reaparición que siempre estará disponibles.
+* **Cuarteles General, Base principal o FOB permanente:** Son el único punto respawn y reaparición que siempre estará disponibles.
 
 {% figure "../assets/acv.png" %}
 Armored Command Vehicle \(ACV\) se encuentra en las bases principales solamente.
 {% endfigure %}
 
-* Algunos mapas cuentan con **spawns de paracaídas** donde se simula un asalto aéreo. Estos se visualizarán moviendo los marcadores de generación en el minimapa. Elige uno y aparecerás con un paracaídas desplegado automáticamente.
+* Algunos mapas cuentan con **spawns de paracaídas** donde se simula un asalto aéreo. Estos se visualizarán moviendo los marcadores de spawns en el minimapa. Elige uno y aparecerás con un paracaídas desplegado automáticamente.
 
 ## _Interfaz del Juego \(HUD\)_ {#hud}
 
 * En el HUD de PR: BF2 los jugadores son notificados por  **mensajes específicos para el jugador** que solo pueden ser vistos por ese jugador. Son usados para darle al jugador una respuesta sobre diferentes eventos dentro del juego. Por ejemplo:
   * La razón por la cual al jugador no se le da el kit que solicitó.
   * La razón por la cual el asset desplegable que el jugador solicitó no puede ser construido.
-  * -	El jugador debe salir del vehículo o posición actual para evitar ser castigado.
-* PR también usa **Notificaciones HQ** que se muestran como oraciones largas en la parte superior izquierda de la pantalla. Estas notificaciones te dan novedades respecto a los objetivos actuales, progreso de misión y otros mensajes esenciales..
+  * El jugador debe salir del vehículo o posición actual para evitar ser castigado.
+* PR también usa **Notificaciones HQ** que se muestran como oraciones largas en la parte superior izquierda de la pantalla. Estas notificaciones te dan novedades respecto a los objetivos actuales, progreso de misión y otros mensajes esenciales.
 * Las **miras del arma** han sido eliminadas de la pantalla. Si quieres disparar precisamente necesitaras apretar la tecla alternativa de disparo para apuntar con la mira de tu arma, o usar el BUIS para combates a cortas distancias [\(Ver Cambio de Mira\)](weapons_and_equipment.md#buis).
 * **Los tags con el nombre de los jugadores han sido eliminados** para todos los jugadores. Es de vital importancia que identifiques a tus blancos antes de disparar para evitar fuego amigo. Aprender las diferencias en el camuflaje, banderas  y el perfil de las facciones de infantería te ayudará a identificarlos más rápido. Por ejemplo, para reconocer al líder de patrulla, busca la antena de la radio sobresaliendo de su mochila.
 * **No hay barra indicadora de salud** indicando tu estado. Cuando pierdes más del 25% de tu salud, verás un efecto de visión de túnel negro que empeora cuanto más salud pierdes, a la vez que escuchas sonidos de dolor. Continuaras perdiendo salud al desangrarte hasta que recibas atención médica, de lo contrario morirás. Si tu salud baja a niveles muy bajos la pantalla perderá color, tu visión se volverá nula y no podrás correr. Tendrás unos pocos minutos para recibir atención médica antes de morir..
@@ -59,7 +59,7 @@ Current map asset info overlay.
 {% endfigure %}
 
 * **Los tickets restantes** de tu equipo y el tiempo restante solo se ven en la pantalla de la patrulla. Los tickets de los enemigos no se visualizan..
-* **La Supresión**sucede cuando se estas bajo fuego por rifles, armas pesadas o explosiones cercanas. La pantalla se pondrá algo oscura  y borrosa. Este efecto simula la poca capacidad que se tiene para devolver el fuego de manera precisa al ser suprimido por el enemigo.
+* **La Supresión** sucede cuando se estas bajo fuego por rifles, armas pesadas o explosiones cercanas. La pantalla se pondrá algo oscura  y borrosa. Este efecto simula la poca capacidad que se tiene para devolver el fuego de manera precisa al ser suprimido por el enemigo.
 
 {% figure "../assets/suppresion.png" %}
 Normal view of the game \(left\) and suppresion effect in action \(right\).
