@@ -121,7 +121,7 @@ Un penalizador temporal al tiempo de reaparición que afecta sólo a la próxima
 
 Para elegir un punto de regeneración, abre el mapa de spawns y selecciona una localización pertinente. Cuando estés satisfecho con ese punto de regeneración, deberás hacer click en **Done \(listo\)** en la esquina inferior derecha de la pantalla del mapa para reaparecer en la partida. Simplemente esperar a que el temporizador llegue a “0” o dándole a la tecla &lt;enter&gt; no te hará reaparecer automáticamente. Si ves un número muy grande en el temporizador, como 5999, es que no le has dado al botón listo.
 
-## _Logistica_ {#logistics}
+## _Logística_ {#logistics}
 
 Ya sea que te quedes sin municiones y necesites rearmarte, quieras un kit nuevo o simplemente quieras construir estructuras, la logística mantiene vivo a tu equipo.
 
@@ -266,63 +266,67 @@ Los camiones logísticos también tienen la capacidad de dejar una estación de 
 Repair drop.
 {% endfigure %}
 
-## _Score_ {#score}
+## _Puntuación_ {#score}
 
-A player's score is divided in teamwork points and individual points. It speaks for itself that doing team related activities \(building, driving vehicles, defending/attacking flags\) contribute to the first and individual actions \(killing players\) contribute to your personal score.
+La puntuación de un jugador se divide en puntos de trabajo en equipo y puntos individuales. Logicamente que las actividades relacionadas con el equipo \(construir, conducir vehículos, defender/atacar banderas\) contribuyen a la primera y las acciones individuales \(matar jugadores\) contribuyen a tu puntuación personal.
 
-The total score of a player can never go below 0 but the teamwork score can become negative. There are also score multipliers for when you are for example in a vehicle or a squad leader. Here are some other score additions and deductions. These are not all but give you a good idea on what you can achieve.
+La puntuación total de un jugador nunca puede bajar de 0, pero la puntuación del trabajo en equipo puede volverse negativa. También hay multiplicadores de puntuación para cuando estás, por ejemplo, en un vehículo o como líder de escuadrón. A continuación se mencionan algunas de las acciones que suman o restan puntos. Estos no son todos, pero te dan una buena idea de lo que puedes lograr.
 
-* Capturing a civilian: **+100**
-* Killing a civilian \(outside ROE\): **-100**
-* Destroying your own objective: **-100**
-* Destroying enemy objective: **+150**
+* Capturar un civil: **+100**
+* Matar un civil \(incumpliendo el ROE\): **-100**
+* 	Destruir un objetivo aliado: **-100**
+* Destruir un objetivo enemigo: **+150**
 
-## _Mortars_ {#mortars}
+## _Morteros_ {#mortars}
 
-A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km.
+Una posición fija de mortero puede proveer apoyo con fuego indirecto a largas distancias. Todas las facciones pueden usar proyectiles de explosivos de alto poder \(HE\). Las fuerzas convencionales y la milicia pueden usar proyectiles de explosión aérea \(air-burst\) y proyectiles de humo. Los morteros no pueden ser construidos en mapas más pequeños de 2km.
 
-* **High Explosive \(HE\)** \(press **1** to select\): Most common type of mortar round. Does the most damage directly to the target. Ideal for light armored targets and emplacements.
-* **Airburst** \(press **2** to select\): Explodes in the air above the ground. Covers a larger area but does less damage overall. Ideal for engaging infantry inside buildings and on uneven terrain.
+* **Explosivos de alto poder \(HE\)** \(presiona **1** para seleccionarlo\):Los proyectiles más comunes. Infligen la mayor cantidad de daño directamente al objetivo. Ideales para objetivos con blindaje ligero y emplazamientos.
+* **Explosión aérea \(Air-burst\)** \(presiona **2** para seleccionarlo\): Este proyectil explota en el aire sobre el terreno, cubre un área mayor, pero inflige menos daño en general. Ideal para infantería que se encuentre en el interior de un edificio o en un terreno irregular.
 
-Once mortars are needed you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure you SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. There are both Air-Burst and Impact rounds available that share ammunition.
+Cuando los morteros hagan falta puedes usar la calculadora del mortero \(presiona **3 o 4** para seleccionar)\).La distancia al objetivo, y la diferencia de elevación se pueden introducir en la calculadora haciendo click en los números en los campos de **“Distancia \(Range\)”** y **“Elevacion \(Height\)”** Para obtener el rango, asegúrese de que el marcador de SL esté en el objetivo, luego abra el mapa y encontrará el rango debajo del mapa. Una vez que haya terminado, simplemente haga clic en el botón **“Calcular”** para mostrar la elevación del cañón requerida. La elevación se puede ajustar con las teclas W y S mientras que la desviación se cambia con las teclas A y D. Cuando se establezcan ambos valores, simplemente seleccione las rondas requeridas y dispare. Hay rondas Air-Burst e Impact disponibles que comparten municiones.
 
 {% figure "../assets/mortars.png" %}
-The mortar calculator interface.
+Interfaz de la calculadora del mortero.
 {% endfigure %}
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
+## _Puentes de Soporte \(CSB\)_ {#close-support-bridges}
 
-When in need to cross small rivers or damaged bridges, conventional forces can deploy CSBs using their logistic trucks - which carries two of them. In Project Reality CSBs can only be used to fill the gaps of destroyed bridges and in predetermined locations identified by \(obvious\) small heaps of sand positioned across a natural obstacle, like a river.
+Cuando es necesario cruzar ríos pequeños o puentes dañados, las fuerzas convencionales pueden desplegar CSB utilizando sus camiones logísticos, que transportan dos de ellos. En Project Reality, los CSB solo se pueden usar para llenar los huecos de los puentes destruidos y en ubicaciones predeterminadas identificadas por \(obvios\) pequeños montones de arena colocados a través de un obstáculo natural, como un río.
 
 {% note %}
-CSBs are very narrow, so drive carefully when crossing them.
+Los CSBs son muy angostos, así que maneje con cuidado al cruzarlos.
 {% endnote %}
 
-The deployment process for CSBs is very simple: 1. Drive a logistics truck to the position where the CSB will be deployed. 2. Position the front or back of the truck as close as possible to the deployment position. 3. Select the CSB as active equipment of the truck. 4. Press alternate fire to deploy the bridge.
+El proceso de despliegue de los CSB es muy simple: 
+1. Conduzca un camión de logística hasta el lugar donde se desplegara el CSB. 
+2. Coloque la parte delantera o trasera del camión lo más cerca posible de la posición de despliegue. 
+3. Seleccione el CSB como equipo activo del camión. 
+4. Presiona fuego alternativo \(click derecho\]) para desplegar el puente.
 
 {{ "Video Tutorial - CSB Deployment" | youtube("Vn66KbNrVJA") }}
 
 {% figure "../assets/csb.png" %}
-CSB from truck being deployed.
+CSB del camión que se está desplegando.
 {% endfigure %}
 
-In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
+En algunos casos, se requieren varios CSB para abarcar la distancia completa. En tales situaciones, debe conducir hasta el final del puente incompleto e implementar un nuevo CSB y repetir hasta el final.
 
-## _Battlefield Navigation_ {#battlefield-navigation}
+## _Navegación en el campo de Batalla_ {#battlefield-navigation}
 
-It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and team coordination also requires players to communicate locations in a clear and concise manner. PR:BF2 offers 4 tools to aid players with this.
+Es muy fácil perderse en los grandes mapas de PR: BF2. El ritmo y la coordinación del equipo requiere que los jugadores comuniquen lugares de una manera clara y concisa, PR: BF2 ofrece 4 herramientas para ayudar a los jugadores con esto.
 
-1. Squad leaders can use their **squad order marker** to communicate locations to their squad and the commander. The direction to the marker is indicated by a chevron above the compass. If you are within 75m of the marker you'll also see a 3D icon which shows the location in front of you. The marker will also be visible on the map.
+1. Los líderes de patrulla pueden usar la **marca de orden** para comunicar lugares/objetivos a la patrulla y al comandante.La dirección del marcador está indicada por una “V” (cheurón) en la brújula. Si la marca está dentro de los 75m podrás ver un icono 3D mostrando la ubicación frente a ti. La marca será visible en el mapa.
 
 {% figure "../assets/target.png", "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
-Targe, build, observe, defend, demolish and move marker, respectively.
+Atacar7Objetivo, Construir, Observar, Defender, Demoler y Marca de Movimiento , respectivamente.
 {% endfigure %}
 
-1. A **precision degree compass** to the bottom central area of your screen. The compass can be used to give exact bearings of nearby spotted enemies. **The 8 Cardinal Directions** are clearly indicated along with the degree bearing labels which incrementally increase every 15° with major divisions every 5°. If you just want to communicate a general direction it is best practice to say the cardinal direction, followed by the degree and in some situations the distance if appropriate. For example _**“Enemy spotted NE 75° degrees 200 meters out”**_**.**
-   * If the target is visually in line with a numbered bearing on your compass when you are facing that direction, you simply communicate that number.
-   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png)
-2. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
-3. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
+1. Una **brújula precisa marcada con grados** en el área central inferior de su pantalla. La brújula se puede usar para dar orientaciones exactas de los enemigos cercanos. **Las 8 direcciones cardinales** están claramente indicadas junto con las etiquetas de los grados que aumentan progresivamente cada 15° con divisiones principales cada 5°. Si solo desea comunicar una dirección general, es una buena práctica decir la dirección cardinal, seguida del grado y, en algunas situaciones, la distancia, si corresponde. Por ejemplo _**“Enemigo identificado Noreste  75° grados 200 metros”**_**.**
+   * Si el objetivo está dentro de la línea de visión cuando todos se enfrentan en la misma dirección simplemente comunica el número de grados.
+   *Recuerda que la separación entre cada línea de la brújula corresponde a 5°. Si el objetivo no está en un grado marcado calcula rápido con la etiqueta-guía más cercana y suma los grados correspondientes, ejemplo guía 75° + 5° = 80°. Objetivo a 80 grados.![](../assets/compass.png)
+2. Los mapas en PR: BF2 contienen  **cuadriculas marcadas con letras con subcuadros de referencia.**. Las marcas con letras están desde la parte superior izquierda del mapa, el mapa se divide en 169 cuadros empezando por “A1” en la esquina superior izquierda y termina con “M13” en la parte inferior derecha. Cada cuadro se divide en subcuadros  que están marcados del 1 al 9 en el orden del teclado numérico \(key pad/kp\) de la computadora. \(Arriba a la izquierda empezando con 7, 8, 9\). Puedes comunicar coordenadas tomando como referencia esta cuadricula completa, para una ubicación aproximada \(ejemplo D6\). o para una ubicación más precisa \(ejemplo D6-kp2\).  Por lo general estas coordenadas se usan para comunicarse objetivos o lugares importantes entre patrullas.Al usar Mumble se menciona la primera letra en referencia al alfabeto fonético. Las palabras son Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
+3. **La escala de cada cuadro** aparece en la esquina inferior derecha del mapa. Un mapa de 1km² indicara que el lado de cada cuadro representa 75m, 150m en 2km² y 300m en un  mapa de 4km². Se puede estimar fácilmente las distancias usando la cuadricula. En la pantalla del líder de patrulla aparece la distancia aproximada a la marca establecida  en el mapa en la parte inferior central.  
 
 
 {% figure "../assets/grid.png" %}

@@ -51,7 +51,7 @@
   * [Informaciones Generaless Sobre Vehículos](operating_vehicles.md#general-vehicle-information)
   * [Vehículos Blindados](operating_vehicles.md#armored-vehicles)
   * [Helicópteros](operating_vehicles.md#helicopters)
-  * [Aviones de COmbate](operating_vehicles.md#fixed-wing-aircraft)
+  * [Aviones de Combate](operating_vehicles.md#fixed-wing-aircraft)
   * [Sistema de Control de Tiro](operating_vehicles.md#fire-control-systems)
 * [EL Comandante](commander.md)
   * [Liderando las Tropas](commander.md#leading-the-troops)
