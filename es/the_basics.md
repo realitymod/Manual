@@ -2,7 +2,7 @@
 
 Primeramente deberás  **nirte a un escuadron.**. Algunos servers te pueden forzar a hacerlo al expulsarte después de un periodo de advertencia. El juego es de lejos mucho más jugándolo con una patrulla funcional. Si necesitas ayuda, **solo pregunta a los jugadores de tu escuadron** que hacer. En la medida de lo posible, usa Mumble. Es comúnmente usado en PR. Al jugar PR: BF2 sin un micrófono no vivirás la máxima experiencia, así que es una inversión sabia. Si nadie responde, trata de unirte a otra patrulla o usar el chat general. Hay muchos miembros de la comunidad que están dispuestos a echarles una mano a los nuevos jugadores. Puedes jugar primero BF2 a modo de tutorial para familiarizarte con la interfaz. Este manual se centrará en las diferencias con BF2.
 
-## _Selección de Kits y Spawn_ {#kit-selection-and-spawning}
+## _Selección de Kits y Re-spawn_ {#kit-selection-and-spawning}
 
 *	Cuando empieces a jugar, se recomienda que solo aparezcas como fusilero con la mira de tu elección. De esta manera podrás aprender mejor los fundamentos básicos del juego.
 *	Después de aprender las bases de la infantería, podrás pedirle a tu SL que te asigne un kit especializado cuando te sientas preparado para la tarea. Si quieres probar nuevo equipamiento o vehículos, podrás hacerlo en el modo coop sin causarle percances a tu patrulla arriesgando los assets del equipo..

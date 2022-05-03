@@ -1,80 +1,80 @@
 # Kits
 
-Kits in Project Reality define your class, equipment and your role in the team. PR features a wide selection of kits that you can take. Generally speaking, there are 2 kinds of kits in Project Reality:
+Los kits en Project Reality definen tu clase, armamento y tu rol en el equipo. PR cuenta con una amplia selección de kits que puedes usar. En términos generales, hay 2 tipos de kits en Project Reality:
 
-* **Standard Kits**, which are the standard infantry squad roles and can be selected directly from the spawn screen
-* **Specialist Kits**, which are more specialised roles and can only be obtained through a special [request procedure](kits.md#kit-request)
+* **Kits estándar**, que son los roles de escuadrón de infantería estándar y se pueden seleccionar directamente desde la pantalla de re-spawn.
+* **Kits de especialista**,que son funciones más especializadas y solo se pueden obtener a través de un [procedimiento de solicitub](kits.md#kit-request) especial.
 
-## _Where to start_ {#where-to-start}
+## _Como Iniciar_ {#where-to-start}
 
-As a new player, you should always join an infantry squad and take the **Rifleman** kit. The Rifleman represents the basic infantry grunt and can be used without restrictions by as many people as desired in a squad/team. All other kits are associated to more specialised roles and have rigid restrictions regarding the number of them that can be simultaneously used in a squad/team.
+Como jugador nuevo, siempre debes unirte a un escuadrón de infantería y llevar el kit **Rifleman/Fusilero**. El fusilero es el soldado básico de infantería y puede ser utilizado sin restricciones por tantas personas como se desee en un escuadrón/equipo. Todos los demás kits están asociados a roles más especializados y tienen restricciones estrictas con respecto a la cantidad de ellos que se pueden usar simultáneamente en un escuadrón/equipo.
 
-Due to these restrictions, and in order to avoid negatively affecting your team performance by misusing a limited kit, it is **strongly recommended that you start playing with the Rifleman kit**. As you get more experienced and learn the basics of infantry gameplay, if you feel up to the task, you can ask your Squad Leader to assign you a different role. In any case, **you should ALWAYS ask your Squad Leader before changing kits**.
+Debido a estas restricciones, y para evitar que el rendimiento de tu equipo se vea afectado negativamente por el uso indebido de un kit limitado, **se recomienda encarecidamente que empieces a jugar con el kit Rifleman**. A medida que adquiera más experiencia y aprenda los conceptos básicos del juego de infantería, si se siente preparado para la tarea, puede pedirle a su líder de escuadrón que le asigne un rol diferente. En cualquier caso, **debes preguntarle SIEMPRE a tu líder de escuadrón antes de cambiar de kit**.
 
-## _Standard Kits_ {#standard_kits}
+## _Kits Estandars_ {#standard_kits}
 
-The **Standard Kits** are the 7 kits shown in the spawn screen and they represent the roles that typically make an infantry squad. In the following table you can see an overview of the 7 standard kits as well as information regarding how many kits of this type can be in a single squad and how many people need to be in the squad in order to be able to spawn with them.
+Los **Kits Estandars** son los 7 kits que se muestran en la pantalla de re-spawn y representan los roles que normalmente conforman un escuadrón de infantería. En la siguiente tabla, puede ver una descripción general de los 7 kits estándar, así como información sobre cuántos kits de este tipo pueden estar en un solo escuadrón y cuántas personas deben estar en el escuadrón para poder hacer uso de ellos.
 
-| Kit | Limitation per squad | Minimum Squad Size |
+| Kit | Limite por Escuadron| Miembros Minimos en el Escuadron |
 | --- | --- | --- |
-| **Officer** | 1 | 2 |
-| **Medic** | 2 | 2 |
-| **Automatic Rifleman** | 1 | 3 |
+| **Officer/Oficial** | 1 | 2 |
+| **Medico** | 2 | 2 |
+| **Fusilero Aumtomatico** | 1 | 3 |
 | **Breacher** | 1 | 3 |
-| **Grenadier** | 1 | 6 |
-| **Light Anti-Tank** | 1 | 4 |
-| **Rifleman** | Unlimited | 1 |
+| **Granadero** | 1 | 6 |
+| **Anti-Tanque Ligero** | 1 | 4 |
+| **Fusilero** | Sin Limite | 1 |
 
-Having these limitations in mind, it can be said that the typical 8-man squad usually has the a composition of 1 of each of those kits but with 2 medics.
+Teniendo en cuenta estas limitaciones, se puede decir que el escuadron típico de 8 hombres suele tener una composición de 1 de cada uno de esos kits pero con 2 médicos.
 
-Note that each kit in the selection menu of the spawn screen has two buttons: **"Standard"** and **"Alternative"**. This is because there are two variants of each kit. Depending on the faction, this **typically affects the choice of optics** \(scope, reflex or none\), although in some cases, the Standard and Alternative variations simply come equipped with different weapons.
+Tenga en cuenta que cada kit en el menú de selección de la pantalla de generación tiene dos botones: **"Standard/STD"** and **"Alternative/ALT"**. Esto se debe a que hay dos variantes de cada kit. Dependiendo de la facción, esto **generalmente afecta la elección de la óptica** \(visor, réflex o ninguno\), aunque en algunos casos, las variaciones Estándar y Alternativa simplemente vienen equipadas con diferentes armas.
 
-Note as well that, for playability purposes, in addition to the squad limitations above, the **Grenadier** and the **Light Anti-Tank** kits are also limited to a maximum number of them per team, depending on the number of players:
-
-| Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
-| --- | --- | --- | --- | --- | --- |
-| **Light Anti-Tank** | 1 | 2 | 4 | 5 | 8 |
-| **Grenadier** | 1 | 2 | 4 | 5 | 8 |
-
-Here follow a more detailed explanation of each kit:
-
-* ![](../assets/rifleman.png)**Rifleman**. Unlimited kit, representing the standard infantry grunt. Typically, it is equipped with an assault rifle, fragmentation and smoke grenades. Lacking a specialized role, the rifleman is ideal for more aggressive positions and maneuvers. It is also the only class with an ammo bag, which allows him to resupply teammates.
-* ![](../assets/officer.png)**Officer**. Limited to 1 per squad and only available to the Squad Leader. In addition of the standard fighting equipment, this kit comes with a side weapon, an officer radio and binoculars. He can have direct voice communication with the other officers in the team, place markers on the map, build emplacements and fortifications, and request support missions \(artillery, mortar fire, armor or air support, etc\). You can find more detailed information about this crucial role in the [**Squad Leader**](../the_squad_leader.md#the_squad_leader) section of this manual.
-* ![](../assets/medic.png)**Medic**. Limited to 2 per squad. He is responisble of providing medical assitance in the battlefield, and therefore, it is one of the roles that affect squad performance the most. Battle-awareness and a survival instinct are essential for this role. In addition to an assault rifle, it comes equipped with several smoke grenades, a first-aid kit, epipens and field dressings. It is the only kit capable of dragging wounded teammates. 
-* ![](../assets/ar.png)**Automatic Rifleman \(AR\)**. Limited to 1 per squad. Equipped with a light machine gun, the Automatic Rifleman \(or AR\), is a less mobile and less versatile \(it has no frag grenades\) rifleman who provides, on the other hand, superior firepower. His speciality is an accurate and deadly suppressive fire, which is also very effective to restrict the movement of enemies.
-* ![](../assets/breacher.png)**Breacher**. Limited to 1 per squad. He is a demolition specialist who also acts as pointman in the breaching of buildings. His equipment includes an assault rifle, a grappling hook to climb over obstacles, a shotgun and a few loads of C4 explosive for tactic demolitions.
-* ![](../assets/at.png)**Light Anti-Tank \(LAT\)**. Limited to 1 per squad and to **8 per team**. The LAT is a rifleman equipped with an assault rifle and a handheld light anti-tank weapon system. His main role is to act as an ultra-light anti-tank element, with capacity to deter and neutralize light vehicles and vehicles with light armor. **It is however NOT effective against Heavy Armored Vehicles or Tanks.**
-* ![](../assets/grenadier.png)**Grenadier**. Limited to 1 per squad and to **8 per team**. Usually equipped with an underbarrel grenade launcher attached to its assault rifle. His main job is to hostigate low visibility areas where enemy presence is suspected as well as to harass light vehicles. It is specially useful for long distance engagements and to fight enemies digged up inside of buildings.
-
-## _Specialist Kits_ {#specialist_kits}
-
-In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others.
-
-It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described [below](kits.md#kit-request). Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
+Tenga en cuenta también que, por motivos de jugabilidad, además de las limitaciones de escuadrón anteriores, los kits **Granadero** y **Anti-Tanque Ligero** también están limitados a un número máximo de ellos por equipo, dependiendo del número de jugadores:
 
 | Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
 | --- | --- | --- | --- | --- | --- |
-| **Machine Gunner** | 1 | 2 | 3 | 3 | 4 |
-| **Marksman** | 1 | 2 | 3 | 3 | 4 |
-| **Anti-Personnel Rifleman** | 1 | 2 | 3 | 3 | 4 |
-| **Spotter** | 0 | 1 | 1 | 2 | 2 |
-| **Combat Engineer** | 0 | 1 | 1 | 2 | 2 |
-| **Anti-Air Rifleman** | 0 | 1 | 1 | 2 | 2 |
-| **Sniper** | 0 | 1 | 1 | 2 | 2 |
-| **Heavy Anti-Tank** | 0 | 1 | 1 | 1 | 1 |
+| **Anti-Tanque Ligero** | 1 | 2 | 4 | 5 | 8 |
+| **Granadero** | 1 | 2 | 4 | 5 | 8 |
 
-Due to the highly restricted nature of these kits, it is **strongly recommended** that new and unexperienced players **DO NOT** use them. If they do, they risk wasting and losing these crucial team assets, leaving the team in a notable disadvantage. **Remember to ALWAYS ask your Squad Leader before taking any of these kits**.
+Aquí sigue una explicación más detallada de cada kit:
 
-Here follows a more detailed description of each specialized kit:
+* ![](../assets/rifleman.png)**Rifleman/Fusilero**. Kit ilimitado, que representa el soldado de infantería estándar. Por lo general, está equipado con un rifle de asalto, granadas de fragmentación y de humo. Al carecer de un rol especializado, el fusilero es ideal para posiciones y maniobras más agresivas. También es la única clase con una bolsa de munición, lo que le permite reabastecer a sus compañeros de equipo.
+* ![](../assets/officer.png)**Officer/Oficial**. Limitado a 1 por escuadrón y solo disponible para el líder del escuadrón. Además del equipo de combate estándar, este kit viene con un arma secundaria, una radio de oficial y binoculares. Puede tener comunicación de voz directa con los demás oficiales del equipo, colocar marcadores en el mapa, construir emplazamientos y fortificaciones, y solicitar misiones de apoyo \(artillería, fuego de mortero, blindados o apoyo aéreo, etc\). Puede encontrar información más detallada sobre este rol crucial en la sección [**El Líder de Escuadrón**](../the_squad_leader.md#the_squad_leader) de este manual.
+* ![](../assets/medic.png)**Medico**. Limitado a 2 por escuadrón. Es el responsable de brindar asistencia médica en el campo de batalla, y por lo tanto, es uno de los roles que más afectan el desempeño del escuadrón. La conciencia de la batalla y el instinto de supervivencia son esenciales para este papel. Además de un rifle de asalto, viene equipado con varias granadas de humo, un botiquín de primeros auxilios, epipens y vendas. Es el único kit capaz de arrastrar a compañeros heridos. 
+* ![](../assets/ar.png)**Fusilero Automatico \(AR\)**. Limitado a 1 por escuadrón. Equipado con una ametralladora ligera, el Fusilero Automático \(o AR\), es un fusilero menos móvil y menos versátil que proporciona, por otro lado, una potencia de fuego superior \(no tiene granadas de fragmentación\) Su especialidad es un fuego de supresión preciso y letal, que también es muy efectivo para restringir el movimiento de los enemigos.
+* ![](../assets/breacher.png)**Breacher/Especialista**.Limitado a 1 por escuadrón. Es un especialista en demoliciones que también actúa como hombre clave en la ruptura de edificios. Su equipo incluye un rifle de asalto, un gancho para trepar obstáculos, una escopeta y algunas cargas de explosivo C4 para demoliciones tácticas.
+* ![](../assets/at.png)**Anti-Tanque Ligero \(LAT\)**. Limitado a 1 por escuadrón y a **8 por equipo**. El LAT es un fusilero equipado con un rifle de asalto y un sistema de armas antitanque ligero de mano. Su papel principal es actuar como elemento antitanque ultraligero, con capacidad para disuadir y neutralizar vehículos ligeros y vehículos con blindaje ligero. **Sin embargo, NO es efectivo contra vehículos blindados pesados o tanques.**
+* ![](../assets/grenadier.png)**Grenadier/Granadero**. Limitado a 1 por escuadróm y a **8 por equipo**. Por lo general, está equipado con un lanzagranadas debajo del cañón adjunto a su rifle de asalto. Su trabajo principal es albergar áreas de baja visibilidad donde se sospecha la presencia del enemigo, así como hostigar a los vehículos ligeros. Es especialmente útil para enfrentamientos de larga distancia y para luchar contra enemigos atrincherados dentro de edificios.
 
-* ![](../assets/mlg.png)**Machine Gunner \(MG\)**. Although a heavier and more cumbersome version of the Automatic Rifleman \(AR\), thanks to his greater firepower, the Machine Gunner is a lethal soldier cappable of pinning down entire squads and is unparalelled in long-distance engagements.
-* ![](../assets/marskman.png)**Marksman**. The Marksman excels providng his squad with low rate but high accuracy fire. He is a proficient shooter while engaging objectives or enemies beyond the rifleman range.
-* ![](../assets/ap.png)**Anti-Personnel Rifleman \(AP\)**. The AP Rifleman comes with powerful anti-personnel mines equipped with remote detonators. He is most useful preparing ambushes or using his explosives to defend tactical objectives.
-* ![](../assets/sniper.png)**Sniper**. The sniper shines while in reconnaissance missions and providing the team with intel regarding enemy movements and positions. Equipped with a high precision sniper rifle, he is also capable of engaging enemies from very long distances. Due to its limitation of 2 per team, in PR, taking the sniper kit for arcadish solo missions is highly frowned upon.
-* ![](../assets/spotter.png)**Spotter**. Issued with a grappling hook and binoculars, the Spotter is able to position himself in vantage points in order to gather key intel from the battlefield. He is also capable of using his laser designator to set targets for air strikes. His role typically involves supporting Armor and Close Air Support elements, as well as snipers.
-* ![](../assets/combat_engineer.png)**Combat Engineer**. Specialist in explosives and demolitions. Equipped with Anti-Vehicle Landmines, he is the designated person to establish mine fields or to defuse them. Be mindful that mines are activated by both allies and enemy troops! He also comes with several explosives for demolitions and can repair light vehicles.
-* ![](../assets/aa.png)**Anti-Air Rifleman \(AA\)**. He comes equipped with a handheld Anti-Air weapon system, making him the person to deter and take down enemy air elements. His restriction to 2 per team makes him a highly critical asset. Do not waste this kit!
-* ![](../assets/hay.png)**Heavy Anti-Tank \(HAT\)**. The HAT is a highly effective threat against armor and can destroy vehicles with extreme prejudice even at long ranges. The high limitation of this kit \(**1 per team**\) makes this an absolutely critical kit. Losing or wasting it can change the course of a battle. For this reason, players without the required experience are **emphatically asked** to stay away from it.
+## _Kits Especiales_ {#specialist_kits}
+
+Además de los kits estándar descritos anteriormente, en PR existe una amplia selección de **Kits Especiales** capaces de realizar tareas altamente especializadas. Algunos de estos kits incluyen el Heavy Anti-Tank \(Anti-Tanque Pesado\), el Ingeniero de Combate, el Tirador, el Francotirador o el Fusilero Anti-Aéreo, entre otros.
+
+No es posible hacer spawn directamente con uno de estos kits especializados altamente restringidos. Para obtenerlos, un jugador debe solicitarlos de cajas de suministros o vehículos aliados siguiendo el procedimiento descrito [a continuación](kits.md#kit-request). Además, dependiendo del número de jugadores del equipo, cada uno de **estos kits están limitados a un número específico de ellos por equipo**. En la siguiente tabla se resumen estas restricciones:
+
+| Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
+| --- | --- | --- | --- | --- | --- |
+| **Ametrallador MG** | 1 | 2 | 3 | 3 | 4 |
+| **Tirador** | 1 | 2 | 3 | 3 | 4 |
+| **Fusilero Anti-Personal AP** | 1 | 2 | 3 | 3 | 4 |
+| **Observador** | 0 | 1 | 1 | 2 | 2 |
+| **Ingeniero de Combate** | 0 | 1 | 1 | 2 | 2 |
+| **Fusilero Anti-Aéreo AA** | 0 | 1 | 1 | 2 | 2 |
+| **Francotirador** | 0 | 1 | 1 | 2 | 2 |
+| **Anti-Tanque Pesado HAT** | 0 | 1 | 1 | 1 | 1 |
+
+Debido a la naturaleza altamente restringida de estos kits, se **recomienda enfáticamente** que los jugadores nuevos e inexpertos **NO LOS USEN**. Si lo hacen, corren el riesgo de desperdiciar y perder estos activos cruciales del equipo, dejando al equipo en una notable desventaja. **Recuerda SIEMPRE preguntarle a tu líder de escuadrón antes de tomar cualquiera de estos kits**.
+
+Aquí sigue una descripción más detallada de cada kit especializado:
+
+* ![](../assets/mlg.png)**Ametrallador \(MG\)**. Aunque una versión más pesada y engorrosa del fusilero automático \(AR\), Gracias a su mayor potencia de fuego, el Machine Gunner es un soldado letal capaz de inmovilizar escuadrones enteros y no tiene paralelo en enfrentamientos de larga distancia..
+* ![](../assets/marskman.png)**Tirador**. El Tirador sobresale proporcionando a su escuadrón fuego de baja cadencia pero alta precisión. Es un tirador competente mientras se enfrenta a objetivos o enemigos más allá del alcance de un fusil.
+* ![](../assets/ap.png)**Fusilero Anti-Personal \(AP\)**. El fusilero AP viene con poderosas minas antipersonal equipadas con detonadores remotos. Es más útil preparando emboscadas o usando sus explosivos para defender objetivos tácticos.
+* ![](../assets/sniper.png)**Francotirador**. El francotirador brilla en misiones de reconocimiento y proporciona al equipo información sobre los movimientos y posiciones del enemigo. Equipado con un rifle de francotirador de alta precisión, también es capaz de enfrentarse a enemigos desde distancias muy largas. Debido a su limitación de 2 por equipo, en PR, tomar el kit de francotirador para misiones en solitario arcade está muy mal visto.
+* ![](../assets/spotter.png)**Observador**. Con un gancho de agarre y binoculares, el Spotter puede posicionarse en puntos estratégicos para recopilar información clave del campo de batalla. También es capaz de usar su designador láser para establecer objetivos para ataques aéreos. Su función generalmente implica apoyar a los elementos blindados y de apoyo aéreo cercano, así como a los francotiradores.
+* ![](../assets/combat_engineer.png)**Ingeniero de Combate**. Especialista en explosivos y demoliciones. Equipado con minas terrestres antivehículo, es la persona designada para establecer campos de minas o desactivarlos. ¡Tenga en cuenta que las minas son activadas tanto por aliados como por tropas enemigas! También viene con varios explosivos para demoliciones y puede reparar vehículos ligeros.
+* ![](../assets/aa.png)**Fusilero Anti-Aéreo \(AA\)**. Viene equipado con un sistema de armas antiaéreo de mano, lo que lo convierte en la persona indicada para disuadir y derribar elementos aéreos enemigos. Su restricción 2 por equipo lo convierte en un activo muy crítico. ¡No desperdicies este kit!
+* ![](../assets/hay.png)**Anti-Tanque Pesado \(HAT\)**. El HAT es una amenaza muy eficaz contra los blindados y puede destruir vehículos con daños extremos, incluso a largas distancias. La alta limitación de este kit \(**1 por equipo**\) lo convierte en un kit absolutamente crítico. Perderlo o desperdiciarlo puede cambiar el curso de una batalla. Por esta razón, a los jugadores sin la experiencia requerida se les pide **enfáticamente* no usarlo.
 
 ## _Other Kits_ {#other-kits}
 
