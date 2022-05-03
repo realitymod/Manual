@@ -27,7 +27,7 @@
   * [Morteros](the_basics.md#mortars)
   * [Puentes de Soporte CSB](the_basics.md#close-support-bridges)
   * [Navegación en el campo de Batalla](the_basics.md#battlefield-navigation)
-  * [Informaciones Bascas de Vehículos](the_basics.md#basic-vehicle-information)
+  * [Informaciones Basicas de Vehículos](the_basics.md#basic-vehicle-information)
 * [Armas y Equipamientos](weapons_and_equipment.md)
   * [Informacioes Generales de Armas y Equipamientos](weapons_and_equipment.md#general-weapons-equipment)
   * [Cambio de Mira](weapons_and_equipment.md#buis)

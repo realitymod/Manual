@@ -332,93 +332,93 @@ Atacar7Objetivo, Construir, Observar, Defender, Demoler y Marca de Movimiento , 
 {% figure "../assets/grid.png" %}
 {% endfigure %}
 
-## _Basic Vehicle Information_ {#basic-vehicle-information}
+## _Informaciones Basicas de Vehículos_ {#basic-vehicle-information}
 
-Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on operating vehicles see further in this manual in the Operating Vehicles section.
+Muchos vehículos suelen comportarse bastante diferente en comparación a BF2 y requieren un conocimiento más avanzado para operarlos. Ya que ellos tienen un tiempo de reaparición bastante largos  \(cerca de 20 minutos\) y es vital saber cómo mantenerlos lejos de las situaciones problemáticas, esta parte se enfocara en los tipos de vehículos y cómo influyen en el equipo. Para más detalles de cómo operar los vehículos ver la parte adicional de este manual en la Sección de Operación de Vehículos.
 
-There are many vehicle types in PR:BF2 used as classification. This isn’t always directly in line with their Real Life counterpart due to gameplay reasons. The following list shows you the main classes of vehicles in PR:BF2:
+Hay muchos tipos de vehículos en PR: BF2 que usan una clasificación. Estos puede que no estén en la línea de su contraparte de la vida real por razones de juego. La siguiente lista muestra las principales clases de vehículos en PR: BF2:
 
-* **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
+* **Jeep:** ehículo de transporte pequeño que no siempre cabe la patrulla entera. Puede soltar cajas de munición. A veces están equipados con una ametralladora o cañón ligero.
 
 ![](../assets/jeep.png)
 
-* **Civilian vehicles:** PR:BF2’s insurgent forces have access to a range of civilian cars and technicals mounted with machine guns, rocket-pods and SPG-9 recoilless rifles. They also have a flatbed with a mounted AA-gun, bomb trucks and bomb cars in their arsenal. 
+* **Vehículos Civiles:** PR: BF2’s los insurgentes tienen a su disposición autos civiles y technicals con una ametralladora montada, Technicals lanzacohetes y cañones SPG-9. También tienen camiones con cañones AA, camiones bomba y coches bombas en su arsenal. 
 
 ![](../assets/civiliancars.png)
 
-* **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges \(more on this later\).
+* **Camion:** Vienen en dos variantes el de transporte y el de logística. La variante de transporte está capacitada para soltar una caja pequeña de suministro y puede soportar una patrulla completa. La variante de logística puede llevar 2 soldados y tiene la capacidad de soltar 2 cajas pesadas de suministro, estaciones de reparación y puentes de apoyo cercano \(más sobre esto más tarde\).
 
 ![](../assets/truck.png)
 
-* **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicles types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
+* **Vehículos Blindados de Transporte de Personal \(APC\):** grandes vehículos blindados que a menudo no están equipados con armamento pesado. A menudo no posees la potencia para destruir otro vehículos blindados como los IFV’s y Tanques pero son los mejores vehículos para asistir a la infantería. Pueden entrar 2 Conductores \(conductor y artillero\) y 6 soldados como pasajeros.
 
 ![](../assets/apc.png)
 
-* **Infantry Fighting Vehicle \(IFV\):** Better armed and stronger than most APCs with often capabilities to defeat heavy armored targets using AT-Missiles. Are not always capable of transporting infantry. Under this category often also fall the recon-vehicles.
+* **Vehículos para Combate de Infanteria \(IFV\):** Mejores armados y potentes que la mayoría de APC’s con más posibilidades de destruir blindados pesados con sus Misiles AT. No siempre tienen la capacidad de transportar infantería bajo esta categoría caen como vehículos de reconocimiento.
 
 ![](../assets/ifv.png)
 
-* **Anti-Tank Missile Mounted Vehicle \(ATM\):** The name speaks for itself. These are vehicles armed with AT-missiles to destroy other armored vehicles. Cannot transport infantry.
+* **Vahículos con Misiles AT Montados \(ATM\):** Su nombre habla por sí mismo. Esos vehículos están armados con misiles AT para destruir otros vehículos blindados. No pueden transportar infantería.
 
 ![](../assets/atm.png)
 
-* **Tank:** Our heaviest of armored vehicles. They come equipped with AP, HE and COAX weaponry.
+* **Tanque:** El más pesado de los vehículos blindados. Equipados con armamento AP, HE y COAX.
 
 ![](../assets/tank.png)
 
-* **Anti-Air Vehicle:** These are usually light armored vehicles with only the ability to take out enemy aircraft and helicopters. They can use missiles or/and heavy guns.
+* **Vehículos Anti-Aéreos:** Usualmente son blindados ligeros con la capacidad de destruir aviones enemigos y helicópteros. Pueden usar misiles o/y Armas pesadas.
 
 ![](../assets/aavehicles.png)
 
-* **Boat:** PR:BF2 has a variety of boats both armed and un-armed.
+* **Bote:** PR: BF2 tiene una variedad de botes armados y no armados.
 
 ![](../assets/boats.png)
 
-* **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use.They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on Supply Crates to read on which variant has which crates available to it.
+* **Helicoptero de Transporte:** Estos helicópteros usualmente vienen equipados con ametralladoras de puerta para que la infantería montada las use. Y algunos tienen la capacidad de soltar cajas pesadas de suministro. Están los livianos, medianos y pesados helicópteros de transporte. Leer la sección de cajas de suministros para ver que variante tiene disponible cada helicóptero.
 
 ![](../assets/transheli.png)
 
-* **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Recon helicopters with the ability to laze targets and use their thermal cameras also fall under this category in PR:BF2. They are not always armed.
+* **Helicoptero de Ataque:** Estos helicópteros están equipados con cañones automáticos y/o diferentes tipos de cohetes o misiles. Hay variante tanto como ligera, mediana y pesada. Helicópteros con la capacidad de lasear usando sus cámaras térmicas caen dentro de la categoría Reconocimiento en PR: BF2 y no siempre se encuentran armados.
 
 ![](../assets/attackhelis.png)
 
-* **Jets:** PR:BF2 has a wide variety of jets. There are light and heavy attack jets, fighter jets, bombers and fighter-bombers.
+* **Aviones:**PR: BF2 tiene unas cuantas variedades de aviones. Hay aviones de ataque ligero y pesado, de combate, bombarderos y cazabombarderos.
 
 ![](../assets/jets.png)
 
-All friendly vehicles are marked on the map with unique icons for easy identification.
+Todos los vehículos aliados están marcados en el mapa con iconos únicos para una fácil identificación..
 
 ![](../assets/vehicleicons.png)
 
-* If a team vehicle asset is destroyed it incurs a ticket penalty:
-  * Jeep or truck: **2 tickets**
-  * Transport helicopter: **5 tickets**
+* Si se destruye un vehículo de tu equipo pierdes tickets::
+  * Jeep o Camion: **2 tickets**
+  * Helicoptero de Transporte: **5 tickets**
   * APC/AAV/RECON: **5 tickets**
-  * Tank or IFV: **10 tickets**
-  * Jet or attack helicopter: **10 tickets**
-* Vehicles are **Team Locked** and you cannot operate enemy vehicles of any kind.
-* Vehicles can only **be entered from appropriate positions** on the hull.
+  * Tanque o IFV: **10 tickets**
+  * Avion o Helicopteros de Ataque: **10 tickets**
+* Los vehículos están **bloqueados por equipo** así que no podrás usar vehículos enemigos de cualquier tipo.
+* Los vehículos **tienen puntos para poder entrar** de acuerdo a las puertas del casco.
 
 {% figure "../assets/entrypoints.png" %}
-Vehicle entry points can differ per vehicle. Look for hatches.
+Los puntos de entrada de vehículos pueden diferir según el vehículo. Busque las escotillas.
 {% endfigure %}
 
-* Normal soldiers are allowed to drive small unarmored vehicles such as jeeps, trucks and boats without the need for any specialized kit. If you require **a crewman or pilot kit** to operate a vehicle position, you will receive a warning message upon entering it and the screen will fade to black. If you do not exit the vehicle position within a few seconds, you will die.
-* When exiting **a moving or burning vehicle** you will become wounded and possibly die. The faster the vehicle moves the greater the chance of death.
-* **Destroying vehicle wrecks** does not influence score although a warning message states otherwise when shooting friendly wrecks.
-* When manning **stationary or vehicle weapons** it takes a specific warm up time before they have the ability to fire:
-  * MG: **5 seconds**
-  * Anti-Air Missile: **5 seconds**
-  * AT-emplacement: **10 seconds**
-  * Armor main cannon: **30 seconds**
-* Most Stationary AT-Weapons have optics with fixed zoom capability. Some of them even offer thermal optics.
-* Exiting vehicles in mid-air and falling into water from high altitudes will injure you and may result in your death.
-* Players can **request kits** from a APC’s/IFV’s entry position.
-* Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
-* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
-* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
+* Soldados normales pueden manejar pequeños vehículos ligeros sin blindaje tales como jeeps, camiones y botes sin necesidad de algún kit especializado. Si se requiere un **kit de conductor \(crewman kit\) o piloto** para operar alguna posición del vehículo recibirás un mensaje de advertencia al entrar al vehículo y la pantalla se pondrá oscura. Si no te sales del vehículo en 5 segundos morirás.
+* Al salir de un vehículo  **en movimiento o incendiándose** recibirás daño o posiblemente mueras. A mayor velocidad con la que se mueva el vehículo incrementara la posibilidad de morir al salir.
+* **Destruir restos de vehículos** no influye en la puntuación a pesar de recibir un mensaje de advertencia indicando daño sobre el equipo aliado.
+* Cuando entres en  **armas estáticas o armas en vehículos** omara un tiempo específico de calentamiento antes de poder hacer uso de ellas:
+  * MG \(ametralladora\): **5 seconds**
+  * Misil Anti-Aéreo: **5 seconds**
+  * Anti-Tanque estatico: **10 seconds**
+  * ACañon principal de blindado: **30 seconds**
+* La mayoría de los Anti-tanques estáticos tienen un zoom predeterminado y algunos tienen visores térmicos.
+* Salirse de aeronaves desde grandes alturas te dañara y probablemente morirás.
+* Los jugadores pueden **pedir kits**  de las puertas/escotillas de los APC/IFV.
+* Vehículos blindados son más vulnerables al ser atacados por los flancos. El blindaje en la parte posterior de los vehículos es muy débil, un solo proyectil anti-tanque puede inutilizar o destruir por completo el vehículo.
+* En los servidores públicos (no en los modos de juego locales), puede cambiar rápidamente al siguiente asiento libre disponible en un vehículo presionando **F8**.
+* Cuando esté en un vehículo, puede ver la información sobre los asientos ocupados en la parte inferior izquierda del HUD. Muestra solo los asientos importantes de la tripulación como marcadores cuadrados. Esto incluye las posiciones de conductor y artillero. Los asientos de los pasajeros no tienen dichos marcadores y se muestran como un contador separado.
 
 {% figure "../assets/seaticons.png" %}
-Important crew members are shown as squared markers. Passengers use a total counter above the vehicle icon.
+Los miembros importantes de la tripulación se muestran como marcadores cuadrados. Los pasajeros usan un contador total sobre el ícono del vehículo.
 {% endfigure %}
 
