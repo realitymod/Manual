@@ -103,52 +103,52 @@ Las siguientes acciones pueden restringir temporalmente tu derecho a solicitar k
 | Recibes spam por varias solicitudes de kit en poco tiempo | Bloqueado por +30 segundos |
 | Matas a un civil violando las Reglas de enfrentamiento \(Insurgencia\) | Bloqueado por +10 minutos |
 
-To request a kit a specific key sequence needs to be followed:
+Para solicitar un kit se debe seguir una secuencia de teclas específica:
 
-| Key Sequence to Request a Kit |
+| Secuencia de Teclas para Solicitar un Kit |
 | --- |
-| 1. Press and hold the **Secondary Radio key /\(T/\)** \(it will bring up a _Comm Rose_\), |
-| 2. With the mouse, select the central option of the Comm Rose \(**REQUEST / DROP KIT"**\) and **left-click** on it. This will open a menu list with all kits in it |
-| 3. Move your mouse to highlight the desired kit and **left-click** on it for the standard version OR **right-click** for the alternative one |
-| 4. If all conditions are met, a yellow text will appear saying **“Your kit has been ALLOCATED and is at your feet”**. Pick it up by **pressing the G key** |
+| 1. Mantenga presionada la ** tecla de radio secundaria /\(T/\)** \(aparecerá un _Menú_\), |
+| 2. Con el mouse, seleccione la opción central del Menu \(**REQUEST-SOLICITAR / DROP-SOLTAR KIT"**\) y **haga clic con el botón izquierdo** en ella. Esto abrirá una lista de menú con todos los kits que contiene. |
+| 3.Mueva el mouse para resaltar el kit deseado y **haga clic con el botón izquierdo** en él para la versión estándar O **haga clic con el botón derecho** para la versión alternativa |
+| 4. Si se cumplen todas las condiciones, aparecerá un texto amarillo que dice **“Tu kit ha sido ASIGNADO y está a tus pies”**. Recógelo **pulsando la tecla G** |
 
-If your request is denied, you will see a yellow text message explaining why:
+Si se deniega su solicitud, verá un mensaje de texto amarillo que explica por qué:
 
-If you requested the kit in the wrong location:
+Si solicitó el kit en la ubicación incorrecta:
 
-* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**, OR
-* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
+* **“Debes estar cerca de una CAJA DE SUMINISTROS amiga o APC para solicitar este kit”**, O
+* **“Debes estar cerca de una CAJA DE SUMINISTROS o un VEHÍCULO amigo para solicitar este kit”**
 
-  If the squad that you are in fails the squad requirements:
+ Si el escuadrón en el que estás no cumple con los suficientes miembros:
 
-* **“Unavailable due to squad limitations”**
+* **“No disponible debido a limitaciones de plantilla”**
 
-  If all allowed kits have already been granted to the team:
+  Si todos los kits permitidos ya han sido otorgados al equipo:
 
-* **“All of these kits have been issued”**
+* **“Este kit ya está en uso”**
 
-  Other possible reasons:
+  Otras posibles razones:
 
-* **“Unavailable for your forces”**
-* **“You can't get another limited kit so soon after your last”**
-* **“You are new to this squad, request again in a minute”**
+* **“No disponible para tus fuerzas”**
+* **“No puedes solicitar otro kit ahora”**
+* **“Eres nuevo en esta patrulla, vuelve a intentarlo en un minuto”**
 
-## _Kit drop procedure_ {#drop-kit}
+## _Como Soltar un Kit_ {#drop-kit}
 
-In certain situations, you might want to drop your kit. Most typically:
+En ciertas situaciones, es posible que desee dejar su kit. Más típicamente:
 
-* You intentionally or unintentionally picked an enemy kit \(which **will kill you after 30 seconds** unless you drop it\), 
-* You are a wounded medic and want to give your kit to someone else so that they can heal you, 
-* You wish to swap kits with someone more experienced or skillful than you, 
-* You want to become a Civilian while playing in Insurgency mode.
+* Elegiste intencionalmente o no un kit enemigo \(que **te matará después de 30 segundos** a menos que lo dejes caer\),
+* Eres un médico herido y quieres darle tu botiquín a otra persona para que pueda curarte,
+* Desea intercambiar kits con alguien con más experiencia o habilidad que usted,
+* Quieres convertirte en civil mientras juegas en el modo Insurgencia.
 
-Simply follow this sequence:
+Simplemente sigue esta secuencia:
 
-| Key Sequence to Drop your Kit |
+| Secuencia de Teclas para Dejar tu Kit |
 | --- |
-| 1. **Press and hold down the Secondary Radio key /\(T/\)** |
-| 2. Select the middle option of the _Comm Rose_ \(**REQUEST / DROP KIT"**\) and to **right-click** in it. This will drop below you an invisible Unarmed Kit |
-| 3. Pick it up by pressing the **pickup key \(G\)** |
+| 1. **Presione y mantenga presionada la tecla de Radio secundaria /\(T/\)** |
+| 2. Seleccione la opción central del Menú \(**REQUEST-SOLICITAR / DROP-SOLTAR KIT"**\) y **haga clic con el botón derecho** en ella. Aparecerá debajo de usted un kit desarmado invisible |
+| 3. Recógelo presionando la **tecla de recogida \(G\)** |
 
-Note that a kit on the ground will disappear after 5-10 minutes and will then become available to the squad/team again.
+Tenga en cuenta que un kit en el suelo desaparecerá después de 5 a 10 minutos y luego volverá a estar disponible para el escuadrón/equipo.
 
