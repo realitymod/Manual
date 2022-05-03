@@ -13,7 +13,7 @@ En PR: BF2 no puedes reaparecer en cada punto de control de tu equipo. Los punto
 
 * **El Rally Point de tu escuadrón \(RP\)** es un círculo verde que rodea un punto de generación con el número de tu escuadrón junto a él. Dependiendo de la ubicación del RP de tu escuadrón en relación con el FOB de un equipo, se determinará su longevidad. Nota: si apareces en el punto de reunión de otro escuadrón, aparecerás automáticamente en tu propio punto de reunión o en cualquier FOB cercano. Si no hay ninguno disponible, será trasladado a la base principal de su equipo. Si es invadido por el enemigo, el RP de tu escuadrón desaparecerá. Los RP solo están disponibles para las fuerzas convencionales. [\(Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)
 
-{% figure "../assets/rally.png" %}
+{% figure ![]("../assets/rally.png") %}
   A rallypoint.
 {% endfigure %}
 
@@ -324,7 +324,8 @@ Atacar7Objetivo, Construir, Observar, Defender, Demoler y Marca de Movimiento , 
 
 1. Una **brújula precisa marcada con grados** en el área central inferior de su pantalla. La brújula se puede usar para dar orientaciones exactas de los enemigos cercanos. **Las 8 direcciones cardinales** están claramente indicadas junto con las etiquetas de los grados que aumentan progresivamente cada 15° con divisiones principales cada 5°. Si solo desea comunicar una dirección general, es una buena práctica decir la dirección cardinal, seguida del grado y, en algunas situaciones, la distancia, si corresponde. Por ejemplo _**“Enemigo identificado Noreste  75° grados 200 metros”**_**.**
    * Si el objetivo está dentro de la línea de visión cuando todos se enfrentan en la misma dirección simplemente comunica el número de grados.
-   *Recuerda que la separación entre cada línea de la brújula corresponde a 5°. Si el objetivo no está en un grado marcado calcula rápido con la etiqueta-guía más cercana y suma los grados correspondientes, ejemplo guía 75° + 5° = 80°. Objetivo a 80 grados.![](../assets/compass.png)
+   *Recuerda que la separación entre cada línea de la brújula corresponde a 5°. Si el objetivo no está en un grado marcado calcula rápido con la etiqueta-guía más cercana y suma los grados correspondientes, ejemplo guía 75° + 5° = 80°. Objetivo a 80 grados.
+   ![](../assets/compass.png)
 2. Los mapas en PR: BF2 contienen  **cuadriculas marcadas con letras con subcuadros de referencia.**. Las marcas con letras están desde la parte superior izquierda del mapa, el mapa se divide en 169 cuadros empezando por “A1” en la esquina superior izquierda y termina con “M13” en la parte inferior derecha. Cada cuadro se divide en subcuadros  que están marcados del 1 al 9 en el orden del teclado numérico \(key pad/kp\) de la computadora. \(Arriba a la izquierda empezando con 7, 8, 9\). Puedes comunicar coordenadas tomando como referencia esta cuadricula completa, para una ubicación aproximada \(ejemplo D6\). o para una ubicación más precisa \(ejemplo D6-kp2\).  Por lo general estas coordenadas se usan para comunicarse objetivos o lugares importantes entre patrullas.Al usar Mumble se menciona la primera letra en referencia al alfabeto fonético. Las palabras son Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
 3. **La escala de cada cuadro** aparece en la esquina inferior derecha del mapa. Un mapa de 1km² indicara que el lado de cada cuadro representa 75m, 150m en 2km² y 300m en un  mapa de 4km². Se puede estimar fácilmente las distancias usando la cuadricula. En la pantalla del líder de patrulla aparece la distancia aproximada a la marca establecida  en el mapa en la parte inferior central.  
 
