@@ -13,9 +13,9 @@ En PR: BF2 no puedes reaparecer en cada punto de control de tu equipo. Los punto
 
 * **El Rally Point de tu escuadrón \(RP\)** es un círculo verde que rodea un punto de generación con el número de tu escuadrón junto a él. Dependiendo de la ubicación del RP de tu escuadrón en relación con el FOB de un equipo, se determinará su longevidad. Nota: si apareces en el punto de reunión de otro escuadrón, aparecerás automáticamente en tu propio punto de reunión o en cualquier FOB cercano. Si no hay ninguno disponible, será trasladado a la base principal de su equipo. Si es invadido por el enemigo, el RP de tu escuadrón desaparecerá. Los RP solo están disponibles para las fuerzas convencionales. [\(Ver Estruturas Desplegables\)](the_squad_leader.md#deployable-structures)
 
-![]("../assets/rally.png")
+{% figure "../assets/rally.png" %}
   A rallypoint.
-
+{% endfigure %}
 
 * **Rally points del equipo especiales del mapa:** Usualmente expiran 5 minutos después de empezada la partida y pueden ser utilizados por todo el equipo. Estos también solo permiten spawnar un máximo de 12 personas hasta que desaparezca.
 * **Comander Rally Point:**. Este RP solo puede ser colocado por el comandante del equipo, siempre que algunos líderes de patrulla estén cerca de él. En el mapa este  rally point tendrá una letra “C” adjunto.
