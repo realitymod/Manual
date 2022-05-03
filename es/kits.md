@@ -3,7 +3,7 @@
 Los kits en Project Reality definen tu clase, armamento y tu rol en el equipo. PR cuenta con una amplia selección de kits que puedes usar. En términos generales, hay 2 tipos de kits en Project Reality:
 
 * **Kits estándar**, que son los roles de escuadrón de infantería estándar y se pueden seleccionar directamente desde la pantalla de re-spawn.
-* **Kits de especialista**,que son funciones más especializadas y solo se pueden obtener a través de un [procedimiento de solicitub](kits.md#kit-request) especial.
+* **Kits de especialista**,que son funciones más especializadas y solo se pueden obtener a través de un [procedimiento de solicitud](kits.md#kit-request) especial.
 
 ## _Como Iniciar_ {#where-to-start}
 
@@ -76,32 +76,32 @@ Aquí sigue una descripción más detallada de cada kit especializado:
 * ![](../assets/aa.png)**Fusilero Anti-Aéreo \(AA\)**. Viene equipado con un sistema de armas antiaéreo de mano, lo que lo convierte en la persona indicada para disuadir y derribar elementos aéreos enemigos. Su restricción 2 por equipo lo convierte en un activo muy crítico. ¡No desperdicies este kit!
 * ![](../assets/hay.png)**Anti-Tanque Pesado \(HAT\)**. El HAT es una amenaza muy eficaz contra los blindados y puede destruir vehículos con daños extremos, incluso a largas distancias. La alta limitación de este kit \(**1 por equipo**\) lo convierte en un kit absolutamente crítico. Perderlo o desperdiciarlo puede cambiar el curso de una batalla. Por esta razón, a los jugadores sin la experiencia requerida se les pide **enfáticamente* no usarlo.
 
-## _Other Kits_ {#other-kits}
+## _Otros Kits_ {#other-kits}
 
-In addition to the kits already described, there are some special kits that have special rules. These are the Crewman, the Pilot, the Civilian and all the Insurgent kits. The Civilian and Insurgent kits pertain to the **Insurgency Game Mode** and are thus described in the corresponding section of the manual {\#Insurgency}.
+Además de los kits ya descritos, existen algunos kits especiales que tienen reglas especiales. Estos son los kits Tripulante, Piloto, Civil y todos los Insurgentes. Los kits Civil e Insurgente pertenecen al **Modo de Juego Insurgencia** y, por lo tanto, se describen en la sección correspondiente del manual [Insurgencia](game_modes.md#insurgency).
 
-Regarding the **Pilot** \(Air Vehicles\) and the **Crewman** \(Armored Vehicles\), both are needed in order to operate the corresponding vehicles. As they are a type of Specialist Kit, it is not possible to directly spawn with them and must be requested as usual {\#kit\_request}. They have, however, no restriction about the number of them that can simultaneously be in a team and thus can also be considered unlimited kits.
+En cuanto al **Piloto** \Vehículos Aéreos\) y el **Crewman/Tripulante** \(Vehículos Blindados\), ambos son necesarios para operar los vehículos correspondientes. Como son un tipo de kit de especialista, no es posible generarlos directamente y deben solicitarse como de costumbre. [Como Solicitar un Kit](kits.md#kit-request). Sin embargo, no tienen restricciones sobre el número de ellos que pueden estar simultáneamente en un equipo y, por lo tanto, también pueden considerarse kits ilimitados.
 
-* ![](../assets/pilot.png)**Pilot**. The pilot is the only kit capable of operating helicopters and fixed-wing aircrafts. It comes equipped with a side arm, a parachute and a signal smoke grenade. Do not attempt to operate aircraft without proper experience.
-* ![](../assets/crewman.png)**Crewman**. It is the only kit capable of operating armored vehicles. The crewman is equipped with a compact weapon for self-defense and with binoculars to study the battlefield. Normally, both the driver and the gunner in an armored vehicle need the crewman kit.
+* ![](../assets/pilot.png)**Piloto**. El piloto es el único kit capaz de operar helicópteros y aeronaves de ala fija. Viene equipado con una pistola, un paracaídas y una granada de humo de señal. No intente operar aeronaves sin la experiencia adecuada.
+* ![](../assets/crewman.png)**Crewman/Tripulante**. Es el único kit capaz de operar vehículos blindados. El tripulante está equipado con un arma compacta para la autodefensa y con binoculares para estudiar el campo de batalla. Normalmente, tanto el conductor como el artillero en un vehículo blindado necesitan el kit de tripulante.
 
-## _Kit Request Procedure_ {#kit-request}
+## _Como Solicitar un Kit_ {#kit-request}
 
-Once spawned, and if certain conditions are met, it is possible to request a new kit \(both Standard or Specialist\) from an allied supply crate or armored vehicle. Usually, in order to request a kit, these 3 conditions need to be met:
+Una vez generado, y si se cumplen ciertas condiciones, es posible solicitar un nuevo kit \(tanto estándar como especialista\) de una caja de suministros aliada o un vehículo blindado. Por lo general, para solicitar un kit, se deben cumplir estas 3 condiciones:
 
-* **Permission**. You have the Squad Leader's permission. He gets to decide who gets what
-* **Location**. You are in the right place to request a kit - next to an allied supply crate or armored vehicle
-* **Required Numbers**. You are part of a squad with the required minimum number of members
+* **Permiso**. Tienes el permiso del líder del escuadrón. Él decide quién recibe qué.
+* **Localización**. Estár en el lugar correcto para solicitar un kit, junto a una caja de suministros aliada o un vehículo blindado.
+* **Mienbros de Escuadrón Requqeridos**. Eres parte de un escuadrón con el número mínimo requerido de miembros.
 
-The following actions can temporarily restrict your right to request kits:
+Las siguientes acciones pueden restringir temporalmente tu derecho a solicitar kits:
 
-| Condition | Time Penalty |
+| Condición | Tiempo de Penalización |
 | --- | --- |
-| You either spawn, or request and get granted, a limited kit | Unable to request a kit for 2 minutes |
-| You change squads | Blocked for +2 minutes |
-| You kill a teammate \(teamkilling\) carrying a limited kit | Blocked for +3 minutes |
-| You spam several kit requests in a short time | Blocked for +30 seconds |
-| You kill a civilian violating the Rules of Engagement \(Insurgency\) | Blocked for +10 minutes |
+| Usted genera, o solicita y obtiene, un kit limitado | No se puede solicitar un kit durante 2 minutos |
+| Cambio de Escuadron | Bloqueado por +2 minutos |
+| Matas a un compañero de equipo \(teamkilling\) que lleva un kit limitado | Bloqueado por +3 minutos |
+| Recibes spam por varias solicitudes de kit en poco tiempo | Bloqueado por +30 segundos |
+| Matas a un civil violando las Reglas de enfrentamiento \(Insurgencia\) | Bloqueado por +10 minutos |
 
 To request a kit a specific key sequence needs to be followed:
 
