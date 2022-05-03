@@ -42,5 +42,15 @@
     * [Operando Veículos](br/operating_vehicles.md)
     * [O Comandante](br/commander.md)
     * [O Civil](br/the_civilian.md)
-
+* [Spanish / Español - v1.7](es/README.md)
+    * [Set-Up](es/set-up.md)
+    * [Modos de Juego](es/game_modes.md)
+    * [Conseptos Basicos](es/the_basics.md)
+    * [Armas y Equipamientos](es/weapons_and_equipment.md)
+    * [Kits](es/kits.md)
+    * [El Líder de Escuadrón](es/the_squad_leader.md)
+    * [Operando Vehículos](es/operating_vehicles.md)
+    * [EL Comandante](es/commander.md)
+    * [El Civil](es/the_civilian.md)
+   
 
