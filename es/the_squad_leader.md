@@ -1,208 +1,207 @@
-# The Squadleader
+# El Líder de Escuadrón
 
-## _Guiding Squad_ {#guiding-squad}
+## _Guiando el Escuadrón_ {#guiding-squad}
 
-As explained in the Battlefield Navigation section, the Squad Leader can place markers on the map for his squad members to follow. They will find a marker on their compass to follow as well as an icon on the map. The Squad Leader should use these as often as possible and can also use this to easily get the distance towards a target. He can do this from the mini-map by right clicking it and placing the marker or by pressing the **secondary radio key \(T\)** and point at the target and using one of the buttons to place the marker.
+Como se explica en la sección Navegación del campo de batalla, el líder de escuadrón puede colocar marcadores en el mapa para que los sigan los miembros de su escuadrón. Encontrarán un marcador en su brújula para seguir, así como un icono en el mapa. El líder de escuadrón debe usarlos con la mayor frecuencia posible y también puede usarlos para obtener fácilmente la distancia hacia un objetivo. Puede hacer esto desde el minimapa haciendo clic con el botón derecho y colocando el marcador o presionando la **tecla de radio secundaria \(T\)** y apuntando al objetivo y usando uno de los botones para colocar el marcador.
 
-* ![](../assets/target.png) **Target** 
-* ![](../assets/build.png) **Build** 
-* ![](../assets/observe.png) **Observe**
-* ![](../assets/defendmarker.png) **Defend** 
-* ![](../assets/demolish.png) **Demolish** 
-* ![](../assets/move.png) **Move**
+* ![](../assets/target.png) **Objetivo** 
+* ![](../assets/build.png) **Construir** 
+* ![](../assets/observe.png) **Observar**
+* ![](../assets/defendmarker.png) **Defender** 
+* ![](../assets/demolish.png) **Demoler** 
+* ![](../assets/move.png) **Mover**
 
-The commander can also order you. If you accept the order \(**PAGE UP**\) your marker will be replaced with the commander’s order.
+El comandante también puede ordenarte. Si aceptas la orden \(**PAGE UP**\) su marcador será reemplazado con la orden del comandante.
 
-## _Spotting Enemies_ {#spotting-enemies}
+## _Marcando Enemigos_ {#spotting-enemies}
 
-The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark enemy units on the map and forward contact reports to the team's commander with the ability to mark a target on the team's map. To perform these functions follow these steps:
+El **Squad Leader** en PR:BF2 tiene muchas habilidades funcionales. Puede marcar unidades enemigas en el mapa y enviar informes de contacto al comandante del equipo con la capacidad de marcar un objetivo en el mapa del equipo. Para realizar estas funciones siga estos pasos:
 
-1. Set a target position on the map to acquire an approximate position of to the contact.
-2. Look towards the target position.
-2. Select the radio from your inventory and use **the alternate fire key \(RMB\)** to activate it.
-4. Select the type of target contact to mark on the map. Each player can place up to 3 markers which stay for 5 minutes.
+1. Establezca una posición de destino en el mapa para adquirir una posición aproximada del contacto.
+2. Mire hacia la posición de destino.
+2. Seleccione la radio de su inventario y use **la tecla de disparo alternativa \(Click Derecho\)** para activarla.
+4. Seleccione el tipo de contacto objetivo para marcar en el mapa. Cada jugador puede colocar hasta 3 marcadores que permanecen durante 5 minutos.
 
-{% figure "../assets/spotting.png" %}
-A civilian.
-{% endfigure %}
+{% figure "../assets/spotting.png" %}{% endfigure %}
 
 
 {{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
-## _The GTL Designator \(GTLD\)_ {#gtld}
+## _Designador Laser \(GTLD\)_ {#gtld}
 
-The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\).**. This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles.
+El kit de líder de escuadrón y el kit de observador utilizados por las fuerzas convencionales están equipados con **GTLD \(Designador láser de objetivo terrestre\).**. Este equipo tiene un mejor zoom que los binoculares normales, incluye un telémetro y te permite marcar objetivos enemigos que pueden ser atacados por bombas o misiles de unidades aéreas amigas \(y enemigas\).
 
-With the GTLD equipped, you can right-click to increase the zoom level and left-click to toggle the on/off state. While on, the GTLD will emit a laze, that you must keep on your target until the bomb/missile hits it, unlike previous versions where the laze would "stick" to the target even without line of sight.
+Con el GTLD equipado, puede hacer clic con el botón derecho para aumentar el nivel de zoom y hacer clic con el botón izquierdo para activar o desactivar el laser. Mientras está encendido, el GTLD emitirá un laser, que debes mantener en tu objetivo hasta que la bomba/misil lo alcance, a diferencia de las versiones anteriores donde el laser se "pegaría" al objetivo incluso sin línea de visión.
 
-Additionally, while the lase is ON, you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map.
+Además, mientras el láser está ENCENDIDO, puede acceder al menú principal de radio \(Q\) para solicitar apoyo aéreo cercano \(CAS\) o llamar a misiones de fuego de mortero. Al hacerlo, se transmitirá automáticamente un mensaje de texto a su equipo detallando la solicitud y se agregará un marcador de objetivo al mapa..
 
 ## _Rally Points_ {#rally-points}
 
-A Squad Leader has the ability to set **Rally Points \(RP\)**. This allows fallen squad members to regroup in a safe area with the rest of their squad. To place a RP you need to press **the secondary radio key \(T\)** and select **PLACE RALLY POINT**.
+Un líder de escuadrón tiene la capacidad de establecer **Puntos de reunión \(RP\)**. Esto permite a los miembros caídos del escuadrón reagruparse en un área segura con el resto de su escuadrón. Para colocar un RP, debe presionar **la tecla de radio secundaria \(T\)** y seleccionar **COLOCAR RALLY POINTS**.
 
-The following conditions must be met for the RP to be placed successfully:
+Las siguientes condiciones son necesarias para que un RP sea colocado exitosamente:
 
-* You are the leader of your squad and are equipped with the officer kit.
-* You need to have 2 squad members close to you.
-* Enemy is further than 50m away on 1x1km maps or 125m or 2x2km and 4x4km maps.
+* Ser el líder de patrulla y estar equipado con el kit de oficial.
+* Necesitas tener 2 miembros de tu patrulla cerca de ti.
+* Los enemigos están a más de 50m en mapas de 1x1km o a 125m en mapas 2x2km y 4x4km.
 
-The rally point automatically disappears after 60 seconds unless:
+El rally point desaparece automáticamente  después de 60 segundos a menos que:
 
-* It is within 2x large map grid squares of a friendly FOB
-* It is within 2x large map grid squares of a friendly APC or IFV. Only those of which you can request kits.
+* Este dentro de 2x cuadrículas grandes del mapa de una FOB amiga.
+* Este dentro de 2x cuadriculas grandes del mapa de un APC o IFV amigo. Solo aquellos de los que puedas solicitar kits.
 
-An enemy that comes within 50m on 1x1km maps or 125m or 2x2km and 4x4km maps from the rally point will disable it. On larger maps it is 600m.
+Un enemigo que se acerque a 50 m en mapas de 1x1km o 12m o 2x2km y mapas de 4x4 km desde el punto de reunión lo desactivará. En mapas más grandes es de 600m.
 
-A rally point rearms every 1 minute. Unless it has become overrun. In which case you need to wait 5 minutes.
+Un punto de reunión se rearma cada 1 minuto. A menos que se haya invadido. En cuyo caso deberá esperar 5 minutos.
 
-## _Requesting Support_ {#requesting-support}
+## _Solicitar Apoyo_ {#requesting-support}
 
-The squad leader can also use his radio to request support from other squads. To do so he must activate his radio and then press **the secondary radio key \(T\).** This will open up the menu for requesting support and deploying team assets. The lower five commands starting with **“NEED ...”** will place a map marker at your position. They also transmit a radio message to your team to alert them of your request. The **“NEED AREA ATTACK”** request behaves a bit different from the rest. On some maps conventional forces can use this command to request an **artillery barrage**. If your request is approved by the team's commander, the attack will strike after about one minute. After loading a new map or executing an area attack it takes 30 minutes until it is available again. Similarly unconventional factions have access to a mortar barrage every 20 minutes on most maps.
+El líder de patrulla también puede usar su radio para solicitar apoyo de otras patrullas. Para esto debe activar su radio y presionar la  **tecla secundaria de radio \(T\).** Esto abrirá el menú para solicitar apoyo y desplegar assets de equipo. Los cinco comandos inferiores que comienzan con **“NEED .../NECESITO...”** pondrán una marca de mapa sobre tu posición.  Ellos transmitirán un mensaje de radio a tu equipo alertándolos de tu pedido. El pedido de  **“NEED AREA ATTACK/NECESITO ATAQUE DE AREA”** se comporta un poco diferente al resto.  En algunos mapas las fuerzas convencionales pueden usar este comando para solicitar un **bombardeo de artillería**. Si tu pedido es aprobado por el comandante del equipo, el ataque caerá después de un minuto. Después de cargar un nuevo mapa o ejecutar un ataque de área toma 30 minutos hasta que vuelve a estar disponible. Similarmente las facciones no convencionales tienen acceso a una descarga de morteros cada 20 minutos en la mayoría de los mapas.
 
 
 {% figure "../assets/support.png" %}
-Requesting support through radio.
+Solicitando apoyo a través de la radio.
 {% endfigure %}
 
-## _Construction Work_ {#construction-work}
+## _Trabajos de Constuccion_ {#construction-work}
 
-Constructing assets is an essential functionality of the Squad Leader which the team's Commander also possesses. When deploying and constructing a Forward Outpost \(FOB\) a Squad Leader needs to have an officer kit and a heavy supply crate within a 50m radius of his vicinity. 2 light supply crates offer the same capabilities as 1 heavy supply crate to achieve the same goal. Insurgents, Taliban and the Hamas can only deploy hideouts, mortars and anti-tank positions for their team which do not require supplies to build these structures. To perform this function either a cell leader or collaborator kit is necessary.
+onstruir equipamiento militar es una función básica del líder del escuadrón, la cual también posee el comandante del equipo. Para desplegar y construir un Puesto de Avanzada  \(FOB\) , el líder de escuadrón necesitará tener un kit de oficial y una caja de suministros pesada a menos de 50m de distancia. 2 cajas de suministro ligeras equivalen a una caja de suministros pesada, permitiendo conseguir el mismo resultado. Los insurgentes, talibanes y Hamas sólo pueden desplegar escondites, morteros y posiciones anti-tanque, éstos no necesitan cajas de suministros para construir estas estructuras. Para llevar a cabo esta función, es necesario un kit de líder de célula o de colaborador.
 
 {% figure "../assets/buildcomo.png" %}
-Building assets through radio.
+Creación de activos a través de la radio.
 {% endfigure %}
 
-To deploy a structure follow these steps:
+Para desplegar una estructura, sigue estos pasos::
 
-1. Select and activate the radio / cellphone.
-2. Look in the direction where the structure should be positioned. It will be placed 10m in front of you.
-3. Once you deploy it, press the **secondary radio menu key \(T\).**
-4. Left click your mouse on **DEPLOY / REMOVE ASSET.**
-5. Select the structure you want to build from the list.
+1.	Selecciona y activa la radio / teléfono móvil.
+2.	Mira a la dirección en la que quieres posicionar la estructura. Está aparecerá a 10m enfrente de ti.
+3. Una vez desplegada, presiona la **tecla del menú de radio secundario \(T\).**
+4. Haz click izquierdo en **DESPLEGAR / QUITAR EQUIPAMIENTO \(DEPLOY / REMOVE ASSET\).**
+5. Selecciona la estructura que quieres construir de la lista.
 
 {% figure "../assets/shovel.png" %}
-Shovel needed to build up deployables.
+Pala necesaria para construir.
 {% endfigure %}
 
-Players currently standing where the deployable is being placed will die. So make sure your squad knows where you intend to build. Soldiers need to use **the entrenching tool** to build assets. Construction is complete once the digging stops.
+Los jugadores que estén en el lugar donde la estructura vaya a aparecer morirán. Los soldados necesitarán usar **la pala** para construir el equipamiento. La construcción terminará cuando ya no se pueda cavar más.
 
-Place the deployables on open terrain non obstructed area to avoid undesirable effects and unwanted placement locations. The deployable will only appear if its placement location isn't too far above or below your position.
+Coloca los desplegables en  terreno abierto y sin obstruir, para evitar efectos y colocaciones no deseadas. El desplegable sólo aparecerá si la ubicación no está ni muy por encima ni muy por debajo de tu posición.
 
-To dismantle a built structure, squad members must use the entrenching tools right click to destroy an emplacement, then the Squad Leader is able to right-click **DEPLOY / REMOVE ASSET** menu whilst pointing towards the object no more than 5m away, to completely remove it.
+Para desmontar una estructura construida, los miembros del escuadrón deberán usar el click derecho con sus herramientas de atrincheramiento desplegadas para destruir un emplazamiento, después el líder de escuadrón podrá hacer click derecho en  **DESPLEGAR / QUITAR EQUIPAMIENTO \(DEPLOY / REMOVE ASSET\)** mientras está mirando hacia el objeto, a no más de 5m de distancia para quitarlo por completo.
 
-Deployable Emplacements weapons can be rearmed by dropping ammunition bags next to them. Several bags are needed to completely rearm an emplacement.
+Las armas de emplazamientos desplegables pueden ser rearmadas dejando bolsas de munición cerca de estos. Son necesarias varias bolsas para rearmar por completo un emplazamiento.
 
 {% figure "../assets/deploy.png" %}
-Unbuild and build examples of a foxhole.
+Desconstruir y construir ejemplos de una trinchera.
 {% endfigure %}
 
-## _Deployable Structures_ {#deployable-structures}
+## _Estruturas Desplegables_ {#deployable-structures}
 
-Here is a list of the deployable structures and the requirements for building them. Deployable assets can be either dismantled with a shovel or alternatively destroyed with C4, IEDs, tank shells, APC shells, or any over forms of heavy ordnance. Deployables can also be completely destroyed by continuing to damage the base of the emplacement. Forward outposts and hideouts can be destroyed as well by ordnance or C4 plastic explosives and TNT. Squad leaders can remove unbuilt deployable emplacements with the radio in a similar way to how they were deployed, by alternatively using the right click to remove the deployable base. The alternate fire mode for the entrenchment tool also has the ability to dismantle unbuilt deployable emplacements. An important note on the requirements and limitations listed below is that all values about distance to an FOB and the maximum amount of assets per FOB are doubled on the CNC gamemode \(except for the amount of mortars\). Also remember that 2 large supply crates can also be replaced by 4 small supply crates or 1 large and 2 small crates. To learn more about logistics and crates see [the logistics chapter.](the_basics.md#logistics).
+Aquí encontraras una lista de las estructuras desplegables y requisitos para construirlas. El equipamiento desplegable puede ser desmantelado con una pala o, alternativamente, destruido con C4, IEDs, proyectiles de tanque o APC, o cualquier forma de artillería pesada. Los desplegables pueden ser completamente destruidos si se le sigue infligiendo daño a la base del emplazamiento. Los puestos avanzados y los escondites pueden ser destruidos también por artillería, explosivos plásticos C4 o TNT. Los líderes de escuadrón pueden quitar un emplazamientos desplegables sin construir con la radio de manera similar a como fueron desplegados, haciendo click derecho para eliminar la base desplegable. El modo de fuego alternativo de la pala tiene también la habilidad de desmantelar emplazamientos desplegables sin construir. Una nota importante sobre los requisitos y limitaciones listados más abajo, es que todos los valores de distancia entre FOB y la cantidad máxima de equipamiento por FOB se doblan en el modo de juego CNC  \(a excepción del número de morteros\). También hay que recordar que 2 cajas pesadas de suministro pueden ser reemplazadas por 4 cajas ligeras de suministro o por 1 pesada y 2 ligeras.. Para obtener más información sobre logística y cajas, consulte [Logística](the_basics.md#logistics).
 
-**Forward Operating Base \(FOB\):** The forward operating base, also known as a forward outpost serves as a defensive spawn position for the team. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. Requirements and limitations:
+**Base de operaciones \(FOB\):** La base de operaciones avanzada, también conocida como puesto avanzado, sirve como posición defensiva para el equipo. Se pone en línea 90 segundos después de ser construido. No se puede generar durante 30 segundos si 1 enemigo está dentro de los 10m, 2 enemigos dentro de los 50m, 4 enemigos dentro de los 100m u 8 enemigos dentro de los 150m. Requisitos y limitaciones:
 
-* Must be constructed within 50m of a friendly large supply crate.
-* The team may have a total of 6 forward outposts at the same time.
-* Must be constructed at least 200m from other forward outposts and the team's HQ.
-* Must be constructed at least 10m away from the map border \(200m on CNC\).
+* Debe estar construido a menos de 50m de distancia de una caja de suministros pesada aliada.
+* El equipo puede tener al mismo tiempo un total de 6 puestos de avanzada.
+* Debe ser construido al menos a 200m de distancia de otros puestos de avanzada y de la base principal del equipo.
+* Debe ser construido al menos a 10m de distancia del borde del mapa \(200m en CNC\).
 
 {% figure "../assets/fobb.png" %}
 {% endfigure %}
 
-**Hideout:** Insurgents use hideouts as a spawn location. If 2 or more enemies are close by \(within 50m\), spawning is disabled until 90 seconds after they leave or die. Requirements and limitations:
+**Escondite \(Hideout\):** Los insurgentes usan escondites como punto de respawn. Si 2 o más enemigos están cerca \(a 50m o menos\), el respawn quedará desactivada hasta 90 segundos después de que hayan muerto o se hayan alejado. Requisitos y limitaciones:
 
-* Requested further than 200m from the closest hideout and the insurgent HQ.
-* The team may have up to 6 hideouts at the same time.
-* Must be constructed at least 10m away from the map border.
+* Tiene que haber sido pedido a más de 200m de distancia del escondite más cercano y de la base principal de los insurgentes.
+* Tiene que haber sido pedido a más de 200m de distancia del escondite más cercano y de la base principal de los insurgentes
+* Debe ser construido al menos a 10m de distancia del borde del mapa.
 
 {% figure "../assets/hideoutt.png" %}
 {% endfigure %}
 
-**Heavy MG:** A deployable heavy machine gun. Requirements and limitations:
+**Ametralladora pesada \(Heavy MG\):** Una ametralladora pesada desplegable. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* Only 2 MG’s per FOB and within 200m radius.
-* The team can have up to 24 heavy MGs.
+* Debe ser emplazada a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2  cajas pesadas de suministros deben encontrarse como máximo a 200m..
+* Sólo pueden construirse 2 por FOB en un radio de 200m.
+* El equipo puede tener hasta 24 ametralladoras pesadas.
 
 {% figure "../assets/hmg.png" %}
 {% endfigure %}
 
-**Anti-Tank:** A deployable anti-tank missile launcher. This weapon features thermal imaging and 1 fixed level of magnification. Reloading takes 20s. Requirements and limitations:
+**Anti-tanque:** Un lanzamisiles anti-tanque desplegable. Esta arma dispone de una cámara de imágenes térmica y un nivel fijo de ampliación. Recargarlo lleva 20s. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* No other anti-tank emplacement may be within 200m distance and on that FOB.
-* The team can have up to 3 anti-tank positions at the same time.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministro deben encontrarse como máximo a 200m
+* No puede haber otro emplazamiento anti-tanque a 200m de distancia y en ese FOB.
+* El equipo puede tener hasta 3 posiciones anti-tanque al mismo tiempo.
 
 {% figure "../assets/tow.png" %}
 {% endfigure %}
 
-**Anti-Tank \(unconventional forces\):** The SPG9 AT-launcher only has a narrow range of traverse. It can shoot two types of ammunition and takes 15s to reload. Requirements and limitations:
+**Anti-Tanque \(fuerzas no convencionales\):** El cañón SPG-9 tiene un campo transversal estrecho. Puede disparar dos tipos de munición y recarga en 15s. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m \(only for the militia and Syrian Rebels\).
-* No other anti-tank emplacement may be within 200m distance and on that FOB.
-* The team can have up to 3 anti-tank positions at the same time.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministro deben encontrarse como
+máximo a 200m \(solo para la milicia y los rebeldes sirios\).
+* No puede haber otro emplazamiento anti-tanque a 200m de distancia, y en ese FOB.
+* El equipo puede tener hasta 3 posiciones anti-tanque al mismo tiempo.
 
 {% figure "../assets/spg.png" %}
 {% endfigure %}
 
-**Anti-Air:** A deployable surface-to-air missile launcher. Requirements and limitations:
+**Anti-Aéreo:** Un lanzamisiles tierra-aire desplegable. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* No other anti-air emplacement may be within 200m distance and on that FOB.
-* The team can have up to 6 anti-air emplacements.
-* Unconventential forces get a DShK machine gun on a tripod as anti-air emplacement. 
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministro deben encontrarse como máximo a 200m.
+* No puede haber otro emplazamiento anti-aéreo a 200m de distancia, y en ese FOB
+* El equipo puede tener hasta 6 emplazamientos anti-aéreos.
+* Las fuerzas no convencionales obtienen una ametralladora DShK en un trípode como emplazamiento antiaéreo. 
 
 {% figure "../assets/aaa.png" %}
 {% endfigure %}
 
-**Foxhole:** A sandbag fortified foxhole provides cover against small arms and artillery strikes. Requirements and limitations:
+**Trinchera:** Una trinchera reforzada con bolsas de arena que protege contra armas pequeñas y ataques de artillería. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministro deben encontrarse como máximo a 200m.
+* Un máximo de otras 9 trincheras o segmentos de alambre de espino a menos de 200m y en ese FOB.
+* Un equipo puede tener hasta 60 trincheras, muros de bolsas de arena y segmentos de alambre de espino en total.
 
 {% figure "../assets/foxhole.png" %}
 {% endfigure %}
 
-**Sandbag-wall:** A sandbag wall is a small 5m long wall made of sandbags to hide behind and use as cover against small arms. Requirements and limitations:
+**Muro de sacos de arena:** Es un pequeño muro de 5m de largo, hecho con sacos de arena para ocultarse y protegerse de armas pequeñas. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministro deben encontrarse como máximo a 200m.
+* Un máximo de otras 9 trincheras o segmentos de alambre de espino a menos de 200m y en ese FOB.
+* Un equipo puede tener hasta 60 trincheras, muros de sacos de arena y segmentos de alambre de espino en total.
 
 {% figure "../assets/sandbagwall.png" %}
 {% endfigure %}
 
-**Razor wire:** A 10m wide road block of razor wire and tank traps. Requirements and limitations:
+**Alambre de espino :** Un bloqueo de carretera de 10m de ancho hecho con alambre de espino y erizos checos. Requisitos y limitaciones: 
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministro deben encontrarse como máximo a 200m.
+* Un máximo de otras 9 trincheras o segmentos de alambre de espino a menos de 200m y en ese FOB.
+* Un equipo puede tener hasta 60 trincheras, muros de sacos de arena y segmentos de alambre de espino en total.
 
-**Roadblock \(unconventional forces\):** A 5m or 10m \(right or left click\) wide road block of garbage. Requirements and limitations:
+**Barricada \(fuerzas no convencionales\):**Un bloque de basura de 5m o 10m \(clic derecho o izquierdo\) de ancho. Requisitos y limitaciones:
 
-* Must be placed 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* A maximum of 9 other roadblocks, razorwires, foxholes and sandbags can be within 200m.
-* The team can have up to 100 roadblocks in total.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* Un máximo de otras 9 trincheras o segmentos de alambre de espino a menos de 200m y en ese FOB.
+* El equipo puede tener hasta 100 barricadas en total.
 
 {% figure "../assets/roadblock.png" %}
 {% endfigure %}
 
-**Mortar:** A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km. Requirements and limitations:
+**Mortero:** Una posición de mortero fija que puede proporcionar apoyo de fuego indirecto a largas distancias. Todas las facciones pueden disparar rondas de alto explosivo. Las fuerzas convencionales y la milicia también pueden usar ráfagas de aire y humo. Los morteros no se pueden construir en mapas de menos de 2 km. Requisitos y limitaciones:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m \(only needed for conventional forces, militia and Syrian Rebels\).
-* The team can have up to 2 mortar positions at the same time.
-* Both mortar positions must be placed within 50m of each other.
+* Debe ser emplazado a 200m como máximo del FOB / escondite más cercano y al menos a 200m de distancia del CO-Post del equipo, y a 50m del deposito de vehículos.
+* 2 cajas pesadas de suministros deben encontrarse como máximo a 200m. \(Solo para la milicia y rebeldes sirios\).
+* El equipo puede tener hasta 2 posiciones de morteros a la vez.
+* Ambas posiciones de morteros se deben encontrar a menos de 50m la una de la otra.
 
 {% figure "../assets/mortarss.png" %}
 {% endfigure %}
