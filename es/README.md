@@ -4,7 +4,7 @@
 
 ## **Project Reality: BF2 Manual - Updated for v1.7**
 
-> Project Reality: BF2 ha sido desarrollado por innumerables desarrolladores durante un período de más de 15 años. Amplias modificaciones y mejoras se hicieron durante este tiempo. Después de miles de cambios, cada vez es más difícil reconocer que PR es una modificación de Battlefield 2. Esperamos que este manual le brinde un buen comienzo en el desafiante mundo de PR: BF2. Si tiene algún comentario o pregunta sin respuesta sobre este documento, no dude en contactarnos en los foros. **Este manual ha sido actualizado para la versión 1.6 de PR: BF2.**
+> Project Reality: BF2 ha sido desarrollado por innumerables desarrolladores durante un período de más de 15 años. Amplias modificaciones y mejoras se hicieron durante este tiempo. Después de miles de cambios, cada vez es más difícil reconocer que PR es una modificación de Battlefield 2. Esperamos que este manual le brinde un buen comienzo en el desafiante mundo de PR: BF2. Si tiene algún comentario o pregunta sin respuesta sobre este documento, no dude en contactarnos en los foros. **Este manual ha sido actualizado a la versión 1.7 de PR: BF2.**
 >
 > _The PR-Team_
 
