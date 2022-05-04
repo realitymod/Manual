@@ -48,7 +48,7 @@
   * [Trabajos de Constuccion](the_squad_leader.md#construction-work)
   * [Estruturas Desplegables](the_squad_leader.md#deployable-structures)
 * [Operando Vehículos](operating_vehicles.md)
-  * [Informaciones Generaless Sobre Vehículos](operating_vehicles.md#general-vehicle-information)
+  * [Informaciones Generales Sobre Vehículos](operating_vehicles.md#general-vehicle-information)
   * [Vehículos Blindados](operating_vehicles.md#armored-vehicles)
   * [Helicópteros](operating_vehicles.md#helicopters)
   * [Aviones de Combate](operating_vehicles.md#fixed-wing-aircraft)

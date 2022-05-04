@@ -1,6 +1,6 @@
 # Operando Vehículos
 
-## _Informaciones Generaless Sobre Vehículos_ {#general-vehicle-information}
+## _Informaciones Generales Sobre Vehículos_ {#general-vehicle-information}
 
 * Los vehículos ligeros, camiones, lanchas y Jeeps \(Excepto los blindados ligeros\) pueden ser operados por cualquier Soldado. Vehículos Blindados, Helicópteros y Aeronaves necesitan un Kit específico para operarlos. Jugadores no usando el kit correcto no podrán usar el vehículo y armamento. No puedes entrar o usar Vehículos enemigos. Para vehículos Terrestres necesitaras el kit de **Conductor**. Para los Aviones y Helicópteros necesitaras el Kit de **Piloto**. Estos son solicitados desde un vehículo
 o	de los suministros.
