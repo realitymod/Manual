@@ -29,7 +29,7 @@ El **Squad Leader** en PR:BF2 tiene muchas habilidades funcionales. Puede marcar
 
 ## _Designador Laser \(GTLD\)_ {#gtld}
 
-El kit de líder de escuadrón y el kit de observador utilizados por las fuerzas convencionales están equipados con **GTLD \(Designador láser de objetivo terrestre\).**. Este equipo tiene un mejor zoom que los binoculares normales, incluye un telémetro y te permite marcar objetivos enemigos que pueden ser atacados por bombas o misiles de unidades aéreas amigas \(y enemigas\).
+El kit de líder de escuadrón y el kit de observador utilizados por las fuerzas convencionales están equipados con **GTLD \(Designador láser de objetivo terrestre\).** Este equipo tiene un mejor zoom que los binoculares normales, incluye un telémetro y te permite marcar objetivos enemigos que pueden ser atacados por bombas o misiles de unidades aéreas amigas \(y enemigas\).
 
 Con el GTLD equipado, puede hacer clic con el botón derecho para aumentar el nivel de zoom y hacer clic con el botón izquierdo para activar o desactivar el laser. Mientras está encendido, el GTLD emitirá un laser, que debes mantener en tu objetivo hasta que la bomba/misil lo alcance, a diferencia de las versiones anteriores donde el laser se "pegaría" al objetivo incluso sin línea de visión.
 
