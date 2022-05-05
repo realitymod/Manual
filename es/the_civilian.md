@@ -1,60 +1,60 @@
-# The Civilian
+# El Civil
 
-When playing on the Iraqi insurgent or Hamas faction, players can choose to play as the Civilian. This role’s primary focus is to gather intelligence on Coalition forces and to run interference for the insurgent Cell Leaders. This kit does not come equipped with any weapons but has a wide variety of equipment and tools. Civilians can use their cellphones to spot enemy troops for their team by placing a marker on the map.
+Cuando se juega en la facción de los insurgentes iraquíes o de Hamás, los jugadores pueden elegir jugar como civiles. El enfoque principal de esta función es recopilar inteligencia sobre las fuerzas de la Coalición y hacer interferencia para los líderes de células insurgentes. Este kit no viene equipado con ningún arma, pero tiene una amplia variedad de equipos y herramientas. Los civiles pueden usar sus teléfonos celulares para detectar tropas enemigas para su equipo colocando un marcador en el mapa.
 
 {% figure "../assets/civiii.png" %}
-A civilian.
+El Civil.
 {% endfigure %}
 
-Civilians are bound by particular **rules of engagement** \(ROE\). Coalition forces cannot fire agains't civilians that are outside the rules of engagement, risking heavy penalizations. Instead they must **arrest** them or wait untill they're a legit target.
+Los civiles están sujetos a **reglas de enfrentamiento** \(ROE\) particulares. Las fuerzas de la coalición no pueden disparar contra civiles que estén fuera de las reglas de enfrentamiento, arriesgándose a sufrir fuertes penalizaciones. En su lugar, deben **arrestarlos** o esperar hasta que sean un objetivo legítimo.
 
-In order for a player to arrest a civilian, it must use the restrainers or the Shotgun with a buckshot round.
+Para que un jugador arreste a un civil, debe usar los esposas de plástico o la escopeta con una ronda de perdigones.
 
-> Civilians that decide to commit suicide are also counted as an arrested.
+> Los civiles que deciden suicidarse también se cuentan como detenidos.
 
-If you shoot a civilian outside the ROE, you will face several penalties:
+Si disparas a un civil fuera de las ROE, te enfrentarás a varias sanciones:
 
-* After your next death you will respawn 120 seconds later per civilian shot \(stacks up to 5 minutes additional delay\)
-* You will not be able to request any kits for 10 minutes
-* Your score is reduced to 0 and the kill will not be listed on the scoreboard
-* Your team loses 10 intelligence points
+* Después de tu próxima muerte, reaparecerás 120 segundos más tarde por disparo civil \(se acumula hasta 5 minutos de retraso adicional\)
+* No podrás solicitar ningún kit durante 10 minutos
+* Tu puntuación se reduce a 0 y la muerte no aparecerá en el marcador
+* Tu equipo pierde 10 puntos de inteligencia
 
-In the other hand, shooting a civilian inside the ROE will cause:
+Por otro lado, dispararle a un civil dentro de las ROE causará:
 
 * The civilian to have an additional 120 seconds in the respawn time
 * Your team gains 10 intelligence points
 
-Running over civilians in a vehicle or climbing on ropes will also result in a penalty if done outside of the ROE.
+Atropellar civiles con un vehículo o matarlos mientras trepan por una escalera o soga también resultará en una penalización si se realiza fuera de las ROE. 
 
-## Rules Of Engagement \(ROE\)
+## Reglas de Enfrentamiento \(ROE\)
 
-A civilian is considered inside the ROE and therefor can be killed if any of these conditions are met:
+Se considera que un civil está dentro de las ROE y, por lo tanto, puede morir si se cumple alguna de estas condiciones:
 
 * Spawned...
-* Have picked up a kit with a weapon...
-* Used a vehicle...
-* Used a shovel or epipen...
-* Resuscitate someone...
+* Haber recogido un kit con un arma...
+* Usado un vehículo...
+* Usó una pala o epipen...
+* Resucito a alguien...
 
-...less than 2m priour to the engagement. Or he must have an armed insurgent next to him, within 5m horizontally or 1.5m vertically.
+...Un civil también puede ser castigado si muere a una distancia inferior a 10 metros horizontales y 1.5 metros verticales de insurgentes armados. 
 
-## Becoming a civilian
+## Convertirse en un Civil
 
-For you to become a civilian you must first either spawn as a non-armed soldier or to simply drop your kit \(Press T and then G\). Secondly, has mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit.
+Para que te conviertas en un civil, primero debes aparecer como un soldado no armado o simplemente soltar tu equipo \(Presiona T y luego G\). En segundo lugar, como se mencionó en la sección anterior, debe esperar 2 minutos después de generar o dejar caer su kit.
 
-## Civilian vehicles
+## Vehículos Civiles
 
-Non armed-vehicles, including ammo techies and "Fake Garys", must not be destroyed by Coalition forces.
+Los vehículos no armados, incluidos los técnicos en munición y los "Fake Garys", no deben ser destruidos por las fuerzas de la Coalición.
 
-A vehicle is considered civilian and therefor cannot be destroyed if:
+Un vehículo se considera civil y por lo tanto no puede ser destruido si:
 
-* Is empty
-* Does not have a gun
-* Was last use more than 1 minute ago
-* Has no enemies nearby \(3 meters\)
+* Esta vacio
+* No tiene un arma
+* Fue el último uso hace más de 1 minuto
+* No tiene enemigos cerca \(3 metros\)
 
-Failing to comply to this ROE will result:
+El incumplimiento de este ROE resultará en:
 
-* Loss of 5 intel points for the team
-* Loss of 50 points for the player
+* Pérdida de 5 puntos de inteligencia para el equipo
+* Pérdida de 50 puntos para el jugador
 
