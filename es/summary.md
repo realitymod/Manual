@@ -45,7 +45,7 @@
   * [Designador Laser GTLD](the_squad_leader.md#gtld)
   * [Rally Points](the_squad_leader.md#rally-points)
   * [Solicitar Apoyo](the_squad_leader.md#requesting-support)
-  * [Trabajos de Constuccion](the_squad_leader.md#construction-work)
+  * [Trabajos de Constucción](the_squad_leader.md#construction-work)
   * [Estruturas Desplegables](the_squad_leader.md#deployable-structures)
 * [Operando Vehículos](operating_vehicles.md)
   * [Informaciones Generales Sobre Vehículos](operating_vehicles.md#general-vehicle-information)
