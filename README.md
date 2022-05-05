@@ -18,3 +18,4 @@ This requires installing Node-JS and npm, npm and getting gitbook-cli:  `npm ins
 - German: Rotblut
 - Brazilian Portuguese: Mordekay
 - Indonesia: PRID-TEAM
+- Spanish: isaias43
