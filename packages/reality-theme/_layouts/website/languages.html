@@ -3,16 +3,18 @@
 {% block title %}{{ "LANGS_CHOOSE"|t }} · {{ super() }}{% endblock %}
 
 {% block body %}
-<div class="book-langs-index" role="navigation">
+<div class="book-langs-index">
     <div class="inner">
         <h3>{{ "LANGS_CHOOSE"|t }}</h3>
 
-        <ul class="languages">
-        {%  for lang in languages.list %}
-            <li>
-                <a href="{{ (lang.id + "/README.md")|contentURL }}">{{ lang.title }}</a>
-            </li>
-        {% endfor %}
+        <ul class="languages" role="navigation">
+            {%  for lang in languages.list %}
+                <a href="{{ (lang.id + "/README.md")|contentURL }}">
+                    <li>
+                        {{ lang.title }}
+                    </li>
+                </a>
+            {% endfor %}
         </ul>
     </div>
 </div>

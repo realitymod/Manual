@@ -1,55 +1,24 @@
-h1, h2, h3, h4 {
-    color: rgb(98,160,216);
-}
-
-
-.book-body, .book-summary{
-	background-color: #404040;
-}
-
-.book-summary ul.summary li a, .book-summary ul.summary li span{
-	color: rgb(98,160,216);
-}
-
-#book-search-results .search-results .has-results .search-results-item>:last-child {
-    margin-bottom: 0!important;
-    color: #fff;
-}
-
-.book-summary ul.summary li.active>a {
-	background-color: rgb(98,160,216);
-	color: #404040;
-	text-decoration: none;
-	display: block;
-}
-
-.book-body .markdown-section{
-	color: white;
-}
-
 .book-langs-index{
-	background-color: rgb(64, 64, 64);
-	color: #62a0d8;
+	height: 100%;
+	width: 100%;
+	background-color: #171717;
 }
 
 .book-langs-index .inner{
-	background-color: rgb(117, 117, 117);
-	color: #404040;
+	background: transparent;	
+	color: rgb(98,160,216);
 }
 
-.book-langs-index .inner .languages{
-	border-top: 1px solid #b7b7b7;
+.book-langs-index .inner h3 {
+	text-align: center;
 }
 
-.markdown-section table td, .markdown-section table th {
-    padding: 6px 13px;
-    border: 1px solid #5B9BD4;
+.book-langs-index .inner .languages li {
+	background: #588fc0;
+	margin: 10px;
+	border-radius: 10px;
+	padding: 10px;
+	color: #171717;
+	width: 100%;
+	float: none;
 }
-
-.markdown-section table tr, .markdown-section table tr:nth-child(2n) {
-    background-color: #313D4F;
-}
-
-markdown-section blockquote{
-	border-color: #858585;
-  } 
