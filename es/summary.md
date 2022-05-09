@@ -29,7 +29,7 @@
   * [Navegación en el campo de Batalla](the_basics.md#battlefield-navigation)
   * [Informaciones Basicas de Vehículos](the_basics.md#basic-vehicle-information)
 * [Armas y Equipamientos](weapons_and_equipment.md)
-  * [Informacioes Generales de Armas y Equipamientos](weapons_and_equipment.md#general-weapons-equipment)
+  * [Informaciones Generales de Armas y Equipamientos](weapons_and_equipment.md#general-weapons-equipment)
   * [Cambio de Mira](weapons_and_equipment.md#buis)
   * [Configurar Distancia de la Mira](weapons_and_equipment.md#altering-sighting-range)
 * [Kits](kits.md)

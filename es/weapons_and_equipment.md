@@ -1,6 +1,6 @@
 # Armas y Equipamientos
 
-## _Informacioes Generales de Armas y Equipamientos_ {#general-weapons-equipment}
+## _Informaciones Generales de Armas y Equipamientos_ {#general-weapons-equipment}
 
 Después de moverse durante un tiempo prolongado, necesitarás tomarte un momento para ser capaz de disparar con precisión a objetivos a larga distancia. Los enfrentamientos a corta distancia no se verán afectados por el movimiento basado en desviación. Esto permite al jugador hacer pequeñas correcciones sin sufrir alguna desviación al disparar. Tirarse al suelo para disparar afectará por unos segundos tu desviación, pero ofrece la mayor precisión a la hora de disparar a objetivos a larga distancia una vez se haya recuperado.
 
@@ -28,7 +28,7 @@ Las arnas deben ser recargadas manualmente \(tecla por defecto **R**\). La desvi
 
 > _Kits: Tirador_
 
-![cuserswouterdesktop6.png](../assets/cuserswouterdesktop6.png)**Rofle de Francotirador** Son usados para enfrentar objetivos de alta prioridad a largas distancias. Su velocidad de disparo es lenta comparado con un arma normal. La posición del francotirador influencia la precisión de un tiro lejano. Se debe recordar que a partir de los 600m ya encontraras caída de bala. Máxima precisión se obtiene esperando 8 segundos después de un movimiento con el arma y 4 segundos tras haber disparado. Apretado la tecla \(3\) podrás aguantar la respiración por 8 segundos, con este sonido puedes estimar el tiempo necesario para disparar. Maten el botón de disparar presionado tras haber disparado, eso dejara que puedas observar cómo fue tu tiro antes de recargar.
+![cuserswouterdesktop6.png](../assets/cuserswouterdesktop6.png)**Rifle de Francotirador** Son usados para enfrentar objetivos de alta prioridad a largas distancias. Su velocidad de disparo es lenta comparado con un arma normal. La posición del francotirador influencia la precisión de un tiro lejano. Se debe recordar que a partir de los 600m ya encontraras caída de bala. Máxima precisión se obtiene esperando 8 segundos después de un movimiento con el arma y 4 segundos tras haber disparado. Apretado la tecla \(3\) podrás aguantar la respiración por 8 segundos, con este sonido puedes estimar el tiempo necesario para disparar. Maten el botón de disparar presionado tras haber disparado, eso dejara que puedas observar cómo fue tu tiro antes de recargar.
 
 > _Kits: Francotirador_
 
