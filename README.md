@@ -9,12 +9,13 @@ Project Reality: BF2 has been in development by countless developers over a peri
 
 
 ## Building and testing
-This requires installing Node-JS and npm, npm and getting gitbook-cli:  `npm install gitbook-cli -g`
- - Install plugins: `gitbook install`
- - Build: `gitbook build`
- - Host locally (available on localhost:4000): `gitbook serve`
+This requires installing Node-JS, npm and getting honkit, a fork of gitbook:  `npm install honkit --save-dev`
+ - Install plugins: `npx honkit init`
+ - Build: `npx honkit build`
+ - Host locally (available on localhost:4000): `npx honkit serve`
 
 ## Translation credits
 - German: Rotblut
 - Brazilian Portuguese: Mordekay
 - Indonesia: PRID-TEAM
+- Spanish: isaias43

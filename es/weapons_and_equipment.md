@@ -1,6 +1,8 @@
 # Armas y Equipamientos
 
+
 ## _Informaciones Generales de Armas y Equipamientos_ {#general-weapons-equipment}
+
 
 Después de moverse durante un tiempo prolongado, necesitarás tomarte un momento para ser capaz de disparar con precisión a objetivos a larga distancia. Los enfrentamientos a corta distancia no se verán afectados por el movimiento basado en desviación. Esto permite al jugador hacer pequeñas correcciones sin sufrir alguna desviación al disparar. Tirarse al suelo para disparar afectará por unos segundos tu desviación, pero ofrece la mayor precisión a la hora de disparar a objetivos a larga distancia una vez se haya recuperado.
 
