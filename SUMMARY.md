@@ -45,7 +45,7 @@
 * [Spanish / Español - v1.7](es/README.md)
     * [Set-Up](es/set-up.md)
     * [Modos de Juego](es/game_modes.md)
-    * [Conceptos Basicos](es/the_basics.md)
+    * [Conseptos Basicos](es/the_basics.md)
     * [Armas y Equipamientos](es/weapons_and_equipment.md)
     * [Kits](es/kits.md)
     * [El Líder de Escuadrón](es/the_squad_leader.md)

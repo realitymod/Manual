@@ -24,7 +24,7 @@ Las marcas en el mapa para el modo AAS son::
 * ![](../assets/defend.png) Marca de Defensa
 * ![](../assets/defend%20bleed.png) Marca de Defensa \(Pérdida de Tickets\) 
 * ![](../assets/attack_bleed.png) Marca de Ataque 
-* ![](../assets/attack.png) Marca de Ataque  \(Pérdida de Tickets\)
+* ![](../assets/attack.png) Marca de Ataque  \(érdida de Tickets\)
 
 Guerra de Vehículos, Skirmish & COOP usan marcas similares para el ataque y la defensa.
 

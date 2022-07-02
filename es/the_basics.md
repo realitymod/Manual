@@ -1,6 +1,6 @@
-# Conceptos Basicos
+# Conseptos Basicos
 
-Primeramente deberás  **unirte a un escuadron.**. Algunos servers te pueden forzar a hacerlo al expulsarte después de un periodo de advertencia. El juego es de lejos mucho más jugándolo con una patrulla funcional. Si necesitas ayuda, **solo pregunta a los jugadores de tu escuadron** que hacer. En la medida de lo posible, usa Mumble. Es comúnmente usado en PR. Al jugar PR: BF2 sin un micrófono no vivirás la máxima experiencia, así que es una inversión sabia. Si nadie responde, trata de unirte a otra patrulla o usar el chat general. Hay muchos miembros de la comunidad que están dispuestos a echarles una mano a los nuevos jugadores. Puedes jugar primero BF2 a modo de tutorial para familiarizarte con la interfaz. Este manual se centrará en las diferencias con BF2.
+Primeramente deberás  **nirte a un escuadron.**. Algunos servers te pueden forzar a hacerlo al expulsarte después de un periodo de advertencia. El juego es de lejos mucho más jugándolo con una patrulla funcional. Si necesitas ayuda, **solo pregunta a los jugadores de tu escuadron** que hacer. En la medida de lo posible, usa Mumble. Es comúnmente usado en PR. Al jugar PR: BF2 sin un micrófono no vivirás la máxima experiencia, así que es una inversión sabia. Si nadie responde, trata de unirte a otra patrulla o usar el chat general. Hay muchos miembros de la comunidad que están dispuestos a echarles una mano a los nuevos jugadores. Puedes jugar primero BF2 a modo de tutorial para familiarizarte con la interfaz. Este manual se centrará en las diferencias con BF2.
 
 ## _Selección de Kits y Re-spawn_ {#kit-selection-and-spawning}
 
