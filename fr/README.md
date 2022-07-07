@@ -2,7 +2,7 @@
 >
 >Nous espérons que ce manuel vous fournira un bon départ dans le monde difficile de PR:BF2. Si vous avez des commentaires ou des questions sans réponse concernant ce document, n'hésitez pas à nous contacter sur les forums.
 >
-> _The PR-Team_
+> _L'équipe PR_
 
 ## Introduction
 
