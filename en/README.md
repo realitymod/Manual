@@ -14,11 +14,11 @@ La philosophie fondamentale de Project Reality est le travail d'équipe. La coor
 
 Un autre aspect fondamental des relations publiques est la façon dont les joueurs communiquent. La communication dans les relations publiques est un élément essentiel du gameplay et nous recommandons que tous les joueurs soient prêts pour le microphone lorsqu'ils commencent à jouer en ligne. Pour assurer une meilleure communication, une version intégrée du logiciel de communication vocale PR Mumble offre aux joueurs des capacités non disponibles avec la voix sur IP BF2 intégrée, telles que la possibilité de parler à d'autres joueurs à proximité, quelle que soit l'équipe dans laquelle ils se trouvent. , ainsi que transmettre aux membres de l'escouade sur la radio de l'escouade, peu importe où ils se trouvent sur le champ de bataille. Aucune installation supplémentaire n'est requise, ce qui signifie que chaque joueur sur le champ de bataille aura la même configuration de communication et pourra communiquer sans effort.
 
-This mod was made by players, for players so don't be afraid to ask for help in-game or on the forums at [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Again, welcome to PR and a totally new gaming experience!
+Ce mod a été créé par des joueurs, pour des joueurs, alors n'ayez pas peur de demander de l'aide dans le jeu ou sur les forums de [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Encore une fois, bienvenue dans les relations publiques et dans une toute nouvelle expérience de jeu !
 
 ## Changelog
-The changelog for this manual is as follows:
+Le journal des modifications de ce manuel est le suivant :
 
 ### 2022-01-22
-- Added contributing page
-- Updated content for new theme
+- Ajout de la page de contribution
+- Contenu mis à jour pour le nouveau thème
