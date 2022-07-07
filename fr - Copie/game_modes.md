@@ -50,9 +50,9 @@ Dans ce mode, il est possible pour un ou plusieurs joueurs humains de se battre 
 
 Ce mode est très unique par rapport aux autres au sein de PR. L'objectif de la force de la coalition est de trouver et de détruire cinq caches d'armes d'insurgés cachées sur toute la carte avant de manquer de billets. Les forces de la coalition perdent des tickets pour chaque décès de joueur ou atout détruit, tandis que l'équipe d'insurrection ne perd des tickets que lorsqu'une cache d'armes est détruite.
 
-{% figure "../assets/weaponcache.png" %}
-Une cache d'armes.
-{% endfigure %}
+> ![](../assets/weaponcache.png)
+>
+> une cache d'armes
 
 Les troupes de la coalition sont tenues de recueillir des renseignements en tuant des combattants insurgés ou en capturant des civils insurgés[\(voir Le civil\)](the_civilian.md). . Pour capturer un civil, un joueur de la coalition doit se trouver à moins d'un mètre du civil et doit soit utiliser un dispositif de retenue, qui consiste en une paire de menottes en plastique à fermeture éclair, accessible en sélectionnant le chiffre 1 sur votre clavier, soit utiliser un fusil de chasse . Cela simule l'immobilisation du civil avec une chevrotine en caoutchouc. La coalition gagne si elle parvient à détruire un certain nombre de caches d'armes avant de manquer de temps ou de billets, sinon l'équipe d'insurgés gagne la partie. Les ingénieurs insurgés peuvent également réparer les caches endommagées. Le nombre de caches est affiché lors du chargement de la carte et avec des messages défilants sur le serveur.
 To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
