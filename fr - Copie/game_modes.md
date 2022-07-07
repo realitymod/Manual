@@ -21,10 +21,10 @@ Si l'équipe attaquante n'a pas un ratio de 2 contre 1 par rapport à l'équipe 
 
 Les marqueurs de cartes pour AAS sont:
 
-* ![](../assets/defend.png) Defend Marker 
-* ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\) 
-* ![](../assets/attack_bleed.png) Attack Marker
-* ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
+* ![](../assets/defend.png) Marqueur défense
+* ![](../assets/defend%20bleed.png) Défendle marqueur \(avec saignement de ticket\) 
+* ![](../assets/attack_bleed.png) Marqueur d'attaque
+* ![](../assets/attack.png) Marqueur d'attaque \(avec saisgnement de ticket\)
 
 Vehicle Warfare, Skirmish & COOP utilisent des marqueurs de carte similaires pour l'attaque et la défense.
 
@@ -57,25 +57,25 @@ Une cache d'armes.
 Les troupes de la coalition sont tenues de recueillir des renseignements en tuant des combattants insurgés ou en capturant des civils insurgés[\(voir Le civil\)](the_civilian.md). . Pour capturer un civil, un joueur de la coalition doit se trouver à moins d'un mètre du civil et doit soit utiliser un dispositif de retenue, qui consiste en une paire de menottes en plastique à fermeture éclair, accessible en sélectionnant le chiffre 1 sur votre clavier, soit utiliser un fusil de chasse . Cela simule l'immobilisation du civil avec une chevrotine en caoutchouc. La coalition gagne si elle parvient à détruire un certain nombre de caches d'armes avant de manquer de temps ou de billets, sinon l'équipe d'insurgés gagne la partie. Les ingénieurs insurgés peuvent également réparer les caches endommagées. Le nombre de caches est affiché lors du chargement de la carte et avec des messages défilants sur le serveur.
 To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
 
-To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
+Pour révéler l'emplacement approximatif des caches d'armes des insurgés tout en jouant à Insurgency, des renseignements doivent être recueillis par les forces de la coalition. L'équipe de la Coalition a besoin de 50 points de renseignement \(IP\) pour que la cache se révèle après 5 minutes. La liste suivante montre la quantité de points d'intelligence gagnés ou perdus en raison de différentes actions.
 
-* Insurgent killed: +1 IP \(within 300m\)
-* Civilian or insurgent arrested: +10 IP
-* Civilian killed \(violating rules of engagement\): -5 IP
-* Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
-* Destroying unused civilian vehicles : -5 IP
+* Insurgé tué : +1 IP \(dans un rayon de 300m\)
+* Civil ou insurgé arrêté : +10 IP
+* Civil tué \(violation des règles d'engagement\) : -5 IP
+* Destruction de véhicules à proximité civile \(dans un rayon de 50m pendant les 60 dernières secondes\) : -50 IP
+* Destruction de véhicules civils inutilisés : -5 IP
 
-Jets, tanks and helicopters can't gain IP through these methods. The approximate location of the first cache is shown about 5 minutes into the round. Additional locations will be revealed 5 minutes after enough IP is gained by the coalition. There can be up to 2 active caches at the same time. The new location is revealed when reaching 50 intelligence points. If there are less than 32 players on the server the IP needed to reveal a cache is halved. A team can only have a maximum of 50 and a minimum of -50 IP.
+Les jets, les chars et les hélicoptères ne peuvent pas gagner de propriété intellectuelle par ces méthodes. L'emplacement approximatif de la première cache est indiqué environ 5 minutes après le début du tour. Des emplacements supplémentaires seront révélés 5 minutes après que suffisamment d'adresses IP auront été acquises par la coalition. Il peut y avoir jusqu'à 2 caches actifs en même temps. Le nouvel emplacement est révélé lorsque vous atteignez 50 points de renseignement. S'il y a moins de 32 joueurs sur le serveur, l'IP nécessaire pour révéler un cache est divisée par deux. Une équipe ne peut avoir qu'un maximum de 50 et un minimum de -50 IP.
 
-The map markers for insurgency are:
+Les marqueurs de carte pour l'insurrection sont :
 
-* ![](../assets/cache.png) **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
-* ![](../assets/unknown%20weapon%20cache.png) **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces.
-* ![](../assets/unknown%20cache.png) **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence. The cache will not be physically spawned yet until it is revealed to the coalition forces.
+* ![](../assets/cache.png) **Cache d'armes de la coalition connue** : cette icône sera visible sur la carte des forces de la coalition, indiquant l'emplacement approximatif de la cache lorsque suffisamment de renseignements ont été acquis. Le marqueur peut être décalé jusqu'à 75 m.
+* ![](../assets/unknown%20weapon%20cache.png) **Cache d'armes connues des insurgés** : cette icône sera visible sur la carte des forces insurgées, ce qui indique que la cache a été localisée par les forces de la coalition.
+* ![](../assets/unknown%20cache.png) **Cache d'armes d'insurgés inconnues** : cette icône représentera la position de la cache où elle apparaîtra sur le champ de bataille. Ils ne sont visibles que des forces insurgées afin qu'elles puissent coordonner leurs défenses pendant que les forces de la coalition recueillent des renseignements. La cache ne sera pas encore créée physiquement jusqu'à ce qu'elle soit révélée aux forces de la coalition.
 
-The caches can be destroyed by small or large packs of C4. Other weaponry will only do no or light damage to a cache.
+Les caches peuvent être détruites par de petits ou gros packs de C4. Les autres armes n'infligeront que peu ou pas de dégâts à une cache.
 
-Once it is destroyed the coalition team gains 30 tickets and a message will inform the team about how many caches remain to be destroyed. Caches can be repaired by wrench or shovels.
+Une fois détruite, l'équipe de la coalition gagne 30 tickets et un message informera l'équipe du nombre de caches restant à détruire. Les caches peuvent être réparées à la clé ou à la pelle.
 
-The caches will only show on the map 30 seconds before round start to avoid exploiting this information beforehand.
+Les caches ne s'afficheront sur la carte que 30 secondes avant le début de la manche pour éviter d'exploiter ces informations en amont.
 
