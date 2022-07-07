@@ -1,10 +1,9 @@
-> Project Reality: BF2 has been in development by countless developers over a period of more than 15 years. Extensive modifications and improvements were made during this time.
-> After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification.
+>$Project Reality : BF2 a été développé par d'innombrables développeurs sur une période de plus de 15 ans. De nombreuses modifications et améliorations ont été apportées pendant cette période.
+> Après des milliers de changements, il devient de plus en plus difficile de reconnaître que PR est une modification de Battlefield 2.
 > 
-> We hope this manual provides you with a good start into the challenging world of PR:BF2.
-> If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums.
->
-> _The PR-Team_
+> Nous espérons que ce manuel vous fournira un bon départ dans le monde difficile de PR:BF2.
+> Si vous avez des commentaires ou des questions sans réponse concernant ce document, n'hésitez pas à nous contacter sur les forums.
+> _l'equipe de PR_
 
 ## Introduction
 
