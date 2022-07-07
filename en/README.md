@@ -1,5 +1,4 @@
 >Project Reality : BF2 a été développé par d'innombrables développeurs sur une période de plus de 15 ans. De nombreuses modifications et améliorations ont été apportées pendant cette période. Après des milliers de changements, il devient de plus en plus difficile de reconnaître que PR est une modification de Battlefield 2.
-
 >Nous espérons que ce manuel vous fournira un bon départ dans le monde difficile de PR:BF2. Si vous avez des commentaires ou des questions sans réponse concernant ce document, n'hésitez pas à nous contacter sur les forums.
 > _The PR-Team_
 
