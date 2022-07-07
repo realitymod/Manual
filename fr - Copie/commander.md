@@ -38,29 +38,29 @@ Les marqueurs ne peuvent pas être placés tout le temps. En haut à gauche, il 
 
 Si les chefs d'escouade pensent que le commandant n'est pas efficace dans ses fonctions, ils ont alors la possibilité de déclencher une **mutinerie** . S'il réussit, un nouveau joueur peut prendre cette position.
 
-Le **Commander Rally Point** peut être utilisé par toute l'équipe. Pour établir ce RP, le Commandant a besoin d'au moins 6 joueurs près de lui (l'un d'eux doit être un chef d'escouade) pour placer le RP. Ce RP n'est pas disponible en mode escarmouche et au moins 12 joueurs doivent faire partie de l'équipe du commandant. Le RP restera actif tant que le commandant se trouve dans un rayon de 100 m du point de ralliement. Toutes les autres règles décrites dans le chapitre Chef d'escouade sur les points de ralliement s'appliquent également au point de ralliement du commandant.
+Le **Commander Rally Point** peut être utilisé par toute l'équipe. Pour établir ce RP, le Commandant a besoin d'au moins 6 joueurs près de lui \(l'un d'eux doit être un chef d'escouade\) pour placer le RP. Ce RP n'est pas disponible en mode escarmouche et au moins 12 joueurs doivent faire partie de l'équipe du commandant. Le RP restera actif tant que le commandant se trouve dans un rayon de 100 m du point de ralliement. Toutes les autres règles décrites dans le chapitre Chef d'escouade sur les points de ralliement s'appliquent également au point de ralliement du commandant.
 
 ## _UAV_ {#uav}
 
-The Commander of conventional forces and the militia are able to control an **Unmanned Aerial Vehicle \(UAV\)** from his team's command post or armored command vehicle \(ACV\). The UAV in PR:BF2 does not reveal enemy positions automatically but gives the commander the means to observe the battlefield visually from a bird’s eye point of view. The commander can control the UAV's camera while it cruises at a constant altitude.
+Le commandant des forces conventionnelles et la milice sont en mesure de contrôler un **véhicule aérien sans pilote \(UAV\)** depuis le poste de commandement ou le véhicule blindé de commandement \(VCA\) de son équipe. Le drone dans PR:BF2 ne révèle pas automatiquement les positions ennemies mais donne au commandant les moyens d'observer visuellement le champ de bataille d'un point de vue à vol d'oiseau. Le commandant peut contrôler la caméra du drone pendant qu'il navigue à une altitude constante.
 
-The UAV is launched by placing the UAV marker on the command map. This can be done by pressing the UAV icon on the top left of the commander screen or by right clicking on the map and placing the UAV icon. Then to operate it you have to enter the ACV vehicle at the main-base of your team.
+L'UAV est lancé en plaçant le marqueur UAV sur la carte de commande. Cela peut être fait en appuyant sur l'icône UAV en haut à gauche de l'écran du commandant ou en faisant un clic droit sur la carte et en plaçant l'icône UAV. Ensuite, pour le faire fonctionner, vous devez entrer dans le véhicule ACV à la base principale de votre équipe.
 
 {% figure "../assets/acvv.png" %}
 Armored Command Vehicle.
 {% endfigure %}
 
-**The UAV won’t be up forever.** The UAV loses 0.2% fuel/sec while travelling, 0.1% fuel/sec while operating and refuels at 0.2%fuel/sec at base. You can monitor the fuel by watching the “FUEL” bar on the top left of the commander screen.
+**Le drone ne sera pas éternellement en place**. L'UAV perd 0,2 % de carburant/s en déplacement, 0,1 % de carburant/s en fonctionnement et se ravitaille à 0,2 % de carburant/s à la base. Vous pouvez surveiller le carburant en regardant la barre "FUEL" en haut à gauche de l'écran de commande.
 
-The UAV can be sent back to base at any point to **refuel**. Returning to base does not consume any fuel. You can do this by right clicking the UAV icon on the top left side of the commander screen.
+Le drone UAV peut être renvoyé à la base à tout moment pour faire le plein . Le retour à la base ne consomme pas de carburant. Vous pouvez le faire en cliquant avec le bouton droit de la souris sur l'icône UAV en haut à gauche de l'écran du commandant.
 
-The time it takes to deploy the UAV depends on the travel distance. It travels at 50 m/s.
+Le temps nécessaire pour déployer le drone dépend de la distance parcourue. Il se déplace à 50 m/s.
 
-The UAV takes 45 seconds to start/land.
+Le drone prend 45 secondes pour démarrer/atterrir.
 
-**The UAV camera** has three levels of magnification with thermal vision capabilities. The Militia’s UAV only offers two zoom levels with no thermal vision.
+**La caméra UAV** a trois niveaux de grossissement avec des capacités de vision thermique. Le drone de la Militia n'offre que deux niveaux de zoom sans vision thermique.
 
-The UAV can be relocated instantly by assigning it a new position on the map. The UAV only operates on 2km and 4km maps due to it being too powerful for small maps.
+Le drone peut être déplacé instantanément en lui attribuant une nouvelle position sur la carte. Le drone ne fonctionne que sur des cartes de 2 km et 4 km car il est trop puissant pour les petites cartes.
 
 {% figure "../assets/uav.png" %}
 The commander’s UAV Camera.
