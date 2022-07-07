@@ -24,7 +24,7 @@ Pour maintenir la cohésion de l'équipe, le seul objectif du commandant est de 
 Possible commands, squad orders and icons commander can use.
 {% endfigure %}
 
-* **SOrdres d'escouade**
+* **Ordres d'escouade**
   * Les mêmes marqueurs sont disponibles pour les chefs d'escouade. Lorsque vous sélectionnez une équipe dans le menu de gauche, vous pouvez les commander. S'ils acceptent \(**PAGE UP**\) , il remplacera le marqueur de cette escouade. **** 
 
 {% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
@@ -38,7 +38,7 @@ Les marqueurs ne peuvent pas être placés tout le temps. En haut à gauche, il 
 
 Si les chefs d'escouade pensent que le commandant n'est pas efficace dans ses fonctions, ils ont alors la possibilité de déclencher une **mutinerie** . S'il réussit, un nouveau joueur peut prendre cette position.
 
-The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him \(one of them must be a squad leader\) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
+Le **Commander Rally Point** peut être utilisé par toute l'équipe. Pour établir ce RP, le Commandant a besoin d'au moins 6 joueurs près de lui (l'un d'eux doit être un chef d'escouade) pour placer le RP. Ce RP n'est pas disponible en mode escarmouche et au moins 12 joueurs doivent faire partie de l'équipe du commandant. Le RP restera actif tant que le commandant se trouve dans un rayon de 100 m du point de ralliement. Toutes les autres règles décrites dans le chapitre Chef d'escouade sur les points de ralliement s'appliquent également au point de ralliement du commandant.
 
 ## _UAV_ {#uav}
 
