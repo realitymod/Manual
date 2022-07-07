@@ -24,19 +24,19 @@ Pour maintenir la cohésion de l'équipe, le seul objectif du commandant est de 
 Possible commands, squad orders and icons commander can use.
 {% endfigure %}
 
-* **Squad Orders**
-  * Same markers are available to Squad Leaders. When you select a squad in the left menu you can order them. If they accept \(**PAGE UP**\) it will replace thats squad’s marker. ****
+* **SOrdres d'escouade**
+  * Les mêmes marqueurs sont disponibles pour les chefs d'escouade. Lorsque vous sélectionnez une équipe dans le menu de gauche, vous pouvez les commander. S'ils acceptent \(**PAGE UP**\) , il remplacera le marqueur de cette escouade. **** 
 
 {% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
 The build, observe, defend, demolish and move markers, respectively.
 {% endfigure %}
 
-* **Infantry \| Vehicles \| Emplacements \| Misc.**
-  * Various markers that can be placed to mark enemy infantry, assets and deployed assets.
+* **Infanterie \| Véhicules \| Emplacements \| Divers.**
+  * Divers marqueurs pouvant être placés pour marquer l'infanterie ennemie, les ressources et les ressources déployées.
 
-Markers cannot be placed all the time. At the top left there is a bar showing “**MARKER**” how you long it takes until the next marker can be placed.
+Les marqueurs ne peuvent pas être placés tout le temps. En haut à gauche, il y a une barre indiquant " **MARKER** " combien de temps il faut jusqu'à ce que le prochain marqueur puisse être placé.
 
-If the Squad Leaders believe the Commander is not efficient in his duties, then they have the option to start a **mutiny**. If it succeeds, a new player can take this position.
+Si les chefs d'escouade pensent que le commandant n'est pas efficace dans ses fonctions, ils ont alors la possibilité de déclencher une **mutinerie** . S'il réussit, un nouveau joueur peut prendre cette position.
 
 The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him \(one of them must be a squad leader\) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
 
