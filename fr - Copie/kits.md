@@ -1,21 +1,21 @@
 # Kits
 
-Kits in Project Reality define your class, equipment and your role in the team. PR features a wide selection of kits that you can take. Generally speaking, there are 2 kinds of kits in Project Reality:
+Les kits dans Project Reality définissent votre classe, votre équipement et votre rôle dans l'équipe. PR propose une large sélection de kits que vous pouvez emporter. De manière générale, il existe 2 types de kits dans Project Reality :
 
-* **Standard Kits**, which are the standard infantry squad roles and can be selected directly from the spawn screen
-* **Specialist Kits**, which are more specialised roles and can only be obtained through a special [request procedure](kits.md#kit-request)
+* **Kits standard** , qui sont les rôles standard de l'escouade d'infanterie et peuvent être sélectionnés directement à partir de l'écran d'apparition
+* **Kits de spécialistes** , qui sont des rôles plus spécialisés et ne peuvent être obtenus que via une [procédure de demande spécial](kits.md#kit-request)
 
-## _Where to start_ {#where-to-start}
+## _Par ou commencer_ {#where-to-start}
 
-As a new player, you should always join an infantry squad and take the **Rifleman** kit. The Rifleman represents the basic infantry grunt and can be used without restrictions by as many people as desired in a squad/team. All other kits are associated to more specialised roles and have rigid restrictions regarding the number of them that can be simultaneously used in a squad/team.
+En tant que nouveau joueur, vous devez toujours rejoindre une escouade d'infanterie et prendre le kit **Rifleman** . Le fusilier représente le grognement de base de l'infanterie et peut être utilisé sans restriction par autant de personnes que souhaité dans une escouade/équipe. Tous les autres kits sont associés à des rôles plus spécialisés et ont des restrictions rigides concernant le nombre d'entre eux pouvant être utilisés simultanément dans une escouade/équipe.
 
-Due to these restrictions, and in order to avoid negatively affecting your team performance by misusing a limited kit, it is **strongly recommended that you start playing with the Rifleman kit**. As you get more experienced and learn the basics of infantry gameplay, if you feel up to the task, you can ask your Squad Leader to assign you a different role. In any case, **you should ALWAYS ask your Squad Leader before changing kits**.
+En raison de ces restrictions, et afin d'éviter d'affecter négativement les performances de votre équipe en utilisant à mauvais escient un kit limité, il est fortement recommandé de commencer à jouer avec le kit Rifleman . Au fur et à mesure que vous gagnez en expérience et que vous apprenez les bases du jeu d'infanterie, si vous vous sentez à la hauteur de la tâche, vous pouvez demander à votre chef d'escouade de vous attribuer un rôle différent. Dans tous les cas, vous devez **TOUJOURS demander à votre Squad Leader avant de changer de kit** .
 
-## _Standard Kits_ {#standard_kits}
+## _Kit standard_ {#standard_kits}
 
-The **Standard Kits** are the 7 kits shown in the spawn screen and they represent the roles that typically make an infantry squad. In the following table you can see an overview of the 7 standard kits as well as information regarding how many kits of this type can be in a single squad and how many people need to be in the squad in order to be able to spawn with them.
+Les **kits standard** sont les 7 kits affichés dans l'écran d'apparition et ils représentent les rôles qui composent généralement une escouade d'infanterie. Dans le tableau suivant, vous pouvez voir un aperçu des 7 kits standard ainsi que des informations sur le nombre de kits de ce type pouvant être dans une seule équipe et le nombre de personnes qui doivent être dans l'équipe pour pouvoir apparaître avec eux. .
 
-| Kit | Limitation per squad | Minimum Squad Size |
+| Kit | Limitation par equipe | taille minimal de l'équipe |
 | --- | --- | --- |
 | **Officer** | 1 | 2 |
 | **Medic** | 2 | 2 |
