@@ -109,7 +109,7 @@ Pour demander un kit, une séquence de touches spécifique doit être suivie :
 | --- |
 | 1. Appuyez et maintenez la touche radio secondaire /(T/) \(cela fera apparaître une rose de communication \), |
 | 2. Avec la souris, sélectionnez l'option centrale de la Comm Rose \( **“REQUEST / DROP KIT"** \) et faites un **“clic gauche dessus"**. Cela ouvrira une liste de menu avec tous les kits qu'il contient |
-| 3. Déplacez votre souris pour mettre en surbrillance le kit souhaité et **“cliquez"** dessus avec le bouton gauche pour la version standard OU cliquez avec le **“bouton droit"** pour la version alternative |
+| 3. Déplacez votre souris pour mettre en surbrillance le kit souhaité et “**cliquez**" dessus avec le bouton gauche pour la version standard OU cliquez avec le **“bouton droit"** pour la version alternative |
 |4. Si toutes les conditions sont remplies, un texte jaune apparaîtra disant **"Votre kit a été ATTRIBUÉ et est à vos pieds"** . Ramassez-le en **appuyant sur la touche G** |
 
 If your request is denied, you will see a yellow text message explaining why:
