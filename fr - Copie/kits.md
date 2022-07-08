@@ -108,47 +108,46 @@ Pour demander un kit, une séquence de touches spécifique doit être suivie :
 | Séquence de touches pour demander un kit|
 | --- |
 | 1. Appuyez et maintenez la touche radio secondaire /(T/) \(cela fera apparaître une rose de communication \), |
-| 2. Avec la souris, sélectionnez l'option centrale de la Comm Rose \( **“REQUEST / DROP KIT"** \) et faites un **“clic gauche dessus"**. Cela ouvrira une liste de menu avec tous les kits qu'il contient |
-| 3. Déplacez votre souris pour mettre en surbrillance le kit souhaité et “**cliquez**" dessus avec le bouton gauche pour la version standard OU cliquez avec le **“bouton droit"** pour la version alternative |
+| 2. Avec la souris, sélectionnez l'option centrale de la Comm Rose \( **REQUEST / DROP KIT** \) et faites un **clic gauche dessus**. Cela ouvrira une liste de menu avec tous les kits qu'il contient |
+| 3. Déplacez votre souris pour mettre en surbrillance le kit souhaité et **cliquez** dessus avec le bouton gauche pour la version standard OU cliquez avec le **bouton droit** pour la version alternative |
 |4. Si toutes les conditions sont remplies, un texte jaune apparaîtra disant **"Votre kit a été ATTRIBUÉ et est à vos pieds"** . Ramassez-le en **appuyant sur la touche G** |
 
-If your request is denied, you will see a yellow text message explaining why:
+Si votre demande est refusée, vous verrez un message texte jaune expliquant pourquoi :
 
-If you requested the kit in the wrong location:
+Si vous avez demandé le kit au mauvais endroit :
 
-* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**, OR
-* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
+* **"Vous devez être proche d'une CAISSE D'APPROVISIONNEMENT ou d'un APC amical pour demander ce kit"** , OU
+* **"Vous devez être proche d'une CAISSE D'APPROVISIONNEMENT ou d'un VÉHICULE amical pour demander ce kit"**
 
-  If the squad that you are in fails the squad requirements:
+  Si l'escouade dans laquelle vous vous trouvez ne remplit pas les conditions d'escouade :
 
-* **“Unavailable due to squad limitations”**
+* **"Indisponible en raison des limitations de l'équipe"**
 
-  If all allowed kits have already been granted to the team:
+  "Indisponible en raison des limitations de l'équipe"
 
-* **“All of these kits have been issued”**
+* **“"Tous ces kits ont été distribués"”**
 
-  Other possible reasons:
+  Autres raisons possibles :
 
-* **“Unavailable for your forces”**
-* **“You can't get another limited kit so soon after your last”**
-* **“You are new to this squad, request again in a minute”**
+* **"Indisponible pour vos forces"**
+* **"Vous ne pouvez pas obtenir un autre kit limité si peu de temps après votre dernier"**
+* **"Vous êtes nouveau dans cette équipe, redemandez dans une minute"**
+* 
+## _Procédure de dépôt du kit_ {#drop-kit}
 
-## _Kit drop procedure_ {#drop-kit}
+Dans certaines situations, vous voudrez peut-être déposer votre kit. Le plus souvent :
 
-In certain situations, you might want to drop your kit. Most typically:
+* Vous avez intentionnellement ou non choisi un kit ennemi (qui vous tuera après 30 secondes à moins que vous ne le laissiez tomber),
+* Vous êtes un médecin blessé et souhaitez donner votre kit à quelqu'un d'autre pour qu'il puisse vous soigner,
+* Vous souhaitez échanger des kits avec quelqu'un de plus expérimenté ou compétent que vous,
+* Vous voulez devenir un civil en jouant en mode Insurrection.
+* Suivez simplement cette séquence :
 
-* You intentionally or unintentionally picked an enemy kit \(which **will kill you after 30 seconds** unless you drop it\), 
-* You are a wounded medic and want to give your kit to someone else so that they can heal you, 
-* You wish to swap kits with someone more experienced or skillful than you, 
-* You want to become a Civilian while playing in Insurgency mode.
-
-Simply follow this sequence:
-
-| Key Sequence to Drop your Kit |
+| Séquence clé pour déposer votre kit |
 | --- |
-| 1. **Press and hold down the Secondary Radio key /\(T/\)** |
-| 2. Select the middle option of the _Comm Rose_ \(**REQUEST / DROP KIT"**\) and to **right-click** in it. This will drop below you an invisible Unarmed Kit |
-| 3. Pick it up by pressing the **pickup key \(G\)** |
+| 1. Maintenez enfoncée la touche Radio secondaire (T) |
+| 2. Sélectionnez l'option du milieu de la Comm Rose (** REQUEST / DROP KIT **) et faites un **clic droit** dedans. Cela fera tomber en dessous de vous un invisible Unarmed Kit |
+| 3. Ramassez-le en appuyant sur **la touche de ramassage (G)** |
 
-Note that a kit on the ground will disappear after 5-10 minutes and will then become available to the squad/team again.
+Notez qu'un kit au sol disparaîtra au bout de 5 à 10 minutes et redeviendra alors disponible pour le peloton/l'équipe.
 
