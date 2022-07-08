@@ -20,16 +20,22 @@ Pour maintenir la cohésion de l'équipe, le seul objectif du commandant est de 
   * **Demander des mortiers:** demandez à l'équipe de mortier d'amener le tir de mortier sur cette position.
   * **ciblage lazer:** cela génère un objet lazer sur la position où il a été placé. Cela peut être utilisé par CAS pour attaquer certains endroits.
 
-{% figure "../assets/commands.png" %}
-Possible commands, squad orders and icons commander can use.
-{% endfigure %}
+> ![](../assets/commands.png)
+>
+> Vous avez des commandes, des ordres d'escouade et des icônes que les commandants peuvent utiliser.
 
 * **Ordres d'escouade**
   * Les mêmes marqueurs sont disponibles pour les chefs d'escouade. Lorsque vous sélectionnez une équipe dans le menu de gauche, vous pouvez les commander. S'ils acceptent \(**PAGE UP**\) , il remplacera le marqueur de cette escouade. **** 
 
-{% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
-The build, observe, defend, demolish and move markers, respectively.
-{% endfigure %}
+![](../assets/build.png)**Construir** 
+
+![](../assets/observe.png)**Observar**
+
+![](../assets/defendmarker.png)**Defender** 
+
+![](../assets/demolish.png)**Demolir** 
+
+![](../assets/move.png)**Mover**
 
 * **Infanterie \| Véhicules \| Emplacements \| Divers.**
   * Divers marqueurs pouvant être placés pour marquer l'infanterie ennemie, les ressources et les ressources déployées.
