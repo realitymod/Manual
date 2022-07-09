@@ -2,7 +2,7 @@
 
 ## _General Vehicle Information_ {#general-vehicle-information}
 
-* Light vehicles, trucks and boats & most jeeps \(except light armored ones\) can be operated by any soldier. Armored vehicles, helicopters and aircraft need specified vehicle kits to operate. Players not using the correct kit will not be able to steer the vehicle or use the weapons. You can't enter or use enemy vehicles. For ground vehicles you then require a **Crewman** kit. For aircraft & helicopters it’s the **Pilot** kit. These are either requestable by the vehicle or by a supply crate.
+*Les véhicules légers, les camions et les bateaux et la plupart des jeeps \(à l'exception des blindés légers\) peuvent être conduits par n'importe quel soldat. Les véhicules blindés, les hélicoptères et les avions ont besoin de kits de véhicules spécifiques pour fonctionner. Les joueurs qui n'utilisent pas le bon kit ne pourront pas diriger le véhicule ni utiliser les armes. Vous ne pouvez pas entrer ou utiliser des véhicules ennemis. Pour les véhicules terrestres, vous avez alors besoin d'un kit **Crewman** . Pour les avions et les hélicoptères, c'est le kit **Pilot** . Ceux-ci peuvent être demandés soit par le véhicule, soit par une caisse de ravitaillement.
 * External views for vehicles have been removed. But for certain vehicles there are custom cameras like the trucks can watch behind them \(**C**\).
 * You can **aim down the sights** of static and vehicle-mounted MGs by pressing the change camera key\(**C**\).
 * Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
