@@ -27,10 +27,10 @@
 >
 > vision thermique
 
-* Armored vehicles have no warning sound when they are targeted by rocket launchers or when missiles are fired at them.
-* Armored vehicles have realistic materials. This means that front and turret armor is stronger than the one in the rear and top of the vehicle. Sides of vehicles and the tracks usually have the middle ground when it comes to armor strength.
-* Tanks and IFVs usually have up to 4 types of ammunition:
-  * **Armor-piercing \(AP\):** For attacking enemy armored vehicles.
+* Les véhicules blindés n'émettent aucun son d'avertissement lorsqu'ils sont ciblés par des lance-roquettes ou lorsque des missiles leur sont tirés dessus.
+* Les véhicules blindés ont des matériaux réalistes. Cela signifie que le blindage de l'avant et de la tourelle est plus solide que celui de l'arrière et du haut du véhicule. Les côtés des véhicules et les chenilles ont généralement un terrain d'entente en ce qui concerne la résistance du blindage.
+* Les chars et les VCI ont généralement jusqu'à 4 types de munitions:
+  * **Perforant (AP)** : Pour attaquer les véhicules blindés ennemis.
   * **High Explosive \(HE\)** \(loaded by pressing 2\): Effective against soft targets \(jeeps, houses, helicopters, covered infantry, etc.\)
   * **Anti-tank missiles** \(loaded by pressing 3\): Used against heavy armor.
   * **Co-axial MG** \(fired using the alternate fire key\): Used against infantry.
