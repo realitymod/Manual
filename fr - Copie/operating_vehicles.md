@@ -1,6 +1,6 @@
 # Operating Vehicles
 
-## _General Vehicle Information_ {#general-vehicle-information}
+## _Informations générales sur les véhicules_ {#general-vehicle-information}
 
 *Les véhicules légers, les camions et les bateaux et la plupart des jeeps \(à l'exception des blindés légers\) peuvent être conduits par n'importe quel soldat. Les véhicules blindés, les hélicoptères et les avions ont besoin de kits de véhicules spécifiques pour fonctionner. Les joueurs qui n'utilisent pas le bon kit ne pourront pas diriger le véhicule ni utiliser les armes. Vous ne pouvez pas entrer ou utiliser des véhicules ennemis. Pour les véhicules terrestres, vous avez alors besoin d'un kit **Crewman** . Pour les avions et les hélicoptères, c'est le kit **Pilot** . Ceux-ci peuvent être demandés soit par le véhicule, soit par une caisse de ravitaillement.
 * Les vues externes des véhicules ont été supprimées. Mais pour certains véhicules, il existe des caméras personnalisées comme les camions peuvent regarder derrière eux\(**C**\).
@@ -16,9 +16,9 @@
 * Vous pouvez utiliser le **mouvement CTRL gauche + souris** pour regarder librement lorsque vous utilisez la plupart des véhicules tels que des hélicoptères, des jets, des jeeps, des bateaux et des camions. Les APC et les IFV n'ont pas cette fonctionnalité car ils utilisent des caméras dédiées.
 * Sur les serveurs publics \(pas dans les modes de jeu locaux\), vous pouvez rapidement passer au prochain siège libre disponible dans un véhicule en appuyant sur **F8** .
 * Lorsque vous êtes dans un véhicule, vous pouvez voir les informations sur les sièges occupés en bas à gauche du HUD. Il ne montre que les sièges d'équipage importants sous forme de marqueurs carrés. Cela comprend les postes de conducteur et de mitrailleur. Les sièges passagers n'ont pas de tels marqueurs et sont affichés comme un compteur séparé.
-## _Armored Vehicles_ {#armored-vehicles}
+## _Les Véhicules blindés_ {#armored-vehicles}
 
-* Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon.
+* Les chars et les VCI ont des sièges séparés pour le conducteur et le tireur. Pour utiliser le poste de tireur, un conducteur ou un tireur de coupole doit être présent. Après être passé au siège du mitrailleur, vous devez attendre 30 secondes avant de pouvoir viser le canon.
 * The driver and gunner in a vehicle must be in the same squad.
 * Tank drivers and certain APC/IFVs have a **commander view mode** which provides a 360° view around the turret. This can be accessed by pressing 2.
 * Drivers and gunners can **zoom** their view by pressing the pop smoke key \(**X**\). Some tank drivers must first change to the commander view.
