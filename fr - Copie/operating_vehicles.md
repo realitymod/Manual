@@ -3,19 +3,19 @@
 ## _General Vehicle Information_ {#general-vehicle-information}
 
 *Les véhicules légers, les camions et les bateaux et la plupart des jeeps \(à l'exception des blindés légers\) peuvent être conduits par n'importe quel soldat. Les véhicules blindés, les hélicoptères et les avions ont besoin de kits de véhicules spécifiques pour fonctionner. Les joueurs qui n'utilisent pas le bon kit ne pourront pas diriger le véhicule ni utiliser les armes. Vous ne pouvez pas entrer ou utiliser des véhicules ennemis. Pour les véhicules terrestres, vous avez alors besoin d'un kit **Crewman** . Pour les avions et les hélicoptères, c'est le kit **Pilot** . Ceux-ci peuvent être demandés soit par le véhicule, soit par une caisse de ravitaillement.
-* External views for vehicles have been removed. But for certain vehicles there are custom cameras like the trucks can watch behind them \(**C**\).
-* You can **aim down the sights** of static and vehicle-mounted MGs by pressing the change camera key\(**C**\).
-* Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
-* Vehicle-mounted MGs use ammunition belts. They are reloaded automatically but are limited in number.
-* Vehicles can be **resupplied & repaired** at the supply depot. Or use the repair drop that any logistics truck can drop. Aircraft and Helicopters are automatically repaired and rearmed at their spawn location.
-* Insurgents have **suicide vehicles** like an orange dumpster truck or small civilian cars packed with C4. You can detonate these with the alternative fire key.
-* When exiting a moving ground vehicle you’ll take damage depending on its speed. You’ll be severely wounded if you exit a burning vehicle.
-* When vehicles take much damage they may become unable to move or traverse their turret until fully repaired.
-* Vehicles that **fire wire-guided missiles** need to be stationary for about 7 seconds before they can fire their weapon.
-* Switching vehicle-weapons \(ammo type\) will usually cause a delay before you can fire.
-* You can use **Left CTRL+Mouse movement** to freelook when operating most vehicles such as helicopters, jets, jeeps, boats and trucks. APCs and IFVs do not have this feature as they use dedicated cameras.
-* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
-* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
+* Les vues externes des véhicules ont été supprimées. Mais pour certains véhicules, il existe des caméras personnalisées comme les camions peuvent regarder derrière eux\(**C**\).
+* Vous pouvez **viser les mires** statiques et montées sur véhicule en appuyant sur la touche de changement de caméra (\**C**\).
+* Les armes automatiques montées sur véhicule ont souvent une **surchauffe** Regardez l'élément heat-HUD dans le coin inférieur droit. ![](../assets/overheat.png)
+* Les MG montées sur véhicule utilisent des ceintures de munitions. Ils sont rechargés automatiquement mais sont en nombre limité.
+* Les véhicules peuvent être réapprovisionnés et réparés au dépôt de ravitaillement. Ou utilisez le dépôt de réparation que n'importe quel camion logistique peut déposer. Les avions et les hélicoptères sont automatiquement réparés et réarmés à leur emplacement d'apparition.repaired and rearmed at their spawn location.
+* Les insurgés ont des **véhicules suicides** comme un camion benne orange ou de petites voitures civiles remplies de C4. Vous pouvez les faire exploser avec la touche de tir alternative.
+* Lorsque vous quittez un véhicule terrestre en mouvement, vous subirez des dégâts en fonction de sa vitesse. Vous serez gravement blessé si vous sortez d'un véhicule en feu.
+* Lorsque les véhicules subissent beaucoup de dégâts, ils peuvent devenir incapables de se déplacer ou de traverser leur tourelle jusqu'à ce qu'ils soient entièrement réparés.
+* Les véhicules qui tirent des** missiles filoguidés** doivent être immobiles pendant environ 7 secondes avant de pouvoir tirer avec leur arme
+* Changer d'arme de véhicule \(type de munitions\) entraînera généralement un délai avant que vous puissiez tirer.
+* Vous pouvez utiliser le **mouvement CTRL gauche + souris** pour regarder librement lorsque vous utilisez la plupart des véhicules tels que des hélicoptères, des jets, des jeeps, des bateaux et des camions. Les APC et les IFV n'ont pas cette fonctionnalité car ils utilisent des caméras dédiées.
+* Sur les serveurs publics \(pas dans les modes de jeu locaux\), vous pouvez rapidement passer au prochain siège libre disponible dans un véhicule en appuyant sur **F8** .
+* Lorsque vous êtes dans un véhicule, vous pouvez voir les informations sur les sièges occupés en bas à gauche du HUD. Il ne montre que les sièges d'équipage importants sous forme de marqueurs carrés. Cela comprend les postes de conducteur et de mitrailleur. Les sièges passagers n'ont pas de tels marqueurs et sont affichés comme un compteur séparé.
 ## _Armored Vehicles_ {#armored-vehicles}
 
 * Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon.
