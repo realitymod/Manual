@@ -18,15 +18,14 @@
 * Lorsque vous êtes dans un véhicule, vous pouvez voir les informations sur les sièges occupés en bas à gauche du HUD. Il ne montre que les sièges d'équipage importants sous forme de marqueurs carrés. Cela comprend les postes de conducteur et de mitrailleur. Les sièges passagers n'ont pas de tels marqueurs et sont affichés comme un compteur séparé.
 ## _Les Véhicules blindés_ {#armored-vehicles}
 
-* Les chars et les VCI ont des sièges séparés pour le conducteur et le tireur. Pour utiliser le poste de tireur, un conducteur ou un tireur de coupole doit être présent. Après être passé au siège du mitrailleur, vous devez attendre 30 secondes avant de pouvoir viser le canon.
-* The driver and gunner in a vehicle must be in the same squad.
-* Tank drivers and certain APC/IFVs have a **commander view mode** which provides a 360° view around the turret. This can be accessed by pressing 2.
-* Drivers and gunners can **zoom** their view by pressing the pop smoke key \(**X**\). Some tank drivers must first change to the commander view.
-* Most tanks and IFVs can use **thermal optics** in addition to their normal views. You can switch to the thermal mode by using secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”.** Some will also allow you to switch between thermal variations like WHOT/BHOT.
+* Les chars et les VCI ont des sièges séparés pour le conducteur et le tireur. Pour utiliser le poste de tireur, un conducteur ou un tireur de coupole doit être présent. Après être passé au siège du mitrailleur, vous devez attendre 30 secondes avant de pouvoir viser le canon.Les conducteurs de chars et certains APC/IFV ont un mode de vue commandant qui offre une vue à 360° autour de la tourelle. Vous pouvez y accéder en appuyant sur 2.
+* Les conducteurs de chars et certains APC/IFV ont un **mode de vue commandant** qui offre une vue à 360° autour de la tourelle. Vous pouvez y accéder en appuyant sur 2.
+* Les pilotes et les artilleurs peuvent **agrandir** leur vue en appuyant sur la touche de fumée pop \( X \). Certains conducteurs de chars doivent d'abord passer en vue commandant.
+*La plupart des chars et des IFV peuvent utiliser des **optiques thermiques** en plus de leurs vues normales. Vous pouvez passer en mode thermique en utilisant le menu radio secondaire \( **T** \) et en sélectionnant « **JOUR / THERMIQUE** ». Certains vous permettront également de basculer entre les variations thermiques comme WHOT/BHOT.
 
-{% figure "../assets/thermalz.png" %}
-Thermal Vision.
-{% endfigure %}
+> ![](../assets/thermalz.png)
+>
+> vision thermique
 
 * Armored vehicles have no warning sound when they are targeted by rocket launchers or when missiles are fired at them.
 * Armored vehicles have realistic materials. This means that front and turret armor is stronger than the one in the rear and top of the vehicle. Sides of vehicles and the tracks usually have the middle ground when it comes to armor strength.
