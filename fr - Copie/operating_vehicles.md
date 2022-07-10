@@ -31,18 +31,18 @@
 * Les véhicules blindés ont des matériaux réalistes. Cela signifie que le blindage de l'avant et de la tourelle est plus solide que celui de l'arrière et du haut du véhicule. Les côtés des véhicules et les chenilles ont généralement un terrain d'entente en ce qui concerne la résistance du blindage.
 * Les chars et les VCI ont généralement jusqu'à 4 types de munitions:
   * **Perforant (AP)** : Pour attaquer les véhicules blindés ennemis.
-  * **High Explosive \(HE\)** \(loaded by pressing 2\): Effective against soft targets \(jeeps, houses, helicopters, covered infantry, etc.\)
-  * **Anti-tank missiles** \(loaded by pressing 3\): Used against heavy armor.
-  * **Co-axial MG** \(fired using the alternate fire key\): Used against infantry.
-* Tank drivers or gunners \(depending on vehicle\) and certain other vehicles can **deploy smoke** by pressing the alternate fire key.
+  * **High Explosive (HE)** \(chargé en appuyant sur 2\) : Efficace contre les cibles molles \(jeeps, maisons, hélicoptères, infanterie couverte, etc.\)
+  * **Missiles antichars** \(chargés en appuyant sur 3\) : utilisés contre les blindés lourds.
+  * **MG coaxial** \(tiré à l'aide de la touche de tir alternative\) : utilisé contre l'infanterie.
+* Les conducteurs de chars ou les artilleurs \(selon le véhicule\) et certains autres véhicules peuvent **déployer de la fumée** en appuyant sur la touche de tir alternatif.
 
-Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pressing the fire key to launch a volley of smoke bombs. Each of them can fire 2 volleys \(the gunner has to wait 60s between volleys\).
+Les artilleurs de chars et d'IFV le déploient en sélectionnant son emplacement d'arme (généralement 3) et en appuyant sur la touche de tir pour lancer une volée de bombes fumigènes. Chacun d'eux peut tirer 2 volées (le tireur doit attendre 60 secondes entre les volées).
 
-* For certain vehicles the smoke will be **IR-blocking** meaning it will also block on thermal vision. For other \(older vehicles\) you will be able to see through the smoke on thermal vision.
+* Pour certains véhicules, la fumée **bloquera les infrarouges**, ce qui signifie qu'elle bloquera également la vision thermique. Pour les autres (véhicules plus anciens), vous pourrez voir à travers la fumée en vision thermique.
 
-{% figure "../assets/vehiclesmoke.png" %}
-Vehicle deployed smoke.
-{% endfigure %}
+> ![](../assets/vehiclesmoke.png)
+>
+> véhicule deployant de la fumée
 
 ## _Helicopters_ {#helicopters}
 
