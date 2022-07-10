@@ -44,30 +44,29 @@ Les artilleurs de chars et d'IFV le déploient en sélectionnant son emplacement
 >
 > véhicule deployant de la fumée
 
-## _Helicopters_ {#helicopters}
+## _Hélicoptères_ {#helicopters}
 
-* Helicopters have a **warm-up time** of around 30 seconds. If too much thrust is generated while the rotor blades spin up, the pilot will lose control and crash. To start the helicopter you have to leave the throttle at idle for at least 30 seconds before trying to lift off.
-* Helicopter pilots can look in other directions while flying by pressing the 6, 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
-* The rudder controls are mostly effective at low speeds. At higher speeds you need to bank the helicopter to turn.
-* Players using **the pilot kit cannot occupy any of the passenger seats** of an aircraft. This is to stop players using the pilot kit as some kind of SF paratrooper assault kit because it has a parachute. If you have had to bail out of your aircraft and then receive a pickup from another aircraft, ensure you drop your pilot kit before entering the aircraft’s passenger seat otherwise you will be forced out of the helicopter.
-* The pilot of Heavy Attack Helicopters aka Gunships can fire the **unguided rockets** while the gunner controls the cannon and guided missiles.
-* Gunners in attack helicopters can zoom their weapons camera by pressing the cycle camera key \(**C**\) or by pressing the F9 to F11 keys. They can also switch to a thermal imaging mode by using the secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”** to toggle between the two.
-* The attack-helicopter's **gunner** has 4 different modes to choose from:
-* First-person view in the cockpit
-* Gun-camera which controls the helicopter's gun
-* **Laser-guided fire mode \(LG\)** allows a semi-manual targeting mode, where you can click on the target and the missile will guide itself towards it and click again to update the targets location to the missile in flight.
-* **Laser-targeted fire mode** **\(LT\)** \(fire-and-forget\) locks the missile onto a laser target provided by ground troops or a scout helicopter. The laser targeted mode is the best choice if a spotter can designate the target. It allows minimal exposure of the helicopter. The laser guided mode allows the best tracking of moving targets. However if the target hasn’t been “lazed” correctly or badly, or simply for some reason the missile can’t see the target after launch like if a building gets in the way, the missile may miss.
-* Helicopter crews need to be in the same squad.
-* Helicopters must return to the helipad and land to be **rearmed/repaired**. On Carriers you can only reload on the “ramp” of the carrier, off the runway, this doesn't include the lifts.
-* To successfully **drop supplies** from a transport helicopters the pilot needs to conduct the drop from an altitude under 5m / 15 feet by pressing the alternate fire key.
-* **Countermeasure flares** are limited and need to be rearmed when expended. Every time you deploy flare\(**X**\) one flare will be deployed.
+* Les hélicoptères ont un **temps de préchauffage** d'environ 30 secondes. Si trop de poussée est générée pendant que les pales du rotor tournent, le pilote perdra le contrôle et s'écrasera. Pour démarrer l'hélicoptère, vous devez laisser la manette des gaz au ralenti pendant au moins 30 secondes avant d'essayer de décoller.
+* Les pilotes d'hélicoptère peuvent regarder dans d'autres directions pendant le vol en appuyant sur les touches 6, 7, 8 et 9 que vous pouvez mapper sur un joystick POV HAT Switch. Pour regarder à nouveau vers l'avant, appuyez sur 1 ou sélectionnez n'importe quelle autre arme dont votre hélicoptères dispose.
+* Les joueurs utilisant le **kit pilote ne peuvent occuper aucun des sièges passagers** d'un Hélicoptères. C'est pour empêcher les joueurs d'utiliser le kit pilote comme une sorte de kit d'assaut de parachutiste SF car il a un parachute. Si vous avez dû sauter de votre avion et que vous avez ensuite été pris en charge par un autre avion, assurez-vous de déposer votre kit de pilote avant d'entrer dans le siège passager de l'avion, sinon vous serez forcé de quitter l'hélicoptère.
+* Le pilote d'hélicoptères d'attaque lourds aka Gunships peut tirer les **roquettes non guidées** tandis que le tireur contrôle le canon et les missiles guidés.
+* Les artilleurs dans les hélicoptères d'attaque peuvent zoomer leur caméra d'armes en appuyant sur la touche de cycle de caméra \( **C** \) ou en appuyant sur les touches F9 à F11. Ils peuvent également passer en mode d'imagerie thermique en utilisant le menu radio secondaire \( **T** \) et en sélectionnant « **JOUR / THERMIQUE** » pour basculer entre les deux.
+* **Le mitrailleur** de l'hélicoptère d'attaque a le choix entre 4 modes différents :
+* Vue à la première personne dans le cockpit
+* Gun-caméra qui contrôle le canon de l'hélicoptère
+* **Le mode de tir guidé par laser \(LG\)** permet un mode de ciblage semi-manuel, où vous pouvez cliquer sur la cible et le missile se guidera vers elle et cliquera à nouveau pour mettre à jour l'emplacement des cibles sur le missile en vol.
+* Le **mode de tir ciblé par laser \(LT\)**\(fire-and-forget\) verrouille le missile sur une cible laser fournie par des troupes au sol ou un hélicoptère de reconnaissance. Le mode laser ciblé est le meilleur choix si un observateur peut désigner la cible. Il permet une exposition minimale de l'hélicoptère. Le mode guidé par laser permet le meilleur suivi des cibles en mouvement. Cependant, si la cible n'a pas été "lazée" correctement ou mal, ou simplement pour une raison quelconque, le missile ne peut pas voir la cible après le lancement, comme si un bâtiment se mettait en travers du chemin, le missile peut manquer.
+* Les équipages d'hélicoptères doivent être dans la même escouade.
+* Les hélicoptères doivent retourner à l'héliport et atterrir pour être réarmés/réparés . Sur les transporteurs, vous ne pouvez recharger que sur la "rampe" du transporteur, hors piste, cela n'inclut pas les ascenseurs.
+* Pour réussir le **largage de ravitaillement** d'un hélicoptère de transport, le pilote doit effectuer le largage à une altitude inférieure à 5 m / 15 pieds en appuyant sur la touche de tir alternatif.
+* **Les fusées éclairantes de contre-mesure** sont limitées et doivent être réarmées lorsqu'elles sont utilisées. Chaque fois que vous déployez une fusée \( **X** \), une fusée sera déployée.
 
-## _Fixed Wing Aircraft_ {#fixed-wing-aircraft}
+## _Aéronef à voilure fixe_ {#fixed-wing-aircraft}
 
-* Aircraft have a **warm-up time** of 30 seconds before they can take off from the ground.
-* Jet pilots can look in other directions while flying by pressing the 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
-* To slowly **taxi** on the ground keep the throttle neutral and push the stick forward or press the up arrow key, to slowly move in that direction. Pull the stick back or press the down arrow key to reverse. To steer left and right use the rudder controls \(**A & D**\).
-* Your maximum altitude is 10km.
+* ALes avions ont un **temps de préchauffage** de 30 secondes avant de pouvoir décoller du sol.
+* Les pilotes de jet peuvent regarder dans d'autres directions pendant le vol en appuyant sur les touches 7, 8 et 9 que vous pouvez mapper sur un joystick POV HAT       Switch. Pour regarder à nouveau vers l'avant, appuyez sur 1 ou sélectionnez n'importe quelle autre arme dont votre avion dispose.
+* **Pour rouler** lentement au sol, maintenez la manette des gaz neutre et poussez le manche vers l'avant ou appuyez sur la touche fléchée vers le haut pour vous         déplacer lentement dans cette direction. Tirez le manche vers l'arrière ou appuyez sur la flèche vers le bas pour reculer. Pour diriger à gauche et à droite,           utilisez les commandes de gouvernail \( A & D \).
+* Votre altitude maximale est de 10 km.
 * To **take off** you need to put the throttle on maximum and then wait a little for the plane to start accelerating. When you are down 2/3 of the runway gently start pulling on the stick and maybe add some afterburner.
 * Most aircraft come equipped with a **cannon and several external weapons**. The primary fire key will fire the cannon \(if your aircraft has one\) while the alternate fire key will fire the currently selected weapon such as bombs and missiles.
 * To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
