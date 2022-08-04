@@ -12,7 +12,7 @@
     * [Operating Vehicles](en/operating_vehicles.md)
     * [The Commander](en/commander.md)
     * [The Civilian](en/the_civilian.md)
-* [Indonesia - v1.6.3](id/README.md)    
+* [Indonesia - v1.6.3](id/README.md)
     * [Persiapan Bermain](id/set-up.md)
     * [Mode Permainan](id/game_modes.md)
     * [Dasar](id/the_basics.md)
@@ -52,5 +52,4 @@
     * [Operando Vehículos](es/operating_vehicles.md)
     * [EL Comandante](es/commander.md)
     * [El Civil](es/the_civilian.md)
-   
 

@@ -7,11 +7,12 @@
     "test": "test"
   },
   "dependencies": {
-    "honkit-plugin-reality-theme": "file:packages/reality-theme",
     "gitbook-plugin-language-picker": "^0.1.0",
-    "honkit": "3.7.1"
+    "honkit-plugin-reality-theme": "file:packages/reality-theme"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "honkit": "^3.7.5"
+  },
   "scripts": {
     "build": "honkit build",
     "serve": "honkit serve"
