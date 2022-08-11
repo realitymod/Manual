@@ -39,7 +39,6 @@ Armored Command Vehicle \(ACV\) found in mainbases only.
 * Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
 
 ## _In-game interface \(HUD\)_ {#hud}
-
 * In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
   * The reason why the player is not issued the kit being requested.
   * The reason why the deployable asset that the player requested could not be built.
@@ -47,14 +46,14 @@ Armored Command Vehicle \(ACV\) found in mainbases only.
 * PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
 * Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see the weapons chapter\).
 * **Name tags have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. When you lose more than 25% of your health, you will start to see a red bloody screen which pulsates as you hear wounded sounds of pain. You will continue to lose health as you bleed out until you receive medical attention, if you do not you will die. If however your health drops very low, your screen will lose all color, your vision will become very blurred and you will be unable to move at speed. You will have approximately a few minutes to reach medical attention or you will die.
+* **No health status bar** indicating your vital status. When you lose more than 25% of your health, you will start to see a red bloody screen which pulsates as you hear wounded sounds of pain. You will continue to lose health as you bleed out until you receive medical attention, if you do not you will die. If however your health drops very low, your screen will lose all color, your vision will become very blurred and you will be unable to move at speed. You will have approximately a few minutes to reach medical attention or you will die. Health monitoring is instead achieved by visual cues. Once you are below 75 HP, you will start to see a tunnel vision effect with a darkened screen and a droplet icon will appear next to the compass. The lower your HP, the longer this darkening effect lasts and the more stronger your vision will be obscured by a tunnel type effect.
 * **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
 * To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
 * **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
 * There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
 * Only vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
 * **The current map & layer** can be viewed on the top of the screen when opening the map.
-* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the spawn times of friendly vehicles.
+* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
 
 {% figure "../assets/assets.png" %}
 Current map asset info overlay.
@@ -66,9 +65,9 @@ Current map asset info overlay.
 {% figure "../assets/suppresion.png" %}
 Normal view of the game \(left\) and suppresion effect in action \(right\).
 {% endfigure %}
-
+* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, sprinting is no longer possible, jumping however still is.
 * When a player is **dead,** he will not be not revivable and black screen with the words dead will be displayed instead of seeing their surroundings.
-* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. To have an indication of this inaccuracy there is a **deviation indicator** right above the compass. The wider this indicator is, the more deviation you have. 
+* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
 * **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted.
 * Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
 * **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
@@ -81,13 +80,13 @@ Commo-rose when pressing Q.
 
 ## _Health Management_ {#health-management}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be audible and visual cues to warn you such as a bloody vision whilst coughing or screaming.
+Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be audible and visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25 HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
 
 ### Healing
 
-If your injuries are not treated, you will slowly bleed to death. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health.
+Once in bleed status, you’ll continue to lose HP over time until you eventually pass out. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health. The patch itself does not stop bleeding however. Should your HP, after applying the patch, still be below 75%, you’ll continue to bleed and have merely bought yourself some time, you thus have to apply more field dressings if available, scavenge hostile bodies if necessary.
 
-Since most kits only have one or two field dressings, a better way to regain health is to be treated by a medic. **Medics** are able to completely heal a player by using a **first aid kit** and can be called to your position by using the “Q” radio key and then selecting “Need Medic”. The medic will select the first aid kit by pressing the appropriate number key or cycling through their weapon selection. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. They and the Collaborator are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose (“Q”)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
 Field dressing, first aid kit & epipen.
@@ -159,7 +158,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **LMG** | 150 |
 | **GPMG** | 200 |
 
-**Grenade Launcher**
+**Grenade Launcher/Rifle Grenades**
 
 | **Type** | **Supply points cost** |
 | --- | --- |
@@ -197,7 +196,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **Signal smoke grenade** | 30 |
 | **Anti-personel mine x2** | 140 |
 | **Anti-personel mine x3** | 210 |
-| **Conventional mine** | 210 |
+| **Conventional mine** | 420 |
 | **Insurgent mine** | 160 |
 | **Light IED** | 60 |
 | **Heavy IED** | 80 |
@@ -321,7 +320,8 @@ Targe, build, observe, defend, demolish and move marker, respectively.
 
 1. A **precision degree compass** to the bottom central area of your screen. The compass can be used to give exact bearings of nearby spotted enemies. **The 8 Cardinal Directions** are clearly indicated along with the degree bearing labels which incrementally increase every 15° with major divisions every 5°. If you just want to communicate a general direction it is best practice to say the cardinal direction, followed by the degree and in some situations the distance if appropriate. For example _**“Enemy spotted NE 75° degrees 200 meters out”**_**.**
    * If the target is visually in line with a numbered bearing on your compass when you are facing that direction, you simply communicate that number.
-   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png)
+   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png) 
+   * Underneath the compass notches is a triangle which indicates your current bearing. If you are in a Squad, your Squad Leader’s last/currently issued order shows as a chevron as well. If you line up the chevron with the triangle, you’re looking at the location of the order mark.
 2. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
 3. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
 

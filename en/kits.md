@@ -19,15 +19,15 @@ The **Standard Kits** are the 7 kits shown in the spawn screen and they represen
 | --- | --- | --- |
 | **Officer** | 1 | 2 |
 | **Medic** | 2 | 2 |
-| **Automatic Rifleman** | 1 | 3 |
-| **Breacher** | 1 | 3 |
+| **Automatic Rifleman** | 1 | 4 |
+| **Breacher** | 1 | 4 |
 | **Grenadier** | 1 | 6 |
 | **Light Anti-Tank** | 1 | 4 |
 | **Rifleman** | Unlimited | 1 |
 
 Having these limitations in mind, it can be said that the typical 8-man squad usually has the a composition of 1 of each of those kits but with 2 medics.
 
-Note that each kit in the selection menu of the spawn screen has two buttons: **"Standard"** and **"Alternative"**. This is because there are two variants of each kit. Depending on the faction, this **typically affects the choice of optics** \(scope, reflex or none\), although in some cases, the Standard and Alternative variations simply come equipped with different weapons.
+Note that each kit in the selection menu of the spawn screen has two buttons: **"Standard"** and **"Alternative"**. This is because there are two variants of each kit. Depending on the faction, this **typically affects the choice of optics** \(scope, reflex or none\), although in some cases, particularly with unconventional forces the choice is not between an optic or iron sights but between completely different firearms instead.
 
 Note as well that, for playability purposes, in addition to the squad limitations above, the **Grenadier** and the **Light Anti-Tank** kits are also limited to a maximum number of them per team, depending on the number of players:
 
@@ -48,7 +48,7 @@ Here follow a more detailed explanation of each kit:
 
 ## _Specialist Kits_ {#specialist_kits}
 
-In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others.
+In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others. 
 
 It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described [below](kits.md#kit-request). Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
 
@@ -63,6 +63,18 @@ It is not possible to directly spawn with one of these highly restricted, specia
 | **Sniper** | 0 | 1 | 1 | 2 | 2 |
 | **Heavy Anti-Tank** | 0 | 1 | 1 | 1 | 1 |
 
+Furthermore, your squad also requires a minimum amount of players before you can request these kits:
+| Kit | Minimum Squad Size |
+| --- | --- |
+| **Machine Gunner** | 6 |
+| **Marksman** | 6 |
+| **Anti-Personnel Rifleman** | 4 |
+| **Spotter** | 2 |
+| **Combat Engineer** | 3 |
+| **Anti-Air Rifleman** | 3 |
+| **Sniper** | 3 |
+| **Heavy Anti-Tank** | 3 |
+
 Due to the highly restricted nature of these kits, it is **strongly recommended** that new and unexperienced players **DO NOT** use them. If they do, they risk wasting and losing these crucial team assets, leaving the team in a notable disadvantage. **Remember to ALWAYS ask your Squad Leader before taking any of these kits**.
 
 Here follows a more detailed description of each specialized kit:
@@ -76,11 +88,29 @@ Here follows a more detailed description of each specialized kit:
 * ![](../assets/aa.png)**Anti-Air Rifleman \(AA\)**. He comes equipped with a handheld Anti-Air weapon system, making him the person to deter and take down enemy air elements. His restriction to 2 per team makes him a highly critical asset. Do not waste this kit!
 * ![](../assets/hay.png)**Heavy Anti-Tank \(HAT\)**. The HAT is a highly effective threat against armor and can destroy vehicles with extreme prejudice even at long ranges. The high limitation of this kit \(**1 per team**\) makes this an absolutely critical kit. Losing or wasting it can change the course of a battle. For this reason, players without the required experience are **emphatically asked** to stay away from it.
 
+
+## _Insurgency Kits_ {#insurgency-kits}
+
+Unique to some of the irregular forces and/or the Insurgency game mode are a number of kits for use in asymmetric styles of warfare. Often less sophisticated than to military issued gear in terms of capability, the insurgent kits are often issued a very varied mixture of firearms and an assortment of other improvised equipment to help mitigate aforementioned capability gap. Particularly of note is the Iraqi Insurgency as their infantry small arms table is vastly different from all other factions and thus warrants a closer inspection:
+
+**Iraqi Insurgent Spawn Screen Kits**
+* Cell Leader: The Insurgent version of the Officer Kit.
+* Insurgent: The Insurgent Rifleman class archetype. Not all of them feature Extra Ammunition, and utilize booby traps or anti-tank grenades instead. Their assortment of weapon system varies from Shotguns to SMGs to Assault or Battle Rifles.
+* Sapper: Another support class. Sappers work as a combination of the Combat Engineer and Rifleman AP class. Their main purpose is to set up ambushes against enemy footsoldiers and vehicles, as well as area denial. They have limited access to firearms and have to stay away from combat as they do not pass for civilians and are legal targets. They do not have access to a wrench unlike a true Combat Engineer.
+* Collaborator: This unique class features elements of the medic class with light personal arms, but can also opt to go unarmed into the conflict using the alternate kit loadout. Outside of reviving and healing friendlies or helping with their grappling hook, their main purpose is to feed hostile positions and other information to the team while remaining an unsuspecting bystander of the conflict. Killing a Collaborator under certain conditions constitutes a violation of the Rules of Engagement, penalizing the killer and his team. The coalition forces thus have to restrain themselves from shooting everyone on-sight. On the other hand, collaborators are valuable sources of intel points because their ability to defend themselves against an arrest is very limited at best and more often than not a game of cat and mouse among houses and rooftops. Only two of these are allowed in a squad at any time.
+
+**Insurgent Pick Up Kits**
+The Iraqi Insurgents cannot, for the most part, access some of their heavier weaponry from the spawn menu. They instead either pick up or request them from the main base vehicle repair station or an active cache. Caches of the Iraqi Insurgency spawn a number of machine guns otherwise not accessible to an insurgent squad. In their main bases usually limited numbers of Marksmen, Sniper, Engineer and RPG kits may be picked up as well.
+
+The last class unique to the insurgent forces is the Civilian: When dropping your player kit, the player is issued a dummy kit. Some irregular factions gain the civilian status effect when using it for 2 minutes or longer. The civilian kit, much like the collaborator mentioned above acts like a scout and a deterrent against military assaults, but has no means to help the team in terms of other support equipment.
+
+*A more in-depth explanation on the collaborator and civilians can be found in a separate section of the manual  [**here**](../the_civilian.md#the_civilian).
+
 ## _Other Kits_ {#other-kits}
 
 In addition to the kits already described, there are some special kits that have special rules. These are the Crewman, the Pilot, the Civilian and all the Insurgent kits. The Civilian and Insurgent kits pertain to the **Insurgency Game Mode** and are thus described in the corresponding section of the manual {\#Insurgency}.
 
-Regarding the **Pilot** \(Air Vehicles\) and the **Crewman** \(Armored Vehicles\), both are needed in order to operate the corresponding vehicles. As they are a type of Specialist Kit, it is not possible to directly spawn with them and must be requested as usual {\#kit\_request}. They have, however, no restriction about the number of them that can simultaneously be in a team and thus can also be considered unlimited kits.
+In addition to the kits already described, there are some special kits to access the larger military vehicles and aircraft; these are called the **Crewman** \(Armored Vehicles\) and **Pilot** \(Air Vehicles\) kit. Without them, accessing key functionalities of these vehicles is impossible and only a black screen will be shown when entering driver, gunner, co-pilot and certain other seats of a vehicle. They are one of the few kits which have no limitations on both how many people need to be in the squad to be requested and how many of them can be issued per squad in total. As specialised kits, they are very limited in their choice of weaponry, with only a small number of factions issuing rifles to their Crewmen, with Pilots receiving pistols only. As they are a type of Specialist Kit, it is not possible to directly spawn with them and must be requested as usual {\#kit\_request}. They have, however, no restriction about the number of them that can simultaneously be in a team and thus can also be considered unlimited kits.
 
 * ![](../assets/pilot.png)**Pilot**. The pilot is the only kit capable of operating helicopters and fixed-wing aircrafts. It comes equipped with a side arm, a parachute and a signal smoke grenade. Do not attempt to operate aircraft without proper experience.
 * ![](../assets/crewman.png)**Crewman**. It is the only kit capable of operating armored vehicles. The crewman is equipped with a compact weapon for self-defense and with binoculars to study the battlefield. Normally, both the driver and the gunner in an armored vehicle need the crewman kit.
@@ -109,8 +139,8 @@ To request a kit a specific key sequence needs to be followed:
 | --- |
 | 1. Press and hold the **Secondary Radio key /\(T/\)** \(it will bring up a _Comm Rose_\), |
 | 2. With the mouse, select the central option of the Comm Rose \(**REQUEST / DROP KIT"**\) and **left-click** on it. This will open a menu list with all kits in it |
-| 3. Move your mouse to highlight the desired kit and **left-click** on it for the standard version OR **right-click** for the alternative one |
-| 4. If all conditions are met, a yellow text will appear saying **“Your kit has been ALLOCATED and is at your feet”**. Pick it up by **pressing the G key** |
+| 3. Move your mouse to highlight the desired kit. The highlighted HUD element then displays further STD and ALT to allow the request of a kit’s standard or alternate loadout. **Left-click** on the highlighted variant of your choice to issue the kit request |
+| 4. If all conditions are met, the requested kit will be automatically picked up, discarding your current kit in the process |
 
 If your request is denied, you will see a yellow text message explaining why:
 
@@ -150,5 +180,6 @@ Simply follow this sequence:
 | 2. Select the middle option of the _Comm Rose_ \(**REQUEST / DROP KIT"**\) and to **right-click** in it. This will drop below you an invisible Unarmed Kit |
 | 3. Pick it up by pressing the **pickup key \(G\)** |
 
-Note that a kit on the ground will disappear after 5-10 minutes and will then become available to the squad/team again.
+Note that a kit on the ground will disappear after about 5 minutes so long as it has not been picked up in the interim. The eventually despawning kits with limited availability squad- or team-wise become requestable from the squad‘s or team’s kit pool again once they disappear.   
 
+A dropped kit is visble on the ground looking like a bundle of military clothes with some extras, depending on faction, the items might eg. be in that faction’s camouflage pattern, etc. . The kit can be picked up by other players(though only team mates are able to use it for extended periods of time) by going near the items and pressing **\(G\)** to swap the kit with their current kit. As long as your previously discarded kit has not despawned you can always go and pick it back up.

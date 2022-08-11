@@ -17,15 +17,16 @@ The commander can also order you. If you accept the order \(**PAGE UP**\) your m
 
 The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark enemy units on the map and forward contact reports to the team's commander with the ability to mark a target on the team's map. To perform these functions follow these steps:
 
-1. Set a target position on the map to acquire an approximate position of to the contact.
-2. Look towards the target position.
-2. Select the radio from your inventory and use **the alternate fire key \(RMB\)** to activate it.
-4. Select the type of target contact to mark on the map. Each player can place up to 3 markers which stay for 5 minutes.
+1. Mark a position either via the minimap or via the secondary commo rose \(**T**\)
+2. Select the radio/cellphone item issued to Officer/Spotter/Cell Leader or Collaborator kits and use the **the alternate fire key \(RMB\)** to activate it. 
+3. While looking closely in the direction of Squad Leader marker, press and hold the primary commo rose key\(**Q**\), hover over the correct type of hostile forces, vehicle, equipment category and press either left click or right click to place the corresponding map mark.
+
+Note that steps 1 and 2 can be done in either order.
 
 {% figure "../assets/spotting.png" %}
-A civilian.
-{% endfigure %}
 
+Spotting Commo Rose
+{% endfigure %}
 
 {{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
