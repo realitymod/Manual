@@ -68,6 +68,7 @@ Le drone prend 45 secondes pour démarrer/atterrir.
 
 Le drone peut être déplacé instantanément en lui attribuant une nouvelle position sur la carte. Le drone ne fonctionne que sur des cartes de 2 km et 4 km car il est trop puissant pour les petites cartes.
 
-{% figure "../assets/uav.png" %}
-The commander’s UAV Camera.
-{% endfigure %}
+> ![](../assets/uav.png)
+>
+> _Vue de la caméra UAV depuis le commandant_
+
