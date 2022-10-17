@@ -27,15 +27,15 @@ Pour maintenir la cohésion de l'équipe, le seul objectif du commandant est de 
 * **Ordres d'escouade**
   * Les mêmes marqueurs sont disponibles pour les chefs d'escouade. Lorsque vous sélectionnez une équipe dans le menu de gauche, vous pouvez les commander. S'ils acceptent \(**PAGE UP**\) , il remplacera le marqueur de cette escouade. **** 
 
-![](../assets/build.png)**Construir** 
+![](../assets/build.png)**Construire** 
 
-![](../assets/observe.png)**Observar**
+![](../assets/observe.png)**Observer**
 
-![](../assets/defendmarker.png)**Defender** 
+![](../assets/defendmarker.png)**Defendre** 
 
 ![](../assets/demolish.png)**Demolir** 
 
-![](../assets/move.png)**Mover**
+![](../assets/move.png)**bouger**
 
 * **Infanterie \| Véhicules \| Emplacements \| Divers.**
   * Divers marqueurs pouvant être placés pour marquer l'infanterie ennemie, les ressources et les ressources déployées.
