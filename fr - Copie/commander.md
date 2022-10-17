@@ -52,9 +52,9 @@ Le commandant des forces conventionnelles et la milice sont en mesure de contrô
 
 L'UAV est lancé en plaçant le marqueur UAV sur la carte de commande. Cela peut être fait en appuyant sur l'icône UAV en haut à gauche de l'écran du commandant ou en faisant un clic droit sur la carte et en plaçant l'icône UAV. Ensuite, pour le faire fonctionner, vous devez entrer dans le véhicule ACV à la base principale de votre équipe.
 
-{% figure "../assets/acvv.png" %}
-Armored Command Vehicle.
-{% endfigure %}
+> ![](../assets/acvv.png)
+>
+> Véhicule blindé de commandement
 
 **Le drone ne sera pas éternellement en place**. L'UAV perd 0,2 % de carburant/s en déplacement, 0,1 % de carburant/s en fonctionnement et se ravitaille à 0,2 % de carburant/s à la base. Vous pouvez surveiller le carburant en regardant la barre "FUEL" en haut à gauche de l'écran de commande.
 
