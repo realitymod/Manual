@@ -1,5 +1,6 @@
 {
-	"plugins": [
+    "title": "Project Reality Manual",
+    "plugins": [
         "language-picker",
         "reality-theme"
     ],
