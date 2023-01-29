@@ -2,16 +2,17 @@
 
 ## _System Requirements_ {#systemreq}
 
-* **Operating System:** Windows 7, 8 or 10
-* **Processor:** 2.4 Ghz Dual-Core minimum. 3.2 Ghz Recommended
-* **Memory:** 3 GB RAM. 4 GB recommended
-* **Hard Disk:** 10 GB free Hard Drive Space
-* **Graphics Adapter:** Graphics Card with 128 MB RAM. 512 MB recommended.
+* **Operating System:** Windows 10.
+* **Processor (CPU):** Intel 4th gen or AMD Ryzen zen1 @3GHz required, Intel 9th gen or AMD Ryzen zen2 @4GHz recommended.
+* **Memory:** 6 GB RAM required, 8 GB RAM recommended.
+* **Hard Disk:** 14 GB free Hard Drive Space.
+* **Graphics Adapter (GPU):** AMD Radeon HD 6000 series, Intel Iris Pro 6200, Nvidia GTX 550Ti or similar required; for GPU on that level of performance disable 'Use Advanced Shaders' in the PR Launcher's graphics options. For a dedicated GPU, 1GB VRAM required.
+Recommended Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 or similar.
 * **Sound:** DirectX 9 compatible sound device. Dedicated sound card with EAX support recommended for best experience.
-* **Internet:** 256 kbps or faster connection required for online play
-* **Software:** .NET Framework 4
-* **Input:** Mouse, Keyboard
-* **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
+* **Internet:** **Stable** 256 kbps or faster connection required for online play. Using WiFi might cause game crashes due to high packet loss.
+* **Software:** .NET Framework 4.6.
+* **Input:** Mouse, Keyboard.
+* **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\).
 
 ## _Game Installation_                                                                          {#game-installation}
 
@@ -34,11 +35,11 @@ The downloaded folder that you now have through either the Download Assistant or
 
 A few more points:
 
-* With the new standalone version there is also no longer a requirement to install it in the Battlefield 2 folder. Feel free to install PR:BF2 in a drive and folder of your choosing.
-* If you have BF2 installed you can continue to play it and player other BF2 modifications as well. PR:BF2 does not interfere with them.
-* PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to newer versions when they are released.
+* PR:BF2 cannot be installed in the same directory as Battiefield 2.
+* If you have BF2 installed you can continue to play it and other BF2 modifications as well. PR:BF2 does not interfere with them as long as PR:BF2 is installed in its own, separate directory.
+* PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to the newest version when it is released.
 * PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
-* If you don’t want to use Torrents you will find mirrors for direct HTTP downloads through our forums.
+* If you don’t want to use Torrents you will find mirrors for direct HTTP downloads in the downloads section on our website.
 
 ## _Creating a PR Account_ {#creating-a-pr-account}
 
