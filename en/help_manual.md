@@ -4,7 +4,7 @@ To make it easier for them we try to make it updated with the latest changes and
 
 If you spot any issue, wish to expand the manual more or want to translate to a different language you're welcome to submit an issue and/or create a pull request with the intended changes.
 
-Our manual uses [Markdown syntax](#syntax), a very easy to learn system, where it basically free text with a few options for formating.
+Our manual uses [Markdown syntax](#syntax), a very easy to learn system, where it basically free text with a few options for formatting.
 Additionally, we serve the manual using HonKit, a fork of GitBook.
 
 ## Translating
