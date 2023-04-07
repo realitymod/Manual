@@ -12,41 +12,40 @@
 Никто не запрещает вам запустить BF2 и пройти обучение, чтобы проще было влиться в PR.</br>
 В этом руководстве основное внимание будет уделено различиям с BF2.</br>
 
-## _Kit selection & spawning_ {#kit-selection-and-spawning}
+## _Выбор снаряжения и появление на поле боя_ {#kit-selection-and-spawning}
 
-* When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
-* After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
-* Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(like BF2\), a supply crate [\(see Logistics\)](the_basics.md#logistics)
+* Когда вы начинаете играть, рекомендуется, чтобы вы появлялись(спавниться) только как обычный стрелок с выбранным вами прицелом. Так вы сможете лучше изучить фундаментальные основы игрового процесса.
+* Изучив основы пехоты, вы можете попросить своего КО назначить вам специализированный комплект снаряжения, когда вы почувствуете, что готовы к этой роли. Если вы хотите опробовать новое оборудование или транспортное средство, вы можете легко сделать это в кооперативном режиме, не причиняя неудобств членам вашей команды и не рискуя имуществом.
+* Снаряжение, которое является специализированными и более сложными в эксплуатации, обычно ограничено и могут быть получено только при соблюдении определенных условий внутри отряда. Вам следует спрашивать перед их взятием, так как их кол-во ограниченно для всей команды.
+* Снаряжение можно запросить в главном меню возрождения \(как в BF2\), в ящике с припасами [\(смотри раздел Логистика\)](the_basics.md#logistics) или сзади БТР/БМП. Чтобы иметь возможность запросить комплект из ящика с припасами или из транспортного средства, вы должны быть частью отделения.
 
-or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+В PR:BF2 вы не можете появляться на каждой контрольной точке, контролируемой вашей командой.</br>
+Точки возрождения, доступные в PR:BF2:
 
-In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
-
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
+* **Точка сбора вашего отделения \(Точка сбора(ТС) или раллик(сокр. от Rally point)\)** это зеленый круг вокруг точки возрождения с номером вашего отряда рядом с ним. В зависимости от расположения точки сбора вашего отделения по отношению к FOB команды будет определяться его долговечность.Примечание. Если вы появляетесь на точке сбора другого отделения, вы автоматически появляетесь на своей собственной точке сбора или на любом ближайшем FOB. Если нет доступных, вы будете перемещены на основную базу вашей команды. В случае захвата противником ТС, она исчезнет. ТС доступны только регулярным войскам. [\(смотри раздел Сооружения для постройки\)](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/rally.png" %}
-  A rallypoint.
+  Точка сбора.
 {% endfigure %}
 
-* **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
-* **The commander rally point**. This RP can only be placed by the commander, provided multiple squad’s leaders are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
-* In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
+* **Точки сбора команды для конкретной карты**. Обычно они перестают быть доступными через 5 минут после начала матча и могут быть использованы всей командой. Каждый такой ТС позволяет появляться максимум 12 игрокам, а затем исчезает.
+* **Командирская точка сбора**. Этот ТС может разместить только командир, при условии, что несколько командиров отрядов находятся в непосредственной близости от командного пункта. На карте это будет точка сбора с буквой «C» рядом с ней.
+* **Развертываемая передовая оперативная база \(FOB, ПОБ, обычно просто фоба\) или укрытия** может использоваться всей командой для появления, но должен быть построен до начала работы. На карте он будет отображаться как точка возрождения с зеленым треугольником. Становиться доступен через 90 секунд после создания. Перестаёт быть доступным для появления игроков на 30 секунд, если 1 враг находится в пределах 10 м, 2 врага в пределах 50 м, 4 врага в пределах 100 м или 8 врагов в пределах 150 м. [\(смотри раздел Сооружения для постройки\)](the_squad_leader.md#deployable-structures)
+* В игровом режиме Insurgency(повстанцы) защищающаяся команда повстанцев может появляться в **тайниках с оружием**, которые не были обнаружены противником, это называется неизвестным тайником. Эта точка появления(спавн) также перестаёт действовать, если враги приближаются. По тем же правилам, что и у FOB.
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
-FOB, Hideout & weapon cache.
+FOB, убежище и тайник с оружием.
 {% endfigure %}
 
 
 
-* **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
+* **Штаб вашей команды, главная база или постоянный FOB.** Это единственная точка возрождения, которая всегда доступна.
 
 {% figure "../assets/acv.png" %}
-Armored Command Vehicle \(ACV\) found in mainbases only.
+Командирская штабная машина (КШМ) встречается только на основных базах.
 {% endfigure %}
 
-* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
+* На некоторых картах есть **появление на парашютах**, где имитируется воздушное нападение. Они будут визуализированы путем перемещения точек возрождения на мини-карте. Выберите один из них, и вы появитесь с автоматически развернутым парашютом.
 
 ## _In-game interface \(HUD\)_ {#hud}
 * In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
