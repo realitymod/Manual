@@ -33,7 +33,7 @@ FOB, Hideout & weapon cache.
 * **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
 
 {% figure "../assets/acv.png" %}
-Armored Command Vehicle \(ACV\) found in mainbases only.
+Armored Command Vehicle (ACV) found in mainbases only.
 {% endfigure %}
 
 * Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
