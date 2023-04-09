@@ -47,45 +47,46 @@ FOB, убежище и тайник с оружием.
 
 * На некоторых картах есть **появление на парашютах**, где имитируется воздушное нападение. Они будут визуализированы путем перемещения точек возрождения на мини-карте. Выберите один из них, и вы появитесь с автоматически развернутым парашютом.
 
-## _In-game interface \(HUD\)_ {#hud}
-* In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
-  * The reason why the player is not issued the kit being requested.
-  * The reason why the deployable asset that the player requested could not be built.
-  * That the player must exit the vehicle or the current seat to avoid punishment.
-* PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
-* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see the weapons chapter\).
-* **Name tags have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. When you lose more than 25% of your health, you will start to see a red bloody screen which pulsates as you hear wounded sounds of pain. You will continue to lose health as you bleed out until you receive medical attention, if you do not you will die. If however your health drops very low, your screen will lose all color, your vision will become very blurred and you will be unable to move at speed. You will have approximately a few minutes to reach medical attention or you will die. Health monitoring is instead achieved by visual cues. Once you are below 75 HP, you will start to see a tunnel vision effect with a darkened screen and a droplet icon will appear next to the compass. The lower your HP, the longer this darkening effect lasts and the more stronger your vision will be obscured by a tunnel type effect.
-* **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
-* **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
-* There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
-* **The current map & layer** can be viewed on the top of the screen when opening the map.
-* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
+## _Внутриигровой интерфейс \(HUD\)_ {#hud}
+* Во внутриигровом HUD PR:BF2 игроки получают **только важные для них сообщения**.</br>
+Например:
+  * Причина, по которой игроку не выдаётся запрошенное снаряжение.
+  * Причина, по которой не может быть построено строение, запрошенное игроком.
+  * Предупреждение, что нужно покинуть транспортное средство или текущее место, чтобы избежать наказания.
+* PR также использует **Уведомления от штаба**, которые отображаются крупным оранжевым шрифтом в левом верхнем углу экрана. Эти уведомления предоставляют вам обновленную информацию о текущих целях, ходе миссии и другие важные сообщения.
+* **Иконка перекрестия** убрана с экрана. Если вы хотите стрелять точно, вам нужно нажать Правую кнопку мыши(ПКМ), чтобы прильнуть к прицелу вашего оружия, или стрелять, куда смотрит ствол, для ближнего боя \(см. главу об оружии\).
+* **Метки с никнеймами удалены** для всех игроков. Теперь очень важно правильно определять, кто перед тобой, чтобы избежать огня по своим союзникам. Изучение различий между различными камуфляжами, флагами и формой профиля пехоты сторон поможет вам быстрее идентифицировать врага. Например, чтобы найти командира отряда, найдите радиоантенну, выходящую вверх из его рюкзака.
+* **Нет строки состояния здоровья**, показывающей ваш жизненный статус. Когда вы потеряете более 25% своего здоровья, вы начнете видеть красный кровавый экран, который пульсирует, когда вы слышите ранящие звуки боли. Вы будете продолжать терять здоровье, истекая кровью, пока не получите медицинскую помощь. Если ваше здоровье упадет очень низко, ваш экран потеряет все цвета, ваше зрение станет очень размытым, и вы не сможете быстро передвигаться. У вас будет примерно несколько минут, чтобы обратиться за медицинской помощью, иначе вы умрете. Мониторинг здоровья осуществляется с помощью визуальных сигналов. Как только ваше здоровье станет ниже 75, вы начнете видеть эффект туннельного зрения с затемненным экраном, а рядом с компасом появится значок капли. Чем ниже ваш показатель здоровья(health points, он же HP), тем дольше длится этот затемняющий эффект и тем сильнее ваше зрение будет затемнено туннельным эффектом.
+* **Счётчик боеприпасов** отображает только режим огня оружия и количество оставшихся магазинов.
+* Чтобы оценить **количество оставшихся патронов** в вашем магазине, вы можете открыть интерфейс в виде розы\(нажав на кнопку **Q**\) и увидеть визуальный индикатор количества оставшихся патронов. ![](../assets/ammo.png)
+* **Медик** может видеть, насколько он исцелил солдата, с помощью HUD в правом нижнем углу. Точно так же солдаты могут наблюдать за прогрессом по созданию строения.
+* Нет **сообщений об убийстве** \(исключением является огонь по союзникам\). Даже список очков не покажет, кто жив или мёртв во вражеской команде. Если вам нужно узнать, умер ли кто-то, вам следует поискать его тело.
+* Только в транспортном средстве постоянно видно **маленькую-карту** в интерфейсе.
+* **Название и тип карты** можно просмотреть в верхней части экрана при открытии карты\(нажав на кнопку **M**\).
+* Нажав на маленькую стрелку, в появившемся окне вы увидите **информацию об объектах в текущей миссии**, включая таймеры повторного появления техники, а также, появляются ли они после уничтожения. Миномёт или артиллерия вне карты, также известные как атаки по области, обычно ограничены 3 или 4 применениями и могут быть использованы только после относительно длительного периода ожидания.
 
 {% figure "../assets/assets.png" %}
-Current map asset info overlay.
+Информацию об объектах в текущей миссии.
 {% endfigure %}
 
-* **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
-* **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
+* **Оставшиеся билеты** вашей команды и оставшееся время можно просмотреть только на экране команды. Билеты противника не отображаются.
+* **Подавление** происходит, когда вы находитесь под ближним огнем винтовок, тяжёлого оружия или ближайших взрывов. Экран станет темнее и станет размытым, как будто он дрожит. Этот эффект имитирует снижение способности вести ответный огонь при подавлении противником.
 
 {% figure "../assets/suppresion.png" %}
-Normal view of the game \(left\) and suppresion effect in action \(right\).
+Обычный вид игры (слева) и при подавлении (справа).
 {% endfigure %}
-* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, sprinting is no longer possible, jumping however still is.
-* When a player is **dead,** he will not be not revivable and black screen with the words dead will be displayed instead of seeing their surroundings.
-* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
-* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted.
-* Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
-* **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
-* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
-* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
+* В нижней левой части экрана находится шкала выносливости. Спринт и прыжки уменьшают её, а остановка или бег восполняют. Когда выносливость снижается до 50% или ниже, спринт больше невозможен, однако прыжки остаются.
+* Когда игрок **мёртв**, его нельзя будет оживить, и вместо того, чтобы видеть обстановку, будет отображаться чёрный экран со словами «мёртвый».
+* Ваше оружие будет отклоняться и станет неточным для стрельбы в зависимости от количества движений, которые вы совершаете. При наведении на прицел появится **индикатор отклонения**, показывающий текущий уровень отклонения вашего оружия. Чем шире индикатор, тем меньше точность; если две точки сливаются в одну, ваше оружие достигло наименьшего отклонения, но может потребоваться ещё одна или две секунды, чтобы оружие всё ещё достигло максимальной точности.
+* **Автоматическая система отметки противников на карте** была удалена. Воздушная техника всё ещё может быть отмечена.
+* КО могут отправить **отчёт о столкновении с противником** командиру стороны или использовать свою рацию, чтобы вручную поставить маркер на карте команды. Обычные солдаты могут только выкрикивать общее предупреждение, когда замечают вражеские отряды.
+* **Интерфейс в виде розы (он же Commo-rose) \(по умолчанию кнопки: Q и T\)** может содержать несколько действий на одном элементе. Нажатие на левую кнопку мыши(ЛКМ) у строчки **«ПЕРЕЗАРЯЖАЮ / ПРЕКРАТИ ОГОНЬ»** воспроизведёт звуковую команду о перезарядке, которую услышат игроки рядом с тобой, а нажатие на ПКМ о том, что нужно перестать стрелять. Такой же принцип работы у **«ВПЕРЁД, ВПЕРЁД / ОТСТУПАЕМ»** и подобных элементов этого интерфейса.
 
 {% figure "../assets/commorose.png" %}
-Commo-rose when pressing Q.
+Интерфейс в виде розы при нажатии на Q.
 {% endfigure %}
+* Вы можете **ориентироваться** на карте, используя элемент направления, который вы найдёте вокруг значка вашего персонажа.
+* При оснащении определенным оружием или снаряжением основной **интерфейс в виде розы** заменяется небольшим контекстно-зависимым меню. Когда у вас в руках полевая повязка или аптечка, вы можете использовать команду «ПЕРВАЯ ПОМОЩЬ», чтобы сообщить ближайшим игрокам, что вы хотите их вылечить. Многие предметы снаряжения и некоторые виды оружия используют контекстно-зависимые меню.
 
 ## _Health Management_ {#health-management}
 
