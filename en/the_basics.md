@@ -63,7 +63,7 @@ Current map asset info overlay.
 * **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
 
 {% figure "../assets/suppresion.png" %}
-Normal view of the game \(left\) and suppresion effect in action \(right\).
+Normal view of the game (left) and suppresion effect in action (right).
 {% endfigure %}
 * Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, sprinting is no longer possible, jumping however still is.
 * When a player is **dead,** he will not be not revivable and black screen with the words dead will be displayed instead of seeing their surroundings.
