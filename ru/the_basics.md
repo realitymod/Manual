@@ -88,48 +88,83 @@ FOB, убежище и тайник с оружием.
 * Вы можете **ориентироваться** на карте, используя элемент направления, который вы найдёте вокруг значка вашего персонажа.
 * При оснащении определенным оружием или снаряжением основной **интерфейс в виде розы** заменяется небольшим контекстно-зависимым меню. Когда у вас в руках полевая повязка или аптечка, вы можете использовать команду «ПЕРВАЯ ПОМОЩЬ», чтобы сообщить ближайшим игрокам, что вы хотите их вылечить. Многие предметы снаряжения и некоторые виды оружия используют контекстно-зависимые меню.
 
-## _Health Management_ {#health-management}
+## _Управление здоровьем_ {#health-management}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be audible and visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25 HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
+Оружие в Project Reality очень смертоносно, и это только вопрос времени, когда вы будете ранены и начнёте истекать кровью.</br>
+Хотя HUD в PR не содержит полоски здоровья, как только ваше здоровье упадет ниже 75%, вас будут предупреждать звуковыми и визуальными сигналами, такими как периодически темнеющий экран с эффектом туннельного зрения.</br>
+При уровне менее 25 HP вы услышите кашель и тяжелое дыхание, при 10 HP вы потеряете свою выносливость и не сможете восстановить её, если не вылечитесь, по крайней мере, выше этих 10 HP.</br>
+Во время кровотечения, туннельное зрение и эффект затемнения экрана будут становиться всё сильнее и сильнее, что всё больше и больше ограничит вашу боевую эффективность.
 
-### Healing
+### Выздоровление
 
-Once in bleed status, you’ll continue to lose HP over time until you eventually pass out. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health. The patch itself does not stop bleeding however. Should your HP, after applying the patch, still be below 75%, you’ll continue to bleed and have merely bought yourself some time, you thus have to apply more field dressings if available, scavenge hostile bodies if necessary.
+При кровотечении, вы будете продолжать терять HP с течением времени, пока в конце концов не потеряете сознание.</br>
+Чтобы предотвратить это, у вас есть два способа исцелить себя.</br>
+Почти каждое снаряжение включает в себя **полевую перевязку**, которую можно выбрать, нажав соответствующую клавишу или прокручивая выбранное оружие.</br>
+Нажав на ЛКМ вы кините его на землю.</br>
+В течение секунды или двух повязка исчезнет, а игрок, стоящий рядом с ней, восстановит 25% своего общего здоровья.</br>
+Однако сам пластырь не останавливает кровотечение.</br>
+Если ваш HP после применения перевязки по-прежнему будет ниже 75%, вы продолжите истекать кровью и просто выиграете себе немного времени.</br>
+Поэтому вам придётся применять больше полевых перевязок, если они доступны. При необходимости собирать их с убитых.
 
-The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. They and the Collaborator are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose (“Q”)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+Подавляющему большинству комплектов выдаётся только одна полевая повязка для экстренного использования, игроки в значительной степени полагаются на медиков своего отделения или команды, чтобы восстановить полное здоровье.</br>
+Медик и Коллаборационист(Collaborator) - единственные, кому выдали аптечку для лечения товарищей без полевых перевязок.</br>
+При ранении используйте либо голосовую связь, либо интерфейс в виде розы («Q»), вызывающую опцию «Медик», чтобы привлечь внимание вашего медика.</br>
+Однако, в отличие от BF2, медик не может просто бросить аптечку на землю. Он должен удерживать её в руках, прикасаясь к игроку, которого нужно лечить, и зажимать ЛКМ.</br>
+Звук, имитирующий разрыв бинтов, будет означать, что оказана первая помощь.</br>
+Чтобы полностью вылечиться, требуется около 15 секунд, поэтому обязательно делайте это в безопасном месте.</br>
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
-Field dressing, first aid kit & epipen.
+Полевая перевязка, аптечка и эпипен.
 {% endfigure %}
 
-### Reviving
+### Оживление
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but unlike in BF2, will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck , on uneven ground or in a bad position for reviving it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot to start dragging. You can drag in all directions including backwards. 
+Если вы не сможете вовремя вылечиться, вы потеряете сознание, а на экране появится сообщение о том, что вы были тяжело ранены.</br>
+Это **не значит**, что вы мертвы!</br>
+Когда вы получаете критическое ранение, у медика есть целых 5 минут, чтобы оживить вас, сохранив ценные билеты для вашей команды.</br>
+Используйте Mumble, чтобы помочь медику найти вас, через локальный канал \(H\) или **радиосеть отделения \(0 цифровая клавиатура\).**</br>
+Чтобы оживить вас, медик выбирает **эпипен** из своего снаряжения и, держа эпипен в руке, вводит адреналин в центральную область туловища бессознательного игрока, нажав на ЛКМ.</br>
+Затем игрок придёт в сознание, но, в отличие от BF2, у него будет всего около 10% здоровья, и ему всё ещё потребуется лечение.</br>
+Медик и недавно возрожденный игрок должны найти безопасное место и продолжить лечение там.</br>
+Если игрок застрял, на неровной поверхности или в плохом положении для возрождения, необходимо сначала перетащить раненое тело в лучшее положение.</br>
+Чтобы перетащить тело в качестве медика, вам нужно находиться на корточках и оставаться в нём.</br>
+Затем вы можете использовать слот для оружия **тащить(drag)**, чтобы начать перетаскивание. Вы можете перетаскивать во всех направлениях, включая назад. 
 
-{{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
+{{ "Видео руководство - Оживление" | youtube("auBgiI8IxWE") }}
 
-### Death
+### Смерть
 
-Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, left click on **Give up/Call Medic** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
+Иногда игроки не могут быть оживлены, например, когда игрок погибает в транспортном средстве.</br>
+Если вы были недавно возрождены и снова получили критическое ранение в течение 2 минут, во второй раз вас уже нельзя будет оживить.</br>
+Если вы ранены и не оживлены в течение 5 минут, вы также умрете.</br>
+Если шансов на возрождение нет, щелкните левой кнопкой мыши **Сдаться/Вызвать медика** на экране возрождения.</br>
+Теперь на экране появится сообщение о том, что вы мертвы и можете готовиться к появлению.</br>
+Время, которое вы потратили на ожидание нажатия кнопки «Сдаться», засчитывается в ваше общее время появления.
 
-### Re-spawning
+### Повторное появление
 
-A player's respawn time is at least 45 seconds and at most 60 seconds plus temporary penalties. Time spent while waiting for a medic is subtracted from that time. Once a player dies he has to wait at least 5 seconds before spawning. These actions influence the respawn time:
+Время возрождения игрока составляет не менее 45 секунд и не более 60 секунд плюс временные штрафы.</br>
+Из этого времени вычитается время ожидания медика.</br>
+Как только игрок умирает, он должен подождать не менее 5 секунд, прежде чем появится.</br>
+Эти действия влияют на время возрождения:
 
-* Player death: **+3s**
-* Capturing CP or destroying objective: **-3s**
-* Doing a defensive action: **-1s**
-* Squad built forward outpost: **-10s**
+* Смерть игрока: **+3 сек.**
+* Захват контрольной точки или уничтожение цели: **-3 сек.**
+* Выполнение действия по защите: **-1 сек.**
+* Отделение построило передовой аванпост(FOB): **-10 сек.**
 
-A temporary spawn time penalty which only affects the next time you die \(building up to 5 minutes\) is added by these actions:
+Этими действиями добавляется временный штраф для времени появления, который применяется только в следующий раз, когда вы умрете \(до 5 минут\):
 
-* Teamkill: **15 seconds per teamkill**
-* Suicide: **15 seconds**
-* Civilian getting captured: **90 seconds**
-* Civilian killed violating ROE: **120 seconds per civilian**
-* Own weapons cache destroyed: **300 seconds**
+* Убийство товарища по команде: **15 сек. за каждое убийство**
+* Самоубийство: **15 сек.**
+* Гражданский попадает в плен: **90 сек.**
+* Погиб мирный житель, нарушивший правила дорожного движения: **120 сек. за каждого мирного жителя**
+* Собственный тайник с оружием уничтожен: **300 сек.**
 
-To select a spawn point, bring up the spawn map and select an applicable location. Once you’re happy with that spawn location, you must click on the **Done** button in the lower right corner of the map screen to re-spawn into the game. Just waiting for the timer to expire or hitting the &lt;enter&gt; key will not automatically respawn you. If you see a very large number on the timer, such as 5999, then you haven’t clicked Done.
+Чтобы выбрать точку появления, откройте карту и выберите подходящее место.</br>
+Когда выберите подходящее место, нажмите кнопку **Готово** в правом нижнем углу экрана карты, чтобы появиться снова.</br>
+Просто ожидать истечения таймера или нажимать клавишу &lt;Enter&gt; не поможет вам повторно появиться.</br>
+Если вы видите на таймере очень большое число, например 5999, значит, вы не нажали «Готово».
 
 ## _Logistics_ {#logistics}
 
