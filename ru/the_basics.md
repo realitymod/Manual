@@ -166,27 +166,33 @@ FOB, убежище и тайник с оружием.
 Просто ожидать истечения таймера или нажимать клавишу &lt;Enter&gt; не поможет вам повторно появиться.</br>
 Если вы видите на таймере очень большое число, например 5999, значит, вы не нажали «Готово».
 
-## _Logistics_ {#logistics}
+## _Снабжение_ {#logistics}
 
-Whether your running low on ammunition and need to rearm, want a new kit or simply want to build deployables, logistics keep your team alive.
+Если у вас заканчиваются боеприпасы и вам нужно перевооружиться, или вы хотите новый комплект, или просто хотите построить развертываемые объекты, снабжение(логистика) поддерживает вашу команду.
 
-### _Ammunition_ {#ammunition}
+### _Боеприпасы_ {#ammunition}
 
-To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
+Чтобы иметь возможность перевооружиться, вам нужно приблизиться к одному из нескольких источников боеприпасов, которые затем автоматически пополнят ваше оружие. Эти источники:
 
-* **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables \(tow, aa, mortars\) to rearm them. 
-* **Ammo boxes** - Dropped by light transported vehicles, APCs and IFVs.
-* **Light/Heavy supply crates** - More information in the [next section](the_basics.md#crates)
-* **Weapons caches** - Available only for insurgents
-* **Vehicle depot** - Present in all main bases, it also heals you
+* **Сумки с патронами** - Их можно найти в наборах стрелка, боевика(militant), воина(warrior) и некоторых повстанцев. Их нужно бросить \(нажав на ЛКМ\) на землю, чтобы вы или другие солдаты могли перевооружиться, или на объекты \(пт установки, зенитки, минометы\ ), чтобы перевооружить их.
+* **Ящики с патронами** - Сбрасываются с легкой транспортной техники, БТР и БМП.
+* **Легкие/тяжелые ящики с припасами** - Больше информации [в следующей секции](the_basics.md#crates)
+* **Тайники с оружием** - Доступно только для повстанцев
+* **Автопарк** - Присутствует на всех основных базах, также лечит вас
 
 {% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
-Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
+Сумка с боеприпасами, ящик с боеприпасами коалиционных сил, ящик с боеприпасами повстанческих сил, тайник с оружием и автопарк.
 {% endfigure %}
 
-Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
-The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
+Имейте в виду, что, за исключением **тайников с оружием** и **автопарка**, все остальные источники боеприпасов **ограничены**.</br>
+В конце концов эти источники истощатся и исчезнут.</br>
+Возможно, что они истощатся ещё до того, как вы полностью перевооружитесь.</br>
+**Сумки с патронами**, **ящики с патронами** и **ящики с припасами** используют **очки снабжения**, чтобы определить, как долго их можно использовать.</br>
+Вы можете узнать оставшиеся очки снабжения у **ящиков с припасами** и **ящиками с патронами**, взглянув на них на секунду.</br>
+Затем он появится рядом с компасом.</br>
+Различное оружие, доступное в PR, требует разного количества очков снабжения для пополнения.</br>
+Вспомогательные предметы, такие как крюк для захвата, сигнальные ракеты для ловушек и полевые перевязочные материалы, требуют меньше пополнения запасов за одно использование, чем взрывоопасные боеприпасы, такие как противотанковые ракеты, осколочные гранаты и мины.</br>
+Ниже в таблицах указана стоимость пополнения запасов соответствующей категории и типа оружия:
 
 **Firearms**
 
