@@ -224,7 +224,7 @@ The amount of supply points for the supply sources are:
 * **Heavy supply crates** : 3000
 
 {% note %}
-Resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the ammount of ammo you need to ressuply. 
+Resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the amount of ammo you need to resupply. 
 
 Additionally if you're not rearming, confirm that the Light/Heavy supply crates is indeed yours, rearming from **enemy supply crates** is not possible.
 {% endnote %}
