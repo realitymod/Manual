@@ -210,7 +210,7 @@ The various weapons available in PR require different ammounts of supply points 
 | **Medium anti-tank x2** | 160 |
 | **Medium anti-tank x3** | 240 |
 | **Heavy anti-tank x1** | 90 |
-| **heavy anti-tank x2** | 180 |
+| **Heavy anti-tank x2** | 180 |
 | **Guided anti tank** | 120 |
 
 Note that on a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
