@@ -11,7 +11,7 @@
     "honkit-plugin-reality-theme": "file:packages/reality-theme"
   },
   "devDependencies": {
-    "honkit": "^3.7.5"
+    "honkit": "^4.0.7"
   },
   "scripts": {
     "build": "honkit build",
