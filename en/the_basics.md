@@ -233,7 +233,7 @@ Additionally if you're not rearming, confirm that the Light/Heavy supply crates 
 
 ### _Supply Crates_ {#crates}
 
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.\)](the_squad_leader.md#deployable-structures)
+There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
 Here you can see the heavy supply crate on the left and the light version on the right.
