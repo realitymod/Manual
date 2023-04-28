@@ -242,7 +242,7 @@ Here you can see the heavy supply crate on the left and the light version on the
 Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 200 points, with light crates having 1500 \(7x kits\) and heavy ones 3000 \(14x kits\).
 
 {% note %}
-Requesting kits from a crate that does not have enought points will still grant you the kit but the crate will be destroyed in the process.
+Requesting kits from a crate that does not have enough points will still grant you the kit but the crate will be destroyed in the process.
 {% endnote %}
 
 Light Supply Crate can be transported by:
