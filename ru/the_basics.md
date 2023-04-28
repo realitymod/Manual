@@ -284,51 +284,57 @@ FOB, убежище и тайник с оружием.
 
 
 
-### _Supply Crates_ {#crates}
+### _Ящики с припасами_ {#crates}
 
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.\)](the_squad_leader.md#deployable-structures)
+Есть два типа ящиков с припасами — лёгкий и тяжелый.</br>
+Хотя оба позволяют воспополнять запасы  и строить развертываемые объекты, легкий ящик эквивалентен половине тяжелого ящика с припасами, а это означает, что вам понадобится 2 легких ящика с припасами вместо одного тяжелого.</br>
+Чтобы узнать больше о развертываемых огневых точках, [смотри соответствующую главу](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
-Here you can see the heavy supply crate on the left and the light version on the right.
+Cлева тяжелый ящик с припасами, а справа лёгкий
 {% endfigure %}
 
-Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 200 points, with light crates having 1500 \(7x kits\) and heavy ones 3000 \(14x kits\).
+Как и в случае с перевооружением, запрос наборов из ящиков приведет к истощению ящиков с припасами.</br>
+Каждый комплект будет стоить 200 очков, в лёгких ящиках будет 1500 \(7 комплектов\), а в тяжёлых - 3000 \(14 комплектов\).
 
 {% note %}
-Requesting kits from a crate that does not have enought points will still grant you the kit but the crate will be destroyed in the process.
+Запрос предметов из ящика, в котором недостаточно очков, по-прежнему предоставит вам комплект, но ящик будет уничтожен в процессе.
 {% endnote %}
 
-Light Supply Crate can be transported by:
+Лёгкие ящики доставляются с помощью:
+* Небольших вертолётов, таких как Huey, Lynx и Zhi-9B \(Один ящик\)
+* Транспортные грузовики \(Один ящик\)
 
-* Light Helicopters such as the Huey, Lynx and Zhi-9B \(One Crate\)
-* Transport trucks \(One Crate\)
+А тяжёлые ящики доставляются с помощью:
+* Вертолеты средней грузоподъемности - Black Hawk, Ми-17 and NH-90 \(Один ящик\)
+* Тяжелые вертолёты - Chinook, Zhi-8KA и MV-22 \(Два ящика\)
+* Грузовики снабжения: \(Два ящика\)
 
-While, Heavy Supply Crate can be transported by:
+Право собственности на ящик отображается флажком сверху ящика.
 
-* Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90 \(One Crate\)
-* Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22 \(Two Crates\)
-* Logistic trucks: \(Two Crates\)
+### Ремонтная точка
 
-The ownership of the crate is depicted by the flag display on top of the crate.
-
-### Repair Drop
-
-Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
+Грузовики снабжения также могут сбрасывать ремонтную точку.</br>
+Используется для полевого ремонта техники, которая сильно повреждена и не может двигаться.
 
 {% figure "../assets/reapir.png" %}
-Repair drop.
+Ремонтная точка
 {% endfigure %}
 
-## _Score_ {#score}
+## _Начисление очков_ {#score}
 
-A player's score is divided in teamwork points and individual points. It speaks for itself that doing team related activities \(building, driving vehicles, defending/attacking flags\) contribute to the first and individual actions \(killing players\) contribute to your personal score.
+Счёт игрока делится на очки командной работы и индивидуальные очки.</br>
+Выполнение командных действий \(строительство, управление транспортными средствами, защита/атака флагов\) способствует первому, а индивидуальные действия \(убийство игроков\) способствуют вашему личному счёту.
 
-The total score of a player can never go below 0 but the teamwork score can become negative. There are also score multipliers for when you are for example in a vehicle or a squad leader. Here are some other score additions and deductions. These are not all but give you a good idea on what you can achieve.
+Общая оценка игрока никогда не может быть ниже 0, но оценка командной работы может стать отрицательной.</br>
+Есть также множители очков, например, когда вы командир отделения или находитесь в транспортном средстве.</br>
+Вот некоторые другие дополнения и вычеты очков.</br>
+Это не всё, но даёт вам хорошее представление о том, чего вы можете достичь.
 
-* Capturing a civilian: **+100**
-* Killing a civilian \(outside ROE\): **-100**
-* Destroying your own objective: **-100**
-* Destroying enemy objective: **+150**
+* Захват гражданского: **+100**
+* Убийство гражданского \(не по правилам ведения боя\(ROE\)\): **-100**
+* Уничтожение собственной цели: **-100**
+* Уничтожение вражеской цели: **+150**
 
 ## _Mortars_ {#mortars}
 
