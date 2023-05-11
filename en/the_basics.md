@@ -298,7 +298,11 @@ When in need to cross small rivers or damaged bridges, conventional forces can d
 CSBs are very narrow, so drive carefully when crossing them.
 {% endnote %}
 
-The deployment process for CSBs is very simple: 1. Drive a logistics truck to the position where the CSB will be deployed. 2. Position the front or back of the truck as close as possible to the deployment position. 3. Select the CSB as active equipment of the truck. 4. Press alternate fire to deploy the bridge.
+The deployment process for CSBs is very simple:
+1. Drive a logistics truck to the position where the CSB will be deployed.
+2. Position the front or back of the truck as close as possible to the deployment position.
+3. Select the CSB as active equipment of the truck.
+4. Press alternate fire to deploy the bridge.
 
 {{ "Video Tutorial - CSB Deployment" | youtube("Vn66KbNrVJA") }}
 
