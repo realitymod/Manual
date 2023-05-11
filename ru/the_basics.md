@@ -345,29 +345,40 @@ Cлева тяжелый ящик с припасами, а справа лёг�
 * **Осколочно-фугасный \(ОФ\)** \(нажми **1** для выбора\): Самый распространенный тип миномётного снаряда. Идеально подходит для лёгкобронированных целей и огневых точек.
 * **Разрывной в воздухе** \(нажми **2** для выбора\): Взрывается в воздухе над землёй. Покрывает большую площадь, но наносит меньший урон. Идеально подходит для поражения пехоты внутри зданий и на пересеченной местности.
 
-Once mortars are needed you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure you SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. There are both Air-Burst and Impact rounds available that share ammunition.
+Вы можете использовать калькулятор в миномёте \(нажми **3** для выбора\).</br>
+Расстояние до цели и разницу высот можно ввести в калькулятор, нажав на числа в полях **«Дальность»**(RANGE) и **«Высота»**(HEIGHT).</br>
+Чтобы узнать дальность, убедитесь, что маркер вашего отряда находится на цели, затем откройте карту, и вы увидите дальность, указанную под картой.</br>
+Затем нажмите кнопку **«Рассчитать»**(Calculate), чтобы узнать угол возвышения.</br>
+Угол регулирируется с помощью клавиш W и S, в то время как отклонение изменяется с помощью клавиш A и D.</br>
+Когда всё отрегулировали, просто выберите нужные патроны и стреляйте.</br>
 
 {% figure "../assets/mortars.png" %}
-The mortar calculator interface.
+Интерфейс миномётного калькулятора.
 {% endfigure %}
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
+## _Понтонные мосты_ {#close-support-bridges}
 
-When in need to cross small rivers or damaged bridges, conventional forces can deploy CSBs using their logistic trucks - which carries two of them. In Project Reality CSBs can only be used to fill the gaps of destroyed bridges and in predetermined locations identified by \(obvious\) small heaps of sand positioned across a natural obstacle, like a river.
+Когда необходимо пересечь небольшие реки или поврежденные мосты, обычные силы могут развернуть понтонный мост, используя свои грузовики снабжения, которые перевозят два из них.</br>
+Их можно использовать только для перекрытия брешей в разрушенных мостах и в заранее определенных местах, обозначенных небольшими кучами песка, расположенными поперек естественного препятствия, такого как река.
 
 {% note %}
-CSBs are very narrow, so drive carefully when crossing them.
+Такие мосты очень узкие, поэтому проезжайте осторожно.
 {% endnote %}
 
-The deployment process for CSBs is very simple: 1. Drive a logistics truck to the position where the CSB will be deployed. 2. Position the front or back of the truck as close as possible to the deployment position. 3. Select the CSB as active equipment of the truck. 4. Press alternate fire to deploy the bridge.
+Процесс установки очень простой:
+1. Подъехать на грузовике снабжения.
+2. Расположите переднюю или заднюю часть грузовика как можно ближе к месту установки.
+3. Выберите понтонный мост в качестве активного оборудования грузовика.
+4. Нажмите ПКМ, чтобы развернуть мост.
 
-{{ "Video Tutorial - CSB Deployment" | youtube("Vn66KbNrVJA") }}
+{{ "Видео руководство" | youtube("Vn66KbNrVJA") }}
 
 {% figure "../assets/csb.png" %}
-CSB from truck being deployed.
+Понтонный мост установлен.
 {% endfigure %}
 
-In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
+В некоторых случаях требуется несколько пролётов моста.</br>
+В таких ситуациях нужно доехать до конца одного пролёта, развернуть новый и повторить, при необходимости.
 
 ## _Battlefield Navigation_ {#battlefield-navigation}
 
