@@ -42,16 +42,17 @@ Armored Command Vehicle (ACV) found in mainbases only.
   * The reason why the deployable asset that the player requested could not be built.
   * That the player must exit the vehicle or the current seat to avoid punishment.
 * PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
+* Direct messages from server administrators and some types of game notifications will appear in orange text near the center of the screen. Some of these are just informative while others, especially messages from server administrators, may require your attention.
 * Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see the weapons chapter\).
-* **Name tags have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. When you lose more than 25% of your health, you will start to see a red bloody screen which pulsates as you hear wounded sounds of pain. You will continue to lose health as you bleed out until you receive medical attention, if you do not you will die. If however your health drops very low, your screen will lose all color, your vision will become very blurred and you will be unable to move at speed. You will have approximately a few minutes to reach medical attention or you will die. Health monitoring is instead achieved by visual cues. Once you are below 75 HP, you will start to see a tunnel vision effect with a darkened screen and a droplet icon will appear next to the compass. The lower your HP, the longer this darkening effect lasts and the more stronger your vision will be obscured by a tunnel type effect.
+* **Most 3D icons have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
+* **No health status bar** indicating your vital status. [\(see Health Management\)](the_basics.md#health-management)
 * **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
 * To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
 * **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
 * There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
-* **The current map & layer** can be viewed on the top of the screen when opening the map.
-* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
+* Only air vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
+* **The current map & layer** can be viewed on the top of the screen when opening the map with squad/kit menu.
+* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
 
 {% figure "../assets/assets.png" %}
 Current map asset info overlay.
@@ -63,10 +64,10 @@ Current map asset info overlay.
 {% figure "../assets/suppresion.png" %}
 Normal view of the game (left) and suppresion effect in action (right).
 {% endfigure %}
-* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, sprinting is no longer possible, jumping however still is.
-* When a player is **dead,** he will not be not revivable and black screen with the words dead will be displayed instead of seeing their surroundings.
+* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, indicated by blinking, sprinting is no longer possible, jumping however still is.
+* When a player is **dead,** he will not be not revivable and black screen with an appropriate message will be displayed instead of seeing their surroundings.
 * Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
-* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted.
+* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted from within a vehicle.
 * Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
 * **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
 
@@ -78,7 +79,7 @@ Commo-rose when pressing Q.
 
 ## _Health Management_ {#health-management}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be audible and visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25 HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
+Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25% HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
 
 ### Healing
 
@@ -92,13 +93,13 @@ Field dressing, first aid kit & epipen.
 
 ### Reviving
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but unlike in BF2, will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck , on uneven ground or in a bad position for reviving it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot to start dragging. You can drag in all directions including backwards. 
+If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team. In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck on uneven ground or in a bad position for reviving, it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot to start dragging. You can drag in all directions including backwards. 
 
 {{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
 
 ### Death
 
-Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, left click on **Give up/Call Medic** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
+Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, click **Give up** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
 
 ### Re-spawning
 
@@ -117,7 +118,7 @@ A temporary spawn time penalty which only affects the next time you die \(buildi
 * Civilian killed violating ROE: **120 seconds per civilian**
 * Own weapons cache destroyed: **300 seconds**
 
-To select a spawn point, bring up the spawn map and select an applicable location. Once you’re happy with that spawn location, you must click on the **Done** button in the lower right corner of the map screen to re-spawn into the game. Just waiting for the timer to expire or hitting the &lt;enter&gt; key will not automatically respawn you. If you see a very large number on the timer, such as 5999, then you haven’t clicked Done.
+To select a spawn point, bring up the spawn map and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
 
 ## _Logistics_ {#logistics}
 
