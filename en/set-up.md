@@ -35,7 +35,7 @@ The downloaded folder that you now have through either the Download Assistant or
 
 A few more points:
 
-* PR:BF2 cannot be installed in the same directory as Battiefield 2.
+* PR:BF2 cannot be installed in the same directory as Battlefield 2.
 * If you have BF2 installed you can continue to play it and other BF2 modifications as well. PR:BF2 does not interfere with them as long as PR:BF2 is installed in its own, separate directory.
 * PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to the newest version when it is released.
 * PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
