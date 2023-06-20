@@ -64,6 +64,7 @@ It is not possible to directly spawn with one of these highly restricted, specia
 | **Heavy Anti-Tank** | 0 | 1 | 1 | 1 | 1 |
 
 Furthermore, your squad also requires a minimum amount of players before you can request these kits:
+
 | Kit | Minimum Squad Size |
 | --- | --- |
 | **Machine Gunner** | 6 |
