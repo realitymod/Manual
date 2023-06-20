@@ -69,12 +69,12 @@ Normal view of the game (left) and suppresion effect in action (right).
 * **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted.
 * Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
 * **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
-* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
-* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
 
 {% figure "../assets/commorose.png" %}
 Commo-rose when pressing Q.
 {% endfigure %}
+* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
+* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
 
 ## _Health Management_ {#health-management}
 
