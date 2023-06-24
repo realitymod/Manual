@@ -7,7 +7,6 @@
     "test": "test"
   },
   "dependencies": {
-    "gitbook-plugin-language-picker": "^0.1.0",
     "honkit-plugin-reality-theme": "file:packages/reality-theme"
   },
   "devDependencies": {
@@ -19,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UTurista/Manual.git"
+    "url": "git+https://github.com/realitymod/Manual.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UTurista/Manual/issues"
+    "url": "https://github.com/realitymod/Manual/issues"
   },
-  "homepage": "https://github.com/UTurista/Manual#readme"
+  "homepage": "https://github.com/realitymod/Manual#readme"
 }

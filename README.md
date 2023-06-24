@@ -14,6 +14,14 @@ This requires installing Node-JS, npm and getting honkit, a fork of gitbook:  `n
  - Build: `npx honkit build`
  - Host locally (available on localhost:4000): `npx honkit serve`
 
+If you get errors during building related to the reality-theme plugin execute the following commands before building:
+```
+cd ./packages/reality-theme
+npm link
+cd ../..
+npm link honkit-plugin-reality-theme
+```
+
 ## Translation credits
 - German: Rotblut
 - Brazilian Portuguese: Mordekay
