@@ -63,20 +63,20 @@ Les artilleurs de chars et d'IFV le déploient en sélectionnant son emplacement
 
 ## _Aéronef à voilure fixe_ {#fixed-wing-aircraft}
 
-* ALes avions ont un **temps de préchauffage** de 30 secondes avant de pouvoir décoller du sol.
+* Les avions ont un **temps de préchauffage** de 30 secondes avant de pouvoir décoller du sol.
 * Les pilotes de jet peuvent regarder dans d'autres directions pendant le vol en appuyant sur les touches 7, 8 et 9 que vous pouvez mapper sur un joystick POV HAT       Switch. Pour regarder à nouveau vers l'avant, appuyez sur 1 ou sélectionnez n'importe quelle autre arme dont votre avion dispose.
 * **Pour rouler** lentement au sol, maintenez la manette des gaz neutre et poussez le manche vers l'avant ou appuyez sur la touche fléchée vers le haut pour vous         déplacer lentement dans cette direction. Tirez le manche vers l'arrière ou appuyez sur la flèche vers le bas pour reculer. Pour diriger à gauche et à droite,           utilisez les commandes de gouvernail \( A & D \).
 * Votre altitude maximale est de 10 km.
 * Pour **décoller**, vous devez mettre les gaz au maximum, puis attendre un peu que l'avion commence à accélérer. Lorsque vous êtes aux 2/3 de la piste, commencez à tirer doucement sur le manche et ajoutez peut-être un peu de postcombustion.
 * La plupart des avions sont équipés d'un **canon et de plusieurs armes externes** . La touche de tir principale tirera le canon (si votre avion en a un) tandis que la touche de tir secondaire tirera l'arme actuellement sélectionnée, comme les bombes et les missiles.
-* To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
-* Most fixed wing aircraft feature **ejection seats** when you press E. It will automatically deploy the parachute when below 750m. 
-* **Air-to-ground weapons** in single seat aircraft need an established laser lock to hit a target. The recommended procedure for an attack with them is explained below:
-  1. Ground troops find a suitable target for an air attack.
-  2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](../assets/marker.png)
-  3. The pilot informs the ground troops of his approach using the **“ON THE WAY”** command from his main radio menu and/or through mumble/text chat.
-  4. As the pilot approaches the target, the ground troops mark the target with a **GTLD laser** designator, if the laser is slightly off from the target, the missile may miss.
-  5. When the target is locked-on the pilot receives a sound cue. He may now release the bomb/missile.
+* Pour **réarmer et réparer**, vous devez faire atterrir l'avion sur votre base aérienne et rouler jusqu'à la « rampe » ou sur quelques très rares cartes, sur la piste. Il faut un certain temps pour se réarmer complètement. Sur les porte-avions, vous ne pouvez recharger que sur la « rampe » du porte-avions, hors piste. Cela n'inclut pas les ascenseurs.
+* La plupart des avions à voilure fixe sont équipés de **sièges éjectables** lorsque vous appuyez sur E. Ils déploieront automatiquement le parachute en dessous de 750 m.
+* **Les armes air-sol** des avions monoplaces nécessitent un verrouillage laser établi pour atteindre une cible. La procédure recommandée pour une attaque avec eux est expliquée ci-dessous :
+  1. Les troupes terrestres trouvent une cible appropriée pour une attaque aérienne.
+  2. Les troupes contactent le pilote soit directement par chat marmonné/texto et/ou en plaçant un marqueur CAS. ![](../assets/marker.png)
+  3.Le pilote informe les troupes au sol de son approche en utilisant la commande **« ON THE WAY »** depuis son menu radio principal et/ou via le chat marmonné/texté.
+  4.Lorsque le pilote s'approche de la cible, les troupes au sol marquent la cible avec un désignateur laser GTLD ; si le laser est légèrement éloigné de la cible, le missile peut rater.
+  5. Lorsque la cible est verrouillée, le pilote reçoit un signal sonore. Il peut maintenant larguer la bombe/le missile.
 * **Two-seater aircraft** allow the weapons systems officer \(WSO\) to identify and engage targets by himself while using the TV targeting mode. The targeting modes work in the same way as in attack helicopters.
 * The commander can place a laser target from his map. Since this method is not very precise it should only be used to bomb static targets.
 * Aircrafts don't have a nose camera but you can still look back by pressing the cycle camera key \(**C**\) or F11 to look back, and F9 or a weapon key to look forwards again.
