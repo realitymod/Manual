@@ -73,7 +73,7 @@ Les artilleurs de chars et d'IFV le déploient en sélectionnant son emplacement
 * La plupart des avions à voilure fixe sont équipés de **sièges éjectables** lorsque vous appuyez sur E. Ils déploieront automatiquement le parachute en dessous de 750 m.
 * **Les armes air-sol** des avions monoplaces nécessitent un verrouillage laser établi pour atteindre une cible. La procédure recommandée pour une attaque avec eux est expliquée ci-dessous :
   1. Les troupes terrestres trouvent une cible appropriée pour une attaque aérienne.
-  2. Les troupes contactent le pilote soit directement par chat marmonné/texto et/ou en plaçant un marqueur CAS. ![](../assets/marker.png)
+  2. Les troupes contactent le pilote soit directement par chat marmonné/texto et/ou en plaçant un marqueur CAS. ![](../assets/marker.png).
   3.Le pilote informe les troupes au sol de son approche en utilisant la commande **« ON THE WAY »** depuis son menu radio principal et/ou via le chat marmonné/texté.
   4.Lorsque le pilote s'approche de la cible, les troupes au sol marquent la cible avec un désignateur laser GTLD ; si le laser est légèrement éloigné de la cible, le missile peut rater.
   5. Lorsque la cible est verrouillée, le pilote reçoit un signal sonore. Il peut maintenant larguer la bombe/le missile.
