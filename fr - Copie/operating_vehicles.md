@@ -77,60 +77,57 @@ Les artilleurs de chars et d'IFV le déploient en sélectionnant son emplacement
   3.Le pilote informe les troupes au sol de son approche en utilisant la commande **« ON THE WAY »** depuis son menu radio principal et/ou via le chat marmonné/texté.
   4.Lorsque le pilote s'approche de la cible, les troupes au sol marquent la cible avec un désignateur laser GTLD ; si le laser est légèrement éloigné de la cible, le missile peut rater.
   5. Lorsque la cible est verrouillée, le pilote reçoit un signal sonore. Il peut maintenant larguer la bombe/le missile.
-* **Two-seater aircraft** allow the weapons systems officer \(WSO\) to identify and engage targets by himself while using the TV targeting mode. The targeting modes work in the same way as in attack helicopters.
-* The commander can place a laser target from his map. Since this method is not very precise it should only be used to bomb static targets.
-* Aircrafts don't have a nose camera but you can still look back by pressing the cycle camera key \(**C**\) or F11 to look back, and F9 or a weapon key to look forwards again.
-* **Flares** are triggered individually\(**X**\) and need to be rearmed after all of them have been dropped. Since the warning sound is only played once the enemy has already locked onto your aircraft for half a second, it is recommended to use them while on an attack run to reduce the chance of the enemy establishing a lock.
-* **To land** in PR:BF2 you need to plan ahead much longer than in BF2. Here are some tips on how to make your first landings easier:
-* You need to reduce your speed in advance until you can just stay level without falling out of the sky \(about 40% power\) with the stall airspeed being different for each aircraft. \(You can find the stall speed of your aircraft yourself by just going up high and slowing your aircraft down until it starts to lose control and fall, but doing it up high will mean you can regain control by opening up the throttle and pointing your nose down, then just stay above that stall speed while landing, until your wheels hit the ground.\)
-* When you are at this speed you should start your approach.
-* Imagine a point on the map by extending the runway by about 1km.
-* Fly to this point and turn towards the runway.
-* When you are about 200m from the runway cut your throttle.
-* Once you have touched the ground pull back on the stick to slow down, the planes all handle individually.
+* **Les avions biplaces** permettent à l'officier des systèmes d'armes (WSO) d'identifier et d'engager lui-même des cibles tout en utilisant le mode de ciblage TV. Les modes de ciblage fonctionnent de la même manière que dans les hélicoptères d'attaque.
+* Le commandant peut placer une cible laser depuis sa carte. Cette méthode n’étant pas très précise, elle ne doit être utilisée que pour bombarder des cibles statiques.
+* Les avions n'ont pas de caméra frontale, mais vous pouvez toujours regarder en arrière en appuyant sur la touche de caméra cycle ( C ) ou sur F11 pour regarder en arrière, et sur F9 ou sur une touche d'arme pour regarder à nouveau vers l'avant.
+* **Moyen de contre mesure** sont déclenchées individuellement ( X ) et doivent être réarmées une fois qu'elles ont toutes été larguées. Étant donné que le son d'avertissement n'est émis qu'une fois que l'ennemi s'est déjà verrouillé sur votre avion pendant une demi-seconde, il est recommandé de l'utiliser lors d'une attaque afin de réduire les chances que l'ennemi établisse un verrouillage.
+* **Pour atterrir dans PR:BF2**, vous devez planifier beaucoup plus longtemps que dans BF2. Voici quelques conseils pour faciliter vos premiers atterrissages :
+* Vous devez réduire votre vitesse à l'avance jusqu'à ce que vous puissiez simplement rester à niveau sans tomber du ciel (environ 40 % de puissance), la vitesse de décrochage étant différente pour chaque avion. (Vous pouvez trouver vous-même la vitesse de décrochage de votre avion en montant simplement en haut et en ralentissant votre avion jusqu'à ce qu'il commence à perdre le contrôle et à tomber, mais le faire en haut signifie que vous pourrez reprendre le contrôle en ouvrant les gaz et en pointant votre nez. vers le bas, puis restez simplement au-dessus de cette vitesse de décrochage lors de l'atterrissage, jusqu'à ce que vos roues touchent le sol.)
+* Lorsque vous êtes à cette vitesse, vous devez commencer votre approche.
+* Imaginez un point sur la carte en prolongeant la piste d'environ 1 km.
+* Volez jusqu'à ce point et tournez-vous vers la piste.
+* Lorsque vous êtes à environ 200 m de la piste, coupez les gaz.
+* Une fois que vous avez touché le sol, tirez sur le manche pour ralentir, les avions se manipulent tous individuellement.
 
-## _Fire Control Systems_ {#fire-control-systems}
-Vehicles in Project Reality use an authentic ballistic system for vehicle projectiles. Depending on the vehicle several variations of Fire Control Systems (FCS) computers can be used by the gunner. In principle, the FCS can calculate required adjustments to fire at the target exactly where you want to. Not only does the firing solution consider the drop of the projectile due to gravity, it also includes friction slowing down projectiles. Further it can account for the offset between the operator camera and barrel, the height difference to the target, banking of the vehicle as well as speed of the vehicle. Just as their real life counterparts, not every vehicle will have the same capabilities for their FCS. This section will delve deeper into some of the use-cases of our FCS implementations. 
+## _Systèmes de contrôle de tire_ {#fire-control-systems}
+Les véhicules de Project Reality utilisent un système balistique authentique pour les projectiles des véhicules. En fonction du véhicule, plusieurs variantes d'ordinateurs de systèmes de contrôle de tir (FCS) peuvent être utilisées par le tireur. En principe, le FCS peut calculer les ajustements nécessaires pour tirer sur la cible exactement là où vous le souhaitez. Non seulement la solution de tir prend en compte la chute du projectile due à la gravité, mais elle inclut également le ralentissement des projectiles par friction. En outre, il peut tenir compte du décalage entre la caméra de l'opérateur et le canon, de la différence de hauteur par rapport à la cible, de l'inclinaison du véhicule ainsi que de la vitesse du véhicule. Tout comme leurs homologues réels, tous les véhicules n’auront pas les mêmes capacités pour leur FCS. Cette section approfondira certains des cas d'utilisation de nos implémentations FCS.
 
-### Ground Vehicles
-* In short, there are 3 types of FCS for ground vehicles:
-  * Static sight: You have to rely on range markings in the sight.
-  * Adjusting sight: The crosshair moves to show where to aim.
-  * Adjusting barrel: The barrel moves to hit where you are aiming.
-* The vehicle gunner‘s view (the sight in the HUD) will greatly vary from vehicle to vehicle depending on their specifications. Some vehicles, mostly older generation ones, but not limited to age, simply offer a graticule overlay with lines indicating the necessary point of aim for a given distance.
-The markings on the scope itself will usually clarify which lines are to be used for which type of armament specifically. The gunner then has to correctly estimate the range to the target and adjust the gun’s pitch in order to hit.
-* Other vehicles come with the ability to set up the gun sight’s zero to indicate the point of aim for the intended point of impact. By holding the commo-rose **\(default: Q\)**, the gunner can dial into the desired range by increasing or subtracting the indicated range. He can also reset the gun into neutral position, which is indicated by the display of **- - - -** in the HUD as range setting.
-
+### Véhicules terrestres
+* En bref, il existe 3 types de FCS pour les véhicules terrestres :
+  * Viseur statique : vous devez vous fier aux marquages ​​de portée dans le viseur.
+  * Réglage de la visée : le réticule se déplace pour indiquer où viser.
+  * Canon réglable : Le canon se déplace pour frapper là où vous visez.
+* La vue du tireur du véhicule (la vue dans le HUD) variera considérablement d'un véhicule à l'autre en fonction de ses spécifications. Certains véhicules, pour la plupart d'ancienne génération, mais sans s'y limiter, proposent simplement une superposition de réticule avec des lignes indiquant le point de visée nécessaire pour une distance donnée. Les marquages ​​sur la lunette elle-même précisent généralement quelles lignes doivent être utilisées pour quel type d'armement en particulier. Le tireur doit alors estimer correctement la distance jusqu'à la cible et ajuster le pas du canon pour toucher.
+*  D'autres véhicules ont la possibilité de régler le zéro du viseur du pistolet pour indiquer le point de visée du point d'impact prévu. En maintenant la commo-rose **\(default: Q\)** , le tireur peut accéder à la portée souhaitée en augmentant ou en soustrayant la portée indiquée. Il peut également remettre le cannon en position neutre, ce qui est indiqué par l'affichage de - - - - dans le HUD comme réglage de portée.,
 {% figure "../assets/fcs_manual.png" %}
-Using the commo-rose to manually change the set range.
+ Utilisation de la commo-rose pour modifier manuellement la plage définie.
 {% endfigure %}
 
-* The most sophisticated setup found on most modern vehicles comes with access to a fully automated FCS, complete with a laser range finder. They will show the icon for the laser as active:![](../assets/fcs_cap_laser.png).
-* After aiming the crosshair at the desired target(distance), vehicles that have it, the laser range finder can be used with the change camera key **\(default: C\)** which will set the gun automatically to be set in the correct position to fire at the center crosshair. 
-* In the bottom right of the HUD the current set range and available capabilities of your vehicle is shown.
-
+* Les icônes dans la vue du tireur sur les véhicules utilisant un FCS affichent un certain nombre d'icônes en échelle blanche ou grise. Ces icônes indiquent chacune un certain type de correction de visée dont le FCS tiendra compte lors du réglage correct du pistolet. Les corrections tiennent compte des imprécisions de visée suivantes : ![](../assets/fcs_cap_laser.png).
+* Après avoir pointé le réticule sur la cible (distance) souhaitée, les véhicules qui en disposent, le télémètre laser peut être utilisé avec la touche de changement de caméra **\(default: C\)** qui réglera automatiquement le pistolet pour qu'il soit placé dans la bonne position pour tirer sur le réticule central.
+* En bas à droite du HUD, la plage définie actuelle et les capacités disponibles de votre véhicule sont affichées.
 {% figure "../assets/fcs_main.png" %}
 The set range and FCS capability icons being shown in the bottom right of the HUD.
 {% endfigure %}
 
 * The icons in the gunner view on vehicles using a FCS show a number of icons in either white or grey scale. These icons each indicate a certain type of aiming correction the FCS will account for when setting the gun up correctly. The corrections account for the following aiming inaccuracies:
-  * ![](../assets/fcs_cap_velocity.png) Speed compensation: Compensating for the vehicle’s own movement. Does NOT correct the lead on a moving enemy target vehicle.
-  * ![](../assets/fcs_cap_height.png) Height compensation: Compensates for the difference in altitude between your vehicle and the target.
-  * ![](../assets/fcs_cap_parallax.png) Parallax compensation:  Compensating the mismatch between gun position and gunner camera position.
-  * ![](../assets/fcs_cap_roll.png) Roll compensation: Compensates the vehicle sitting at an angle.
-* When switching to the coaxial machine gun, the gun’s pitch will automatically to fire the machine gun to fire at the center. The same will happen when switching to other types of munitions. To switch between main gun and coaxial MG use the switch weapon key **\(default: F\)**.
-* Although the desired mode of operation is for the weapon to be set automatically, the gunner has also the ability to dial manually. This will however not correct for aiming mismatches(see below).
-If the distance to the target is greater than physically achieveable by the selected weapon, the HUD will display a red lettering of the current range setting or **^ ^ ^ ^** as the error indication.
-* A small number of vehicles will utilize a laser range finder to receive the correct distance to the target, but instead of shifting the gun to aim in the center crosshair, the position of the crosshair within the scope will change. Changing to the coaxial machine gun or other types of ammunition will change the crosshair position automatically again. Just like above, manually dialing is also possible.
-* There is a very, very brief period after lasing and the gun entering the correct position. If you’re too hasty you may end up missing.
-* The laser range finder has a cool down period of about one second in between uses, indicated by the icon turning red. 
-* It cannot be used to set up the gun for distances under 150m. Lasing at such a low distance or into the horizon will revert the gun to settle into neutral position, with the range indicator showing **v v v v**. 
-* The laser has an error of around ± 5m.
+  * ![](../assets/fcs_cap_velocity.png) Compensation de vitesse : Compensation du propre mouvement du véhicule. Ne corrige PAS l'avance d'un véhicule cible ennemi en mouvement.
+  * ![](../assets/fcs_cap_height.png) Compensation de hauteur : compense la différence d'altitude entre votre véhicule et la cible.
+  * ![](../assets/fcs_cap_parallax.png) Compensation de parallaxe : Compensation de l'inadéquation entre la position du pistolet et la position de la caméra du tireur.
+  * ![](../assets/fcs_cap_roll.png) Compensation de roulis : compense le véhicule assis en biais.
+  * 
+* Lors du passage à la mitrailleuse coaxiale, le pas du pistolet fera automatiquement tirer la mitrailleuse pour tirer au centre. La même chose se produira lors du passage à d’autres types de munitions. Pour basculer entre le canon principal et la MG coaxiale, utilisez la touche de changement d'arme **\(default: F\)**.
+*Bien que le mode de fonctionnement souhaité soit que l'arme soit réglée automatiquement, le tireur a également la possibilité de composer manuellement. Cela ne corrigera cependant pas les erreurs de visée (voir ci-dessous). Si la distance jusqu'à la cible est supérieure à celle physiquement réalisable par l'arme sélectionnée, le HUD affichera une lettre rouge du réglage de portée actuel ou **^ ^ ^ ^** comme indication d'erreur.
+* Un petit nombre de véhicules utiliseront un télémètre laser pour obtenir la distance correcte par rapport à la cible, mais au lieu de déplacer le cannon pour viser dans le réticule central, la position du réticule dans la lunette changera. Le passage à la mitrailleuse coaxiale ou à d'autres types de munitions modifiera à nouveau automatiquement la position du réticule. Tout comme ci-dessus, la numérotation manuelle est également possible.
+*Il y a une période très, très brève après l'application du laser et le moment où le pistolet entre dans la bonne position. Si vous êtes trop pressé, vous risquez de manquer.
+* Le télémètre laser a une période de refroidissement d'environ une seconde entre les utilisations, indiquée par l'icône qui devient rouge. 
+* Il ne peut pas être utilisé pour régler le pistolet sur des distances inférieures à 150 m. Un laser à une distance aussi faible ou dans l'horizon ramènera le pistolet pour se stabiliser en position neutre, l'indicateur de portée indiquant **vvvv** .
+* Le laser a une erreur d'environ ± 5 m.
 
-* The game will memorize the last setting of the gunner, regardless of whether he left it or was killed in it.
-* The gun’s warm up phase does not prevent the gunner from using the laser range finder or the manual range dialing.
-* The FCS on SPAAA (Self-Propelled Anti-Aircraft Artillery) vehicles is always active and does not require any additional input from the player.
-* When crewing a SPAAA with radar equipment, the FCS will display a circle indicating the correct target lead after aquiring a lock on the target. The enemy aircraft can deploy flares to break the lock, which removes the aiming circle temporarily.
+* Le jeu mémorisera le dernier réglage du tireur, qu'il l'ait quitté ou qu'il y ait été tué.
+* La phase de préchauffage du pistolet n'empêche pas le tireur d'utiliser le télémètre laser ou la sélection manuelle de la distance.
+* Le FCS sur les véhicules SPAAA (Self-Propelled Anti-Aircraft Artillery) est toujours actif et ne nécessite aucune intervention supplémentaire de la part du joueur.
+* Lors de l'équipage d'un SPAAA avec un équipement radar, le FCS affichera un cercle indiquant la bonne avance de la cible après avoir acquis un verrouillage sur la cible. L'avion ennemi peut déployer des fusées éclairantes pour briser le verrou, ce qui supprime temporairement le cercle de visée.
 
 ### Fixed Wing Aircraft
-The FCS is not limited to ground vehicles, fixed wing aircraft have their own versions for (automated) firing solutions. As such modern jets utilize Constantly Computed Impact Point (CCIP) which will show where bombs will land on the ground. Additionally ground attack jets will also utilize CCIP to show the impact of their main gun. Fighter jets supporting radar targeting will be able to lock onto aircraft with their guns to show a marker predicting where to aim and hit the target. This radar locking will also trigger the victims radar warning receivers and can be countered using flares.
+Le FCS ne se limite pas aux véhicules terrestres, les avions à voilure fixe ont leurs propres versions pour les solutions de tir (automatisées). En tant que tels, les avions à réaction modernes utilisent le point d'impact constamment calculé (CCIP) qui indiquera où les bombes atterriront sur le sol. De plus, les avions d'attaque au sol utiliseront également le CCIP pour montrer l'impact de leur canon principal. Les avions de combat prenant en charge le ciblage radar pourront se verrouiller sur les avions avec leurs canons pour afficher un marqueur prédisant où viser et atteindre la cible. Ce verrouillage radar déclenchera également les récepteurs d'avertissement radar des victimes et pourra être contré à l'aide de fusées éclairantes.
