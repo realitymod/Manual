@@ -178,8 +178,7 @@ Simply follow this sequence:
 | Key Sequence to Drop your Kit |
 | --- |
 | 1. **Press and hold down the Secondary Radio key /\(T/\)** |
-| 2. Select the middle option of the _Comm Rose_ \(**REQUEST / DROP KIT"**\) and to **right-click** in it. This will drop below you an invisible Unarmed Kit |
-| 3. Pick it up by pressing the **pickup key \(G\)** |
+| 2. Select the middle option of the _Comm Rose_ \(**REQUEST / DROP KIT"**\) and to **right-click** in it. This will drop your old kit below you, and you will wear an invisible Unarmed Kit. |
 
 Note that a kit on the ground will disappear after about 5 minutes so long as it has not been picked up in the interim. The eventually despawning kits with limited availability squad- or team-wise become requestable from the squad‘s or team’s kit pool again once they disappear.   
 

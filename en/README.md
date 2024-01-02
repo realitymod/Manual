@@ -19,6 +19,9 @@ This mod was made by players, for players so don't be afraid to ask for help in-
 ## Changelog
 The changelog for this manual is as follows:
 
+### 2023-09-18
+- Updated Kit drop procedure
+
 ### 2023-06-24
 - Small updates and fixes to content and styling
 - Fixed Honkit related issues
