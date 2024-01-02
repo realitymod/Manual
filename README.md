@@ -27,3 +27,4 @@ npm link honkit-plugin-reality-theme
 - Brazilian Portuguese: Mordekay
 - Indonesia: PRID-TEAM
 - Spanish: isaias43
+- Italian: Marco-Wolf-DX 
