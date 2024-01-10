@@ -13,29 +13,29 @@
 * **Input:** Mouse, Keyboard
 * **Optional:** Joystick, Headset, microphone \(strongly recommended for voice communication\)
 
-## _Game Installation_                                                                          {#game-installation}
+## _Installation du jeu_                                                                          {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version PR:BF2. 
+Avec PR:BF2, il **n'est plus nécessaire d'installer Battlefield 2** . PR:BF2 fonctionne comme un jeu autonome. Si vous avez une version de PR:BF2 installée avant la v1.3, vous devrez la désinstaller avant d'installer la version actuelle PR:BF2. 
 
-You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
+Vous devez télécharger le programme d’installation complet de PR:BF2 depuis notre site Web. Il ne sera pas nécessaire d'installer Battlefield 2.
 
 [**Download the latest version**](http://www.realitymod.com/downloads)
 
-There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
+Il existe 2 méthodes d'installation. Vous pouvez utiliser l' application Download Assistant qui facilite grandement l'installation de PR:BF2 ou vous pouvez télécharger et installer manuellement le programme d'installation via un torrent . Quelle que soit la méthode, il y a 2 étapes : Télécharger et installer :
 
-**1\) Download**
+**1\) Télécharger**
 
-The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. 
+L'assistant de téléchargement téléchargera le programme d'installation à l'aide du protocole Torrent. Assurez-vous donc que cela n'est pas bloqué par votre FAI. Téléchargez simplement l'assistant de téléchargement depuis notre  [PR:BF2 Download Section](http://www.realitymod.com/downloads) et suivez les instructions de l'application.
 
-If you downloaded the Torrent version \(and now the Download Assistant\), this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full .iso file. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
+Si vous avez téléchargé la version Torrent (et maintenant l'assistant de téléchargement), il ne s'agit **PAS** de l'installation complète. Vous utilisez le petit fichier .torrent avec un client BitTorrent pour télécharger le fichier .iso complet. Nous recommandons [qBittorrent](http://www.qbittorrent.org/download.php). Une fois le torrent téléchargé via votre logiciel Torrent sélectionné, un dossier contenant tous les fichiers d'installation vous sera présenté. Passez à l'étape 2 une fois le téléchargement terminé par l'application.
 
 **2\) Installation**
-The downloaded folder that you now have through either the Download Assistant or the manual Torrent download now have a _setup.exe_ file. Launch this one to start the installation process. The Download Assistant however does has an automated system so after downloading there should be a button to start the installation automatically. 
+Le dossier téléchargé que vous avez maintenant via l'assistant de téléchargement ou le téléchargement manuel du torrent contient désormais un fichier setup.exe . Lancez celui-ci pour démarrer le processus d’installation. L'assistant de téléchargement dispose cependant d'un système automatisé, donc après le téléchargement, il devrait y avoir un bouton pour démarrer l'installation automatiquement.
 
-A few more points:
+Quelques points supplémentaires :
 
-* With the new standalone version there is also no longer a requirement to install it in the Battlefield 2 folder. Feel free to install PR:BF2 in a drive and folder of your choosing.
-* If you have BF2 installed you can continue to play it and player other BF2 modifications as well. PR:BF2 does not interfere with them.
+* Avec la nouvelle version autonome, il n'est plus nécessaire de l'installer dans le dossier Battlefield 2. N'hésitez pas à installer PR:BF2 dans un lecteur et un dossier de votre choix.
+* Si BF2 est installé, vous pouvez continuer à y jouer ainsi qu'à d'autres modifications de BF2. PR:BF2 ne les gêne pas.
 * PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to newer versions when they are released.
 * PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
 * If you don’t want to use Torrents you will find mirrors for direct HTTP downloads through our forums.
