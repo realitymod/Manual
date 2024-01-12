@@ -67,17 +67,16 @@ Steam profile's configurations.
 Main Launcher page with account level warning.
 {% endfigure %}
 
-To recalculate your PR Account Level go to the **SUPPORT** menu and open the _Account_ tab. There you can find your unique PR Account ID as well as your current PR Account Level and a button to calculate it again. Your level can never become lower after calculation. You will always keep the highest level you have. 
+Pour recalculer votre niveau de compte PR, accédez au menu **SUPPORT** et ouvrez l' onglet Compte . Vous y trouverez votre identifiant de compte PR unique ainsi que votre niveau de compte PR actuel et un bouton pour le calculer à nouveau. Votre niveau ne peut jamais baisser après calcul. Vous garderez toujours le plus haut niveau que vous avez.
+Le niveau de votre compte PR sera plus élevé en collectant de l'XP pour quelques indicateurs. Il s'agit par exemple de ne pas avoir d'interdictions Steam VAC actuelles, d'avoir des jeux achetés sur la boutique Steam dans votre bibliothèque et d'avoir du temps de jeu sur lesdits jeux. **Les dons à l'équipe Project Reality n'influencent pas le niveau de votre compte PR.**
 
-Your PR Account Level will be higher by gathering XP for a few indicators. These are for example having no current Steam VAC bans, having games bought on the Steam store in your library and having playtime on said games. **Donations to the Project Reality team do not influence your PR Account Level.**
-
-If you do not wish to create a PR Account to play online, you can choose to play offline only on the initial login screen. 
+Si vous ne souhaitez pas créer de compte PR pour jouer en ligne, vous pouvez choisir de jouer hors ligne uniquement sur l'écran de connexion initial.
 
 ## _Creating a Profile_ {#creating-a-profile}
 
-You have one PR Account that is unique. However, you can create multiple profiles under this PR Account. Each profile has a unique in-game name as well as separate settings and controls saved on your computer. You can retrieve previously created profiles as well. Older profiles created after PR:BF2 v1.2 and before v1.6 can be retrieved as well by providing the profile name and password. 
+Vous disposez d’un compte PR unique. Cependant, vous pouvez créer plusieurs profils sous ce compte PR. Chaque profil possède un nom unique dans le jeu ainsi que des paramètres et des commandes distincts enregistrés sur votre ordinateur. Vous pouvez également récupérer des profils créés précédemment. Les profils plus anciens créés après PR:BF2 v1.2 et avant v1.6 peuvent également être récupérés en fournissant le nom du profil et le mot de passe.
 
-You can access the profile settings by hovering over the PLAY button in the PR Launcher and choosing _Select Profile_ and then _Manage Profiles_. You have the option to create offline profiles as well. If you didn’t log in through your online PR Account, you can only make and use offline profiles. 
+Vous pouvez accéder aux paramètres du profil en survolant le bouton PLAY dans le PR Launcher et en choisissant Select Profile puis _Manage Profiles_ . Vous avez également la possibilité de créer des profils hors ligne. Si vous ne vous êtes pas connecté via votre compte RP en ligne, vous ne pouvez créer et utiliser que des profils hors ligne.
 
 {% figure "../assets/creating_profile_5.png" %}
 Manage profiles page.
@@ -91,19 +90,19 @@ Creating profile page.
 
 ## _The PR Launcher_ {#the-pr-launcher}
 
-After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
+Après l'installation, un raccourci pour Project Reality:BF2 sera fourni sur le bureau, double-cliquez sur cette icône pour ouvrir le PR Launcher.
 
 {% figure "../assets/launcher_1.png" %}
 Main page of PR Launcher.
 {% endfigure %}
 
-All main options are displayed on the right.
+Toutes les options principales sont affichées à droite.
 
-* **Play:**  This will start the game. If you click the down arrow to the right, you have the option to check for updates or select a different profile. If there is an update it will be automatically displayed if you press the play button. This update will then automatically be downloaded and installed. Progress of the update and installation will be displayed whilst it is in operation.
-* **Options:** In this menu you can edit your video, graphics, and audio settings. Also some other options are available as well as configuring PR Mumble keys.
-* **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team. It also holds information on your PR Account as well as the option to recalculate your PR Account Level. 
-* **Credits:** Here you can see the entire PR:BF2 team who worked on this game.
-* **Donate:** A direct link to our online donation page. The Project Reality Team develops this modification completely free of charge for its community to download and play. If you would like to show your support, please consider [donating to our team](https://www.realitymod.com/forum/misc.php?do=donate).
+* **Jouer:**  Cela lancera le jeu. Si vous cliquez sur la flèche vers le bas à droite, vous avez la possibilité de rechercher des mises à jour ou de sélectionner un autre profil. S'il y a une mise à jour, elle sera automatiquement affichée si vous appuyez sur le bouton de lecture. Cette mise à jour sera alors automatiquement téléchargée et installée. La progression de la mise à jour et de l'installation sera affichée pendant son fonctionnement.
+* **Options:** dans ce menu, vous pouvez modifier vos paramètres vidéo, graphiques et audio. D'autres options sont également disponibles ainsi que la configuration des touches PR Mumble.
+* **Assistance:** Ceci est pratique lorsque vous rencontrez des problèmes. Il propose de nombreux utilitaires tels que la suppression des dossiers mis en cache ou l'affichage d'informations détaillées sur les spécifications de votre ordinateur. Cela s’avère utile lorsque vous contactez notre équipe d’assistance. Il contient également des informations sur votre compte PR ainsi que la possibilité de recalculer le niveau de votre compte PR.
+* **Credits:** Vous pouvez voir ici toute l'équipe PR:BF2 qui a travaillé sur ce jeu.
+* **Donate:** un lien direct vers notre page de don en ligne. L'équipe Project Reality développe cette modification entièrement gratuitement pour que sa communauté puisse la télécharger et la jouer. Si vous souhaitez montrer votre soutien, pensez à [donating to our team](https://www.realitymod.com/forum/misc.php?do=donate).
 * **Exit:** Use this button to close the PR Launcher and return to Windows
 
 The launcher’s main menu also provides a news ticker at the bottom highlighted in blue with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community. Furthermore you can find links to our social media accounts on the top left. 
