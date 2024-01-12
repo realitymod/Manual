@@ -10,7 +10,7 @@
 * Les véhicules peuvent être réapprovisionnés et réparés au dépôt de ravitaillement. Ou utilisez le dépôt de réparation que n'importe quel camion logistique peut déposer. Les avions et les hélicoptères sont automatiquement réparés et réarmés à leur emplacement d'apparition.repaired and rearmed at their spawn location.
 * Les insurgés ont des **véhicules suicides** comme un camion benne orange ou de petites voitures civiles remplies de C4. Vous pouvez les faire exploser avec la touche de tir alternative.
 * Lorsque vous quittez un véhicule terrestre en mouvement, vous subirez des dégâts en fonction de sa vitesse. Vous serez gravement blessé si vous sortez d'un véhicule en feu.
-* Lorsque les véhicules subissent beaucoup de dégâts, ils peuvent devenir incapables de se déplacer ou de traverser leur tourelle jusqu'à ce qu'ils soient entièrement réparés.
+* Lorsque les véhicules subissent beaucoup de dégâts, ils peuvent devenir incapables de se déplacer ou de faire tourner leur tourelle jusqu'à ce qu'ils soient entièrement réparés.
 * Les véhicules qui tirent des** missiles filoguidés** doivent être immobiles pendant environ 7 secondes avant de pouvoir tirer avec leur arme
 * Changer d'arme de véhicule \(type de munitions\) entraînera généralement un délai avant que vous puissiez tirer.
 * Vous pouvez utiliser le **mouvement CTRL gauche + souris** pour regarder librement lorsque vous utilisez la plupart des véhicules tels que des hélicoptères, des jets, des jeeps, des bateaux et des camions. Les APC et les IFV n'ont pas cette fonctionnalité car ils utilisent des caméras dédiées.
@@ -18,7 +18,7 @@
 * Lorsque vous êtes dans un véhicule, vous pouvez voir les informations sur les sièges occupés en bas à gauche du HUD. Il ne montre que les sièges d'équipage importants sous forme de marqueurs carrés. Cela comprend les postes de conducteur et de mitrailleur. Les sièges passagers n'ont pas de tels marqueurs et sont affichés comme un compteur séparé.
 ## _Les Véhicules blindés_ {#armored-vehicles}
 
-* Les chars et les VCI ont des sièges séparés pour le conducteur et le tireur. Pour utiliser le poste de tireur, un conducteur ou un tireur de coupole doit être présent. Après être passé au siège du mitrailleur, vous devez attendre 30 secondes avant de pouvoir viser le canon.Les conducteurs de chars et certains APC/IFV ont un mode de vue commandant qui offre une vue à 360° autour de la tourelle. Vous pouvez y accéder en appuyant sur 2.
+* Les chars et les APC ont des sièges séparés pour le conducteur et le tireur. Pour utiliser le poste de tireur, un conducteur ou un tireur de coupole doit être présent. Après être passé au siège du mitrailleur, vous devez attendre 30 secondes avant de pouvoir viser le canon.Les conducteurs de chars et certains APC/IFV ont un mode de vue commandant qui offre une vue à 360° autour de la tourelle. Vous pouvez y accéder en appuyant sur 2.
 * Les conducteurs de chars et certains APC/IFV ont un **mode de vue commandant** qui offre une vue à 360° autour de la tourelle. Vous pouvez y accéder en appuyant sur 2.
 * Les pilotes et les artilleurs peuvent **agrandir** leur vue en appuyant sur la touche de fumée pop \( X \). Certains conducteurs de chars doivent d'abord passer en vue commandant.
 *La plupart des chars et des IFV peuvent utiliser des **optiques thermiques** en plus de leurs vues normales. Vous pouvez passer en mode thermique en utilisant le menu radio secondaire \( **T** \) et en sélectionnant « **JOUR / THERMIQUE** ». Certains vous permettront également de basculer entre les variations thermiques comme WHOT/BHOT.
@@ -121,7 +121,7 @@ The set range and FCS capability icons being shown in the bottom right of the HU
 * Un petit nombre de véhicules utiliseront un télémètre laser pour obtenir la distance correcte par rapport à la cible, mais au lieu de déplacer le cannon pour viser dans le réticule central, la position du réticule dans la lunette changera. Le passage à la mitrailleuse coaxiale ou à d'autres types de munitions modifiera à nouveau automatiquement la position du réticule. Tout comme ci-dessus, la numérotation manuelle est également possible.
 *Il y a une période très, très brève après l'application du laser et le moment où le pistolet entre dans la bonne position. Si vous êtes trop pressé, vous risquez de manquer.
 * Le télémètre laser a une période de refroidissement d'environ une seconde entre les utilisations, indiquée par l'icône qui devient rouge. 
-* Il ne peut pas être utilisé pour régler le pistolet sur des distances inférieures à 150 m. Un laser à une distance aussi faible ou dans l'horizon ramènera le pistolet pour se stabiliser en position neutre, l'indicateur de portée indiquant **vvvv** .
+* Il ne peut pas être utilisé pour régler le canon sur des distances inférieures à 150 m. Un laser à une distance aussi faible ou dans l'horizon ramènera le pistolet pour se stabiliser en position neutre, l'indicateur de portée indiquant **vvvv** .
 * Le laser a une erreur d'environ ± 5 m.
 
 * Le jeu mémorisera le dernier réglage du tireur, qu'il l'ait quitté ou qu'il y ait été tué.
