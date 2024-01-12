@@ -36,33 +36,32 @@ Quelques points supplémentaires :
 
 * Avec la nouvelle version autonome, il n'est plus nécessaire de l'installer dans le dossier Battlefield 2. N'hésitez pas à installer PR:BF2 dans un lecteur et un dossier de votre choix.
 * Si BF2 est installé, vous pouvez continuer à y jouer ainsi qu'à d'autres modifications de BF2. PR:BF2 ne les gêne pas.
-* PR:BF2 features **an auto-updater.** So once you have installed PR:BF2 you can use the updater to automatically update your game to newer versions when they are released.
-* PR:BF2 includes PR Mumble in its installation. So there is no need to download this separately.
-* If you don’t want to use Torrents you will find mirrors for direct HTTP downloads through our forums.
+* PR:BF2  dispose **d'un programme de mise à jour automatique.** Ainsi, une fois que vous avez installé PR:BF2, vous pouvez utiliser le programme de mise à jour pour mettre automatiquement à jour votre jeu vers des versions plus récentes dès leur sortie.
+* PR:BF2 inclut PR Mumble dans son installation. Il n’est donc pas nécessaire de le télécharger séparément.
+* Si vous ne souhaitez pas utiliser Torrents, vous trouverez des miroirs pour les téléchargements HTTP directs via nos forums.
 
 ## _Creating a PR Account_ {#creating-a-pr-account}
 
-Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts (before PR:BF2 v1.2) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
-When you launch Project Reality:BF2 for the first time you will shown the following window:
+Depuis que DICE et EA ont supprimé le support de BF2 en mai 2014, nous utilisons désormais notre propre service de compte pour PR:BF2. Tous vos anciens comptes BF2 (avant PR:BF2 v1.2) ne sont plus récupérables. Avant d'utiliser PR Launcher, vous devrez créer un compte PR pour pouvoir jouer en ligne. Ce compte vous est unique. Le jeu hors ligne ne nécessite pas de compte PR. Nous utilisons des services tiers pour connecter et vérifier un compte PR. Actuellement, nous ne prenons en charge que Steam. Vous devrez disposer d'un compte Steam existant ou [create a new one](https://steamcommunity.com/) pour vous connecter à votre compte PR. Lorsque vous lancez Project Reality:BF2 pour la première fois, la fenêtre suivante s'affiche :
 
 {% figure "../assets/creating_profile_1.png" %}
 Steam login prompt.
 {% endfigure %}
 
-Press the Steam sign-in button to open a webpage where you will need to login to Steam in order to proceed. You will be then asked by your web browser to allow the PR Launcher to login. Depending on your browser this will look similar to the images below. Press the button that allows you to proceed. Afterwards you can close the webpage. 
+Appuyez sur le bouton de connexion Steam pour ouvrir une page Web sur laquelle vous devrez vous connecter à Steam pour continuer. Votre navigateur Web vous demandera ensuite d'autoriser le PR Launcher à se connecter. Selon votre navigateur, cela ressemblera aux images ci-dessous. Appuyez sur le bouton qui vous permet de continuer. Ensuite, vous pouvez fermer la page Web.
 
 {% figure "../assets/creating_profile_2.png" %}
 Web browsers prompts.
 {% endfigure %}
 
-Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Servers have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
-Please make sure the _game details_ settings are set to be public. 
+Votre compte PR se verra attribuer un niveau de compte PR. Ce niveau détermine dans quelle mesure votre compte est considéré comme légitime et non comme un compte jetable. Les serveurs ont la possibilité de choisir quel niveau minimum est requis pour jouer sur leur serveur. Afin de déterminer votre niveau de compte PR, votre compte Steam devra être rendu partiellement public. Vous pouvez le faire dans [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
+Veuillez vous assurer que les paramètres des _détails du jeu_ sont définis comme étant publics.
 
 {% figure "../assets/creating_profile_3.png" %}
 Steam profile's configurations.
 {% endfigure %}
 
-**Your Steam profile does not have to be public while playing PR:BF2.** Only when calculating the PR Account level. This is done once automatically on the first login and afterwards only when manually calculating.  You can find our privacy-notice [here](https://hq.realitymod.com/account/privacy.html). If your account level is not high enough to play on most online servers you will be shown a warning on the main PR Launcher screen which looks like the image below.
+**Il n'est pas nécessaire que votre profil Steam soit public lorsque vous jouez à PR:BF2.** Uniquement lors du calcul du niveau du compte PR. Cela se fait automatiquement une fois lors de la première connexion et ensuite uniquement lors du calcul manuel. Vous pouvez trouver notre avis de confidentialité [here](https://hq.realitymod.com/account/privacy.html). Si le niveau de votre compte n'est pas suffisamment élevé pour jouer sur la plupart des serveurs en ligne, un avertissement s'affichera sur l'écran principal de PR Launcher qui ressemble à l'image ci-dessous.
 
 {% figure "../assets/creating_profile_4.png" %}
 Main Launcher page with account level warning.
