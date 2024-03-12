@@ -1,19 +1,39 @@
-# Game Modes
+## اساليب اللعب {#اساليب_اللعب}
 
-Project Reality:BF2 features 6 different game modes with different objectives. The common goal of all game modes is to reduce the enemy team's reinforcement points \(also referred to as tickets\) to zero. In most game modes this is achieved by wounding and killing enemies, destroying their vehicles and by capturing their control points. Colored map markers indicate your current objectives in each game mode.
+1. التقدم و الاستيلاء :
+الهدف هوالسيطرة على جميع الاعلام في الخريطة او استنزاف نقاط العدو.
 
-PR:BF2 features over 60 maps with over 400 different layers. You can find all maps and their specific map information on [http://www.realitymod.com/mapgallery/](http://www.realitymod.com/mapgallery/).
+1. التمرد :
+**القوات الحمراء** هدفها الدفاع عن *مخازن الاسلحة* و استنزاف نقاط القوات الحمراء.
+**القوات الزرقاء** هدفها تدمير المخازن الاسلحة.
 
-Most game modes feature 4 layer variations to it with different assets and support available. The layers include:
+1. المناوشة :
+الهدف هوالسيطرة على جميع الاعلام في الخريطة او استنزاف نقاط العدو. و يتميز هذا الاسلوب بصغر حجم الخريطة.
 
-* **Infantry \(16\):** This layer usually consists of just transport and light armed vehicles, with a focus on infantry fighting.
-* **Alternative \(32\):** This is the alternative layer which features a big or small difference from standard.
-* **Standard \(64\):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times. 
-* **Large \(128\):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
+1. حرب الآليات :
+في هذا الاسلوب تقام المعارك بإستخدام الآليات و الطائرات حصراً. و هذا الاسلوب جيد مهارات القتال بالآليات و الطائرات.
 
-## _Advance and Secure \(AAS\)_ {#advance-and-secure}
 
-The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points \(CPs\) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If the enemy manages to capture a flag with a blue marker - usually reserved for the final flag near your main base – your team will start to bleed tickets at either a set or increasing rate of depletion. In contrast to regular Battlefield 2, the ticket bleed penalty is much harsher, and it is absolutely required to retake the flag. The bleed stops once your team manages to control the flag to the extend of the capture procedure starting for your team. Finally, a red marker next to a CP indicates an enemy flag which causes the enemy to bleed. 
+1. لعبة الاسلحة :
+في هذا الاسلوب يقام القتال بعشوائية في خريطة صغيرة و لكل قتلتين يتغير سلاح اللاعب بعشوائية 30 مرة حتى يصل الى السكين و اللاعب الذي يحققة القتل بالسكين يفوز اللعبة.
+
+
+1. تعاون جماعي :
+في هذا الاسلوب يتعاون اللاعبين ضد الذكاء الاصطناعي AI في اسلوب **التقدم و الاستيلاء**.
+
+1. القيادة و التحكم:
+في هذا الاسلوب على كل فريق أن يبني **قاعدة انزال متقدمة**-FOB- لكي لا يخسر نقاطة و اذا تم تدمير القاعدة سيخسر نقاط الى ان يبني قاعدة اخرى.
+***
+
+
+- **Infantry \(16\):** This layer usually consists of just transport and light armed vehicles, with a focus on infantry fighting.
+- **Alternative \(32\):** This is the alternative layer which features a big or small difference from standard.
+- **Standard \(64\):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times.
+- **Large \(128\):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
+
+## _Advance a Secure \(AAS\)_ {#advance-and-secure}
+
+The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points \(CPs\) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If the enemy manages to capture a flag with a blue marker - usually reserved for the final flag near your main base – your team will start to bleed tickets at either a set or increasing rate of depletion. In contrast to regular Battlefield 2, the ticket bleed penalty is much harsher, and it is absolutely required to retake the flag. The bleed stops once your team manages to control the flag to the extend of the capture procedure starting for your team. Finally, a red marker next to a CP indicates an enemy flag which causes the enemy to bleed.
 
 At least a minimum of 2 players need to be within the CP capture radius in order to seize the flag. It can take more than a minute to secure a CP depending on the ratio of attackers to defenders within the flag radius. If a CP controlled by one team is neutralized and captured by the enemy, the team will lose 30 tickets. One of the key-features of AAS is that each time the same layer is loaded, it could be a different flag-layout thanks to our randomized flag-layouts.
 
@@ -22,10 +42,10 @@ To view the capture progress you have to be physically present inside the captur
 
 The map-markers for AAS are:
 
-* ![](../assets/defend.png) Defend Marker 
-* ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\) 
-* ![](../assets/attack_bleed.png) Attack Marker
-* ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
+- ![](../assets/defend.png) Defend Marker
+- ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\)
+- ![](../assets/attack_bleed.png) Attack Marker
+- ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
 
 Vehicle Warfare, Skirmish & COOP use similar map markers for attack and defend.
 
@@ -59,23 +79,22 @@ To capture a civilian, a Coalition player must be within a meter of the civilian
 
 To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
 
-* Insurgent killed: +1 IP \(within 300m\)
-* Civilian or insurgent arrested: +10 IP
-* Civilian killed \(violating rules of engagement\): -5 IP
-* Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
-* Destroying unused civilian vehicles : -5 IP
+- Insurgent killed: +1 IP \(within 300m\)
+- Civilian or insurgent arrested: +10 IP
+- Civilian killed \(violating rules of engagement\): -5 IP
+- Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
+- Destroying unused civilian vehicles : -5 IP
 
 Jets, tanks and helicopters can't gain IP through these methods. The approximate location of the first cache is shown about 5 minutes into the round. There can be up to 2 active caches at the same time. The new location is revealed when reaching 50 intelligence points. If there are less than 32 players on the server the IP needed to reveal a cache is halved. A team can only have a maximum of 50 and a minimum of -50 IP.
 
 The map markers for insurgency are:
 
-* ![](../assets/cache.png) **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
-* ![](../assets/unknown%20weapon%20cache.png) **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces. The moment the icon is displayed, the cache spawns and can be used by the Insurgency as well as destroyed by the coalition forces. There is a 5 minute grace period however between the cache’s spawn and the location reveal to the coalition forces. 
-* ![](../assets/unknown%20cache.png) **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence. 
+- ![](../assets/cache.png) **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
+- ![](../assets/unknown%20weapon%20cache.png) **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces. The moment the icon is displayed, the cache spawns and can be used by the Insurgency as well as destroyed by the coalition forces. There is a 5 minute grace period however between the cache’s spawn and the location reveal to the coalition forces.
+- ![](../assets/unknown%20cache.png) **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence.
 
 The caches can be destroyed by small or large packs of C4. Other weaponry will only do no or light damage to a cache.
 
 Once it is destroyed the coalition team gains 30 tickets and a message will inform the team about how many caches remain to be destroyed. Caches can be repaired by wrench or shovels.
 
 The caches will only show on the map 30 seconds before round start to avoid exploiting this information beforehand.
-

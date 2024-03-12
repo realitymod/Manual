@@ -1,19 +1,19 @@
 # SUMMARY
 
-* [About](README.md)
+* [نبذة عن اللعبة](README.md)
   
-### Installing
-* [Set-Up](set-up.md)
+### التثبيت
+* [إعداد](set-up.md)
 
-### Basics
-* [Game Modes](game_modes.md)
-* [The Basics](the_basics.md)
-* [Weapons & Equipment](weapons_and_equipment.md)
-* [Kits](kits.md)
-* [The Squad Leader](the_squad_leader.md)
-* [Operating Vehicles](operating_vehicles.md)
-* [The Commander](commander.md)
-* [The Civilian](the_civilian.md)
+### الأساسيات
+* [اساليب اللعب](game_modes.md)
+* [الاساسيات](the_basics.md)
+* [الأسلحة و المعدات](weapons_and_equipment.md)
+* [العتاد](kits.md)
+* [قائد فرقة](the_squad_leader.md)
+* [قيادة الآليات](operating_vehicles.md)
+* [رئيس  قادات الفرق](commander.md)
+* [المدنيين](the_civilian.md)
 
-### Help
-* [Expand manual](help_manual.md)
+### المساعدة 
+* [تطوير الدليل ](help_manual.md)

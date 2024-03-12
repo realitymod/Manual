@@ -1,31 +1,29 @@
-> Project Reality: BF2 has been in development by countless developers over a period of more than 15 years. Extensive modifications and improvements were made during this time.
-> After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification.
-> 
-> We hope this manual provides you with a good start into the challenging world of PR:BF2.
-> If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums.
+> تم تطوير Project Reality: BF2 من قبل عدد لا يحصى من المطورين على مدى أكثر من 15 عامًا. تم إجراء تعديلات وتحسينات شاملة خلال هذا الوقت.
+>  بعد آلاف التغييرات، يصبح من الصعب تمييز أن PR هو تعديل للعبة Battlefield 2.
+> نتمنى ان ان يكون هذا الدليل مدخل موفق لك في المعارك الحامية الوطيس في عالم PR:BF1
+> ان كان لديك اي اقتراح و سؤال لم تجد له اجابه في هذا الدليل فلا تتردد في الاتواصل معنا خلال المنتدى 
 >
 > _The PR-Team_
 
-## Introduction
+## المقدمة 
+هذه المقدمة سوف تعطيك فكرة عامة عن ما الذي تتوقعه عندما تبدا لعب Project Reality التي هي تعديل على Battlefield 2. هذا التعيدل او MOD فية كميه من التعقيدات في اللعب و تعتمد على اللعب الجماعي الذي لن تراه في مغلب الالعاب الحديث. و في نفس الوقت توازن بين المحاكاه و متعة اللعب. وبسبب كثرة المفاهيم والامور التي يجب ان تتعلمها من المستحسن ان تكمل هذا الدليل قبل الاقبال في اللعب.
 
-This introduction will give a brief overview into what you can expect when you begin playing the Project Reality modification for Battlefield 2. This modification has a level of complexity and teamwork that you won’t find in most modern first person shooter games, while it still finds the balance between simulation and gameplay. Due to the steep learning curve, we highly recommended that all new players read through this manual thoroughly prior to joining an online game.
+إن جوهر او روح Proejct Reality هو التعاون الجماعي. التنسيق بين افراد الفرقة , وبين الفرق التي في نفس الفريق. فإن دور قائد الفرقة و دور قائد الفرق هم اكثر الأدوار أهمية لضمان النجاح في PR. و توجه الفريق يكون من توجيهات كلٍّ من رئيس الفرق و رؤساء الفرق. و توفر عدة ادوار لكل فريق فمنهم من يتولى المدرعات او النقل الجوي وغيرها. و و لدى القادة القدرة على انزال معدات دفاعية و هجومية و بنادق آلية مثبته و هاون لتعزيز و تحصين مواقع انزال تسمى FOBs (قاعدة عمليات امامية). بالإضافة إلى ذلك، تم تنويع دور اللاعبين داخل الفرق بشكل كبير، ويتم ذلك في تشكيلة متنوعة من الأطقم القياسية والمحدودة لحملات مختلفة للمشاة جنبًا إلى جنب مع الأطقام الفريدة لتشغيل المدرعات والطائرات.
 
-The primary core ethos of Project Reality is teamwork. Coordination within your squad, between squads and throughout your team is paramount. The role of squad leader and the commander is essential to success in PR and the direction of the game is dictated by those in leadership positions and carried out by the players. PR:BF2 contains a multitude of gameplay mechanics which differentiate roles within a squad and the team. It also gives squad leaders and team commanders the ability to deploy emplacement assets such as foxholes, machine gun nests and mortar pits to fortify the defence of spawn locations known as FOBs. In addition, the role of players within a squad has been greatly diversified, and is reflected in an expanded selection of standard and limited specialty kits for various infantry load outs alongside unique kits for operating mechanized and aviation vehicles.
+جانب آخر أساسي من جوانب PR هو كيفية تواصل اللاعبين. التواصل في PR هو عنصر أساسي في اللعب ونوصي بأن يكون جميع اللاعبين جاهزين لاستخدام الميكروفون عند بدء اللعب. و لضمان تعزيز التواصل، يوفر الإصدار المتكامل من برنامج التواصل الصوتي PR Mumble للاعبين قدرات غير متاحة مع خدمة الصوت فوق الإنترنت المدمجة في BF2، مثل القدرة على التحدث مع لاعبين آخرين داخل المحيط المحلي، بغض النظر عن الفرق التي ينتمون إليها، بالإضافة إلى نقل المعلومات لأعضاء الفرق عبر الراديو الفرقي بغض النظر عن موقعهم على ساحة المعركة. لا تتطلب أي تثبيت إضافي، مما يعني أن كل لاعب على ساحة المعركة سيكون لديه نفس إعدادات التواصل ويمكنه التواصل بسهولة.
 
-Another core fundamental aspect of PR is how players communicate. Communication in PR is an essential element of gameplay and we recommend that all players are microphone ready when they begin playing online. To ensure enhanced communication, an integrated version of PR Mumble voice communication software gives players abilities not available with built in BF2 voice-over-IP, such as the ability to talk to other players within the local vicinity, regardless of which squad they are in, as well as transmit to squad members over the squad radio no matter where they are on the battlefield. No additional installation is required, which means every player on the battlefield will have the same communications setup and can communicate effortlessly.
+هذا التعديل تم إنشاؤه بواسطة اللاعبين، لللاعبين، لذا لا تتردد في طلب المساعدة داخل اللعبة أو على المنتديات على [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). مرحبًا مرة أخرى في PR وتجربة ألعاب جديدة تمامًا!
 
-This mod was made by players, for players so don't be afraid to ask for help in-game or on the forums at [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Again, welcome to PR and a totally new gaming experience!
-
-## Changelog
-The changelog for this manual is as follows:
-
+<!-- 
+## سجل التغييرات
+سجل التغييرات لهذا الدليل كتالي : 
 ### 2023-09-18
-- Updated Kit drop procedure
+- تحديث عملية القاء عتاد اللاعب
 
 ### 2023-06-24
-- Small updates and fixes to content and styling
-- Fixed Honkit related issues
+- تحديثات صغيرة وإصلاحات للمحتوى والتنسيق 
+- تحديثات متعلقة بـ Honkit
 
 ### 2022-01-22
-- Added contributing page
-- Updated content for new theme
+- تمت إضافة صفحة المساهمة
+- تم تحديث المحتوى للسمة الجديدة -->

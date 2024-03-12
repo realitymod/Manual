@@ -16,15 +16,12 @@ Recommended Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 or similar.
 
 ## _Game Installation_                                                                          {#game-installation}
 
-With PR:BF2 it is **no longer required to have Battlefield 2** installed. PR:BF2 works as a standalone game. If you have a version of PR:BF2 installed before v1.3 you will need to uninstall this before you install the current version PR:BF2. 
-
-You have to download the full PR:BF2 installer from our website. There won’t be a requirement to have Battlefield 2 installed.
 
 [**Download the latest version**](http://www.realitymod.com/downloads)
 
-There are 2 installation methods. You can use the **Download Assistant application** which makes it a lot easier to install PR:BF2 or you can manually download and install the Installer through a **Torrent**. With either method there are 2 steps: Download and Install:
+هنالك طريقتان للتثبيت اما عن طريق  **Download Assistant application** او **Torrent**.
 
-**1\) Download**
+**1\) تحميل**
 
 The Download Assistant will download the Installer using the Torrent protocol. So make sure this isn't blocked by your ISP. Simply download the Download Assistant from our [PR:BF2 Download Section](http://www.realitymod.com/downloads) and follow the instructions in the application. 
 
