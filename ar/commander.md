@@ -1,64 +1,57 @@
-# The Commander
+# الرائد
 
-## _Leading the Troops_ {#leading-the-troops}
+## _قايدة القوات_ {#قيادة-القوات}
 
-The primary task of the commander is to **coordinate** the team and to give guidance and direction to those operating under his command. His role is to monitor situations and engagements and the overall scope to the battlefield to effectively determine a strategy. He can also grant or deny requests sent by Squad Leaders. These include contact reports and area attacks.
+المهة الأساسية للرائد هي **تنظيم و تنسيق** الفريق و أعطائهم أوامر و أرشادهم تحت قيادته. دوره هو مراقبة الحالة العامة لأرض المعركة و التمعن في محاور الأشتباك لإيجاد أفضل أستراتيجية. لديه القدرة علي قبول او رفض طلبات الضباط. التي تتضمن بلاغات مواقع قوات العدو او الدعم المدفعي.
 
-**Transmit directly to a specific Squad Leader** the commander can use the **Direct Squad Radio Net** using the keyboard numpad digits 1 - 9 by holding down the squad number on the numpad.
+**التواصل مباشرة مع الضباط** يمكن للرائد التواصل مع الضباط باستخدام **شبكة الراديو المباشرة** باستخدام الأرقام علي يمين لوحة المافتيح الا و هي الكيبورد و يتواصل مع كل فرقة بالضغط علي الرقام من 1-9 حسب رقم الفرقة.
 
-The Commander can **confirm or deny request of area attack**. If a Squad Leader calls in a request for artillery, the commander can right click the icon and accept or deny it. After which the order will be confirmed to the team. The area-attack is available every 30 minutes. For insurgents and their similar mortar strike it is usually 20 minutes between possible strikes. To see when artillery/mortars are available again you can look at the top left in the commander window and see the bar with “**AREA ATTACK**” in it.
+بمكن للرائد **قبول او رفض طلب الدعم المدفعي** هذا اذا قام احد الضباط بطلبه, بعد ذلك بمكن للفريق رؤية تأكيد الطلب. الدعم المدفعي يمكن طلبه كل 30 دقيقة, بالنسبة للمتمردين الموضوع مشابه لكن بدلا من المدفعية يمكنهم طلب دعم مدافع الهاون كل 20 دقيقة. لتعرف ما أذا كان دعم المدفعية/الهاون متاحاً انظر الي اقصي اليسار في الجزء العلوي من شاشة الرائد يوجد شريط يسمي **AREA ATTACK** اي الدعم المدفعي.
 
-To keep the team cohesive it is the commander’s sole focus to **deliver orders** to each squad. He can alternatively assist team members by keeping them well informed of situations outside their area of operations \(AO\) confirming intelligence on the map using a variety of markers by right clicking the map:
-
-* **Commands**
-  * **Destroy**: Remove friendly FOBs.
-  * **Remove Marker:** Remove unwanted friendly markers from the map.
-  * **UAV:** Deploy reconnaissance drone at the position.
-  * **Waypoint:** Place a waypoint marker. You can place up to 7 of them. Each one is identified with a letter. These do not disappear.
-  * **Request Mortars:** Request the mortar crew to bring mortar fire to this position.
-  * **Target laze:** This spawns a lazer object on the position it was placed. This can be used by CAS to attack certain locations.
+لأبقاء الفريق متماسكا دور الرائد الوحيد و الأهم هو **أعطاء الأومر** لكل فرقة تحت قيادته. يمكنه التناوب في مساعدة اعضاء الفريق بإبقائهم علي دراية بالوضع الحالي خارج محيط عملياتهم بتأكيد المعلومات الاستخباراتية علي الخريطة باستخدام العلامات عن طريق النقر علي الخريطة بالزر الايمن:
+* **الأوامر**
+* **Destroy** ألا و هي التدمير لتدمير قاعدة عمليات امامية الصديقة و المنشأات المحيطة بها.
+  * **Remove Marker**  لأزالة اي علامات غير مرغوب فيها من علي الخريطة.
+  * **UAV** طلب أنزال طائرة استطلاع بدون طيار لكشف مواقع العدو.
+  * **Waypoints** اي نقاط الاحداثيات او الاهداف الاستراتيجية يمكن وضع 7 علامات ولا تختفي إذا وضعت.
+  * **Request Mortar** اي طلب دعم من فريقة الهاون لقصف موقع معين.
+  * **Target Laze**هو وضع علامة بالليزر علي موقع معين ليتم قصفه منقبل الدعم الجوي.
 
 {% figure "../assets/commands.png" %}
 Possible commands, squad orders and icons commander can use.
 {% endfigure %}
-
-* **Squad Orders**
-  * Same markers are available to Squad Leaders. When you select a squad in the left menu you can order them. If they accept \(**PAGE UP**\) it will replace thats squad’s marker. ****
+ **اوامر الفرق** :
+**بعض العلامات يمكن أستعمالها مع الضباط يمكن اختيار فرقة من القائمة التي علي اليسار و من ثم اعطائهم الأوامر , اذا قبلو (PAGE UP) ستبدل  العلامة التي وضعها قائد الفرقة بعلامتك انت.**
 
 {% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
 The build, observe, defend, demolish and move markers, respectively.
 {% endfigure %}
 
-* **Infantry \| Vehicles \| Emplacements \| Misc.**
-  * Various markers that can be placed to mark enemy infantry, assets and deployed assets.
 
-Markers cannot be placed all the time. At the top left there is a bar showing “**MARKER**” how you long it takes until the next marker can be placed.
+** المشاة\| مواقع التمركز \|  المركبات \| غيرها **
+ علامات مختلفة يمكن استخدامها لرصد قوات العدو علي الخارطة للفريق كله و تكةن باللون الاحمر.
+لا يمكن وضع العلامات طوال الوقت. في الجزء العلوي الأيسر يوجد شريط يوضح «* * MARKER * *» كم تبقي من الوقت لوضع علامة جديدة.
+إذا كان قادة الفرقة يعتقدون أن الرائد غير كفء في اوامره، فعندئذ لديهم الاختيار لبدء تمرد بزر **mutiny** و اذا وافق الاغلبية يتم ازالته
+**نقطة تجمع الرائد** **Commander Rally Point**  يمكن استخدامها من قبل الفريق بأكمله. لإنشاء النقطة هذه، يحتاج الرائد إلى 6 لاعبين على الأقل بالقرب منه \(يجب أن يكون أحدهم ضابط \) لوضعها. لا تتوفر هذه في وضع المناوشة ويجب أن يكون هناك 12 لاعبًا على الأقل في فريق القائد. سيظل نقطة التجمع نشطة طالما أن القائد موجود ضمن مسافة 100 متر من نقطة التجمع. جميع القواعد الأخرى الموضحة في فصل الضابط حول نقاط التجمع تنطبق أيضًا على نقطة تجمع القائد.
 
-If the Squad Leaders believe the Commander is not efficient in his duties, then they have the option to start a **mutiny**. If it succeeds, a new player can take this position.
+## طائرة استطلاع بدون طيار (uav) {#uav} 
 
-The **Commander Rally Point** can be used by the entire team. To establish this RP the Commander needs at least 6 players near him \(one of them must be a squad leader\) to place the RP. This RP is not available in the skirmish mode and at least 12 players must be on the commander's team. The RP will stay active as long as the commander is within 100m radius of the rally point. All other rules described in the Squad Leader chapter about rally points also apply for the commander rally point.
+يستطيع الرائد قوات الميليشيا التحكم في ** \(uav\)** من مركز قيادة فريقه أو مركبة القيادة المدرعة \(ACV\). لا تكشف الطائرة بدون طيار في PR:BF2 عن مواقع العدو تلقائيًا ولكنها تمنح الرائد وسيلة لمراقبة ساحة المعركة بصريًا. يمكن للرائد التحكم في كاميرا الطائرة بدون طيار أثناء طيرانها على ارتفاع ثابت.
 
-## _UAV_ {#uav}
-
-The Commander of conventional forces and the militia are able to control an **Unmanned Aerial Vehicle \(UAV\)** from his team's command post or armored command vehicle \(ACV\). The UAV in PR:BF2 does not reveal enemy positions automatically but gives the commander the means to observe the battlefield visually from a bird’s eye point of view. The commander can control the UAV's camera while it cruises at a constant altitude.
-
-The UAV is launched by placing the UAV marker on the command map. This can be done by pressing the UAV icon on the top left of the commander screen or by right clicking on the map and placing the UAV icon. Then to operate it you have to enter the ACV vehicle at the main-base of your team.
+يتم إطلاق الطائرة بدون طيار عن طريق وضع علامة UAV على الخريطة. يمكن القيام بذلك عن طريق الضغط على أيقونة UAV في الجزء العلوي الأيسر من شاشة التحكم أو عن طريق النقر بزر الماوس الأيمن على الخريطة ووضع أيقونة UAV. ثم لتشغيلها عليك دخول مركبة ACV الموجودة في القاعدة الرئيسية للفريق.
 
 {% figure "../assets/acvv.png" %}
 Armored Command Vehicle.
 {% endfigure %}
+**الطائرة بدون طيار لن تبقى في الخدمة إلى الأبد.** تفقد الطائرة بدون طيار 0.2% من الوقود/ثانية أثناء السفر، و0.1% من الوقود/ثانية أثناء التشغيل وتتزود بالوقود بنسبة 0.2% من الوقود/ثانية عند القاعدة. يمكنك مراقبة مستوى الوقود من خلال مشاهدة شريط "الوقود" الموجود أعلى يسار شاشة التحكم.
 
-**The UAV won’t be up forever.** The UAV loses 0.2% fuel/sec while travelling, 0.1% fuel/sec while operating and refuels at 0.2%fuel/sec at base. You can monitor the fuel by watching the “FUEL” bar on the top left of the commander screen.
+يمكن إعادة الطائرة بدون طيار إلى القاعدة في أي وقت ** للتزود بالوقود **. العودة إلى القاعدة لا تستهلك أي وقود. يمكنك القيام بذلك عن طريق النقر بالزر الأيمن على أيقونة UAV في الجانب العلوي الأيسر من شاشة القائد.
 
-The UAV can be sent back to base at any point to **refuel**. Returning to base does not consume any fuel. You can do this by right clicking the UAV icon on the top left side of the commander screen.
+يعتمد الوقت المستغرق لنشر الطائرة بدون طيار على مسافة السفر. تتحرك الطائرة بسرعة 50 م/ث.
 
-The time it takes to deploy the UAV depends on the travel distance. It travels at 50 m/s.
+**تتمتع كاميرا الطائرات بدون طيار** بثلاثة مستويات من التكبير مع إمكانيات الرؤية الحرارية. توفر الطائرة بدون طيار التابعة للميليشيا مستويين فقط من التكبير/التصغير بدون رؤية حرارية.
 
-The UAV takes 45 seconds to start/land.
-
-**The UAV camera** has three levels of magnification with thermal vision capabilities. The Militia’s UAV only offers two zoom levels with no thermal vision.
-
-The UAV can be relocated instantly by assigning it a new position on the map. The UAV only operates on 2km and 4km maps due to it being too powerful for small maps.
+يمكن نقل الطائرة بدون طيار على الفور عن طريق تعيين موقع جديد لها على الخريطة. تعمل الطائرة بدون طيار فقط على خرائط بطول 2 كم و4 كم نظرًا لكونها قوية جدًا بالنسبة للخرائط الصغيرة.
 
 {% figure "../assets/uav.png" %}
 The commander’s UAV Camera.
