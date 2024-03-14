@@ -10,10 +10,14 @@
 * [الاساسيات](the_basics.md)
 * [الأسلحة و المعدات](weapons_and_equipment.md)
 * [العتاد](kits.md)
-* [قائد فرقة](the_squad_leader.md)
 * [قيادة الآليات](operating_vehicles.md)
-* [رئيس  قادات الفرق](commander.md)
+
+### الأدوار
+* [الرائد](commander.md)
+* [قائد الفرقة](the_squad_leader.md)
+<!-- * [الجندي](commander.md) -->
 * [المدنيين](the_civilian.md)
+
 
 ### المساعدة 
 * [تطوير الدليل ](help_manual.md)
