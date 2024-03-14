@@ -1,100 +1,120 @@
-## اساليب اللعب {#اساليب_اللعب}
+## اساليب اللعب {#اساليب-اللعب}
 
-1. التقدم و الاستيلاء :
+* **الهجوم و التأمين - AAS**
+
 الهدف هوالسيطرة على جميع الاعلام في الخريطة او استنزاف نقاط العدو.
 
-1. التمرد :
+* ** التمرد - INS **
+
 **القوات الحمراء** هدفها الدفاع عن *مخازن الاسلحة* و استنزاف نقاط القوات الحمراء.
 **القوات الزرقاء** هدفها تدمير المخازن الاسلحة.
 
-1. المناوشة :
+* **المناوشة - Skirmish **
+
 الهدف هوالسيطرة على جميع الاعلام في الخريطة او استنزاف نقاط العدو. و يتميز هذا الاسلوب بصغر حجم الخريطة.
 
-1. حرب الآليات :
+* **حرب الآليات - Vehicle Warfare**
+
 في هذا الاسلوب تقام المعارك بإستخدام الآليات و الطائرات حصراً. و هذا الاسلوب جيد مهارات القتال بالآليات و الطائرات.
 
+* **لعبة الاسلحة - Gungmae**
 
-1. لعبة الاسلحة :
 في هذا الاسلوب يقام القتال بعشوائية في خريطة صغيرة و لكل قتلتين يتغير سلاح اللاعب بعشوائية 30 مرة حتى يصل الى السكين و اللاعب الذي يحققة القتل بالسكين يفوز اللعبة.
 
+* **تعاون جماعي - Cooprative**
 
-1. تعاون جماعي :
-في هذا الاسلوب يتعاون اللاعبين ضد الذكاء الاصطناعي AI في اسلوب **التقدم و الاستيلاء**.
+في هذا الاسلوب يتعاون اللاعبين ضد الذكاء الاصطناعي AI في اسلوب **الهجوم و التأمين**.
 
-1. القيادة و التحكم:
-في هذا الاسلوب على كل فريق أن يبني **قاعدة انزال متقدمة**-FOB- لكي لا يخسر نقاطة و اذا تم تدمير القاعدة سيخسر نقاط الى ان يبني قاعدة اخرى.
+* **القيادة و التحكم - Command and Control**
+
+في هذا الاسلوب على كل فريق أن يبني **قاعدة انزال متقدمة** -FOB- لكي لا يخسر نقاطة و اذا تم تدمير القاعدة سيخسر نقاط الى ان يبني قاعدة اخرى.
 ***
 
 
-- **Infantry \(16\):** This layer usually consists of just transport and light armed vehicles, with a focus on infantry fighting.
-- **Alternative \(32\):** This is the alternative layer which features a big or small difference from standard.
-- **Standard \(64\):** This layer usually involves the entire map and all assets, as applicable to the map. This is the standard layer that can be played at all times.
-- **Large \(128\):** This layer is designed for longer 2 hour rounds and usually contains all of the assets from the standard layer with small variations and higher ticket counts.
+## المخططات {#المخططات}
 
-## _Advance a Secure \(AAS\)_ {#advance-and-secure}
+- **Infantry \(16\):** هذا المخطط يحتوي على عربات نقل و آليات خفيفة ,و يكون التركيز على قتال بين قوات المشاة
+- **Alternative \(32\):** هذا المخطط يحتوي اختلافات صغيرة او كبيرة عن مخطط الـ **Infantry**.
+- **Standard \(64\):** هذا المخطط يتضمن الخريطة كلها مع جميع المعدات العسكرية المتطلبة حسب الخريطة , و هذا المخطط هو الاساسي الذي يكمن لعبه فيه بشكل اساسي.
+- **Large \(128\):** هذا المخطط مصمم لوقت لعب اطول حول ساعتين وغالبا يتضمن جميع المعدات العسكرية مع تغييرات بسيطة و نقاط لعب اكثر عن الــ **Standard**.
+***
 
-The AAS game mode is the closest to the original BF2 Conquest mode. The objective is to capture all of the control points \(CPs\) while maintaining more tickets than the enemy. CPs can only be captured in a linear order to simulate a shifting front line and focus engagements. CPs that are in play to be captured are indicated by an orange attack marker while those that need to be defended against enemy attacks are highlighted with a purple defend marker. If the enemy manages to capture a flag with a blue marker - usually reserved for the final flag near your main base – your team will start to bleed tickets at either a set or increasing rate of depletion. In contrast to regular Battlefield 2, the ticket bleed penalty is much harsher, and it is absolutely required to retake the flag. The bleed stops once your team manages to control the flag to the extend of the capture procedure starting for your team. Finally, a red marker next to a CP indicates an enemy flag which causes the enemy to bleed.
+## الهجوم و التأمين \(AAS\) {#الهجوم-و-التأمين}
 
-At least a minimum of 2 players need to be within the CP capture radius in order to seize the flag. It can take more than a minute to secure a CP depending on the ratio of attackers to defenders within the flag radius. If a CP controlled by one team is neutralized and captured by the enemy, the team will lose 30 tickets. One of the key-features of AAS is that each time the same layer is loaded, it could be a different flag-layout thanks to our randomized flag-layouts.
+وضع لعبة AAS هو الأقرب إلى وضع الفوز في Battlefield 2 الأصلي. الهدف هو الاستيلاء على جميع نقاط التحكم (CPs) مع الحفاظ على نقاط الفريق من العدو. يمكن الاستيلاء على نقاط التحكم فقط بترتيب خطي لمحاكاة خطوط المواجهة المتحركة وتركيز المعارك. تُشير **علامات الهجوم البرتقالية** إلى نقاط التحكم التي يمكن الاستيلاء عليها في حين تُبرز **علامات الدفاع البنفسجية** تلك التي يجب الدفاع عنها ضد هجمات العدو. إذا نجح العدو في الاستيلاء على **علم بعلامة زرقاء** - `التي عادة ما تكون محفوظة للعلم النهائي بالقرب من قاعدتك الرئيسية` - سيبدأ فريقك في فقدان التذاكر بمعدل محدد أو متزايد. في عكس Battlefield 2 العادي، عقوبة فقدان التذاكر أشد بكثير، ومن الضروري بالتأكيد استعادة العلم. يتوقف النزيف عندما ينجح فريقك في السيطرة على العلم بالقدر الذي يبدأ فيه إجراء الاستيلاء عليه لصالح فريقك. وأخيرًا , تشير علامة حمراء بجوار نقطة التحكم إلى علم العدو الذي يتسبب في نزيف العدو.
+<!-- GPT -->
 
-If the attacking team doesn't have a 2 to 1 ratio to the defending team on the flag they will start losing the capturing progress.
-To view the capture progress you have to be physically present inside the capture radius of a CP as denoted on the map, and press either the key to show the Kit/Squad selection menu\(**Caps Lock**\) or the Map overlay\(**M**\) keys. The capture progress is separated into 4 bars which will fill or deplete depending on the struggle for the CP, so you will not know if you’re outnumbering the enemy until the first bar has diappeared, nor will you be informed of the enemy outnumbering your defensive force and having begun taking the CP; the only way to know is to check manually periodically. The moment a friendly CP has been neutralised(flag icon shows white, the CP belongs to neither team) by the enemy however, an audio warning will inform you and the rest of your team of a CP loss regardless of where you are. When this happens the enemy CP next in the capture chain usually cannot be taken until the lost friendly CP is fully under control.
+على الأقل يحتاج اثنان من اللاعبين إلى أن يكونوا داخل نطاق الاستيلاء على نقطة التحكم من أجل الاستيلاء على العلم. يمكن أن يستغرق تأمين نقطة التحكم أكثر من دقيقة واحدة اعتمادًا على نسبة المهاجمين إلى المدافعين داخل نطاق استيلاء العلم. إذا تم تعطيل نقطة التحكم التي يسيطر عليها فريق واحد وتم الاستيلاء عليها من قبل العدو، فسيخسر الفريق 30 تذكرة. واحدة من السمات الرئيسية لوضع اللعبة AAS هي أنه في كل مرة يتم تحميل نفس المخطط , يمكن أن تكون توزيعات الأعلام مختلفة بفضل توزيعات الأعلام العشوائية.
+<!-- GPT -->
 
-The map-markers for AAS are:
+إذا لم يكن لدى الفريق المهاجم نسبة 2 إلى 1 مقابل الفريق المدافع على العلم، سيبدأون في فقدان تقدم الاستيلاء.
+لعرض تقدم الاستيلاء، يجب أن تكون حاضرًا بشكل فعلي داخل نطاق الاستيلاء لنقطة التحكم كما هو مشار إليه على الخريطة، والضغط على إما مفتاح لعرض قائمة اختيار العتاد/الفرقة (Caps Lock) أو  (M). يتم تقسيم تقدم الاستيلاء إلى 4 شرائط ستمتلئ أو تنخفض اعتمادًا على الصراع على نقطة التحكم، لذا لن تعرف ما إذا كنت تتفوق على العدو حتى يختفي الشريط الأول، ولن يتم إبلاغك بتفوق العدو على قوة الدفاع الخاصة بك وبدء استيلاء العلم؛ الطريقة الوحيدة لمعرفة ذلك هي التحقق يدويًا بشكل دوري. في اللحظة التي يتم فيها تعطيل نقطة التحكم الودية (يظهر أيقونة العلم باللون الأبيض، وتصبح نقطة التحكم ملكا لأي فريق) من قبل العدو، ستقوم تحذيرات صوتية بإبلاغك وباقي فريقك بفقدان نقطة التحكم بغض النظر عن مكان تواجدك. عندما يحدث هذا، عادة لا يمكن استيلاء نقطة التحكم التالية للعدو في سلسلة الاستيلاء حتى يكون لدى العدو الفقدان الودي الذي تم التحكم فيه بالكامل.
+<!-- GPT -->
+علامات الخريطة في اسلوب AAS :
 
-- ![](../assets/defend.png) Defend Marker
-- ![](../assets/defend%20bleed.png) Defend Marker \(with ticket bleed\)
-- ![](../assets/attack_bleed.png) Attack Marker
-- ![](../assets/attack.png)Attack Marker \(with ticket bleed\)
+- ![](../assets/defend.png) علامة الدفاع
+- ![](../assets/defend%20bleed.png) علامة الدفاع \(مع نزيف النقاط عند خسارة هذه النقطة\)
+- ![](../assets/attack_bleed.png) علامة هجوم
+- ![](../assets/attack.png) علامة هجوم \(مع نزيف النقاط العدو عند كسب هذه النقطة\)
 
-Vehicle Warfare, Skirmish & COOP use similar map markers for attack and defend.
+هذه العلامات تستخدم بنفس المنطق لكلٍ من : 
+- Vehicle Warfare
+- Skirmish
+- Cooprative
+***
 
-## _Vehicle Warfare \(VW\)_ {#vehicle-warfare}
+## صراع المركبات \(VW\) {#صراع-المركبات}
 
-Many heavy vehicles battle for control of the map in this game mode. Players are limited to spawning with crewman kits. Only officer and pilot kits can be requested. Tickets are only influenced by how many CPs a team controls. Vehicles that are already destroyed respawn after 5 minutes. It takes at least 6 players \(inside vehicles\) to take control of a CP. Capturing works much faster than in AAS.
+في هذا وضع اللعبة، تتنافس العديد من المركبات الثقيلة للسيطرة على الخريطة. يمكن للاعبين طلب عتاد الضابط والطيار فقط. تتأثر نقاط الفريق فقط بعدد نقاط التحكم التي يسيطر عليها الفريق. تعود المركبات التي تم تدميرها بالفعل بعد 5 دقائق. يتطلب السيطرة على نقطة التحكم ما لا يقل عن 6 لاعبين (داخل المركبات). يتم الاستيلاء في هذا الاسلوب بشكل أسرع بكثير مقارنة باسلوب **الهجوم و التأمين**.
+***
 
-## _Skirmish_ {#skirmish}
+## المناوشة \(Skirmish\) {#المناوشة}
 
-This game mode operates on smaller scale map versions of the Advance and Secure game mode, intended for around 12-16 players. It is perfect for clan matches and small infantry engagements. Skirmish has the same rules as AAS but with smaller combat zones, usually no vehicles or deployable assets as well as fewer tickets. If a team loses a CP to the enemy they will be penalized by 10 tickets.
+هذا الوضع يعمل على نسخ الخرائط ذات الحجم الأصغر لاسلوب التأمين و الهجوم AAS , والمخصص لحوالي 12-16 لاعبًا. إنه مثالي لمباريات والاشتباكات الصغيرة بين الجنود. يتمتع اسلوب Skirmish بنفس قواعد اسلوب اللعبة AAS ولكن مع مناطق قتال أصغر، وعادة ما تكون بدون مركبات أو موارد يمكن نشرها , بالإضافة إلى وجود عدد أقل من النقاط . إذا خسر الفريق نقطة التحكم لصالح العدو، فسيتم تغريمه بـ 10 نقاط .
+***
 
-## _Command & Control \(CNC\)_ {#command-and-control}
+## القيادة و التحكم \(CNC\) {#command-and-control}
 
-This game mode features large freeform battles. There are no capturable CPs, but instead each team must place a single forward operating base \(FOB\) [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)  
-somewhere on the map. The objective is to defend the team's FOB while trying to find and destroy the enemy FOB. When a team loses their FOB they will suffer a huge ticket penalty and continue to lose tickets until they build a new one. The FOB must be placed at least 200m from the map's borders. Building your team’s FOB closer to the map's center increases the ticket loss that the enemy will suffer while their FOB is down. Both teams can build more defenses in a bigger radius near their FOB than in other game modes.
+هذا الوضع يتميز بمعارك حرة كبيرة الحجم. لا توجد نقاط تحكم قابلة للاستيلاء عليها، بل يجب على كل فريق وضع قاعدة انزال أمامية واحدة (FOB) [\(انظر Deployable Structures\)](the_squad_leader.md#deployable-structures) في مكان ما على الخريطة. الهدف هو الدفاع عن قاعدة FOB الخاصة بالفريق محاولين في الوقت نفسه العثور على قاعدة FOB العدو وتدميرها. عندما يخسر الفريق FOB الخاص به، سيتعرض لعقوبة نقاط هائلة وسيستمر في فقدان النقاط حتى يقوم ببناء واحدة جديدة. يجب وضع FOB الخاص بفريقك على الأقل على بعد 200 متر من اطراف الخريطة. يزيد بناء FOB الخاص بفريقك أقرب إلى مركز الخريطة من فقدان التذاكر الذي سيعانيه العدو بينما يكون FOB الخاص بهم مدمراً. يمكن لكلا الفريقين بناء المزيد من الدفاعات في نطاق أكبر بالقرب من FOB الخاص بهم مما يمكن في اساليب اللعب الأخرى.
+***
 
-## _Co-Operative \(COOP\)_ {#co-operative}
+## التعاون الجماعي \(COOP\) {#co-operative}
 
-In this mode it is possible for one or more human players to march into battle alongside and against AI-controlled bots. This mode is ideal for practicing with equipment and vehicles before using them in full-scale battles with human players. To accommodate the use of bots some rules and items have been modified in this mode. Most of our maps have dedicated COOP layers.
+في هذا الوضع، يمكن لأحد أو أكثر من اللاعبين البشر التوجه إلى المعركة جنبًا إلى جنب وضد الروبوتات المتحكمة بواسطة الذكاء الاصطناعي. هذا الوضع مثالي للتدريب على استخدام المعدات والمركبات قبل استخدامها في معارك بحجم كامل مع اللاعبين البشر. ولتيسير استخدام الروبوتات، تم تعديل بعض القواعد والعناصر في هذا الوضع. تحتوي معظم خرائطنا على مخططات مخصصة للعب التعاوني.
+***
 
-## _Insurgency \(INS\)_ {#insurgency}
+## التمرد \(INS\) {#insurgency}
 
-This mode is very unique in comparison to others within PR. The objective of the coalition forces (also called BluFor) is to find and the weapons caches of the opposing Insurgency faction(Also called RedFor) hidden throughout the map. The amount of caches destroyed required for the coalition forces to win varies on map and layer, most often the Insurgency has a total of 6 caches with 5 needing to be destroyed. The Insurgents win if they can protect at least 2 caches from destruction until the coalition force depletes their final ticket. For coalition forces the ticket loss rules of the AAS game mode apply, the Insurgency on the other hand has no tickets and can respawn infinitely.
+هذا الاسلوب فريد جدًا مقارنة بالاساليب الأخرى في PR. الهدف من القوات التحالفية (المعروفة أيضًا بـ BluFor) هو العثور على مخازن الأسلحة الفيصل المعارض (المعروف أيضًا بـ RedFor) المخبأة في جميع أنحاء الخريطة. يختلف عدد المخازن التي يجب تدميرها من قبل القوات التحالفية للفوز بناءً على الخريطة والمخطط ، غالبًا ما يكون للفصيل المعارض إجمالي 6 مخازن أسلحة ويجب تدمير 5 منها. تفوز الجماعات المتمردة إذا نجحوا في حماية ما لا يقل عن مخزنين من التدمير حتى تنفد اخر نقاط القوات التحالفية . بالنسبة للقوات التحالفية، تنطبق قواعد فقدان النقاط لاسلوب اللعبة AAS، بينما لا توجد نقاط للفصيل المعارض ويمكنهم الظهور من جديد بلا حدود.
 
 {% figure "../assets/weaponcache.png" %}
-A weapon cache.
+مخزن اسلحة.
 {% endfigure %}
 
-The Coalition troops are required to gather intelligence by killing insurgent fighters or capturing insurgent civilians [\(see The Civilian\)](the_civilian.md).
-To capture a civilian, a Coalition player must be within a meter of the civilian and must either use a restrainer, which consists of a pair of ziptie plastic handcuffs, accessible by selecting the number 1 on your keyboard, or alternatively **using a shotgun**. This simulates immobilizing the civilian with a rubber buckshot. The coalition wins if they manage to destroy a certain amount weapons caches before they run out of time or tickets, otherwise the insurgent team wins the game. Insurgent Engineers can also repair damaged caches. The amount of caches is shown on map load and with scrolling messages on the server.
+يُطلب من قوات التحالف جمع المعلومات من خلال قتل مقاتلي الثوار أو اعتقال المدنيين الثوار.
 
-To reveal the approximate location of insurgent weapons caches while playing Insurgency, intelligence has to be gathered by the coalition forces. The Coalition team needs 50 intelligence points \(IP\) to have the cache reveal itself after 5 minutes. The following list shows the amount of intelligence points gained or lost due to different actions.
+للقبض على مدني، يجب أن يكون لاعب من التحالف على بُعد متر واحد فقط من المدني ويجب عليه استخدام إما جهاز قيد، الذي يتألف من زوج من الأصفاد البلاستيكية المحكمة بالسحاب، والتي يمكن الوصول إليها عن طريق تحديد الرقم 1 على لوحة المفاتيح الخاصة بك، أو بديلًا باستخدام **بندقية shotgun**. هذا يحاكي تعطيل المدني باستخدام طلقات مطاطية. تفوز التحالف إذا نجحوا في تدمير عدد معين من مخازن الأسلحة قبل نفاذ الوقت أو النقاط , وإلا فإن الفريق الثائر يفوز باللعبة. يمكن للمهندسين الثوار أيضًا إصلاح مخازن الاسلحة التالفة. يُعرض عدد المخازن عند تحميل الخريطة ومع رسائل الخادم.
 
-- Insurgent killed: +1 IP \(within 300m\)
-- Civilian or insurgent arrested: +10 IP
-- Civilian killed \(violating rules of engagement\): -5 IP
-- Destroying vehicles with civilian close \(within 50m for the last 60 seconds\) : -50 IP
-- Destroying unused civilian vehicles : -5 IP
+لكشف الموقع التقريبي مخازن الأسلحة أثناء لعب اسلوب Insurgency , يجب جمع المعلومات من قبل قوات التحالف. يحتاج فريق التحالف إلى 50 نقطة استخبارات (IP) لكشف المخزن بعد 5 دقائق. توضح القائمة التالية كمية نقاط الاستخبارات المكتسبة أو المفقودة بسبب الأفعال المختلفة.
 
-Jets, tanks and helicopters can't gain IP through these methods. The approximate location of the first cache is shown about 5 minutes into the round. There can be up to 2 active caches at the same time. The new location is revealed when reaching 50 intelligence points. If there are less than 32 players on the server the IP needed to reveal a cache is halved. A team can only have a maximum of 50 and a minimum of -50 IP.
+- قتل الثائر: +1 نقطة استخبارات (IP) (Dentro de 300 متر)
+- اعتقال مدني أو ثائر: +10 نقاط استخبارات (IP)
+- قتل مدني (خرق قواعد الاشتباك): -5 نقاط استخبارات (IP)
+- تدمير المركبات بوجود مدني بالقرب (50 متر لآخر 60 ثانية): -50 نقطة استخبارات (IP)
+- تدمير المركبات المدنية غير المستخدمة: -5 نقاط استخبارات (IP)
 
-The map markers for insurgency are:
 
-- ![](../assets/cache.png) **Known Coalition Weapons Cache:** This icon will be visible on the map of the coalition forces which indicates the cache’s approximate location when sufficient intelligence has been acquired. The marker can be offset up to 75m.
-- ![](../assets/unknown%20weapon%20cache.png) **Known Insurgent Weapons Cache:** This icon will be visible on the map of the insurgent forces which indicates that the cache has been located by the coalition forces. The moment the icon is displayed, the cache spawns and can be used by the Insurgency as well as destroyed by the coalition forces. There is a 5 minute grace period however between the cache’s spawn and the location reveal to the coalition forces.
-- ![](../assets/unknown%20cache.png) **Unknown Insurgent Weapons Cache:** This icon will represent the position of the cache where it will spawn on the battlefield. They are only visible to the insurgent forces so that they can co-ordinate their defenses while the coalition forces are gathering intelligence.
+الطائرات النفاثة والدبابات والمروحيات لا يمكنها كسب نقاط الاستخبارات من خلال هذه الطرق. يتم عرض الموقع التقريبي لمخزن الاسلحة الأول بعد حوالي 5 دقائق من بداية الجولة. يمكن أن يكون هناك ما يصل إلى 2 مخازن نشطة في نفس الوقت. يتم كشف الموقع الجديد عندما يصل عدد نقاط الاستخبارات إلى 50. إذا كان هناك أقل من 32 لاعبًا على الخادم، يتم تقليص نقاط الاستخبارات اللازمة للكشف عن مخازن الاسلحة إلى النصف. يمكن للفريق أن يكون لديه الحد الأقصى من 50 والحد الأدنى من -50 نقطة استخبارات.
 
-The caches can be destroyed by small or large packs of C4. Other weaponry will only do no or light damage to a cache.
+علامات الخريطة لاسلوب Insurgency هي:
 
-Once it is destroyed the coalition team gains 30 tickets and a message will inform the team about how many caches remain to be destroyed. Caches can be repaired by wrench or shovels.
+- ![](../assets/cache.png) **موقع مخزن سلاح تقربي -العلامة لقوات التحالف - :** هذا الرمز سيكون مرئيًا على خريطة قوات التحالف ويشير إلى الموقع التقريبي لمخزن الأسلحة عندما يتم الحصول على ما يكفي من المعلومات الاستخباراتية. يمكن تعويض المؤشر بحد أقصى يصل إلى 75 مترًا.
+- ![](../assets/unknown%20weapon%20cache.png) **موقع مخزن سلاح -العلامة لفصيل الثوار- :** هذا الرمز سيكون مرئيًا على خريطة قوات الثوار ويشير إلى أن المخزن قد تم تحديده من قبل قوات التحالف. في اللحظة التي يتم عرض الرمز، يتم إنشاء المخزن ويمكن استخدامه من قبل الثوار وكذلك تدميره من قبل قوات التحالف. هناك فترة سماح تبلغ 5 دقائق بين إنشاء المخزن وكشف موقعه لقوات التحالف.
+- ![](../assets/unknown%20cache.png) **موقع مخزن السلاح التالي -العلامة لفصيل الثوار- :** هذا الرمز سيمثل موقع المخزن حيث سيظهر على ساحة المعركة. يكون مرئيًا فقط لقوات الثوار حتى يتمكنوا من تنسيق دفاعاتهم بينما تقوم قوات التحالف بجمع المعلومات.
 
-The caches will only show on the map 30 seconds before round start to avoid exploiting this information beforehand.
+يمكن تدمير المخازن باستخدام حزم صغيرة أو كبيرة من C4. لن تسبب أسلحة أخرى سوى أضرار طفيفة أو لا شيء للمخزن.
+
+بمجرد تدميره، يكتسب فريق التحالف 30 تذكرة، وسيتم إبلاغ الفريق بكم من المخازن لا يزال يتبقى لتدميرها. يمكن إصلاح المخازن باستخدام عدة الاصلاح لدى عتاد المهندس أو مجارف.
+
+ستظهر مواقع المخازن فقط على الخريطة 30 ثانية قبل بدء الجولة لتجنب استغلال هذه المعلومات مسبقًا.
+***
