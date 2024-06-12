@@ -1,26 +1,28 @@
 # The Basics
 
-Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is by far the most fun to play in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. We expect you to have some basic understanding of BF2 when it comes to navigating the menu’s in-game such as scoreboard, map and kit selection. You can always start up BF2 and do the tutorial there to get acquainted with its interface. This manual will focus on the differences with BF2.
+Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is far more enjoyable when playing in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. 
+
+We expect you to have some basic understanding of BF2 when it comes to navigating the in-game menus such as scoreboard, map and kit selection. To get acquainted with PR's interface you can start up an offline match by clicking on Co-operative or Multiplayer, then Create Local, click on Add Map and then Deploy.
 
 ## _Kit selection & spawning_ {#kit-selection-and-spawning}
 
 * When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
 * After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
 * Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(like BF2\), a supply crate [\(see Logistics\)](the_basics.md#logistics) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+* Kits can be requested from the main spawn menu \(default: **Caps Lock**\), a supply crate \([see Logistics](the_basics.md#logistics)\) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
 
 In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
+* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are not available to every faction. \([see Deployable Structures](the_squad_leader.md#deployable-structures)\)
 
 {% figure "../assets/rally.png" %}
   A rallypoint.
 {% endfigure %}
 
 * **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
-* **The commander rally point**. This RP can only be placed by the commander, provided multiple squad’s leaders are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
-* In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
+* **The commander rally point**. This RP can only be placed by the commander, provided a squad leader and 4 squadmates are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
+* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being built. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
+* In the Insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes too close, similar to the FOB.
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
 FOB, Hideout & weapon cache.
@@ -34,7 +36,7 @@ FOB, Hideout & weapon cache.
 Armored Command Vehicle (ACV) found in mainbases only.
 {% endfigure %}
 
-* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
+* Some maps feature **parachute spawns** where an airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
 
 ## _In-game interface \(HUD\)_ {#hud}
 * In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
@@ -43,30 +45,41 @@ Armored Command Vehicle (ACV) found in mainbases only.
   * That the player must exit the vehicle or the current seat to avoid punishment.
 * PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
 * Direct messages from server administrators and some types of game notifications will appear in orange text near the center of the screen. Some of these are just informative while others, especially messages from server administrators, may require your attention.
-* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see the weapons chapter\).
+* If you missed a message or announcement, like the result of a map vote, you can view them again by holding Tab, right clicking once to activate your cursor and left clicking the **Notifications tab**.
+* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see [the weapons chapter](weapons_and_equipment.md#buis)\).
 * **Most 3D icons have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. [\(see Health Management\)](the_basics.md#health-management)
+* **No health status bar** indicating your vital status. \([see Health Management](the_basics.md#health-management)\)
 * **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
-* **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
+* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(hold: **Q**\) and see a visual indicator of the amount of ammo left. 
+
+{% figure "../assets/ammo_check.png" %}
+Ammo indicator.
+{% endfigure %}
+
+* **The medic** can see how far he is done healing a soldier with the HUD just above the compass. Infantry can watch the same way how long until deployable is finished shoveling.
+
+{% figure "../assets/heal_build_bar.png" %}
+Healing/Building indicator bar.
+{% endfigure %}
+
 * There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only air vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
+* Only air vehicles and some armor drivers use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
 * **The current map & layer** can be viewed on the top of the screen when opening the map with squad/kit menu.
-* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
+* Using the little arrow \(left of timer\) will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
 
 {% figure "../assets/assets.png" %}
 Current map asset info overlay.
 {% endfigure %}
 
 * **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
-* **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
+* **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will become blurred, like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
 
-{% figure "../assets/suppresion.png" %}
+{% figure "../assets/suppression.png" %}
 Normal view of the game (left) and suppresion effect in action (right).
 {% endfigure %}
 * Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, indicated by blinking, sprinting is no longer possible, jumping however still is.
-* When a player is **dead,** he will not be not revivable and black screen with an appropriate message will be displayed instead of seeing their surroundings.
-* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
+* When a player is **dead** \(commonly reffered to as dead-dead\), he will not revivable and black screen with an appropriate message will be displayed instead of seeing their surroundings.
+* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear above your compass, showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
 * **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted from within a vehicle.
 * Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
 * **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
@@ -85,7 +98,7 @@ Weapons in Project Reality are highly lethal and it is only a matter of time unt
 
 Once in bleed status, you’ll continue to lose HP over time until you eventually pass out. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health. The patch itself does not stop bleeding however. Should your HP, after applying the patch, still be below 75%, you’ll continue to bleed and have merely bought yourself some time, you thus have to apply more field dressings if available, scavenge hostile bodies if necessary.
 
-The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. They and the Collaborator are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose (“Q”)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. The Medic and the Collaborator roles are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose \(“Q”\)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be in touching distance to the injured player and then hold down the left mouse button while looking towards them. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
 Field dressing, first aid kit & epipen.
@@ -93,7 +106,11 @@ Field dressing, first aid kit & epipen.
 
 ### Reviving
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team. In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck on uneven ground or in a bad position for reviving, it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot to start dragging. You can drag in all directions including backwards. 
+If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(**H**\) or **squad’s Radio Net \(0 numpad\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team.
+
+In order to revive you, the medic will select the **epipen** from their weapon selection \(default: **5**\) and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious player's torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there.
+
+If the player is stuck on uneven ground or in a bad position for reviving, it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot\(default: **2**\) to start dragging. You can drag in all directions including backwards. 
 
 {{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
 
@@ -116,23 +133,23 @@ A temporary spawn time penalty which only affects the next time you die \(buildi
 * Suicide: **15 seconds**
 * Civilian getting captured: **90 seconds**
 * Civilian killed violating ROE: **120 seconds per civilian**
-* Own weapons cache destroyed: **300 seconds**
+* Friendly weapons cache destroyed: **300 seconds**
 
-To select a spawn point, bring up the spawn map and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
+To select a spawn point, bring up the spawn map\(default: **Enter**\) and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
 
 ## _Logistics_ {#logistics}
 
-Whether your running low on ammunition and need to rearm, want a new kit or simply want to build deployables, logistics keep your team alive.
+Whether you're running low on ammunition and need to rearm, want a new kit or simply want to build deployables: logistics keep your team alive.
 
-### _Ammunition_ {#ammunition}
+### Ammunition {#ammunition}
 
 To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
 
 * **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables \(tow, aa, mortars\) to rearm them. 
-* **Ammo boxes** - Dropped by light transported vehicles, APCs and IFVs.
-* **Light/Heavy supply crates** - More information in the [next section](the_basics.md#crates)
-* **Weapons caches** - Available only for insurgents
-* **Vehicle depot** - Present in all main bases, it also heals you
+* **Ammo boxes** - Dropped by light transport vehicles, APCs and IFVs.
+* **Light/Heavy supply crates** - Dropped primarily by transport or supply trucks \(also known as Logis\) and transport helicopters. For more information see [Supply Crates](the_basics.md#crates).
+* **Weapons caches** - Available only for insurgents.
+* **Vehicle depot** - Present in all main bases, it also heals you.
 
 {% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
 Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
@@ -142,7 +159,8 @@ Be aware that with the exception of **Weapons caches** and **Vehicle depot** all
 **Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
 The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
 
-**Firearms**
+<div style="text-align: center";>
+<p><b>Firearms</b></div>
 
 | **Type** | **Supply points cost** |
 | --- | --- |
@@ -157,7 +175,8 @@ The various weapons available in PR require different ammounts of supply points 
 | **LMG** | 150 |
 | **GPMG** | 200 |
 
-**Grenade Launcher/Rifle Grenades**
+<div style="text-align: center";>
+<p><b>Grenade Launcher/Rifle Grenades</b></div>
 
 | **Type** | **Supply points cost** |
 | --- | --- |
@@ -168,7 +187,8 @@ The various weapons available in PR require different ammounts of supply points 
 | **Fragmentation high capacity** | 120 |
 | **Smoke** | 60 |
 
-**Items & Utilities**
+<div style="text-align: center";>
+<p><b>Items & Utilities</b></div>
 
 | **Type** | **Supply points cost** |
 | --- | --- |
@@ -183,7 +203,8 @@ The various weapons available in PR require different ammounts of supply points 
 | **Field dressing x6** | 120 |
 | **Field dressing x12** | 180 |
 
-**Heavy ordnance & munitions**
+<div style="text-align: center";>
+<p><b>Heavy ordnance & munitions</b></div>
 
 | **Type** | **Supply points cost** |
 | --- | --- |
@@ -214,31 +235,28 @@ The various weapons available in PR require different ammounts of supply points 
 
 Note that on a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
 
-Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
+Requesting a kit costs 250 supply points. Be aware that re-arming an ammo bag at, for example, an ammo box or light/heavy supply crate will cost 200 points.
 The amount of supply points for the supply sources are:
 
-* **Ammo bags** : 200 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
-* **Ammo boxes** : 450
-* **Light supply crates** : 1500
-* **Heavy supply crates** : 3000
+* **Ammo bags :** 205 \(will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example\).
+* **Ammo boxes :** 500.
+* **Light supply crates :** 1500.
+* **Heavy supply crates :** 3000.
 
 {% note %}
-Resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the amount of ammo you need to resupply. 
-
-Additionally if you're not rearming, confirm that the Light/Heavy supply crates is indeed yours, rearming from **enemy supply crates** is not possible.
+Resupplying is not instant but takes a few seconds, depending on the ammo source, as well as the amount of ammo you need to resupply. Additionally if you're not rearming, confirm that the Light/Heavy supply crate is indeed yours, rearming from enemy supply crates is not possible.
 {% endnote %}
 
+### Supply Crates{#crates}
 
-
-### _Supply Crates_ {#crates}
-
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.](the_squad_leader.md#deployable-structures)
+There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate, meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the 
+[Deployable Structures chapter.](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
 Here you can see the heavy supply crate on the left and the light version on the right.
 {% endfigure %}
 
-Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 200 points, with light crates having 1500 \(7x kits\) and heavy ones 3000 \(14x kits\).
+Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 250 points, with light crates having 1500 \(6x kits\) and heavy ones 3000 \(12x kits\).
 
 {% note %}
 Requesting kits from a crate that does not have enough points will still grant you the kit but the crate will be destroyed in the process.
@@ -253,7 +271,7 @@ While, Heavy Supply Crate can be transported by:
 
 * Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90 \(One Crate\)
 * Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22 \(Two Crates\)
-* Logistic trucks: \(Two Crates\)
+* Logistic trucks \(Two Crates\)
 
 The ownership of the crate is depicted by the flag display on top of the crate.
 
@@ -283,11 +301,25 @@ A fixed mortar position that can provide indirect fire support over long distanc
 * **High Explosive \(HE\)** \(press **1** to select\): Most common type of mortar round. Does the most damage directly to the target. Ideal for light armored targets and emplacements.
 * **Airburst** \(press **2** to select\): Explodes in the air above the ground. Covers a larger area but does less damage overall. Ideal for engaging infantry inside buildings and on uneven terrain.
 
-Once mortars are needed you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure you SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. There are both Air-Burst and Impact rounds available that share ammunition.
+Once mortars are constructed they need to be armed with ammo bags, provided by the rifleman or similar class. Then you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure your SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. The Airburst and Impact rounds share the same ammunition pool.
 
 {% figure "../assets/mortars.png" %}
 The mortar calculator interface.
 {% endfigure %}
+
+## _Destroying Bridges_ {#destroying-bridges}
+
+Just like BF2, in PR you can destroy bridges. This is done with high capacity C4 or similar calibre explosives, carried by engineers or sapppers. 
+
+When bridges get damaged particles and sound of falling sand can be observed when close by. Damaged further, segments of the bridge will collapse and neither infantry nor vehicles will be able to cross it. 
+
+Unlike BF2, in PR once a bridge is destroyed, it can't be repaired. Therefore you should only destroy bridges that will change enemy team's routes in your favour - whether this is for delaying future movement or funneling enemy troops into a different part of the map.
+
+{% figure "../assets/bridge_built_and_destroyed_small.png" %}
+A bridge before and after being destroyed.
+{% endfigure %}
+
+On some destroyed bridges you can deploy a CSB, which will help you cross it \(covered in the [next chapteer](the_basics.md#close-support-bridges)\).
 
 ## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
 
@@ -309,7 +341,16 @@ The deployment process for CSBs is very simple:
 CSB from truck being deployed.
 {% endfigure %}
 
-In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
+In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat until its finish.
+
+You may encounter different scenarios when it comes to bridges and CSB deployment, shown in the next image:
+1. This large concrete bridge is destroayble and a CSB can be deployed on it \(marked by a single bridge icon\).
+2. This small rock bridge is destroyable but CSBs can't be deployed on it \(no bridge marking\).
+3. And lastly at this location a double CSB can be deployed \(double bridge marking\).
+
+{% figure "../assets/bridges2.png" %}
+Different types of bridges (icons are not to scale).
+{% endfigure %}
 
 ## _Battlefield Navigation_ {#battlefield-navigation}
 
@@ -325,7 +366,7 @@ Targe, build, observe, defend, demolish and move marker, respectively.
    * If the target is visually in line with a numbered bearing on your compass when you are facing that direction, you simply communicate that number.
    * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png) 
    * Underneath the compass notches is a triangle which indicates your current bearing. If you are in a Squad, your Squad Leader’s last/currently issued order shows as a chevron as well. If you line up the chevron with the triangle, you’re looking at the location of the order mark.
-2. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
+2. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\, which would be pronounced as Delta 6, keypad 2). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
 3. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
 
 
@@ -334,7 +375,7 @@ Targe, build, observe, defend, demolish and move marker, respectively.
 
 ## _Basic Vehicle Information_ {#basic-vehicle-information}
 
-Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on operating vehicles see further in this manual in the Operating Vehicles section.
+Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on how to use vehicles see the [Operating Vehicles chapter](operating_vehicles.md#general-vehicle-information).
 
 There are many vehicle types in PR:BF2 used as classification. This isn’t always directly in line with their Real Life counterpart due to gameplay reasons. The following list shows you the main classes of vehicles in PR:BF2:
 
@@ -346,11 +387,11 @@ There are many vehicle types in PR:BF2 used as classification. This isn’t alwa
 
 ![](../assets/civiliancars.png)
 
-* **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges \(more on this later\).
+* **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges.
 
 ![](../assets/truck.png)
 
-* **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicles types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
+* **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicle types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
 
 ![](../assets/apc.png)
 
@@ -370,15 +411,15 @@ There are many vehicle types in PR:BF2 used as classification. This isn’t alwa
 
 ![](../assets/aavehicles.png)
 
-* **Boat:** PR:BF2 has a variety of boats both armed and un-armed.
+* **Boat:** PR:BF2 has a variety of boats, both armed and un-armed.
 
 ![](../assets/boats.png)
 
-* **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use.They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on Supply Crates to read on which variant has which crates available to it.
+* **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use. They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on [Supply Crates](the_basics.md#crates) to read on which variant has which crates available to it.
 
 ![](../assets/transheli.png)
 
-* **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Recon helicopters with the ability to laze targets and use their thermal cameras also fall under this category in PR:BF2. They are not always armed.
+* **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Under this category also fall recon helicopters with the ability to laze targets and use their thermal cameras. They are not always armed.
 
 ![](../assets/attackhelis.png)
 
@@ -386,10 +427,7 @@ There are many vehicle types in PR:BF2 used as classification. This isn’t alwa
 
 ![](../assets/jets.png)
 
-All friendly vehicles are marked on the map with unique icons for easy identification.
-
-![](../assets/vehicleicons.png)
-
+* All friendly vehicles are marked on the map with unique icons for easy identification \(See [Vehicle Icons](vehicle_icons.md)\).
 * If a team vehicle asset is destroyed it incurs a ticket penalty:
   * Jeep or truck: **2 tickets**
   * Transport helicopter: **5 tickets**
@@ -411,11 +449,11 @@ Vehicle entry points can differ per vehicle. Look for hatches.
   * Anti-Air Missile: **5 seconds**
   * AT-emplacement: **10 seconds**
   * Armor main cannon: **30 seconds**
-* Most Stationary AT-Weapons have optics with fixed zoom capability. Some of them even offer thermal optics.
+* Most Stationary AT-Weapons have optics with fixed zoom capability \(default: **X**\). Some of them even offer thermal optics \(default: hold **T**\).
 * Exiting vehicles in mid-air and falling into water from high altitudes will injure you and may result in your death.
-* Players can **request kits** from a APC’s/IFV’s entry position.
+* Players can **request kits** from an APC’s/IFV’s entry position.
 * Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
-* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
+* On public servers \(not in local gamemodes\) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
 * When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
 
 {% figure "../assets/seaticons.png" %}

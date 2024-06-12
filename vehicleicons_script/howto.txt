@@ -1,0 +1,15 @@
+How it works:
+Right click "Manual-feature_vehicleicons" folder and Open GitBash or Run
+Type: npm run rebuildvehicleicons
+
+That will simply print all the formatted code into your console/terminal window.
+Currently, we have explicitly decided to NOT write it to the vehicle_icons.html directly,
+in case there will be more changes there.
+
+So just copy the output from your terminal and paste it into the vehicle_icons.html, done.
+
+As you can see, there's a couple of UNDEFINEDs that we havent't fixed.
+You'll find a var classnames in the scripts/reubuildvehicleicons.js that serves as dictionary: 
+Simply add entries for missing types and 'proper' names, then run the script again until all the UNDEFINED entries are gone.
+
+Script made by Senshi

@@ -147,10 +147,10 @@ Image's caption
 A blockquote is started using the `>` marker followed by an optional space; all following lines that are also started with the blockquote marker belong to the blockquote. You can use any block-level elements inside a blockquote:
 
 ```markdown
-As Kanye West said:
+As Marcus Aurelius said:
 
-> We're living the future so
-> the present is our past.
+> Everything we hear is an opinion, not a fact.
+> Everything we see is a perspective, not the truth.
 ```
 
 ### Notes

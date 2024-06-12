@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Languages](langs.md)
-* [English - v1.7](en/README.md)
+* [English - v1.8](en/README.md)
     * [Set-Up](en/set-up.md)
     * [Game Modes](en/game_modes.md)
     * [The Basics](en/the_basics.md)
@@ -12,6 +12,7 @@
     * [Operating Vehicles](en/operating_vehicles.md)
     * [The Commander](en/commander.md)
     * [The Civilian](en/the_civilian.md)
+    * [Vehicle Icons](en/vehicle_icons.md)
 * [Indonesia - v1.6.3](id/README.md)
     * [Persiapan Bermain](id/set-up.md)
     * [Mode Permainan](id/game_modes.md)
@@ -62,3 +63,4 @@
     * [Operare i Veicoli](it/operating_vehicles.md)
     * [Il Comandante](it/commander.md)
     * [Il Civile](it/the_civilian.md)
+

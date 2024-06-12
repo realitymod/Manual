@@ -12,8 +12,10 @@
 * [Kits](kits.md)
 * [The Squad Leader](the_squad_leader.md)
 * [Operating Vehicles](operating_vehicles.md)
+* [Vehicle Icons](vehicle_icons.md)
 * [The Commander](commander.md)
 * [The Civilian](the_civilian.md)
+* [Tracker and Battle Recorder](replays.md)
 
 ### Help
 * [Expand manual](help_manual.md)
