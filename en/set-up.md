@@ -5,7 +5,7 @@
 * **Operating System:** Windows 10 or newer.
 * **CPU:** Intel 4th gen or AMD Ryzen zen1 @3GHz required, Intel 9th gen or AMD Ryzen zen2 @4GHz recommended.
 * **Memory:** 6 GB RAM required, 8 GB RAM recommended.
-* **Storage:** 14 GB free Hard Drive Space \(SSD recommended\).
+* **Storage:** 16 GB free Hard Drive Space \(SSD recommended\).
 * **GPU:** AMD Radeon HD 6000 series, Intel Iris Pro 6200, Nvidia GTX 550Ti or similar required*.
 Recommended Vega 6, Intel Xe G4, AMD Radeon RX 550, Nvidia GT 1030 or similar. For a dedicated GPU, 1GB VRAM required.
 * **Sound:** DirectX 9 compatible sound device. Dedicated sound card with EAX support recommended for best experience.
@@ -23,7 +23,7 @@ You have to download the full PR:BF2 installer from our website. There won’t b
 
 **1\) Download**
 
-We recommend you to downloaded the Torrent version, but this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full installation client. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
+We recommend you to downloaded the Torrent version, but this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full installation client. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files \(aproximately 12GB\), move on to step 2 after the application finishes the download.
 
 **2\) Installation**
 
