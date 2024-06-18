@@ -23,7 +23,7 @@ You have to download the full PR:BF2 installer from our website. There won’t b
 
 **1\) Download**
 
-We recommend you to downloaded the Torrent version, but this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full installation client. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files, move on to step 2 after the application finishes the download.
+We recommend you to downloaded the Torrent version, but this is **NOT** the full install. You use the small .torrent file with a BitTorrent client to actually download the full installation client. We recommend [qBittorrent](http://www.qbittorrent.org/download.php). Once the torrent is downloaded through your selected Torrent software, you will be presented with a folder with all installation files \(aproximately 13GB\), move on to step 2 after the application finishes the download.
 
 **2\) Installation**
 
