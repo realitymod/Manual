@@ -120,13 +120,13 @@ In game, Mumble is the program which we use to communicate to each other in PR:B
 
 After joining a squad you gain access to that squad’s Radio Net, which allows you to transmit to other players in your squad no matter where you are on the map. Squad leaders also have access to an additional Radio Net that allows them to communicate directly to the commander, globally to all other squad leaders, and directly to an individual squad leader. When using a radio net, a transmission cue will be heard when activating and deactivating the radio \(these short cues can be activated or disabled in the launcher audio options\). The default keys for transmitting over mumble are as follows:
 
-* **Local speech \(B or H\):** you talk to players in the 3D radius space around you.
-* **Squad Radio \(V or Num 0\):** you talk to your squad, no matter where you are.
+* **Local speech \(V or H\):** you talk to players in the 3D radius space around you.
+* **Squad Radio \(B or Num 0\):** you talk to your squad, no matter where you are.
 * **Squad Leader to all other squad leaders radio \(\*\):** you talk to all squad leaders at the same time. This radio net is also available to the commander to use with the same shortcut.
 * **Squad Leader to specific squad leader radio \(Num 1-Num 9\):** you talk to one specific squad leader in your team. These channels on the net are also available to the commander to use with the same shortcut.
 * **Squad leader to Commander Radio \(numpad /\):** you talk to the commander in private.
 
-PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel \(H\) and squad radio net \(0 on the numpad\). 
+PR Mumble comes installed together with PR:BF2. It runs alongside the game installation and does all client side tasks automatically for you such as starting and connecting you to the right mumble-server. Players have the choice to configure their communication settings to their satisfaction just like the previous version. This includes input and output devices, volumes and the keyboard shortcuts. The two most important keys are default: Local channel \(V\) and squad radio net \(B\). 
 
 These shortcuts can be edited in the PR Launcher via the options menu, then PR Mumble tab. It’s recommended that you also check the main settings panel directly within the mumble application to make sure it’s all correctly set-up. To do this click the *Launch* button to open the mumble interface. Then locate *Configure* at the top, after that Settings and a panel will appear where you can configure your input and output audio devices and alter more keyboard shortcuts and other settings.
 
