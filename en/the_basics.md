@@ -106,7 +106,7 @@ Field dressing, first aid kit & epipen.
 
 ### Reviving
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(**V**\) or **squad’s Radio Net \(B\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team.
+If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(**H**\) or **squad’s Radio Net \(Numpad 0\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team.
 
 In order to revive you, the medic will select the **epipen** from their weapon selection \(default: **5**\) and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious player's torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there.
 
