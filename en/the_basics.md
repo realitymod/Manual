@@ -345,8 +345,10 @@ In some cases multiple CSBs are required to span the complete distance. In such 
 
 You may encounter different scenarios when it comes to bridges and CSB deployment, shown in the next image:
 1. This large concrete bridge is destroayble and a CSB can be deployed on it \(marked by a single bridge icon\).
-2. This small rock bridge is destroyable but CSBs can't be deployed on it \(no bridge marking\).
+2. This small rock bridge isn't destroyable and CSBs can't be deployed on it \(no bridge marking\).
 3. And lastly at this location a double CSB can be deployed \(double bridge marking\).
+
+*Only bridges that have CSBs marks can be destroyed
 
 {% figure "../assets/bridges2.png" %}
 Different types of bridges (icons are not to scale).
