@@ -17,12 +17,12 @@ Se sparate a un civile al di fuori delle ROE, affronterete diverse penalità:
 * Dopo la vostra prossima morte, tornerete in vita 120 secondi per ogni civile colpito \(si accumula fino a 5 minuti di ritardo aggiuntivo\)
 * Non potrete richiedere kit per 10 minuti
 * Il vostro punteggio viene ridotto a 0 e l'uccisione non verrà elencata nel punteggio
-* La vostra fazione perde 10 punti di intelligence
+* La vostra fazione perde 5 punti di intelligence
 
 D'altra parte, sparare a un civile all'interno delle ROE causerà:
 
 * Il civile avrà ulteriori 120 secondi di tempo di respawn
-* La vostra fazione guadagna 10 punti di intelligence
+* La vostra fazione guadagna 5 punti di intelligence
 
 Investire i civili con un veicolo o ucciderli mentre usano un rampino comporterà comunque una penalità se fatto al di fuori delle ROE.
 
