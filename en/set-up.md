@@ -53,8 +53,7 @@ Web browsers prompts.
 {% endfigure %}
 
 Your PR Account will be assigned a PR Account Level. This level determines how much your account is deemed legitimate and not a throwaway account. Server admins have the option to choose which minimum level is required to play on their server. In order to determine your PR Account Level, your Steam account will need to be made partially public. You can do this in [the Privacy Settings of Steam](https://steamcommunity.com/my/edit/settings). 
-Please make sure the _game details_ settings are set to be public. 
-
+Please make sure the _game details_ settings are set to be public.
 {% figure "../assets/creating_profile_3.png" %}
 Steam profile's configurations.
 {% endfigure %}
