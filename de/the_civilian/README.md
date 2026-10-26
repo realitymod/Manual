@@ -18,7 +18,7 @@ Wenn Sie einen Zivilisten außerhalb der ROE erschießen, werden Sie mit mehrere
 
 Auf der anderen Seite wird das Schießen eines Zivilisten innerhalb der ROE verursachen:
 * Der Zivilist muss zusätzliche 120 Sekunden in der Respawn-Zeit haben
-* Dein Team erhält 10 Erkenntnispunkte
+* Dein Team erhält 5 Erkenntnispunkte
 
 Das Überfahren von Zivilisten in einem Fahrzeug oder das Töten derselben während des Aufstiegs von Leitern oder Seilen führt ebenfalls zu einer Strafe, wenn dies außerhalb der ROE geschieht.
 
