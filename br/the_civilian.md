@@ -17,12 +17,12 @@ Se você atirar em um civil fora do ROE\(regras de engajamento\), você enfrenta
 * Após sua próxima morte você irá reaparecer 120 segundos depois por atirar em civil \(acumula até 5 minutos de atraso adicional\)
 * Você não poderá solicitar kits por 10 minutos
 * Sua pontuação é reduzida a 0 e a morte não será listada no placar
-* Sua equipe perde 10 pontos de inteligência
+* Sua equipe perde 5 pontos de inteligência
 
 Por outro lado, atirar em um civil dentro do ROE causará:
 
 * O civil irá ter um adicional de 120 segundos no tempo de respawn
-* Sua equipe ganha 10 pontos de inteligência
+* Sua equipe ganha 5 pontos de inteligência
 
 Atropelar civis em um veículo ou matá-los enquanto subindo escadas ou cordas também resultará em uma penalidade se feito fora do ROE.
 
