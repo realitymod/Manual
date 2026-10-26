@@ -17,12 +17,12 @@ Bila pemain menembak orang sipil (_Civilian_) di luar ROE, pemain akan dihadapka
 * Setelah mati, Anda nanti akan respawn dengan delay tambahan 120 detik tiap orang sipil (_civilian_) yang tertembak (hingga mencapai 5 menit delay tambahan)
 * Tidak dapat meminta kit apapun selama 10 menit
 * Skor dikurangi hingga 0 serta kill tidak dimasukkan ke dalam papan skor
-* Tim Anda kehilangan 10 poin intelijen
+* Tim Anda kehilangan 5 poin intelijen
 
 Sebaliknya, bila menembak orang sipil (_civilian_) sesuai ROE akan membuat:
 
 * Orang sipil (_Civilian_) mempunyai 120 detik tambahan dalam waktu respawn
-* Tim Anda mendapatkan 10 poin intelijen
+* Tim Anda mendapatkan 5 poin intelijen
 
 Melindas orang sipil (_civilian_) dengan kendaraan atau menaiki tali panjat juga berakibat penalti jika dilakukan di luar ketentuan ROE.
 
