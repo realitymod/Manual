@@ -17,12 +17,12 @@ Si disparas a un civil fuera de las ROE, te enfrentarás a varias sanciones:
 * Después de tu próxima muerte, reaparecerás 120 segundos más tarde por disparo civil \(se acumula hasta 5 minutos de retraso adicional\)
 * No podrás solicitar ningún kit durante 10 minutos
 * Tu puntuación se reduce a 0 y la muerte no aparecerá en el marcador
-* Tu equipo pierde 10 puntos de inteligencia
+* Tu equipo pierde 5 puntos de inteligencia
 
 Por otro lado, dispararle a un civil dentro de las ROE causará:
 
 * The civilian to have an additional 120 seconds in the respawn time
-* Your team gains 10 intelligence points
+* Your team gains 5 intelligence points
 
 Atropellar civiles con un vehículo o matarlos mientras trepan por una escalera o soga también resultará en una penalización si se realiza fuera de las ROE. 
 
