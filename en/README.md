@@ -1,31 +1,35 @@
-> Project Reality: BF2 has been in development by countless developers over a period of more than 19 years. Extensive modifications and improvements were made during this time.
-> After thousands of changes, it gets harder and harder to recognize that PR is a Battlefield 2 modification.
+> مشروع Project Reality: BF2 تم تطويره على يد عدد كبير من المطورين على مدار أكثر من 19 سنة. وخلال هذه الفترة تم إجراء تعديلات وتحسينات واسعة
+> بعد آلاف التغييرات، أصبح من الصعب أكثر فأكثر التعرّف على أن PR هي مجرد تعديل (Mod) للعبة Battlefield 2
 > 
-> We hope this manual provides you with a good start into the challenging but also rewarding world of PR:BF2.
-> If you have any feedback or unanswered questions concerning this document feel free to contact us on the forums.
+> نأمل أن يقدّم لك هذا الدليل بداية جيدة لعالم Project Reality: BF2 الذي يجمع بين التحدي والمكافأة في الوقت نفسه.
+> إذا كانت لديك أي ملاحظات أو أسئلة غير مُجابة بخصوص هذا المستند، لا تتردد في التواصل معنا عبر المنتديات.
 >
-> _The PR-Team_
+> فريق بروجيكت ريالتي
 
-## Introduction
+## مقدمة
 
-This introduction will give a brief overview into what you can expect when you begin playing the Project Reality modification for Battlefield 2. This modification has a level of complexity and teamwork that you won’t find in most modern first person shooter games, while it still finds the balance between simulation and gameplay. Due to the steep learning curve, we highly recommend that all new players read through this manual thoroughly prior to joining an online game.
+ستعطيك هذه المقدمة لمحة سريعة عمّا يمكنك توقعه عند بدء لعب تعديل Project Reality للعبة Battlefield 2. يتميز هذا التعديل بمستوى عالٍ من التعقيد والتركيز على العمل الجماعي لا تجده في معظم ألعاب التصويب الحديثة من منظور الشخص الأول، مع الحفاظ في الوقت نفسه على توازن بين المحاكاة وأسلوب اللعب. ونظرًا لصعوبة التعلّم في البداية، نوصي بشدة جميع اللاعبين الجدد بقراءة هذا الدليل بعناية قبل الدخول إلى أي مباراة عبر الإنترنت.
 
-The primary core ethos of Project Reality is teamwork. Coordination within your squad, between squads and throughout your team is paramount. The role of squad leader and the commander is essential to success in PR and the direction of the game is dictated by those in leadership positions and carried out by the players. PR:BF2 contains a multitude of gameplay mechanics which differentiate roles within a squad and the team. It also gives squad leaders and team commanders the ability to deploy emplacement assets such as foxholes, machine gun nests and mortar pits to fortify the defence of spawn locations known as FOBs. In addition, the role of players within a squad has been greatly diversified, and is reflected in an expanded selection of standard and limited specialty kits for various infantry load outs alongside unique kits for operating mechanized and aviation vehicles.
+لفكرة الأساسية والمحورية في Project Reality هي العمل الجماعي. التنسيق داخل الفرقة، وبين الفرق، وضمن الفريق ككل هو عنصر بالغ الأهمية. دور قائد الفرقة وقائد الفريق (Commander) ضروري لتحقيق النجاح في PR، واتجاه سير اللعب يحدده أصحاب المناصب القيادية ويقوم اللاعبون بتنفيذه. يحتوي PR:BF2 على العديد من أنظمة اللعب التي تميّز بين الأدوار داخل الفرقة والفريق. كما يمنح قادة الفرق وقادة الفريق القدرة على إنشاء تجهيزات دفاعية مثل الخنادق (Foxholes)، ورشاشات ثابتة، ومواقع هاون لتعزيز الدفاع عن نقاط إعادة الظهور المعروفة باسم FOBs. بالإضافة إلى ذلك، تم تنويع أدوار اللاعبين داخل الفرقة بشكل كبير، وهو ما يظهر في مجموعة موسعة من الكِتّات الأساسية والمتخصصة المحدودة لمختلف تجهيزات المشاة، إلى جانب كِتّات خاصة الاستخدام المركبات الميكانيكية والطائرات.
 
-Another core fundamental aspect of PR is how players communicate. Communication in PR is an essential element of gameplay and we recommend that all players are microphone ready when they begin playing online. To ensure enhanced communication, an integrated version of PR Mumble voice communication software gives players abilities not available with built in BF2 voice-over-IP, such as the ability to talk to other players within the local vicinity, regardless of which squad they are in, as well as transmit to squad members over the squad radio no matter where they are on the battlefield. No additional installation is required, which means every player on the battlefield will have the same communications setup and can communicate effortlessly.
+من الجوانب الأساسية الأخرى في Project Reality هي أسلوب التواصل بين اللاعبين. التواصل عنصر أساسي في أسلوب اللعب، وننصح بأن يكون جميع اللاعبين مجهزين بمايكروفون عند بدء اللعب عبر الإنترنت. ولتحسين التواصل، تم دمج نسخة من برنامج الصوت Mumble داخل اللعبة، والذي يتيح ميزات غير متوفرة في نظام الصوت الافتراضي في Battlefield 2، مثل القدرة على التحدث مع اللاعبين القريبين منك في الموقع الجغرافي بغض النظر عن الفريق أو الفرقة، وكذلك التواصل مع أعضاء فرقتك عبر الراديو أينما كانوا في ساحة المعركة. لا يتطلب ذلك أي تثبيت إضافي، مما يعني أن جميع اللاعبين لديهم نفس نظام التواصل ويمكنهم التحدث بسهولة وفعالية.
 
-This mod was made by players, for players so don't be afraid to ask for help in-game, on [Discord](https://discord.me/projectreality "PR:BF2 Official Discord") or on the forums at [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Again, welcome to PR and a totally new gaming experience!
+تم صنع هذا التعديل بواسطة اللاعبين ولصالح اللاعبين، لذلك لا تتردد في طلب المساعدة داخل اللعبة أو عبر
+Discord: (https://discord.me/projectreality "PR:BF2 Official Discord")
+أو عبر المنتديات على
+Project Reality Forums: (https://www.realitymod.com/forum/forumdisplay.php?f=27)
 
-## Changelog
-The changelog for this manual is as follows:
+مرحبًا بك في PR تجربة لعب جديدة كليًا!
 
-### 2023-09-18
-- Updated Kit drop procedure
+## سجل التغييرات (Changelog)
+سجل التغييرات في هذا الدليل كالتالي:
 
-### 2023-06-24
-- Small updates and fixes to content and styling
-- Fixed Honkit related issues
+### ١٨ سبتمبر ٢٠٢٣
+- تحديث إجراءات إسقاط الكِتّات (Kit drop procedure)
+### ٢٤ يونيو ٢٠٢٣
+- تحديثات وإصلاحات بسيطة في المحتوى والتنسيق
+- إصلاح مشكلات متعلقة بـ Honkit
 
-### 2022-01-22
-- Added contributing page
-- Updated content for new theme
+### ٢٢ يناير ٢٠٢٢
+- إضافة صفحة المساهمة (Contributing page)
+- حديث المحتوى ليتوافق مع التصميم الجديد

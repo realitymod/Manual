@@ -219,3 +219,30 @@ html{
     color: #39c;
     font-style: italic;
 }
+
+html[lang="ar"] .book-body-content,
+html[lang="ar"] .book-body-content p,
+html[lang="ar"] .book-body-content li,
+html[lang="ar"] .book-body-content ul,
+html[lang="ar"] .book-body-content ol {
+    font-size: 16px !important;
+    line-height: 1.8 !important;
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif !important;
+}
+
+html[lang="ar"] .book-body-content table td,
+html[lang="ar"] .book-body-content table th {
+    font-size: 17px !important;
+}
+
+html[lang="ar"] .reality-book-summary a,
+html[lang="ar"] .reality-book-summary li.header {
+    font-size: 15px !important;
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif !important;
+}
+
+html[lang="ar"] .companion-group,
+html[lang="ar"] .companion-group .btn {
+    font-size: 15px !important;
+    font-family: 'Segoe UI', Tahoma, Arial, sans-serif !important;
+}

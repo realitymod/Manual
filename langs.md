@@ -1,5 +1,5 @@
 # LANGS
-
+* [Arabic  - v1.8](ar/)
 * [English - v1.8](en/)
 * [Indonesia - v1.7](id/)
 * [German - v1.5](de/)
